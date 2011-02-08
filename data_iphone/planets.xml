@@ -2717,24 +2717,24 @@
 		<name>2MASS J10583513-3108382 b</name>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.0208</mass>
+			<mass>0.022</mass>
 			<radius />
 			<orbit>
-				<period>2.645</period>
-				<semimajoraxis>0.047</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<inclination />
+				<period>2.64561</period>
+				<semimajoraxis>0.0287</semimajoraxis>
+				<eccentricity>0.08</eccentricity>
+				<inclination>59</inclination>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M2.5</spectraltype>
-			<mass />
-			<radius />
+			<mass>0.45</mass>
+			<radius>0.43</radius>
 			<metallicity />
 			<rightascension>10 58 35</rightascension>
 			<declination>-31 08 39</declination>
-			<angulardistance>0.002611</angulardistance>
-			<distance>18</distance>
+			<angulardistance>0.001449</angulardistance>
+			<distance>19.8</distance>
 			<magV>11.95</magV>
 			<magI />
 			<magH />
@@ -20188,6 +20188,40 @@
 		<lastupdate>10/12/13</lastupdate>
 	</planet>
 	<planet>
+		<id_exoplaneteu>WASP-35 b</id_exoplaneteu>
+		<name>WASP-35 b</name>
+		<id>WASP-35 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.3</mass>
+			<radius>1.5</radius>
+			<orbit>
+				<period>1.5</period>
+				<semimajoraxis />
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass />
+			<radius />
+			<metallicity />
+			<rightascension />
+			<declination />
+			<angulardistance />
+			<distance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/02/07</lastupdate>
+	</planet>
+	<planet>
 		<id_exoplaneteu>WASP-36 b</id_exoplaneteu>
 		<name>WASP-36 b</name>
 		<id>WASP-36 b</id>
@@ -20293,6 +20327,40 @@
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
 		<lastupdate>10/11/29</lastupdate>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-39 b</id_exoplaneteu>
+		<name>WASP-39 b</name>
+		<id>WASP-39 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.28</mass>
+			<radius>1.27</radius>
+			<orbit>
+				<period>4.0055259</period>
+				<semimajoraxis>0.0486</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>87.83</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8</spectraltype>
+			<mass>0.93</mass>
+			<radius>0.895</radius>
+			<metallicity>-0.12</metallicity>
+			<rightascension>14 29 18</rightascension>
+			<declination>-03 26 40</declination>
+			<angulardistance>0.000211</angulardistance>
+			<distance>230</distance>
+			<magV>12.11</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/02/08</lastupdate>
 	</planet>
 	<planet>
 		<id_exoplaneteu>WASP-4 b</id_exoplaneteu>
