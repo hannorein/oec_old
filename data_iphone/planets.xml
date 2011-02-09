@@ -2743,7 +2743,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/02/08</lastupdate>
+		<lastupdate>11/02/07</lastupdate>
 	</planet>
 	<planet>
 		<id_exoplaneteu>GJ 433 b</id_exoplaneteu>
@@ -6795,7 +6795,7 @@
 			<mass>0.79</mass>
 			<radius>0.83</radius>
 			<metallicity>-0.02</metallicity>
-			<rightascension>14 47 32</rightascension>
+			<rightascension>14 47 33</rightascension>
 			<declination>-00 16 53</declination>
 			<angulardistance>0.002933</angulardistance>
 			<distance>30</distance>
@@ -9992,8 +9992,8 @@
 			<mass>0.81</mass>
 			<radius>0.75</radius>
 			<metallicity>-0.2</metallicity>
-			<rightascension>20 13 59</rightascension>
-			<declination>-00 52 00</declination>
+			<rightascension>20 14 00</rightascension>
+			<declination>-00 52 01</declination>
 			<angulardistance>0.007538</angulardistance>
 			<distance>19.9</distance>
 			<magV>7.79</magV>
@@ -20186,6 +20186,40 @@
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
 		<lastupdate>10/12/13</lastupdate>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-35 b</id_exoplaneteu>
+		<name>WASP-35 b</name>
+		<id>WASP-35 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.3</mass>
+			<radius>1.5</radius>
+			<orbit>
+				<period>1.5</period>
+				<semimajoraxis />
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass />
+			<radius />
+			<metallicity />
+			<rightascension />
+			<declination />
+			<angulardistance />
+			<distance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/02/07</lastupdate>
 	</planet>
 	<planet>
 		<id_exoplaneteu>WASP-36 b</id_exoplaneteu>
