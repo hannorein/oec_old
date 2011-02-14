@@ -4024,12 +4024,12 @@
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>8.74</mass>
-			<radius>1.19</radius>
+			<radius>0.951</radius>
 			<orbit>
 				<period>5.6334729</period>
 				<semimajoraxis>0.0674</semimajoraxis>
 				<eccentricity>0.5171</eccentricity>
-				<inclination>86.72</inclination>
+				<inclination>90</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -4049,7 +4049,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2007</discoveryyear>
-		<lastupdate>11/02/09</lastupdate>
+		<lastupdate>11/02/14</lastupdate>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HAT-P-20 b</id_exoplaneteu>
@@ -7640,7 +7640,7 @@
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.356</mass>
-			<radius>0.61</radius>
+			<radius>0.718</radius>
 			<orbit>
 				<period>2.8758887</period>
 				<semimajoraxis>0.04288</semimajoraxis>
@@ -7665,7 +7665,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2005</discoveryyear>
-		<lastupdate>11/02/09</lastupdate>
+		<lastupdate>11/02/14</lastupdate>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 149143 b</id_exoplaneteu>
@@ -9731,13 +9731,13 @@
 		<name>TYC 2141-00972-1 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>1.15</mass>
-			<radius>1.151</radius>
+			<mass>1.138</mass>
+			<radius>1.178</radius>
 			<orbit>
-				<period>2.2185733</period>
+				<period>2.21857312</period>
 				<semimajoraxis>0.03142</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<inclination>85.76</inclination>
+				<eccentricity>0.0041</eccentricity>
+				<inclination>85.51</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -9757,7 +9757,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2005</discoveryyear>
-		<lastupdate>10/12/13</lastupdate>
+		<lastupdate>11/02/14</lastupdate>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 190360 b</id_exoplaneteu>
@@ -14970,7 +14970,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2003</discoveryyear>
-		<lastupdate>10/02/09</lastupdate>
+		<lastupdate>11/02/14</lastupdate>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 81040 b</id_exoplaneteu>
@@ -19363,12 +19363,12 @@
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.41</mass>
-			<radius>1.79</radius>
+			<radius>1.9</radius>
 			<orbit>
-				<period>1.091435</period>
+				<period>1.09142245</period>
 				<semimajoraxis>0.0229</semimajoraxis>
 				<eccentricity>0.017</eccentricity>
-				<inclination>83.1</inclination>
+				<inclination>82.5</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -19388,7 +19388,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>10/04/13</lastupdate>
+		<lastupdate>11/02/14</lastupdate>
 	</planet>
 	<planet>
 		<id_exoplaneteu>WASP-13 b</id_exoplaneteu>
