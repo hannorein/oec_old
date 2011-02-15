@@ -1813,12 +1813,12 @@
 		<id>CoRoT-16 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.5</mass>
-			<radius>0.813</radius>
+			<mass>0.53</mass>
+			<radius>1.17</radius>
 			<orbit>
 				<period>5.3534208</period>
 				<semimajoraxis />
-				<eccentricity />
+				<eccentricity>0.33</eccentricity>
 				<inclination>85.82</inclination>
 			</orbit>
 		</properties>
@@ -1826,7 +1826,7 @@
 			<spectraltype>G5V</spectraltype>
 			<mass />
 			<radius>0.814</radius>
-			<metallicity />
+			<metallicity>0.19</metallicity>
 			<rightascension />
 			<declination />
 			<angulardistance />
@@ -1839,7 +1839,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>10/10/12</lastupdate>
+		<lastupdate>11/02/15</lastupdate>
 	</planet>
 	<planet>
 		<id_exoplaneteu>CoRoT-17 b</id_exoplaneteu>
@@ -1852,12 +1852,12 @@
 			<orbit>
 				<period>3.768125</period>
 				<semimajoraxis />
-				<eccentricity />
+				<eccentricity>0.0</eccentricity>
 				<inclination>77.47</inclination>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G5V</spectraltype>
+			<spectraltype>G2V</spectraltype>
 			<mass />
 			<radius>2</radius>
 			<metallicity />
@@ -1873,7 +1873,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>10/10/12</lastupdate>
+		<lastupdate>11/02/15</lastupdate>
 	</planet>
 	<planet>
 		<id_exoplaneteu>CoRoT-2 b</id_exoplaneteu>
