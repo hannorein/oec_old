@@ -1,0 +1,19 @@
+<planet id="Kepler-6">
+	<curve id="UID_0300098_RVC_01.tbl">
+		<reference>Dunham et al. 2010 (ApJ, 713, 136L)</reference>
+		<bibcodes>2010ApJ...713L.136D</bibcodes>
+		<observatory>Mauna Kea, Hawaii</observatory>
+		<telescope>10m Keck I</telescope>
+		<data>
+			<point error="4.48" time="2454986.087289" value="68.42" />
+			<point error="4.59" time="2454987.087348" value="-59.94" />
+			<point error="4.75" time="2454988.077695" value="-67.64" />
+			<point error="4.64" time="2454989.019649" value="48.64" />
+			<point error="4.79" time="2454995.112273" value="18.56" />
+			<point error="4.54" time="2455014.881155" value="51.75" />
+			<point error="4.65" time="2455015.984052" value="-34.79" />
+			<point error="4.94" time="2455017.067098" value="-75.84" />
+			<point error="5.42" time="2455044.019956" value="50.59" />
+		</data>
+	</curve>
+</planet>

@@ -1,0 +1,21 @@
+<planet id="WASP-13">
+	<curve id="UID_0300069_RVC_01.tbl">
+		<reference>Skillen et al. 2009 (A&amp;A, 502, 391)</reference>
+		<bibcodes>2009A&amp;A...502..391S</bibcodes>
+		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
+		<telescope>1.93m</telescope>
+		<data>
+			<point error="0.0088" time="2454508.48441" value="9.8660" />
+			<point error="0.0072" time="2454509.45978" value="9.8126" />
+			<point error="0.0078" time="2454510.46914" value="9.8022" />
+			<point error="0.0088" time="2454510.55389" value="9.7634" />
+			<point error="0.0080" time="2454511.32838" value="9.8365" />
+			<point error="0.0082" time="2454511.55075" value="9.8690" />
+			<point error="0.0086" time="2454511.57290" value="9.8492" />
+			<point error="0.0088" time="2454511.64730" value="9.8667" />
+			<point error="0.0068" time="2454512.42051" value="9.9062" />
+			<point error="0.0080" time="2454512.55184" value="9.8770" />
+			<point error="0.0090" time="2454512.65565" value="9.8829" />
+		</data>
+	</curve>
+</planet>

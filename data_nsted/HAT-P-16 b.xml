@@ -1,0 +1,53 @@
+<planet id="HAT-P-16">
+	<curve id="UID_0300112_RVC_01.tbl">
+		<reference>Buchhave et al. 2010 (arXiv, 1005, 2009)</reference>
+		<bibcodes>2010arXiv1005.2009B</bibcodes>
+		<observatory>Mauna Kea, Hawaii</observatory>
+		<telescope>10m Keck I</telescope>
+		<data>
+			<point error="2.3" time="2455017.09285" value="-531.7" />
+			<point error="2.6" time="2455019.09413" value="179.5" />
+			<point error="2.4" time="2455107.09645" value="445.3" />
+			<point error="2.6" time="2455108.97959" value="-497.6" />
+			<point error="2.8" time="2455112.12355" value="-109.3" />
+			<point error="2.5" time="2455135.02181" value="510.9" />
+		</data>
+	</curve>
+	<curve id="UID_0300112_RVC_02.tbl">
+		<reference>Buchhave et al. 2010 (arXiv, 1005, 2009)</reference>
+		<bibcodes>2010arXiv1005.2009B</bibcodes>
+		<observatory>La Palma, Spain</observatory>
+		<telescope>2.5m Nordic Optical Telescope (NOT)</telescope>
+		<data>
+			<point error="4.6" time="2455048.64476" value="-137.7" />
+			<point error="10.5" time="2455049.70638" value="-339.5" />
+			<point error="6.1" time="2455050.68239" value="-911.9" />
+			<point error="5.8" time="2455051.73142" value="60.3" />
+			<point error="4.4" time="2455052.68956" value="-579.8" />
+			<point error="11.3" time="2455053.71751" value="-674.7" />
+			<point error="5.7" time="2455054.71713" value="66.2" />
+		</data>
+	</curve>
+	<curve id="UID_0300112_RVC_03.tbl">
+		<reference>Buchhave et al. 2010 (arXiv, 1005, 2009)</reference>
+		<bibcodes>2010arXiv1005.2009B</bibcodes>
+		<observatory>La Palma, Spain</observatory>
+		<telescope>2.5m Nordic Optical Telescope (NOT)</telescope>
+		<data>
+			<point error="5.2" time="2455107.58955" value="0.7" />
+			<point error="5.3" time="2455108.62791" value="-965.2" />
+			<point error="7.0" time="2455109.56094" value="-310.4" />
+			<point error="7.5" time="2455110.54715" value="-128.9" />
+			<point error="4.1" time="2455111.56509" value="-989.4" />
+			<point error="5.5" time="2455112.60304" value="-53.7" />
+			<point error="4.7" time="2455113.50725" value="-294.7" />
+			<point error="4.5" time="2455114.53303" value="-924.1" />
+			<point error="5.3" time="2455116.52227" value="-558.0" />
+			<point error="7.5" time="2455122.51752" value="-941.1" />
+			<point error="4.7" time="2455123.46870" value="-262.4" />
+			<point error="7.9" time="2455124.48749" value="-161.9" />
+			<point error="5.9" time="2455125.44928" value="1008.8" />
+			<point error="5.2" time="2455126.47958" value="-29.8" />
+		</data>
+	</curve>
+</planet>

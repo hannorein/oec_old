@@ -1,0 +1,26 @@
+<planet id="WASP-26">
+	<curve id="UID_0300106_RVC_01.tbl">
+		<reference>Smalley et al. 2010 (arXiv, 1004, 1542)</reference>
+		<bibcodes>2010arXiv1004.1542S</bibcodes>
+		<observatory>ESO La Silla, Chile</observatory>
+		<telescope>1.2m Euler Swiss telescope</telescope>
+		<data>
+			<point error="0.00915" time="2455001.927439" value="8.59117" />
+			<point error="0.00959" time="2455008.900119" value="8.35510" />
+			<point error="0.01134" time="2455011.938063" value="8.45626" />
+			<point error="0.01092" time="2455012.833505" value="8.58264" />
+			<point error="0.00997" time="2455013.918513" value="8.32991" />
+			<point error="0.01022" time="2455036.934802" value="8.50676" />
+			<point error="0.00951" time="2455037.917112" value="8.53360" />
+			<point error="0.00871" time="2455038.919423" value="8.32703" />
+			<point error="0.01929" time="2455040.915661" value="8.47129" />
+			<point error="0.00800" time="2455042.899210" value="8.57224" />
+			<point error="0.01011" time="2455068.668524" value="8.41145" />
+			<point error="0.00967" time="2455070.807797" value="8.57495" />
+			<point error="0.00979" time="2455072.729127" value="8.49720" />
+			<point error="0.01866" time="2455076.856687" value="8.43943" />
+			<point error="0.00929" time="2455094.818292" value="8.49411" />
+			<point error="0.00855" time="2455096.728728" value="8.31789" />
+		</data>
+	</curve>
+</planet>

@@ -1,0 +1,37 @@
+<planet id="Gliese 1214">
+	<curve id="UID_0250599_RVC_01.tbl">
+		<reference>Charbonneau et al. 2009 (Nature, 462, 891)</reference>
+		<bibcodes>2009Natur.462..891C</bibcodes>
+		<observatory>ESO La Silla, Chile</observatory>
+		<telescope>3.6m</telescope>
+		<data>
+			<point error="4.455" time="2454993.767485" value="-3.067" />
+			<point error="4.440" time="2454994.642782" value="23.961" />
+			<point error="6.351" time="2454998.624961" value="-5.204" />
+			<point error="8.662" time="2454998.748617" value="-16.122" />
+			<point error="4.287" time="2455001.666727" value="-5.218" />
+			<point error="4.040" time="2455001.757373" value="2.789" />
+			<point error="4.620" time="2455036.574282" value="-11.168" />
+			<point error="4.892" time="2455036.651535" value="-4.798" />
+			<point error="5.164" time="2455037.585784" value="9.604" />
+			<point error="5.230" time="2455037.653094" value="-10.277" />
+			<point error="4.492" time="2455038.539857" value="7.348" />
+			<point error="4.467" time="2455038.637027" value="14.137" />
+			<point error="4.567" time="2455039.552027" value="-12.980" />
+			<point error="3.993" time="2455039.638769" value="-10.222" />
+			<point error="4.921" time="2455040.562217" value="5.703" />
+			<point error="5.051" time="2455040.639620" value="7.386" />
+			<point error="4.266" time="2455041.574177" value="8.056" />
+			<point error="4.084" time="2455042.545664" value="-6.776" />
+			<point error="3.876" time="2455042.635219" value="-7.165" />
+			<point error="5.736" time="2455045.559627" value="-9.352" />
+			<point error="5.685" time="2455045.644031" value="-1.676" />
+			<point error="5.531" time="2455046.556850" value="12.845" />
+			<point error="5.550" time="2455046.631417" value="14.850" />
+			<point error="4.973" time="2455047.550426" value="-9.778" />
+			<point error="4.961" time="2455048.549973" value="7.291" />
+			<point error="4.846" time="2455048.610964" value="9.280" />
+			<point error="4.902" time="2455049.562632" value="3.899" />
+		</data>
+	</curve>
+</planet>

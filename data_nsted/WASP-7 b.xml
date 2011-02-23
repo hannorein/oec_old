@@ -1,0 +1,21 @@
+<planet id="WASP-7">
+	<curve id="UID_0300063_RVC_01.tbl">
+		<reference>Hellier et al. 2008 (ApJL, 690, 89)</reference>
+		<bibcodes>2009ApJ...690L..89H</bibcodes>
+		<observatory>ESO La Silla, Chile</observatory>
+		<telescope>1.2m Euler Swiss telescope</telescope>
+		<data>
+			<point error="0.0214" time="2454329.71524" value="-29.8238" />
+			<point error="0.0182" time="2454330.79865" value="-29.7059" />
+			<point error="0.0196" time="2454359.54361" value="-29.8400" />
+			<point error="0.0202" time="2454362.52524" value="-29.9620" />
+			<point error="0.0221" time="2454364.55740" value="-29.7575" />
+			<point error="0.0171" time="2454376.57881" value="-29.8540" />
+			<point error="0.0194" time="2454378.59076" value="-29.8662" />
+			<point error="0.0222" time="2454379.57799" value="-29.7858" />
+			<point error="0.0173" time="2454380.63008" value="-29.8169" />
+			<point error="0.0210" time="2454382.66066" value="-29.9355" />
+			<point error="0.0229" time="2454386.61194" value="-29.8845" />
+		</data>
+	</curve>
+</planet>

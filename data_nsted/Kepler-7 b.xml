@@ -1,0 +1,19 @@
+<planet id="Kepler-7">
+	<curve id="UID_0300099_RVC_01.tbl">
+		<reference>Latham et al. 2010 (ApJ, 713, 140L)</reference>
+		<bibcodes>2010ApJ...713L.140L</bibcodes>
+		<observatory>La Palma, Spain</observatory>
+		<telescope>2.5m Nordic Optical Telescope (NOT)</telescope>
+		<data>
+			<point error="6.8" time="2455107.37937" value="43.7" />
+			<point error="7.1" time="2455108.36845" value="32.7" />
+			<point error="9.8" time="2455110.50735" value="-34.2" />
+			<point error="6.7" time="2455111.40251" value="-11.5" />
+			<point error="8.2" time="2455112.41378" value="33.2" />
+			<point error="6.1" time="2455113.40824" value="27.9" />
+			<point error="8.1" time="2455114.44632" value="-31.1" />
+			<point error="10.7" time="2455115.44411" value="-29.2" />
+			<point error="9.4" time="2455116.37077" value="-0.1" />
+		</data>
+	</curve>
+</planet>

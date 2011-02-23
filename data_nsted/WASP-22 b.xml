@@ -1,0 +1,61 @@
+<planet id="WASP-22">
+	<curve id="UID_0300105_RVC_02.tbl">
+		<reference>Maxted et al. 2010 (arXiv, 1004, 1514)</reference>
+		<bibcodes>2010arXiv1004.1514M</bibcodes>
+		<observatory>ESO La Silla, Chile</observatory>
+		<telescope>3.6m</telescope>
+		<data>
+			<point error="0.0029" time="2454743.7527" value="-7.1832" />
+			<point error="0.0026" time="2454746.7683" value="-7.2391" />
+			<point error="0.0024" time="2454749.7650" value="-7.2941" />
+			<point error="0.0029" time="2454750.6791" value="-7.1940" />
+			<point error="0.0025" time="2454754.7257" value="-7.1752" />
+			<point error="0.0032" time="2454755.7558" value="-7.2726" />
+		</data>
+	</curve>
+	<curve id="UID_0300105_RVC_01.tbl">
+		<reference>Maxted et al. 2010 (arXiv, 1004, 1514)</reference>
+		<bibcodes>2010arXiv1004.1514M</bibcodes>
+		<observatory>ESO La Silla, Chile</observatory>
+		<telescope>1.2m Euler Swiss telescope</telescope>
+		<data>
+			<point error="0.013" time="2454704.8563" value="-7.236" />
+			<point error="0.026" time="2454706.8761" value="-7.368" />
+			<point error="0.011" time="2454708.8417" value="-7.189" />
+			<point error="0.019" time="2454709.7625" value="-7.320" />
+			<point error="0.024" time="2454710.7697" value="-7.291" />
+			<point error="0.018" time="2454715.8843" value="-7.201" />
+			<point error="0.041" time="2454716.8457" value="-7.262" />
+			<point error="0.041" time="2454717.7794" value="-7.386" />
+			<point error="0.017" time="2454720.7520" value="-7.312" />
+			<point error="0.019" time="2454721.8184" value="-7.289" />
+			<point error="0.012" time="2454722.8233" value="-7.201" />
+			<point error="0.017" time="2454724.7367" value="-7.314" />
+			<point error="0.012" time="2454726.8108" value="-7.225" />
+			<point error="0.013" time="2454729.8623" value="-7.206" />
+			<point error="0.012" time="2454731.8658" value="-7.345" />
+			<point error="0.020" time="2454740.7564" value="-7.199" />
+			<point error="0.018" time="2454834.5647" value="-7.304" />
+			<point error="0.017" time="2454836.5707" value="-7.225" />
+			<point error="0.014" time="2454853.6313" value="-7.171" />
+			<point error="0.013" time="2454854.6322" value="-7.275" />
+			<point error="0.012" time="2454855.6091" value="-7.310" />
+			<point error="0.013" time="2454860.5404" value="-7.183" />
+			<point error="0.015" time="2454862.5589" value="-7.327" />
+			<point error="0.014" time="2454865.5628" value="-7.313" />
+			<point error="0.017" time="2454879.5256" value="-7.280" />
+			<point error="0.021" time="2454880.5402" value="-7.273" />
+			<point error="0.021" time="2454882.5242" value="-7.193" />
+			<point error="0.016" time="2454885.5207" value="-7.159" />
+			<point error="0.017" time="2454886.5443" value="-7.299" />
+			<point error="0.013" time="2455095.8758" value="-7.308" />
+			<point error="0.015" time="2455100.8593" value="-7.154" />
+			<point error="0.015" time="2455126.7935" value="-7.266" />
+			<point error="0.016" time="2455128.7415" value="-7.169" />
+			<point error="0.011" time="2455185.6618" value="-7.147" />
+			<point error="0.011" time="2455186.6153" value="-7.234" />
+			<point error="0.010" time="2455189.6571" value="-7.164" />
+			<point error="0.011" time="2455190.6690" value="-7.284" />
+		</data>
+	</curve>
+</planet>
