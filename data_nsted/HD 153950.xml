@@ -1,0 +1,141 @@
+<planet>
+	<curve id="UID_0083547_RVC_01.tbl">
+		<reference>Moutou et al. 2009 (A&amp;A, 496, 513)</reference>
+		<bibcodes>2009A&amp;A...496..513M</bibcodes>
+		<observatory>ESO La Silla, Chile</observatory>
+		<telescope>3.6m</telescope>
+		<data>
+			<point error="0.00154" time="2452852.541834" value="33.18472" />
+			<point error="0.00225" time="2452854.596492" value="33.18828" />
+			<point error="0.00381" time="2453506.793032" value="33.29144" />
+			<point error="0.00164" time="2453831.893340" value="33.18043" />
+			<point error="0.00178" time="2453832.896004" value="33.17858" />
+			<point error="0.00263" time="2453833.897869" value="33.17967" />
+			<point error="0.00160" time="2453836.894963" value="33.18310" />
+			<point error="0.00247" time="2453860.919573" value="33.19229" />
+			<point error="0.00251" time="2453863.788490" value="33.17988" />
+			<point error="0.00124" time="2453886.726351" value="33.17567" />
+			<point error="0.00163" time="2453921.606991" value="33.18949" />
+			<point error="0.00119" time="2453944.556842" value="33.20589" />
+			<point error="0.00128" time="2453976.479331" value="33.24768" />
+			<point error="0.00255" time="2453980.560756" value="33.25030" />
+			<point error="0.00234" time="2454167.860472" value="33.23714" />
+			<point error="0.00264" time="2454169.858171" value="33.23668" />
+			<point error="0.00195" time="2454173.850015" value="33.24419" />
+			<point error="0.00148" time="2454196.826071" value="33.22742" />
+			<point error="0.00144" time="2454199.882018" value="33.22591" />
+			<point error="0.00185" time="2454200.808656" value="33.22309" />
+			<point error="0.00109" time="2454201.910735" value="33.22244" />
+			<point error="0.00197" time="2454202.795181" value="33.22726" />
+			<point error="0.00430" time="2454226.886058" value="33.22130" />
+			<point error="0.00199" time="2454227.810261" value="33.20965" />
+			<point error="0.00169" time="2454228.798529" value="33.21562" />
+			<point error="0.00196" time="2454229.766644" value="33.22080" />
+			<point error="0.00146" time="2454230.838756" value="33.21925" />
+			<point error="0.00157" time="2454231.794935" value="33.20842" />
+			<point error="0.00229" time="2454232.713425" value="33.21465" />
+			<point error="0.00230" time="2454233.903107" value="33.21937" />
+			<point error="0.00165" time="2454234.783932" value="33.21295" />
+			<point error="0.00265" time="2454253.698720" value="33.20385" />
+			<point error="0.00161" time="2454254.731349" value="33.20359" />
+			<point error="0.00227" time="2454258.659591" value="33.20899" />
+			<point error="0.00308" time="2454260.837471" value="33.21031" />
+			<point error="0.00183" time="2454313.649435" value="33.19161" />
+			<point error="0.00353" time="2454349.550815" value="33.18406" />
+			<point error="0.00155" time="2454393.493188" value="33.18317" />
+			<point error="0.00225" time="2454526.824653" value="33.31645" />
+			<point error="0.00145" time="2454530.902047" value="33.32334" />
+			<point error="0.00178" time="2454547.786305" value="33.31122" />
+			<point error="0.00259" time="2454548.903849" value="33.31512" />
+			<point error="0.00178" time="2454554.855275" value="33.30989" />
+			<point error="0.00245" time="2454582.757801" value="33.29154" />
+			<point error="0.00336" time="2454588.928823" value="33.28545" />
+			<point error="0.00211" time="2454609.734744" value="33.27785" />
+			<point error="0.00121" time="2454612.769428" value="33.27880" />
+			<point error="0.00103" time="2454637.793172" value="33.26491" />
+			<point error="0.00139" time="2454643.794707" value="33.25740" />
+		</data>
+	</curve>
+	<curve id="UID_0083547_GLC_01.tbl">
+		<reference>Hipparcos and Tycho Catalogs</reference>
+		<bibcodes />
+		<observatory />
+		<telescope>Hipparcos Satellite</telescope>
+		<data>
+			<point error="0.008" time="2447920.25014" value="7.4972" />
+			<point error="0.008" time="2447920.26448" value="7.5157" />
+			<point error="0.008" time="2447920.33904" value="7.5036" />
+			<point error="0.007" time="2447920.35339" value="7.5272" />
+			<point error="0.007" time="2447920.42793" value="7.4955" />
+			<point error="0.008" time="2447920.44227" value="7.5030" />
+			<point error="0.008" time="2447933.13836" value="7.4984" />
+			<point error="0.009" time="2447933.15268" value="7.5100" />
+			<point error="0.006" time="2447965.03586" value="7.5116" />
+			<point error="0.009" time="2447965.05019" value="7.5118" />
+			<point error="0.011" time="2447965.12476" value="7.4898" />
+			<point error="0.009" time="2448002.10409" value="7.5006" />
+			<point error="0.011" time="2448002.26757" value="7.5026" />
+			<point error="0.008" time="2448002.28188" value="7.5092" />
+			<point error="0.011" time="2448002.35645" value="7.5061" />
+			<point error="0.012" time="2448002.37077" value="7.5067" />
+			<point error="0.009" time="2448002.44537" value="7.5153" />
+			<point error="0.009" time="2448002.45966" value="7.5134" />
+			<point error="0.009" time="2448002.53425" value="7.5112" />
+			<point error="0.008" time="2448002.54857" value="7.5138" />
+			<point error="0.007" time="2448002.62313" value="7.5105" />
+			<point error="0.009" time="2448003.15654" value="7.5071" />
+			<point error="0.009" time="2448007.24561" value="7.5052" />
+			<point error="0.007" time="2448007.33448" value="7.5151" />
+			<point error="0.007" time="2448007.34883" value="7.5077" />
+			<point error="0.011" time="2448007.42340" value="7.5041" />
+			<point error="0.009" time="2448007.43772" value="7.5082" />
+			<point error="0.006" time="2448007.51227" value="7.5120" />
+			<point error="0.007" time="2448007.60118" value="7.5074" />
+			<point error="0.008" time="2448007.61555" value="7.5196" />
+			<point error="0.010" time="2448007.69009" value="7.5192" />
+			<point error="0.008" time="2448007.70441" value="7.5083" />
+			<point error="0.009" time="2448007.77898" value="7.5128" />
+			<point error="0.008" time="2448007.79330" value="7.5121" />
+			<point error="0.008" time="2448007.86786" value="7.5135" />
+			<point error="0.008" time="2448007.88220" value="7.5066" />
+			<point error="0.007" time="2448007.95677" value="7.5065" />
+			<point error="0.010" time="2448008.05999" value="7.5111" />
+			<point error="0.009" time="2448008.13457" value="7.5270" />
+			<point error="0.008" time="2448008.14886" value="7.5154" />
+			<point error="0.009" time="2448008.22346" value="7.4960" />
+			<point error="0.013" time="2448008.23778" value="7.5145" />
+			<point error="0.012" time="2448008.32668" value="7.5104" />
+			<point error="0.007" time="2448135.13728" value="7.5092" />
+			<point error="0.007" time="2448165.32858" value="7.5114" />
+			<point error="0.008" time="2448165.34287" value="7.5054" />
+			<point error="0.008" time="2448165.41745" value="7.5098" />
+			<point error="0.007" time="2448165.43175" value="7.5038" />
+			<point error="0.008" time="2448182.03492" value="7.4943" />
+			<point error="0.010" time="2448182.04921" value="7.5094" />
+			<point error="0.015" time="2448182.12380" value="7.5108" />
+			<point error="0.013" time="2448182.13811" value="7.5132" />
+			<point error="0.008" time="2448311.36339" value="7.5235" />
+			<point error="0.010" time="2448311.37771" value="7.5285" />
+			<point error="0.006" time="2448311.45229" value="7.5175" />
+			<point error="0.011" time="2448311.46658" value="7.5076" />
+			<point error="0.007" time="2448337.39999" value="7.5069" />
+			<point error="0.008" time="2448337.41436" value="7.4948" />
+			<point error="0.009" time="2448337.48888" value="7.5164" />
+			<point error="0.016" time="2448358.81865" value="7.5311" />
+			<point error="0.017" time="2448358.83300" value="7.5182" />
+			<point error="0.015" time="2448358.90757" value="7.5170" />
+			<point error="0.007" time="2448480.75089" value="7.5156" />
+			<point error="0.009" time="2448480.76521" value="7.5071" />
+			<point error="0.007" time="2448480.92868" value="7.5094" />
+			<point error="0.016" time="2448658.81353" value="7.5252" />
+			<point error="0.013" time="2448658.88808" value="7.5140" />
+			<point error="0.012" time="2448658.97700" value="7.5139" />
+			<point error="0.013" time="2448658.99132" value="7.5389" />
+			<point error="0.008" time="2448676.57433" value="7.4927" />
+			<point error="0.008" time="2448676.58866" value="7.5058" />
+			<point error="0.010" time="2448676.66321" value="7.5133" />
+			<point error="0.010" time="2448676.67756" value="7.4981" />
+			<point error="0.011" time="2448829.30029" value="7.5157" />
+		</data>
+	</curve>
+</planet>
