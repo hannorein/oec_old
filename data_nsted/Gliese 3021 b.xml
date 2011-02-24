@@ -5,6 +5,10 @@
 		<bibcodes>2001A&amp;A...375..205N</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>1.2m Euler Swiss telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2451128.60587">
 			<point error="0.009" time="0.0" value="-5.941" />
 			<point error="0.010" time="4.04722099984" value="-5.924" />
@@ -75,6 +79,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447871.93765">
 			<point error="0.011" time="0.0" value="6.7366" />
 			<point error="0.007" time="0.0888399998657" value="6.7277" />

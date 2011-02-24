@@ -5,6 +5,10 @@
 		<bibcodes>2010ApJ...709..159A</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>1.2m Euler Swiss Telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454329.6037">
 			<point error="0.0428" time="0.0" value="-49.4570" />
 			<point error="0.0444" time="30.8826000001" value="-49.3661" />
@@ -55,6 +59,10 @@
 		<bibcodes>2010ApJ...709..159A</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>3.6m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454564.8195">
 			<point error="0.0108" time="0.0" value="-49.4884" />
 			<point error="0.0092" time="1.05359999975" value="-49.4356" />
@@ -67,6 +75,10 @@
 		<bibcodes />
 		<observatory>ARIZONA</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2455059.62618">
 			<point error="9.999999" time="0.0" value="1.011021" />
 			<point error="9.999999" time="0.000609999988228" value="1.019436" />

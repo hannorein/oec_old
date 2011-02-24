@@ -5,6 +5,10 @@
 		<bibcodes>2006MNRAS.369..249J</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
 		<telescope>3.9m Anglo-Australian Telescope (AAT)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451035.3195">
 			<point error="4.6" time="0.0" value="24.3" />
 			<point error="6.0" time="201.6111" value="4.8" />
@@ -44,6 +48,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447900.64786">
 			<point error="0.012" time="0.0" value="7.6182" />
 			<point error="0.014" time="0.0888700000942" value="7.4960" />

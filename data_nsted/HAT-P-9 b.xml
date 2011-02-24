@@ -5,6 +5,10 @@
 		<bibcodes>2009ApJ...690.1393S</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2454233.3347">
 			<point error="24" time="0.0" value="22667" />
 			<point error="20" time="146.301" value="22586" />
@@ -29,6 +33,10 @@
 		<bibcodes />
 		<observatory>SPAIN</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2454841.45504">
 			<point error="0.007750" time="0.0" value="1.010806" />
 			<point error="0.007750" time="0.00142000010237" value="1.006995" />
@@ -195,6 +203,10 @@
 		<bibcodes />
 		<observatory>SPAIN</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2454849.37166">
 			<point error="0.004717" time="0.0" value="0.982716" />
 			<point error="0.004717" time="0.00285999989137" value="0.986251" />
@@ -286,6 +298,10 @@
 		<bibcodes />
 		<observatory>ARIZONA</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2454939.65193">
 			<point error="0.002593" time="0.0" value="0.984527" />
 			<point error="0.002593" time="0.00125999981537" value="0.987252" />
@@ -372,6 +388,10 @@
 		<bibcodes />
 		<observatory>USA (INDIANA)</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2454892.53723">
 			<point error="0.004996" time="0.0" value="0.991489" />
 			<point error="0.004996" time="0.00168000021949" value="0.981314" />
@@ -542,6 +562,10 @@
 		<bibcodes />
 		<observatory>USA (INDIANA)</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2454888.55404">
 			<point error="0.004903" time="0.0" value="0.994915" />
 			<point error="0.004903" time="0.00168999982998" value="1.009871" />
@@ -706,6 +730,10 @@
 		<bibcodes />
 		<observatory>USA (INDIANA)</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2454892.53723">
 			<point error="0.004996" time="0.0" value="0.991489" />
 			<point error="0.004996" time="0.00168000021949" value="0.981314" />
@@ -876,6 +904,10 @@
 		<bibcodes />
 		<observatory>USA (INDIANA)</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2454888.55404">
 			<point error="0.004903" time="0.0" value="0.994915" />
 			<point error="0.004903" time="0.00168999982998" value="1.009871" />

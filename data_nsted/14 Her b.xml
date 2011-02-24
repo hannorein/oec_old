@@ -5,6 +5,10 @@
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2450546.11176">
 			<point error="2.3" time="0.0" value="-56.3" />
 			<point error="1.9" time="59.799722" value="-49.6" />
@@ -63,6 +67,10 @@
 		<bibcodes>2004A&amp;A...414..351N</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2449464.5956">
 			<point error="0.008" time="0.0" value="-13.782" />
 			<point error="0.007" time="66.8345999997" value="-13.751" />
@@ -191,6 +199,10 @@
 		<bibcodes>2007ApJ...654..625W</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>2.7m Harlan J. Smith (HJS) telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451329.82953">
 			<point error="7.4" time="0.0" value="154.3" />
 			<point error="6.5" time="28.9363399995" value="148.8" />
@@ -235,6 +247,10 @@
 		<bibcodes>2003ApJ...582..455B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2450605.9115">
 			<point error="2.1" time="0.0" value="-83.2" />
 			<point error="2.2" time="256.2297" value="-43.1" />
@@ -279,6 +295,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447864.18048">
 			<point error="0.007" time="0.0" value="6.7650" />
 			<point error="0.007" time="0.074569999706" value="6.7566" />

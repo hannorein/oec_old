@@ -5,6 +5,10 @@
 		<bibcodes>2009ApJ...703..752L</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>1.2m Euler Swiss telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454535.86484">
 			<point error="0.01591" time="0.0" value="-1.99772" />
 			<point error="0.00853" time="1.98431600025" value="-1.96688" />

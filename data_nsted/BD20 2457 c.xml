@@ -5,6 +5,10 @@
 		<bibcodes>2009ApJ...707..768N</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>9.2m Hobby Eberly Telescope (HET)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2453033.46852">
 			<point error="5.2" time="0.0" value="253.5" />
 			<point error="5.8" time="326.8886" value="-48.4" />

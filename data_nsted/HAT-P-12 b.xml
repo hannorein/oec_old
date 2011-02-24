@@ -5,6 +5,10 @@
 		<bibcodes>2009ApJ...706..785H</bibcodes>
 		<observatory>Mauna Kea, HI</observatory>
 		<telescope>Keck</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2454187.03115">
 			<point error="3.29" time="0.0" value="46.75" />
 			<point error="2.74" time="0.958619999699" value="-8.83" />
@@ -35,6 +39,10 @@
 		<bibcodes />
 		<observatory>PORTUGAL</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2454952.37967">
 			<point error="0.003809" time="0.0" value="0.997900" />
 			<point error="0.003809" time="0.00157999992371" value="1.006670" />
@@ -210,6 +218,10 @@
 		<bibcodes />
 		<observatory>GREECE</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2454965.33985">
 			<point error="0.004975" time="0.0" value="0.979142" />
 			<point error="0.004975" time="0.00112000014633" value="0.987292" />
@@ -371,6 +383,10 @@
 		<bibcodes />
 		<observatory>CROATIA</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2455026.33634">
 			<point error="0.005079" time="0.0" value="0.991781" />
 			<point error="0.005079" time="0.00111000007018" value="1.014882" />
@@ -600,6 +616,10 @@
 		<bibcodes />
 		<observatory>ARIZONA</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2454984.64019">
 			<point error="0.002194" time="0.0" value="0.999206" />
 			<point error="0.002194" time="0.00126000028104" value="0.999206" />

@@ -5,6 +5,10 @@
 		<bibcodes>2007A&amp;A...473..323D</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454044.6274">
 			<point error="0.003" time="0.0" value="-28.980" />
 			<point error="0.004" time="7.01370000001" value="-28.830" />
@@ -28,6 +32,10 @@
 		<bibcodes>2007A&amp;A...473..323D</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2453333.6255">
 			<point error="0.011" time="0.0" value="-29.123" />
 			<point error="0.012" time="3.98020000011" value="-29.098" />
@@ -59,6 +67,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447966.85565">
 			<point error="0.013" time="0.0" value="8.1516" />
 			<point error="0.009" time="0.0143400002271" value="8.1457" />

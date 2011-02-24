@@ -5,6 +5,10 @@
 		<bibcodes>2002A&amp;A...392..215S</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>1.2m Euler Swiss telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2451902.77432">
 			<point error="0.005" time="0.0" value="42.5117" />
 			<point error="0.007" time="320.037957" value="42.5535" />
@@ -100,6 +104,10 @@
 		<bibcodes>2004A&amp;A...426..695Z</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>1.2m Euler Swiss telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2451902.77432">
 			<point error="1" time="0.0" value="46.1" />
 			<point error="1" time="320.03796" value="44.8" />
@@ -258,6 +266,10 @@
 		<bibcodes>2003A&amp;A...404..775Z</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>1.2m Euler Swiss telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2451902.77432">
 			<point error="1" time="0.0" value="46.1" />
 			<point error="1" time="320.03796" value="44.8" />

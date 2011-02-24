@@ -5,6 +5,10 @@
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
 		<telescope>3.9m Anglo-Australian Telescope (AAT)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451118.11462">
 			<point error="4.3" time="0.0" value="-49.4" />
 			<point error="4.2" time="117.829097" value="54.8" />
@@ -39,6 +43,10 @@
 		<bibcodes>2001ApJ...555..410B</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
 		<telescope>3.9m Anglo-Australian Telescope (AAT)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451118.1146">
 			<point error="4.4" time="0.0" value="-55.1" />
 			<point error="5.0" time="117.8291" value="39.5" />
@@ -61,6 +69,10 @@
 		<bibcodes>2001A&amp;A...375..205N</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>1.2m Euler Swiss telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2451021.92971">
 			<point error="0.008" time="0.0" value="16.844" />
 			<point error="0.011" time="21.9610590003" value="16.861" />
@@ -96,6 +108,10 @@
 		<bibcodes>2000A&amp;A...353L..33K</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>1.4m CAT</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2448930.747">
 			<point error="9.2" time="0.0" value="-10.2" />
 			<point error="14.1" time="42.9950000001" value="9.5" />
@@ -200,6 +216,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447868.74759">
 			<point error="0.006" time="0.0" value="5.5140" />
 			<point error="0.004" time="0.0143300001509" value="5.5146" />

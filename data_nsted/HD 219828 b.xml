@@ -5,6 +5,10 @@
 		<bibcodes>2007A&amp;A...467..721M</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>3.6m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2453509.92806">
 			<point error="0.00066" time="0.0" value="-24.03256" />
 			<point error="0.00091" time="1.00031100027" value="-24.01790" />
@@ -36,6 +40,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447859.34902">
 			<point error="0.009" time="0.0" value="8.1727" />
 			<point error="0.011" time="22.3155999999" value="8.1965" />

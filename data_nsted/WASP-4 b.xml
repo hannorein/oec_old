@@ -5,6 +5,10 @@
 		<bibcodes>2008ApJ...675L.113W</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>1.2m Euler Swiss telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454359.71082">
 			<point error="0.01864" time="0.0" value="57.56557" />
 			<point error="0.01883" time="2.92038999964" value="57.79551" />
@@ -28,6 +32,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Superwasp Array</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2453870.61476">
 			<point error="0.04644532" time="0.0" value="-0.11616035" />
 			<point error="0.03252511" time="0.00043981987983" value="-0.11583170" />
@@ -4066,6 +4074,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Superwasp Array</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2454268.58569">
 			<point error="0.08167786" time="0.0" value="0.27029250" />
 			<point error="0.08253199" time="0.00043981987983" value="0.27062115" />
@@ -9287,6 +9299,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>1.2m telescope at La Silla Chile</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2454368.50401">
 			<point error="1.00055700" time="0.0" value="-0.06507739" />
 			<point error="0.99977800" time="0.00231300015002" value="-0.06334899" />
@@ -9509,6 +9525,10 @@
 		<bibcodes />
 		<observatory>ARGENTINA</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2454732.51097">
 			<point error="9.999999" time="0.0" value="0.976822" />
 			<point error="9.999999" time="0.000769999809563" value="1.015350" />
@@ -9670,6 +9690,10 @@
 		<bibcodes />
 		<observatory>ARGENTINA</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2455096.50904">
 			<point error="0.004198" time="0.0" value="1.001673" />
 			<point error="0.004198" time="0.000820000190288" value="0.995235" />

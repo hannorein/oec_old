@@ -5,6 +5,10 @@
 		<bibcodes>2003ApJ...599.1383H</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>2.7m Harlan J. Smith (HJS) telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2448177.8696">
 			<point error="33.09" time="0.0" value="35.39" />
 			<point error="23.82" time="0.00769999995828" value="29.94" />
@@ -63,6 +67,10 @@
 		<bibcodes>2003ApJ...599.1383H</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>2.7m Harlan J. Smith (HJS) telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2447368.9657">
 			<point error="19.0" time="0.0" value="550.0" />
 			<point error="19.0" time="0.964300000109" value="570.8" />
@@ -115,6 +123,10 @@
 		<bibcodes>2003ApJ...599.1383H</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>2.7m Harlan J. Smith (HJS) telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451010.896">
 			<point error="7.55" time="0.0" value="-583.71" />
 			<point error="7.61" time="0.00479999976233" value="-578.23" />
@@ -163,6 +175,10 @@
 		<bibcodes>1992ApJ...396L..91W</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>3.6m CFHT</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2444754.129">
 			<point error="15.6" time="0.0" value="1808.9" />
 			<point error="23.9" time="16.983" value="1849.3" />
@@ -241,6 +257,10 @@
 		<bibcodes>1988ApJ...331..902C</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>3.6m CFHT</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2444754.128">
 			<point error="13.7" time="0.0" value="924.3" />
 			<point error="19.0" time="16.9840000002" value="970.5" />
@@ -276,6 +296,10 @@
 		<bibcodes>2007ApJ...654.1095T</bibcodes>
 		<observatory>Fred L. Whipple Observatory (FLWO), Mt. Hopkins, Arizona</observatory>
 		<telescope>1.5m Tillinghast</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2452099.9707">
 			<point error="0.23" time="0.0" value="-45.08" />
 			<point error="0.23" time="1175.8075" value="-44.72" />
@@ -288,6 +312,10 @@
 		<bibcodes>2002Obs...122...90G</bibcodes>
 		<observatory>Smithsonian Center for Astrophysics, Cambridge</observatory>
 		<telescope>Observations made at Smithsonian Center for Astrophysics, Cambridge</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2443739.99">
 			<point error="0.0" time="0.0" value="-42.2" />
 			<point error="0.4" time="42.9699999997" value="-41.9" />
@@ -330,6 +358,10 @@
 		<bibcodes>2002Obs...122...90G</bibcodes>
 		<observatory>Dominion Astrophysical Observatory (DAO), British Columbia</observatory>
 		<telescope>48 inch</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2445369.13">
 			<point error="0.2" time="0.0" value="-42.8" />
 			<point error="0.4" time="743.96" value="-43.9" />
@@ -344,6 +376,10 @@
 		<bibcodes>2002Obs...122...90G</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>2.7m Harlan J. Smith (HJS) telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2447490.0">
 			<point error="0.00" time="0.0" value="0.39" />
 			<point error="0.02" time="320.0" value="0.09" />
@@ -364,6 +400,10 @@
 		<bibcodes>2002Obs...122...90G</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2446668.05">
 			<point error="0.1" time="0.0" value="-43.9" />
 			<point error="0.0" time="412.94" value="-44.4" />
@@ -402,6 +442,10 @@
 		<bibcodes>2002Obs...122...90G</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
 		<telescope>Observations made at Lick Observatory (1896 - 1921)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2413875.21">
 			<point error="0.5" time="0.0" value="-41.0" />
 			<point error="0.3" time="0.990000000224" value="-41.8" />
@@ -418,6 +462,10 @@
 		<bibcodes>2002Obs...122...90G</bibcodes>
 		<observatory>Erwin W. Fick Observatory, Ames, Iowa</observatory>
 		<telescope>0.6m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2443731.34">
 			<point error="0.7" time="0.0" value="-41.5" />
 			<point error="0.2" time="24.9300000002" value="-42.4" />
@@ -430,6 +478,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447869.58142">
 			<point error="0.003" time="0.0" value="3.3749" />
 			<point error="0.003" time="0.0142999999225" value="3.3764" />

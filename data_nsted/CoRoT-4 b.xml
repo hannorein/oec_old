@@ -5,6 +5,10 @@
 		<bibcodes>2008A&amp;A...488L..47M</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454405.6545">
 			<point error="0.024" time="0.0" value="32.370" />
 			<point error="0.018" time="3.01219999976" value="32.278" />
@@ -21,6 +25,10 @@
 		<bibcodes>2008A&amp;A...488L..47M</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>3.6m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454423.843">
 			<point error="0.022" time="0.0" value="32.352" />
 			<point error="0.019" time="0.984300000127" value="32.344" />

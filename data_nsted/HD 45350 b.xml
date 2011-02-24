@@ -5,6 +5,10 @@
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451543.9983">
 			<point error="2.9" time="0.0" value="-18.1" />
 			<point error="2.8" time="7.95730300015" value="-18.3" />
@@ -52,6 +56,10 @@
 		<bibcodes>2005ApJ...619..570M</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451543.998">
 			<point error="3.1" time="0.0" value="-14.0259" />
 			<point error="3.5" time="7.95799999963" value="-13.0124" />
@@ -91,6 +99,10 @@
 		<bibcodes>2006AJ....131.3131E</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>2.7m Harlan J. Smith (HJS) telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451862.80903">
 			<point error="9.54" time="0.0" value="55.2" />
 			<point error="8.48" time="56.0509099998" value="16.9" />
@@ -145,6 +157,10 @@
 		<bibcodes>2006AJ....131.3131E</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>9.2m Hobby Eberly Telescope (HET)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2453628.96521">
 			<point error="3.95" time="0.0" value="-44.6" />
 			<point error="4.80" time="4.95806000009" value="-42.2" />
@@ -182,6 +198,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447966.85516">
 			<point error="0.009" time="0.0" value="8.0345" />
 			<point error="0.010" time="0.0143400002271" value="8.0145" />

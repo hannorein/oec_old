@@ -5,6 +5,10 @@
 		<bibcodes>2003ApJ...597L.157S</bibcodes>
 		<observatory>Okayama Astrophysical Observatory (OAO), Japan</observatory>
 		<telescope>1.88m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451982.1212">
 			<point error="4.6" time="0.0" value="58.7" />
 			<point error="5.2" time="0.0128999999724" value="72.3" />
@@ -40,6 +44,10 @@
 		<bibcodes>2008PASJ...60..539S</bibcodes>
 		<observatory>Okayama Astrophysical Observatory (OAO), Japan</observatory>
 		<telescope>1.88m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2452284.3135">
 			<point error="6.6" time="0.0" value="-97.5" />
 			<point error="6.8" time="52.8978999997" value="-110.8" />
@@ -101,6 +109,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447872.34212">
 			<point error="0.005" time="0.0" value="5.9494" />
 			<point error="0.005" time="0.0143499998376" value="5.9609" />

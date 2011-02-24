@@ -5,6 +5,10 @@
 		<bibcodes>2003ApJ...597.1076K</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2452480.9239">
 			<point error="0.20" time="0.0" value="-49.26" />
 			<point error="0.07" time="0.985710000154" value="-49.35" />
@@ -17,6 +21,10 @@
 		<bibcodes>2003ApJ...597.1076K</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2452480.9239">
 			<point error="0.20" time="0.0" value="-49.26" />
 			<point error="0.07" time="0.985710000154" value="-49.35" />
@@ -29,6 +37,10 @@
 		<bibcodes>2004ApJ...609.1071T</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2452480.9239">
 			<point error="0.278" time="0.0" value="-48.062" />
 			<point error="0.067" time="0.985600000247" value="-48.177" />
@@ -49,6 +61,10 @@
 		<bibcodes>2003Natur.421..507K</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2452480.4239">
 			<point error="0.20" time="0.0" value="-49.26" />
 			<point error="0.08" time="0.977200000081" value="-49.44" />
@@ -63,6 +79,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Very Large Telescope (VLT)</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2453936.56101">
 			<point error="0.99919927" time="0.0" value="-0.03051802" />
 			<point error="0.99987471" time="0.00103995017707" value="-0.02965991" />
@@ -139,6 +159,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Very Large Telescope (VLT)</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2453936.55388">
 			<point error="0.99990141" time="0.0" value="-0.03640928" />
 			<point error="0.99876362" time="0.000889949966222" value="-0.03567494" />
@@ -216,6 +240,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>1.3m Warsaw telescope at Las Campanas Observatory Chile</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2452072.6039">
 			<point error="15.29800000" time="0.0" value="-0.06685370" />
 			<point error="15.30000000" time="0.00994999986142" value="-0.05864345" />

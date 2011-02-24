@@ -5,6 +5,10 @@
 		<bibcodes>2003ApJ...587..423T</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
 		<telescope>3.9m Anglo-Australian Telescope (AAT)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451212.1302">
 			<point error="12.9" time="0.0" value="23.5" />
 			<point error="13.7" time="1.00119999982" value="66.8" />
@@ -32,6 +36,10 @@
 		<bibcodes>2006ApJ...647..594T</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
 		<telescope>3.9m Anglo-Australian Telescope (AAT)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451212.1302">
 			<point error="10.5" time="0.0" value="-2.1" />
 			<point error="10.5" time="1.00130000012" value="7.7" />
@@ -71,6 +79,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447860.3798">
 			<point error="0.020" time="0.0" value="9.1748" />
 			<point error="0.020" time="0.0142999999225" value="9.1531" />

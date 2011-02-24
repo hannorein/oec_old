@@ -5,6 +5,10 @@
 		<bibcodes>2008A&amp;A...487..749P</bibcodes>
 		<observatory>ESO VLT, Paranal Observatory, Chile</observatory>
 		<telescope>8.2m Keuyen (UT2)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2453791.7441">
 			<point error="0.056" time="0.0" value="22.433" />
 			<point error="0.118" time="1.91820000019" value="22.297" />
@@ -38,6 +42,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>1.3m Warsaw telescope at Las Campanas Observatory Chile</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2452324.64795">
 			<point error="15.86400000" time="0.0" value="-0.03622678" />
 			<point error="15.85800000" time="0.0150999999605" value="-0.03243196" />
@@ -2467,6 +2475,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>VLT at Paranal Observatory Chile</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2454242.46825">
 			<point error="15.85800000" time="0.0" value="-0.06284084" />
 			<point error="15.86000000" time="0.0007199998945" value="-0.06265990" />

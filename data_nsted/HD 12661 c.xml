@@ -5,6 +5,10 @@
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
 		<telescope>3.0m Shane and 0.6m CAT</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2450831.60838">
 			<point error="12." time="0.0" value="6." />
 			<point error="10." time="195.392673" value="68." />
@@ -65,6 +69,10 @@
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451170.82822">
 			<point error="3.1" time="0.0" value="-76.0" />
 			<point error="2.6" time="0.899490000214" value="-76.8" />
@@ -131,6 +139,10 @@
 		<bibcodes>2001ApJ...551.1107F</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451170.82822">
 			<point error="3.40" time="0.0" value="-54.49" />
 			<point error="2.96" time="0.899489999749" value="-55.69" />
@@ -155,6 +167,10 @@
 		<bibcodes>2001ApJ...551.1107F</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
 		<telescope>3.0m Shane and 0.6m CAT</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2451027.00105">
 			<point error="10.08" time="0.0" value="80.13" />
 			<point error="8.57" time="127.67181" value="-31.19" />
@@ -184,6 +200,10 @@
 		<bibcodes>2003ApJ...586.1394F</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
 		<telescope>3.0m Shane and 0.6m CAT</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2450831.608">
 			<point error="11.95" time="0.0" value="-4.43" />
 			<point error="10.03" time="195.393" value="55.99" />
@@ -234,6 +254,10 @@
 		<bibcodes>2003ApJ...586.1394F</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451170.828">
 			<point error="3.40" time="0.0" value="-90.11" />
 			<point error="2.94" time="0.899999999907" value="-92.88" />
@@ -288,6 +312,10 @@
 		<bibcodes>2009ApJ...693.1084W</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
 		<telescope>3.0m Shane and 0.6m CAT</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451155.74609">
 			<point error="7.3" time="0.0" value="-61.9" />
 			<point error="7.3" time="50.9199219998" value="-81.9" />
@@ -337,6 +365,10 @@
 		<bibcodes>2009ApJ...693.1084W</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451170.82822">
 			<point error="1.6" time="0.0" value="-65.9" />
 			<point error="1.3" time="0.899490000214" value="-66.7" />
@@ -412,6 +444,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447910.43491">
 			<point error="0.008" time="0.0" value="7.5752" />
 			<point error="0.010" time="0.0143400002271" value="7.5723" />

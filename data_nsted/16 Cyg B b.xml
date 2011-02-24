@@ -5,6 +5,10 @@
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
 		<telescope>3.0m Shane and 0.6m CAT</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2446957.926">
 			<point error="16." time="0.0" value="15." />
 			<point error="6.4" time="88.846101" value="8.5" />
@@ -109,6 +113,10 @@
 		<bibcodes>2007ApJ...654..625W</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>2.7m Harlan J. Smith (HJS) telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451452.86152">
 			<point error="9.2" time="0.0" value="-13.8" />
 			<point error="13.4" time="0.00388000020757" value="-3.0" />
@@ -568,6 +576,10 @@
 		<bibcodes>1997ApJ...483..457C</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
 		<telescope>3.0m Shane and 0.6m CAT</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2447046.769">
 			<point error="6.8" time="0.0" value="17.9" />
 			<point error="12.0" time="973.1841" value="55.4" />
@@ -618,6 +630,10 @@
 		<bibcodes>1997ApJ...483..457C</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>2.7m Harlan J. Smith (HJS) telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2448485.7305">
 			<point error="16.8" time="0.0" value="-4.2" />
 			<point error="20.5" time="298.1093" value="41.5" />
@@ -656,6 +672,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447891.71611">
 			<point error="0.005" time="0.0" value="6.3749" />
 			<point error="0.006" time="25.4884700002" value="6.3830" />

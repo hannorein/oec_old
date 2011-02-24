@@ -5,6 +5,10 @@
 		<bibcodes>2004A&amp;A...415..391M</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>1.2m Euler Swiss telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2451613.8535">
 			<point error="0.008" time="0.0" value="104.305" />
 			<point error="0.006" time="356.0014" value="104.497" />
@@ -52,6 +56,10 @@
 		<bibcodes>2009ApJ...693.1424M</bibcodes>
 		<observatory>Las Campanas Observatory, Chile</observatory>
 		<telescope>6.5m Magellan II (Clay) telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2450863.4875">
 			<point error="7.5" time="0.0" value="-28.5" />
 			<point error="7.8" time="179.2716" value="90.0" />
@@ -76,6 +84,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447869.70696">
 			<point error="0.011" time="0.0" value="7.7247" />
 			<point error="0.012" time="0.0142999999225" value="7.7194" />

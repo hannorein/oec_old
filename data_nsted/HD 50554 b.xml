@@ -5,6 +5,10 @@
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
 		<telescope>3.0m Shane and 0.6m CAT</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2450831.80492">
 			<point error="16." time="0.0" value="-26." />
 			<point error="16." time="22.9718870004" value="-17." />
@@ -43,6 +47,10 @@
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451171.06214">
 			<point error="3.5" time="0.0" value="-53.4" />
 			<point error="3.5" time="0.892975000199" value="-49.2" />
@@ -74,6 +82,10 @@
 		<bibcodes>2003A&amp;A...410.1039P</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2450769.6416">
 			<point error="0.011" time="0.0" value="-3.777" />
 			<point error="0.009" time="116.7497" value="-3.862" />
@@ -124,6 +136,10 @@
 		<bibcodes>2002PASP..114..529F</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
 		<telescope>3.0m Shane and 0.6m CAT</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2460831.805">
 			<point error="16.44" time="0.0" value="20.23" />
 			<point error="16.24" time="22.9719999996" value="26.67" />
@@ -148,6 +164,10 @@
 		<bibcodes>2002PASP..114..529F</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2461171.062">
 			<point error="4.06" time="0.0" value="-5.56" />
 			<point error="4.18" time="0.893000000156" value="0.00" />
@@ -168,6 +188,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447966.14105">
 			<point error="0.007" time="0.0" value="6.9735" />
 			<point error="0.008" time="25.6764599998" value="6.9746" />

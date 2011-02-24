@@ -5,6 +5,10 @@
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2452007.89573">
 			<point error="5.4" time="0.0" value="41.2" />
 			<point error="4.9" time="211.264502" value="70.8" />
@@ -60,6 +64,10 @@
 		<bibcodes>2001A&amp;A...375L..27N</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2451508.677">
 			<point error="0.012" time="0.0" value="3.657" />
 			<point error="0.012" time="1.01099999994" value="3.644" />
@@ -124,6 +132,10 @@
 		<bibcodes>2001A&amp;A...375L..27N</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2451293.846">
 			<point error="0.014" time="0.0" value="3.642" />
 			<point error="0.015" time="24.952" value="3.910" />
@@ -139,6 +151,10 @@
 		<bibcodes>2009ApJS..182...97W</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>9.2m Hobby Eberly Telescope (HET)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2453346.88103">
 			<point error="8.6" time="0.0" value="8.1" />
 			<point error="8.1" time="11.13986" value="-16.0" />
@@ -171,6 +187,10 @@
 		<bibcodes>2009A&amp;A...498L...5M</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2452075.3468">
 			<point error="0.012" time="0.0" value="3.628" />
 			<point error="0.013" time="0.0125000001863" value="3.642" />
@@ -199,6 +219,10 @@
 		<bibcodes>2009A&amp;A...498L...5M</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454871.47853">
 			<point error="0.0046" time="0.0" value="4.4562" />
 			<point error="0.0044" time="2.87399000023" value="4.1979" />
@@ -256,6 +280,10 @@
 		<bibcodes>2009ApJ...703.2091W</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2452007.89717">
 			<point error="2.06" time="0.0" value="-144.75" />
 			<point error="1.68" time="211.26367" value="-111.52" />
@@ -338,6 +366,10 @@
 		<bibcodes>2007AJ....134.1276W</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>9.2m Hobby Eberly Telescope (HET)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2453346.88103">
 			<point error="3.0" time="0.0" value="-20.8" />
 			<point error="2.7" time="11.13986" value="-49.5" />
@@ -370,6 +402,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447882.65834">
 			<point error="0.020" time="0.0" value="9.0465" />
 			<point error="0.023" time="0.192069999874" value="8.7958" />
@@ -469,6 +505,10 @@
 		<bibcodes />
 		<observatory>FINLAND</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2455099.22186">
 			<point error="9.999999" time="0.0" value="0.970909" />
 			<point error="9.999999" time="0.000440000090748" value="1.008274" />

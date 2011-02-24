@@ -5,6 +5,10 @@
 		<bibcodes>2010arXiv1005.2009B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2455017.09285">
 			<point error="2.3" time="0.0" value="-531.7" />
 			<point error="2.6" time="2.00127999997" value="179.5" />
@@ -20,6 +24,10 @@
 		<bibcodes>2010arXiv1005.2009B</bibcodes>
 		<observatory>La Palma, Spain</observatory>
 		<telescope>2.5m Nordic Optical Telescope (NOT)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2455048.64476">
 			<point error="4.6" time="0.0" value="-137.7" />
 			<point error="10.5" time="1.06161999982" value="-339.5" />
@@ -36,6 +44,10 @@
 		<bibcodes>2010arXiv1005.2009B</bibcodes>
 		<observatory>La Palma, Spain</observatory>
 		<telescope>2.5m Nordic Optical Telescope (NOT)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2455107.58955">
 			<point error="5.2" time="0.0" value="0.7" />
 			<point error="5.3" time="1.03835999966" value="-965.2" />

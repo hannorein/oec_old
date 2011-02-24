@@ -5,6 +5,10 @@
 		<bibcodes>2008PASJ...60.1317S</bibcodes>
 		<observatory>Okayama Astrophysical Observatory (OAO)</observatory>
 		<telescope>1.88m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2453005.9546">
 			<point error="8.6" time="0.0" value="30.2" />
 			<point error="5.7" time="239.2919" value="96.8" />
@@ -48,6 +52,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447863.44093">
 			<point error="0.005" time="0.0" value="5.3863" />
 			<point error="0.004" time="0.0143200000748" value="5.3900" />

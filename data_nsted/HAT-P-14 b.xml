@@ -5,6 +5,10 @@
 		<bibcodes>2010ApJ...715..458T</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2454602.85803">
 			<point error="3.63" time="0.0" value="-193.02" />
 			<point error="2.97" time="0.244630000088" value="-208.31" />

@@ -5,6 +5,10 @@
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
 		<telescope>3.9m Anglo-Australian Telescope (AAT)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2451034.19977">
 			<point error="4.2" time="0.0" value="59.5" />
 			<point error="9.9" time="84.8321869997" value="29.5" />
@@ -44,6 +48,10 @@
 		<bibcodes>2001A&amp;A...379..999S</bibcodes>
 		<observatory>ESO Las Silla, Chile</observatory>
 		<telescope>1.2m Euler Swiss telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2451385.92009">
 			<point error="0.005" time="0.0" value="-0.5140" />
 			<point error="0.004" time="8.859497" value="-0.5150" />
@@ -125,6 +133,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447877.82319">
 			<point error="0.006" time="0.0" value="6.9485" />
 			<point error="0.010" time="0.163480000105" value="6.9485" />

@@ -5,6 +5,10 @@
 		<bibcodes>2008MNRAS.387L...4A</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>1.2m Euler Swiss telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454359.61457">
 			<point error="0.016" time="0.0" value="19.785" />
 			<point error="0.015" time="3.04021499958" value="19.942" />
@@ -25,6 +29,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Superwasp Array</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2453870.61436">
 			<point error="-0.01378284" time="0.0" value="-0.12104949" />
 			<point error="0.00665829" time="0.000439810100943" value="-0.12077941" />
@@ -4584,6 +4592,10 @@
 		<bibcodes />
 		<observatory>ARGENTINA</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2455085.56205">
 			<point error="0.003542" time="0.0" value="1.006662" />
 			<point error="0.003542" time="0.000989999622107" value="1.001114" />

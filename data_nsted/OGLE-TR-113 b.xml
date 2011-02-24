@@ -5,6 +5,10 @@
 		<bibcodes>2004ApJ...609L..37K</bibcodes>
 		<observatory>Las Campanas Observatory, Chile</observatory>
 		<telescope>6.5m Magellan I (Walter Baade Telescope)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2452690.6259">
 			<point error="0.105" time="0.0" value="-7.797" />
 			<point error="0.114" time="1.09710000036" value="-8.008" />
@@ -21,6 +25,10 @@
 		<bibcodes>2004A&amp;A...421L..13B</bibcodes>
 		<observatory>ESO VLT, Paranal Observatory, Chile</observatory>
 		<telescope>8.2m Kueyen (UT2)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2453078.60419">
 			<point error="0.041" time="0.0" value="-7.862" />
 			<point error="0.040" time="1.03816" value="-8.268" />
@@ -38,6 +46,10 @@
 		<bibcodes>2005A&amp;A...438.1123P</bibcodes>
 		<observatory>ESO VLT Paranal Observatory, Chile</observatory>
 		<telescope>8.2m Kueyen (UT2)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2453078.60419">
 			<point error="0.039" time="0.0" value="-7.883" />
 			<point error="0.039" time="1.03816" value="-8.302" />
@@ -55,6 +67,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>1.3m Warsaw telescope at Las Campanas Observatory Chile</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2452322.65366">
 			<point error="14.42400000" time="0.0" value="-0.19391274" />
 			<point error="14.42000000" time="0.0175300003029" value="-0.18167539" />
@@ -1581,6 +1597,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>1.3m Warsaw telescope at Las Campanas Observatory Chile</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2452322.65366">
 			<point error="14.42400000" time="0.0" value="-0.19391274" />
 			<point error="14.42000000" time="0.0175300003029" value="-0.18167539" />
@@ -2756,6 +2776,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>NTT, La Silla, ESO, Chile</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2453464.50073">
 			<point error="1.00174308" time="0.0" value="-0.08092284" />
 			<point error="0.99970847" time="0.000620000064373" value="-0.08049002" />
@@ -3253,6 +3277,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Unit Telescope 4 at ESO VLT</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2453471.46634">
 			<point error="1.00041000" time="0.0" value="-0.21781878" />
 			<point error="0.99976100" time="0.00188000034541" value="-0.21650637" />

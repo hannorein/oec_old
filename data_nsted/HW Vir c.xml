@@ -5,6 +5,10 @@
 		<bibcodes>1996MNRAS.279.1380H</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
 		<telescope>3.9m Anglo-Australian Telescope (AAT)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2449382.193">
 			<point error="11.9" time="0.0" value="17.9" />
 			<point error="38.7" time="0.00700000021607" value="41.0" />
@@ -41,6 +45,10 @@
 		<bibcodes>1999MNRAS.305..820W</bibcodes>
 		<observatory>Kitt Peak National Observatory (KPNO), Arizona</observatory>
 		<telescope>2.1m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2449111.65181">
 			<point error="14.7" time="0.0" value="82.8" />
 			<point error="14.2" time="0.00328999990597" value="90.2" />
@@ -78,6 +86,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447860.62712">
 			<point error="0.034" time="0.0" value="10.4612" />
 			<point error="0.030" time="0.0143500003032" value="10.4427" />

@@ -5,6 +5,10 @@
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451341.97222">
 			<point error="2.7" time="0.0" value="296.6" />
 			<point error="2.8" time="27.9435530002" value="-222.7" />
@@ -28,6 +32,10 @@
 		<bibcodes>2002ApJ...568..363Z</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2451391.487">
 			<point error="0.010" time="0.0" value="-40.564" />
 			<point error="0.010" time="30.8689999999" value="-40.133" />
@@ -81,6 +89,10 @@
 		<bibcodes>2002ApJ...568..363Z</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2451008.976">
 			<point error="0.013" time="0.0" value="-40.511" />
 			<point error="0.012" time="28.821" value="-40.448" />
@@ -97,6 +109,10 @@
 		<bibcodes>2009ApJS..182...97W</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>9.2m Hobby Eberly Telescope (HET)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2453653.66528">
 			<point error="6.2" time="0.0" value="-57.4" />
 			<point error="6.1" time="147.33774" value="-217.2" />
@@ -146,6 +162,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447858.11472">
 			<point error="0.139" time="0.0" value="8.7255" />
 			<point error="0.032" time="38.7536800001" value="7.9080" />

@@ -5,6 +5,10 @@
 		<bibcodes>2006ApJ...652..661R</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
 		<telescope>0.6m CAT</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451808.039">
 			<point error="3.1" time="0.0" value="35.4" />
 			<point error="2.9" time="4.0" value="32.7" />
@@ -94,6 +98,10 @@
 		<bibcodes>1993ApJ...413..339H</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>2.7m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2447430.953">
 			<point error="1" time="0.0" value="-45.9" />
 			<point error="1" time="118.986" value="-33.7" />
@@ -135,6 +143,10 @@
 		<bibcodes>1993ApJ...413..339H</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>2.1m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2448555.988">
 			<point error="1" time="0.0" value="-41.0" />
 			<point error="1" time="1.97800000012" value="-19.0" />
@@ -163,6 +175,10 @@
 		<bibcodes>2006A&amp;A...457..335H</bibcodes>
 		<observatory>Thuringer Landessternwarte Tautenburg (TLS), Germany</observatory>
 		<telescope>2.0m Alfred Jensch telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2452656.6562">
 			<point error="3.5" time="0.0" value="-22.87" />
 			<point error="2.5" time="26.5546999997" value="-21.72" />
@@ -194,6 +210,10 @@
 		<bibcodes>2006A&amp;A...457..335H</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>2.7m Harlan J. Smith (HJS) telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2450836.7266">
 			<point error="6.4" time="0.0" value="3.72" />
 			<point error="9.0" time="102.9179" value="-8.38" />
@@ -214,6 +234,10 @@
 		<bibcodes>2006A&amp;A...457..335H</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>2.7m Harlan J. Smith (HJS) telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451558.8477">
 			<point error="5.0" time="0.0" value="-25.93" />
 			<point error="4.3" time="65.8984000003" value="-19.67" />
@@ -245,6 +269,10 @@
 		<bibcodes>2008JKAS...41...59H</bibcodes>
 		<observatory>Bohyunsan Optical Astronomy Observatory (BOAO), Korea</observatory>
 		<telescope>1.8m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2452776.99725">
 			<point error="0.0088" time="0.0" value="0.0305" />
 			<point error="0.0093" time="0.0016779997386" value="0.0191" />
@@ -419,6 +447,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447969.07456">
 			<point error="0.002" time="0.0" value="1.2906" />
 			<point error="0.002" time="0.0143499998376" value="1.2955" />

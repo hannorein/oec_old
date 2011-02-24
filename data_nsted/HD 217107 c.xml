@@ -5,6 +5,10 @@
 		<bibcodes>2000ApJ...536..902V</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451068.8595">
 			<point error="2.7" time="0.0" value="-20.9" />
 			<point error="2.9" time="1.11330000032" value="-114.4" />
@@ -35,6 +39,10 @@
 		<bibcodes>2007ApJ...654..625W</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>2.7m Harlan J. Smith (HJS) telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451449.84">
 			<point error="4.8" time="0.0" value="-44.9" />
 			<point error="5.1" time="106.7395" value="-52.7" />
@@ -67,6 +75,10 @@
 		<bibcodes>2005ApJ...632..638V</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451068.86">
 			<point error="2.2" time="0.0" value="-68.74" />
 			<point error="2.8" time="1.11300000036" value="-163.05" />
@@ -139,6 +151,10 @@
 		<bibcodes>1999PASP..111...50F</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451068.86">
 			<point error="1" time="0.0" value="54.01" />
 			<point error="1" time="1.11300000036" value="-41.24" />
@@ -155,6 +171,10 @@
 		<bibcodes>1999PASP..111...50F</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
 		<telescope>0.6m CAT</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451076.8">
 			<point error="1" time="0.0" value="-35.83" />
 			<point error="1" time="1.07200000016" value="-56.74" />
@@ -172,6 +192,10 @@
 		<bibcodes>1999PASP..111...50F</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
 		<telescope>3.0m Shane</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451005.962">
 			<point error="1" time="0.0" value="-76.55" />
 			<point error="1" time="1.00500000035" value="-68.69" />
@@ -187,6 +211,10 @@
 		<bibcodes>2001A&amp;A...375..205N</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>1.2m Euler Swiss telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2451067.71022">
 			<point error="0.016" time="0.0" value="-13.359" />
 			<point error="0.009" time="1.01061700005" value="-13.464" />
@@ -259,6 +287,10 @@
 		<bibcodes>2009ApJ...693.1084W</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451068.85955">
 			<point error="1.2" time="0.0" value="-66.4" />
 			<point error="1.4" time="1.11321699992" value="-160.8" />
@@ -354,6 +386,10 @@
 		<bibcodes>2009ApJ...693.1084W</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
 		<telescope>3.0m Shane and 0.6m CAT</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451027.94043">
 			<point error="7.5" time="0.0" value="-153.0" />
 			<point error="3.4" time="47.9171970002" value="-56.2" />
@@ -484,6 +520,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447881.46591">
 			<point error="0.005" time="0.0" value="6.3057" />
 			<point error="0.005" time="0.0142800002359" value="6.3155" />

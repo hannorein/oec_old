@@ -5,6 +5,10 @@
 		<bibcodes>1988ApJ...331..902C</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>3.6m CFHT</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2444655.009">
 			<point error="18.0" time="0.0" value="46.7" />
 			<point error="26.6" time="32.0009999997" value="125.6" />
@@ -40,6 +44,10 @@
 		<bibcodes>2010ApJ...708.1366V</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
 		<telescope>3.9m Anglo-Australian Telescope (AAT)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2453482.9644">
 			<point error="0.73" time="0.0" value="2.10" />
 			<point error="0.60" time="0.996770000085" value="5.56" />
@@ -175,6 +183,10 @@
 		<bibcodes>2010ApJ...708.1366V</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2453369.16663">
 			<point error="0.73" time="0.0" value="1.69" />
 			<point error="0.61" time="55.91004" value="7.30" />
@@ -264,6 +276,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447865.5162">
 			<point error="0.004" time="0.0" value="4.8653" />
 			<point error="0.004" time="0.0143300001509" value="4.8724" />

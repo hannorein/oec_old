@@ -5,6 +5,10 @@
 		<bibcodes>2010ApJ...711.1229A</bibcodes>
 		<observatory>Las Campanas Observatory, Chile</observatory>
 		<telescope>6.5m Magellan II (Clay)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2452917.4972">
 			<point error="6.2" time="0.0" value="-24.3" />
 			<point error="3.3" time="625.1677" value="22.5" />
@@ -29,6 +33,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447965.21464">
 			<point error="0.015" time="0.0" value="9.3343" />
 			<point error="0.014" time="0.0143300001509" value="9.3316" />

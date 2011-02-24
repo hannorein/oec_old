@@ -5,6 +5,10 @@
 		<bibcodes>2009ApJS..182...97W</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>2.7m Harlan J. Smith (HJS) telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2453632.0029">
 			<point error="7.4" time="0.0" value="2.7" />
 			<point error="8.2" time="3.96693999972" value="-3.7" />
@@ -33,6 +37,10 @@
 		<bibcodes>2009ApJS..182...97W</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>9.2m Hobby Eberly Telescope (HET)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2453581.93777">
 			<point error="8.3" time="0.0" value="9.2" />
 			<point error="11.9" time="10.9772199998" value="13.0" />
@@ -123,6 +131,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447913.54492">
 			<point error="0.005" time="0.0" value="6.5228" />
 			<point error="0.007" time="0.0143300001509" value="6.5141" />

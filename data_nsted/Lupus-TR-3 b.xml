@@ -5,6 +5,10 @@
 		<bibcodes>2008ApJ...675L..37W</bibcodes>
 		<observatory>Las Campanas Observatory, Chile</observatory>
 		<telescope>6.5m Magellan II (Clay)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454272.63394">
 			<point error="0.103" time="0.0" value="9.454" />
 			<point error="0.118" time="0.0273589999415" value="9.271" />

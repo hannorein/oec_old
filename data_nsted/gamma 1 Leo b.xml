@@ -5,6 +5,10 @@
 		<bibcodes>2010A&amp;A...509A..24H</bibcodes>
 		<observatory>Bohyunsan Optical Astronomy Observatory (BOAO), Korea</observatory>
 		<telescope>1.8m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2452776.10709">
 			<point error="0.0208" time="0.0" value="0.3266" />
 			<point error="0.0080" time="0.0167809999548" value="0.3178" />
@@ -219,6 +223,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447882.48762">
 			<point error="0.007" time="0.0" value="2.1775" />
 			<point error="0.002" time="0.0143200000748" value="2.1609" />

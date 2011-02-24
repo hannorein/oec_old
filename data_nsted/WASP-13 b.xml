@@ -5,6 +5,10 @@
 		<bibcodes>2009A&amp;A...502..391S</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454508.48441">
 			<point error="0.0088" time="0.0" value="9.8660" />
 			<point error="0.0072" time="0.975370000117" value="9.8126" />

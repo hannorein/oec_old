@@ -5,6 +5,10 @@
 		<bibcodes>2008A&amp;A...491..889D</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>2.1m Otto Struve telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454607.8861">
 			<point error="0.163" time="0.0" value="-57.786" />
 			<point error="0.100" time="1.96670000022" value="-53.187" />
@@ -17,6 +21,10 @@
 		<bibcodes>2008A&amp;A...491..889D</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>3.6m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454341.6815">
 			<point error="0.052" time="0.0" value="-53.978" />
 			<point error="0.049" time="0.955099999905" value="-55.867" />
@@ -30,6 +38,10 @@
 		<bibcodes>2008A&amp;A...491..889D</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>1.2m Euler Swiss telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454320.7188">
 			<point error="0.200" time="0.0" value="-54.628" />
 			<point error="0.198" time="1.98860000027" value="-58.523" />
@@ -57,6 +69,10 @@
 		<bibcodes>2008A&amp;A...491..889D</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454309.5696">
 			<point error="0.046" time="0.0" value="-58.262" />
 			<point error="0.060" time="6.89759999979" value="-54.269" />
@@ -73,6 +89,10 @@
 		<bibcodes>2008A&amp;A...491..889D</bibcodes>
 		<observatory>Tautenberg, Germany</observatory>
 		<telescope>2.0m Alfred Jensch telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454331.359">
 			<point error="0.250" time="0.0" value="-57.130" />
 			<point error="0.290" time="1.0009999997" value="-54.460" />
@@ -85,6 +105,10 @@
 		<bibcodes>2009A&amp;A...506..377T</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>3.6m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454704.48867">
 			<point error="0.04256" time="0.0" value="-55.88060" />
 			<point error="0.02717" time="0.0196400000714" value="-55.93619" />
@@ -105,6 +129,10 @@
 		<bibcodes />
 		<observatory>USA (INDIANA)</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2455087.57191">
 			<point error="0.004100" time="0.0" value="1.000917" />
 			<point error="0.004100" time="0.00216000014916" value="1.000917" />

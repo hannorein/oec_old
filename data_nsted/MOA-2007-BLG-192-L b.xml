@@ -5,6 +5,10 @@
 		<bibcodes>2008ApJ...684..663B</bibcodes>
 		<observatory>Mt John Observatory</observatory>
 		<telescope>MOA-II</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>RELATIVE MAGNITUDE</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>mag</yaxisunits>
 		<data mintime="4206.24677">
 			<point error="1" time="0.0" value="0.0801" />
 			<point error="1" time="1.90125" value="0.2334" />
@@ -732,6 +736,10 @@
 		<bibcodes>2008ApJ...684..663B</bibcodes>
 		<observatory>Las Campanas Observatory</observatory>
 		<telescope>Warsaw University Telescope</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>RELATIVE MAGNITUDE</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>mag</yaxisunits>
 		<data mintime="2127.52477">
 			<point error="1" time="0.0" value="0.2125" />
 			<point error="1" time="3.03257" value="0.3514" />

@@ -5,6 +5,10 @@
 		<bibcodes>2003ApJ...597.1076K</bibcodes>
 		<observatory>Manua Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2452481.79455">
 			<point error="0.06" time="0.0" value="0.09" />
 			<point error="0.05" time="1.96317999996" value="-0.09" />
@@ -16,6 +20,10 @@
 		<bibcodes>2005A&amp;A...431.1105B</bibcodes>
 		<observatory>ESO VLT, Paranal Observatory, Chile</observatory>
 		<telescope>8.2m Kueyen (UT2)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2452759.72111">
 			<point error="0.064" time="0.0" value="-6.291" />
 			<point error="0.051" time="5.13597000018" value="-6.236" />
@@ -33,6 +41,10 @@
 		<bibcodes>2005A&amp;A...431.1105B</bibcodes>
 		<observatory>ESO VLT, Paranal Observatory, Chile</observatory>
 		<telescope>8.2m Kueyen (UT2)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2452522.50823">
 			<point error="0.065" time="0.0" value="-6.421" />
 			<point error="0.061" time="3.00082000019" value="-6.413" />
@@ -50,6 +62,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>6.5m Baade telescope at LCO, Chile</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2453921.58279">
 			<point error="1.00155000" time="0.0" value="-0.03235958" />
 			<point error="1.00043000" time="0.00328999990597" value="-0.03129877" />
@@ -447,6 +463,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>6.5m Clay telescope at LCO, Chile</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2452851.68436">
 			<point error="1.00108000" time="0.0" value="-0.01975559" />
 			<point error="0.99943000" time="0.00221000006422" value="-0.01904301" />
@@ -565,6 +585,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>6.5m Clay telescope at LCO, Chile</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2452851.68325">
 			<point error="1.00446000" time="0.0" value="-0.02011350" />
 			<point error="0.99936000" time="0.00223000021651" value="-0.01939447" />
@@ -678,6 +702,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Very Large Telescope (VLT)</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2453890.66915">
 			<point error="0.98612314" time="0.0" value="-0.00285365" />
 			<point error="0.98592162" time="0.00105000007898" value="-0.00251508" />
@@ -754,6 +782,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Very Large Telescope (VLT)</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2453890.6617">
 			<point error="0.98529619" time="0.0" value="-0.00525588" />
 			<point error="0.98781770" time="0.00105000007898" value="-0.00491731" />
@@ -841,6 +873,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>1.3m Warsaw telescope at Las Campanas Observatory Chile</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2452072.60813">
 			<point error="14.93100000" time="0.0" value="-0.22393273" />
 			<point error="14.93500000" time="0.0113499998115" value="-0.22027580" />

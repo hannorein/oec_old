@@ -5,6 +5,10 @@
 		<bibcodes>2009A&amp;A...505..859Z</bibcodes>
 		<observatory>ESO VLT, Paranal Observatory, Chile</observatory>
 		<telescope>8.2m Kueyen (UT2)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451634.67821">
 			<point error="3.32" time="0.0" value="8.09" />
 			<point error="3.18" time="0.00474200025201" value="6.62" />
@@ -180,6 +184,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447881.96433">
 			<point error="0.023" time="0.0" value="9.8680" />
 			<point error="0.021" time="0.0143099999987" value="9.8536" />

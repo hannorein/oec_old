@@ -5,6 +5,10 @@
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451755.76855">
 			<point error="2.1" time="0.0" value="-24.4" />
 			<point error="2.8" time="228.291551" value="-77.5" />
@@ -26,6 +30,10 @@
 		<bibcodes>2000A&amp;A...356..590U</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>1.2m Euler Swiss telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2451257.85195">
 			<point error="0.009" time="0.0" value="-12.427" />
 			<point error="0.009" time="9.95291400002" value="-12.487" />
@@ -153,6 +161,10 @@
 		<bibcodes>2009ApJS..182...97W</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>9.2m Hobby Eberly Telescope (HET)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2453471.80558">
 			<point error="7.2" time="0.0" value="-99.8" />
 			<point error="6.6" time="10.07968" value="-106.9" />
@@ -192,6 +204,10 @@
 		<bibcodes>2009ApJS..182...97W</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>2.7m Harlan J. Smith (HJS) telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2453585.649">
 			<point error="7.5" time="0.0" value="83.7" />
 			<point error="7.5" time="258.24353" value="-18.0" />
@@ -206,6 +222,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447906.47183">
 			<point error="0.009" time="0.0" value="8.1959" />
 			<point error="0.009" time="0.0143199996091" value="8.1879" />

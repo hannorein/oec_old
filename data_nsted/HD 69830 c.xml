@@ -5,6 +5,10 @@
 		<bibcodes>2006Natur.441..305L</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>3.6m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2452939.87402">
 			<point error="0.00115" time="0.0" value="30.28781" />
 			<point error="0.00123" time="4.00206999993" value="30.29179" />
@@ -88,6 +92,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447964.97697">
 			<point error="0.005" time="0.0" value="6.0905" />
 			<point error="0.037" time="0.0142999999225" value="6.2524" />

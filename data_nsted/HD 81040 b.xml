@@ -5,6 +5,10 @@
 		<bibcodes>2006A&amp;A...449..417S</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2452308.6331">
 			<point error="0.012" time="0.0" value="49.399" />
 			<point error="0.021" time="47.7818" value="49.412" />
@@ -37,6 +41,10 @@
 		<bibcodes>2006A&amp;A...449..417S</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2451291.36542">
 			<point error="0.012" time="0.0" value="49.319" />
 			<point error="0.014" time="2.00833999971" value="49.312" />
@@ -49,6 +57,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447976.18446">
 			<point error="0.008" time="0.0" value="7.8549" />
 			<point error="0.009" time="0.0142999999225" value="7.8675" />

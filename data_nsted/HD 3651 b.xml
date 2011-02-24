@@ -5,6 +5,10 @@
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
 		<telescope>3.0m Shane and 0.6m CAT</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2447047.8543">
 			<point error="7.9" time="0.0" value="16.3" />
 			<point error="7.1" time="327.0859" value="-0.7" />
@@ -135,6 +139,10 @@
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2450366.92463">
 			<point error="2.3" time="0.0" value="-6.5" />
 			<point error="2.3" time="349.126481" value="5.4" />
@@ -186,6 +194,10 @@
 		<bibcodes>2003ApJ...590.1081F</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2450366.925">
 			<point error="2.74" time="0.0" value="-3.11" />
 			<point error="3.99" time="300.108" value="1.34" />
@@ -221,6 +233,10 @@
 		<bibcodes>2003ApJ...590.1081F</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
 		<telescope>3.0m Shane and 0.6m CAT</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2447047.854">
 			<point error="7.88" time="0.0" value="13.74" />
 			<point error="7.15" time="327.086" value="-3.19" />
@@ -342,6 +358,10 @@
 		<bibcodes>2009ApJS..182...97W</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>9.2m Hobby Eberly Telescope (HET)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2453581.21162">
 			<point error="3.7" time="0.0" value="14.4" />
 			<point error="4.7" time="19.5869799997" value="0.4" />
@@ -386,6 +406,10 @@
 		<bibcodes>2009ApJS..182...97W</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>2.7m Harlan J. Smith (HJS) telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2453633.86853">
 			<point error="5.0" time="0.0" value="-3.3" />
 			<point error="6.6" time="20.92924" value="6.6" />
@@ -399,6 +423,10 @@
 		<bibcodes>2007AJ....134.1276W</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>9.2m Hobby Eberly Telescope (HET)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2453581.87326">
 			<point error="2.9" time="0.0" value="-19.1" />
 			<point error="2.7" time="0.00260000023991" value="-19.4" />
@@ -491,6 +519,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447877.93572">
 			<point error="0.005" time="0.0" value="6.0396" />
 			<point error="0.005" time="29.7602400002" value="6.0380" />

@@ -5,6 +5,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447871.3265">
 			<point error="0.023" time="0.0" value="9.4056" />
 			<point error="0.016" time="59.5201900001" value="9.3983" />
@@ -144,6 +148,10 @@
 		<bibcodes />
 		<observatory>ARGENTINA</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2455103.56902">
 			<point error="0.009881" time="0.0" value="1.003331" />
 			<point error="0.009881" time="0.000200000125915" value="0.998721" />

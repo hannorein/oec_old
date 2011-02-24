@@ -5,6 +5,10 @@
 		<bibcodes>2004A&amp;A...415..391M</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>1.2m Euler Swiss telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2451022.572">
 			<point error="0.008" time="0.0" value="12.913" />
 			<point error="0.006" time="197.2674" value="12.958" />
@@ -44,6 +48,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447917.58355">
 			<point error="0.005" time="0.0" value="5.5070" />
 			<point error="0.004" time="0.0143299996853" value="5.5134" />

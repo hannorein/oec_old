@@ -5,6 +5,10 @@
 		<bibcodes>2009PASP..121..613P</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2453015.11">
 			<point error="1.99" time="0.0" value="-18.65" />
 			<point error="1.82" time="1.01699999999" value="-22.75" />
@@ -61,6 +65,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447881.96008">
 			<point error="0.011" time="0.0" value="8.2452" />
 			<point error="0.011" time="0.0143699999899" value="8.2306" />

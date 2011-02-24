@@ -5,6 +5,10 @@
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
 		<telescope>3.0m Shane and 0.6m CAT</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2447195.02762">
 			<point error="7.4" time="0.0" value="-178.1" />
 			<point error="5.8" time="29.8207020001" value="116.3" />
@@ -88,6 +92,10 @@
 		<bibcodes>2004A&amp;A...414..351N</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2450150.5674">
 			<point error="0.007" time="0.0" value="5.278" />
 			<point error="0.007" time="56.9059000001" value="4.755" />
@@ -132,6 +140,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447872.19032">
 			<point error="0.004" time="0.0" value="5.1033" />
 			<point error="0.005" time="0.0745700001717" value="5.1093" />

@@ -5,6 +5,10 @@
 		<bibcodes>2009A&amp;A...497..545S</bibcodes>
 		<observatory>ESO VLT, Paranal Observatory, Chile</observatory>
 		<telescope>8.2m Kueyen (UT2)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454465.8421">
 			<point error="0.224" time="0.0" value="1.090" />
 			<point error="0.276" time="1.01619999995" value="1.204" />

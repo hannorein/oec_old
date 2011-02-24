@@ -5,6 +5,10 @@
 		<bibcodes>2009ApJ...690..743B</bibcodes>
 		<observatory>Siding Springs Observatory, Australia</observatory>
 		<telescope>3.9m Anglo-Australian Telescope (AAT)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451034.0873">
 			<point error="2.2" time="0.0" value="6.8" />
 			<point error="6.0" time="84.9286000002" value="14.0" />
@@ -46,6 +50,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447881.46561">
 			<point error="0.022" time="0.0" value="8.6818" />
 			<point error="0.012" time="0.0745500000194" value="8.6955" />

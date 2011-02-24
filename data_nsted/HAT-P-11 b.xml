@@ -5,6 +5,10 @@
 		<bibcodes>2010ApJ...710.1724B</bibcodes>
 		<observatory>Mauna Kea, HI</observatory>
 		<telescope>Keck</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2454335.89332">
 			<point error="1.10" time="0.0" value="8.31" />
 			<point error="1.17" time="0.00665000034496" value="8.61" />
@@ -67,6 +71,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447861.66984">
 			<point error="0.020" time="0.0" value="9.5760" />
 			<point error="0.021" time="0.0143200000748" value="9.5869" />
@@ -179,6 +187,10 @@
 		<bibcodes />
 		<observatory>CROATIA</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2455021.34347">
 			<point error="0.001770" time="0.0" value="0.998920" />
 			<point error="0.001770" time="0.00111000007018" value="0.996164" />
@@ -285,6 +297,10 @@
 		<bibcodes />
 		<observatory>MISSOURI</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2455050.60716">
 			<point error="0.002566" time="0.0" value="1.000398" />
 			<point error="0.002566" time="0.000329999718815" value="0.999753" />

@@ -5,6 +5,10 @@
 		<bibcodes>2004ApJ...611L.133C</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>9.2m Hobby Eberly Telescope (HET)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2453002.6715">
 			<point error="8.4" time="0.0" value="94.7" />
 			<point error="7.8" time="1.01379999984" value="97.1" />
@@ -34,6 +38,10 @@
 		<bibcodes>2004ApJ...611L.133C</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>2.1m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2453072.1363">
 			<point error="25.99" time="0.0" value="69.5" />
 			<point error="30.24" time="25.4982000003" value="-177.0" />
@@ -50,6 +58,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447960.18388">
 			<point error="0.012" time="0.0" value="8.8336" />
 			<point error="0.013" time="0.0143300001509" value="8.8187" />

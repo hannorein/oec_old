@@ -5,6 +5,10 @@
 		<bibcodes>2009A&amp;A...506..281R</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454463.4939">
 			<point error="0.017" time="0.0" value="48.947" />
 			<point error="0.028" time="2.03080999991" value="48.816" />
@@ -20,6 +24,10 @@
 		<bibcodes>2009A&amp;A...506..281R</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>3.6m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454548.58378">
 			<point error="0.014" time="0.0" value="48.933" />
 			<point error="0.021" time="1.99400800001" value="48.792" />

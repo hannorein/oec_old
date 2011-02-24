@@ -5,6 +5,10 @@
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451552.02287">
 			<point error="3.0" time="0.0" value="-66.7" />
 			<point error="3.4" time="30.837361" value="-94.3" />
@@ -42,6 +46,10 @@
 		<bibcodes>2002ApJ...568..352V</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
 		<telescope>3.0m Shane and 0.6m CAT</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2450913.9219">
 			<point error="8.0" time="0.0" value="6.2" />
 			<point error="8.8" time="0.910000000149" value="-139.6" />
@@ -57,6 +65,10 @@
 		<bibcodes>2002ApJ...568..352V</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2450552.0229">
 			<point error="4.0" time="0.0" value="-102.4" />
 			<point error="4.4" time="30.8372999998" value="-129.4" />
@@ -79,6 +91,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447929.19749">
 			<point error="0.014" time="0.0" value="8.3373" />
 			<point error="0.012" time="0.0143199996091" value="8.3280" />
@@ -236,6 +252,10 @@
 		<bibcodes />
 		<observatory>SPAIN</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2454913.37566">
 			<point error="0.001860" time="0.0" value="1.000662" />
 			<point error="0.001860" time="0.00157999992371" value="1.002692" />

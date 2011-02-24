@@ -5,6 +5,10 @@
 		<bibcodes>2010arXiv1003.3445J</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2454339.932">
 			<point error="1.57" time="0.0" value="23.92" />
 			<point error="1.59" time="59.9100000001" value="21.61" />
@@ -42,6 +46,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447860.678">
 			<point error="0.011" time="0.0" value="7.9958" />
 			<point error="0.008" time="0.0143000003882" value="7.9980" />

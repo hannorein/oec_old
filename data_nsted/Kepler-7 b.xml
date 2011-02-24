@@ -5,6 +5,10 @@
 		<bibcodes>2010ApJ...713L.140L</bibcodes>
 		<observatory>La Palma, Spain</observatory>
 		<telescope>2.5m Nordic Optical Telescope (NOT)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2455107.37937">
 			<point error="6.8" time="0.0" value="43.7" />
 			<point error="7.1" time="0.989079999737" value="32.7" />

@@ -5,6 +5,10 @@
 		<bibcodes>2010ApJ...715..550H</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>8.2m Subaru</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2453695.0902">
 			<point error="4.2" time="0.0" value="-159.0" />
 			<point error="4.0" time="0.898099999875" value="-151.3" />
@@ -25,6 +29,10 @@
 		<bibcodes>2010ApJ...715..550H</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2453982.1185">
 			<point error="0.9" time="0.0" value="201.4" />
 			<point error="0.9" time="0.993699999992" value="196.8" />
@@ -44,6 +52,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447914.34778">
 			<point error="0.015" time="0.0" value="8.4216" />
 			<point error="0.013" time="0.0745800002478" value="8.4050" />

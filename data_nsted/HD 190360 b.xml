@@ -5,6 +5,10 @@
 		<bibcodes>2005ApJ...632..638V</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2450365.721">
 			<point error="2.4" time="0.0" value="18.83" />
 			<point error="2.2" time="239.338" value="30.15" />
@@ -98,6 +102,10 @@
 		<bibcodes>2003A&amp;A...410.1051N</bibcodes>
 		<observatory>Fred L. Whhipple Observatory (FLWO), Mt. Hopkins, Arizona</observatory>
 		<telescope>1.5m Tillinghast</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2450233.922">
 			<point error="0.005" time="0.0" value="-45.342" />
 			<point error="0.007" time="1.98940000031" value="-45.320" />
@@ -120,6 +128,10 @@
 		<bibcodes>2003A&amp;A...410.1051N</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2449611.4278">
 			<point error="0.010" time="0.0" value="-45.377" />
 			<point error="0.008" time="240.1867" value="-45.353" />
@@ -185,6 +197,10 @@
 		<bibcodes>2009ApJ...693.1084W</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2450365.72051">
 			<point error="1.2" time="0.0" value="-1.2" />
 			<point error="1.1" time="239.338044" value="11.6" />
@@ -301,6 +317,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447857.49005">
 			<point error="0.006" time="0.0" value="5.8858" />
 			<point error="0.007" time="0.0143499998376" value="5.8828" />

@@ -5,6 +5,10 @@
 		<bibcodes>2008A&amp;A...482L..17B</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454184.30498">
 			<point error="0.0385" time="0.0" value="23.2879" />
 			<point error="0.06001" time="1.00369000016" value="23.1284" />
@@ -23,6 +27,10 @@
 		<bibcodes />
 		<observatory>FINLAND</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2454776.56076">
 			<point error="0.005225" time="0.0" value="1.012298" />
 			<point error="0.005225" time="0.00125000020489" value="0.997490" />
@@ -122,6 +130,10 @@
 		<bibcodes />
 		<observatory>USA (INDIANA)</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2454868.53096">
 			<point error="9.999999" time="0.0" value="0.982392" />
 			<point error="9.999999" time="0.00167999975383" value="1.007964" />

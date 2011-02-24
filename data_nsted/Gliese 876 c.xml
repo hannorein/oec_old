@@ -5,6 +5,10 @@
 		<bibcodes>2001ApJ...556..296M</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2450602.0931">
 			<point error="4.6" time="0.0" value="343.72" />
 			<point error="4.4" time="1.01529999962" value="365.47" />
@@ -68,6 +72,10 @@
 		<bibcodes>2001ApJ...556..296M</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
 		<telescope>3.0m Shane and 0.6m CAT</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2449679.6316">
 			<point error="19.7" time="0.0" value="58.07" />
 			<point error="29.1" time="234.3397" value="39.56" />
@@ -93,6 +101,10 @@
 		<bibcodes>2005ApJ...622.1182L</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2450602.093">
 			<point error="4.83744" time="0.0" value="275.000" />
 			<point error="4.87634" time="1.01500000013" value="293.541" />
@@ -215,6 +227,10 @@
 		<bibcodes>2005ApJ...634..625R</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="245602.093">
 			<point error="3.64" time="0.0" value="294.79" />
 			<point error="3.73" time="1.01500000001" value="313.42" />
@@ -379,6 +395,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447880.84034">
 			<point error="0.020" time="0.0" value="10.1480" />
 			<point error="0.019" time="0.0142999999225" value="10.1493" />

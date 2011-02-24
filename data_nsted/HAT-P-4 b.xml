@@ -5,6 +5,10 @@
 		<bibcodes>2007ApJ...670L..41K</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2454186.98522">
 			<point error="2.1" time="0.0" value="101.0" />
 			<point error="2.1" time="0.127189999912" value="92.6" />
@@ -23,6 +27,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>1.2m telescope at FLWO of SAO</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2454245.68484">
 			<point error="10.53616000" time="0.0" value="-0.04271662" />
 			<point error="10.53446000" time="0.000682999845594" value="-0.04249317" />
@@ -1017,6 +1025,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>HAT-7 telescope at FLWO</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2453358.0253">
 			<point error="10.53689000" time="0.0" value="-0.45628646" />
 			<point error="10.53040000" time="0.00386380031705" value="-0.45502235" />
@@ -6362,6 +6374,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Super WASP array telescopes</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2454149.62392">
 			<point error="0.0120112491766" time="0.0" value="0.00457003" />
 			<point error="0.012226380783" time="0.00043981987983" value="0.01040435" />
@@ -11425,6 +11441,10 @@
 		<bibcodes />
 		<observatory>BELGIUM</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2454380.26128">
 			<point error="0.005464" time="0.0" value="0.993014" />
 			<point error="0.005464" time="0.000370000023395" value="0.985725" />
@@ -11615,6 +11635,10 @@
 		<bibcodes />
 		<observatory>SPAIN</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2454557.46594">
 			<point error="9.999999" time="0.0" value="1.001916" />
 			<point error="0.001625" time="0.0049899998121" value="0.996395" />
@@ -11679,6 +11703,10 @@
 		<bibcodes />
 		<observatory>UTAH</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2455009.8224">
 			<point error="0.006550" time="0.0" value="1.000282" />
 			<point error="0.006550" time="0.000449999701232" value="0.992939" />
@@ -11872,6 +11900,10 @@
 		<bibcodes />
 		<observatory>PORTUGAL</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2454930.36912">
 			<point error="0.003156" time="0.0" value="1.002983" />
 			<point error="0.003156" time="0.00168000021949" value="0.999663" />
@@ -12059,6 +12091,10 @@
 		<bibcodes />
 		<observatory>SPAIN</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2454927.31333">
 			<point error="9.999999" time="0.0" value="0.985699" />
 			<point error="9.999999" time="0.0015199999325" value="1.013688" />
@@ -12326,6 +12362,10 @@
 		<bibcodes />
 		<observatory>FINLAND</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2454597.34698">
 			<point error="0.002758" time="0.0" value="0.991264" />
 			<point error="0.002758" time="0.00088999979198" value="0.995839" />

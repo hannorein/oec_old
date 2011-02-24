@@ -5,6 +5,10 @@
 		<bibcodes>2009Natur.462..891C</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>3.6m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2454993.76749">
 			<point error="4.455" time="0.0" value="-3.067" />
 			<point error="4.440" time="0.8752969997" value="23.961" />

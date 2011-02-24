@@ -5,6 +5,10 @@
 		<bibcodes>2010arXiv1004.4551C</bibcodes>
 		<observatory>Thuringer Landessternwarte Tautenburg (TLS), Germany</observatory>
 		<telescope>2.0m Alfred Jensch Telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454070.4555">
 			<point error="0.8" time="0.0" value="0.5" />
 			<point error="0.7" time="0.0180999999866" value="2.4" />
@@ -43,6 +47,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447913.19157">
 			<point error="0.012" time="0.0" value="8.2065" />
 			<point error="0.009" time="0.0143300001509" value="8.2010" />

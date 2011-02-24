@@ -5,6 +5,10 @@
 		<bibcodes>2006A&amp;A...446..717D</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2453151.4302">
 			<point error="0.013" time="0.0" value="-29.263" />
 			<point error="0.014" time="1.99330000021" value="-29.231" />
@@ -57,6 +61,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447871.36839">
 			<point error="0.012" time="0.0" value="8.2238" />
 			<point error="0.012" time="0.0143300001509" value="8.2020" />

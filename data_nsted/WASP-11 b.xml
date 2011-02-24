@@ -5,6 +5,10 @@
 		<bibcodes>2009ApJ...696.1950B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2454547.76983">
 			<point error="4.32" time="0.0" value="35.78" />
 			<point error="2.00" time="0.986310000066" value="21.56" />
@@ -22,6 +26,10 @@
 		<bibcodes>2009A&amp;A...502..395W</bibcodes>
 		<observatory>La Palma, Spain</observatory>
 		<telescope>2.5m Nordic Optical Telescope (NOT)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454462.395">
 			<point error="0.0185" time="0.0" value="4.8689" />
 			<point error="0.0203" time="1.06099999975" value="4.8725" />
@@ -37,6 +45,10 @@
 		<bibcodes>2009A&amp;A...502..395W</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454508.37">
 			<point error="0.0103" time="0.0" value="4.8910" />
 			<point error="0.0084" time="0.983399999794" value="5.0104" />
@@ -53,6 +65,10 @@
 		<bibcodes />
 		<observatory>GREECE</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2454748.4147">
 			<point error="0.007851" time="0.0" value="1.012066" />
 			<point error="0.007851" time="0.00111000007018" value="0.998180" />
@@ -231,6 +247,10 @@
 		<bibcodes />
 		<observatory>CYPRUS</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2454860.20916">
 			<point error="9.999999" time="0.0" value="0.985736" />
 			<point error="9.999999" time="0.000849999953061" value="0.985736" />

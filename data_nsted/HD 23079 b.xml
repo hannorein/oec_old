@@ -5,6 +5,10 @@
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
 		<telescope>3.9m Anglo-Australian Telescope (AAT)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2450831.06891">
 			<point error="4.2" time="0.0" value="-36.6" />
 			<point error="5.2" time="642.180243" value="-47.9" />
@@ -33,6 +37,10 @@
 		<bibcodes>2002ApJ...571..528T</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>3.9m Anglo-Australian Telescope (AAT)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2450831.0689">
 			<point error="5.3" time="0.0" value="-42.1" />
 			<point error="12.0" time="290.0579" value="27.7" />
@@ -56,6 +64,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447895.13408">
 			<point error="0.010" time="0.0" value="7.2310" />
 			<point error="0.006" time="51.3534899997" value="7.2336" />

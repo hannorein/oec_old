@@ -5,6 +5,10 @@
 		<bibcodes>2005ApJ...633..465S</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>8.2m Subaru</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2453206.9138">
 			<point error="3.15" time="0.0" value="-24.10" />
 			<point error="3.21" time="1.02185199969" value="38.95" />
@@ -18,6 +22,10 @@
 		<bibcodes>2005ApJ...633..465S</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2453427.15862">
 			<point error="2.08" time="0.0" value="0.76" />
 			<point error="2.29" time="1.95531199966" value="27.76" />
@@ -34,6 +42,10 @@
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2453429.11393">
 			<point error="3.5" time="0.0" value="35.9" />
 			<point error="3.5" time="50.996667" value="-15.1" />
@@ -59,6 +71,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>0.8m T10 automated telescope at Fairborn Obs.</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2453485.7969">
 			<point error="1.60560000" time="0.0" value="0.38799277" />
 			<point error="1.60310000" time="0.0863000000827" value="0.41799346" />
@@ -1041,6 +1057,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>1.2m telescope at FLWO of SAO</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2453527.75031">
 			<point error="0.99830000" time="0.0" value="-0.04259035" />
 			<point error="0.99840000" time="0.000313000287861" value="-0.04248152" />
@@ -1729,6 +1749,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>1.2m telescope at FLWO of SAO</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2453553.69317">
 			<point error="1.00430000" time="0.0" value="-0.02278667" />
 			<point error="0.99850000" time="0.000313000287861" value="-0.02267784" />
@@ -2312,6 +2336,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>0.26m TopHAT telescope at FLWO</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2453553.67542">
 			<point error="0.99400000" time="0.0" value="-0.02930514" />
 			<point error="1.00970000" time="0.00196499982849" value="-0.02862190" />
@@ -2558,6 +2586,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447861.67683">
 			<point error="0.015" time="0.0" value="8.2542" />
 			<point error="0.014" time="0.0143300001509" value="8.2527" />
@@ -2686,6 +2718,10 @@
 		<bibcodes />
 		<observatory>CROATIA</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2454997.32795">
 			<point error="0.002937" time="0.0" value="0.993415" />
 			<point error="0.002937" time="0.000759999733418" value="0.996164" />
@@ -3055,6 +3091,10 @@
 		<bibcodes />
 		<observatory>ARIZONA</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2455060.61488">
 			<point error="9.999999" time="0.0" value="0.999718" />
 			<point error="9.999999" time="0.000609999988228" value="1.038192" />

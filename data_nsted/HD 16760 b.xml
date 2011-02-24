@@ -5,6 +5,10 @@
 		<bibcodes>2009A&amp;A...505..853B</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454099.3679">
 			<point error="0.0055" time="0.0" value="-3.6736" />
 			<point error="0.0058" time="26.9760000003" value="-3.7916" />
@@ -34,6 +38,10 @@
 		<bibcodes>2009ApJ...703..671S</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>8.2m Subaru</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2453360.8984">
 			<point error="4.66" time="0.0" value="-67.01" />
 			<point error="5.28" time="40.9731200002" value="200.38" />
@@ -53,6 +61,10 @@
 		<bibcodes>2009ApJ...703..671S</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2453746.81122">
 			<point error="1.28" time="0.0" value="-409.23" />
 			<point error="1.24" time="1.06333999988" value="-414.10" />
@@ -79,6 +91,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447913.7247">
 			<point error="0.026" time="0.0" value="8.7946" />
 			<point error="0.025" time="0.0143399997614" value="8.8328" />

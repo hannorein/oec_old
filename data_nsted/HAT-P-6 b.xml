@@ -5,6 +5,10 @@
 		<bibcodes>2008ApJ...673L..79N</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2454022.70228">
 			<point error="4.85" time="0.0" value="74.01" />
 			<point error="4.85" time="1.0867300001" value="47.70" />
@@ -29,6 +33,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Super WASP array telescopes</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2454306.60231">
 			<point error="0.0195459110905" time="0.0" value="0.00939912" />
 			<point error="0.0193159137034" time="0.000439820345491" value="-0.00246181" />
@@ -4919,6 +4927,10 @@
 		<bibcodes />
 		<observatory>UTAH</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2454767.63884">
 			<point error="0.001571" time="0.0" value="0.999467" />
 			<point error="0.001571" time="0.00093000009656" value="0.996709" />
@@ -5207,6 +5219,10 @@
 		<bibcodes />
 		<observatory>ARIZONA</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2454767.59548">
 			<point error="0.003388" time="0.0" value="0.997266" />
 			<point error="0.003388" time="0.000440000090748" value="1.007421" />
@@ -5788,6 +5804,10 @@
 		<bibcodes />
 		<observatory>CROATIA</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2455064.30884">
 			<point error="9.999999" time="0.0" value="0.998777" />
 			<point error="9.999999" time="0.00179999973625" value="0.999237" />
@@ -5973,6 +5993,10 @@
 		<bibcodes />
 		<observatory>CROATIA</observatory>
 		<telescope />
+		<xaxis>HJD</xaxis>
+		<yaxis>RELATIVE FLUX WITHOUT_SYSTEMATICS</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>ratio</yaxisunits>
 		<data mintime="2455033.43398">
 			<point error="0.001371" time="0.0" value="0.999318" />
 			<point error="0.001371" time="0.00180999981239" value="1.001160" />

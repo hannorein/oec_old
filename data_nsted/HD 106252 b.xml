@@ -5,6 +5,10 @@
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
 		<telescope>3.0m Shane and 0.6m CAT</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2450831.98388">
 			<point error="16." time="0.0" value="38." />
 			<point error="9.6" time="471.801354" value="-67.7" />
@@ -29,6 +33,10 @@
 		<bibcodes>2003A&amp;A...410.1039P</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2450509.5887">
 			<point error="0.009" time="0.0" value="15.673" />
 			<point error="0.010" time="1.01429999992" value="15.665" />
@@ -78,6 +86,10 @@
 		<bibcodes>2002PASP..114..529F</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
 		<telescope>3.0m Shane and  0.6m CAT</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2460831.984">
 			<point error="15.67" time="0.0" value="-31.11" />
 			<point error="10.28" time="471.801" value="-140.93" />
@@ -102,6 +114,10 @@
 		<bibcodes>2009ApJS..182...97W</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>9.2m Hobby Eberly Telescope (HET)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2453351.0001">
 			<point error="10.2" time="0.0" value="-86.7" />
 			<point error="11.1" time="41.8754199999" value="-19.4" />
@@ -154,6 +170,10 @@
 		<bibcodes>2009ApJS..182...97W</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>2.7m Harlan J. Smith (HJS) telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2452116.61921">
 			<point error="11.5" time="0.0" value="46.4" />
 			<point error="9.8" time="190.38414" value="16.9" />
@@ -175,6 +195,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447876.79995">
 			<point error="0.007" time="0.0" value="7.5243" />
 			<point error="0.010" time="0.0143099999987" value="7.5673" />

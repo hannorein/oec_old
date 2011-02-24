@@ -5,6 +5,10 @@
 		<bibcodes>2008AJ....136.1901L</bibcodes>
 		<observatory>Las Campanas Observatory, Chile</observatory>
 		<telescope>6.5m Magellan II (Clay)</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2453189.7132">
 			<point error="2.9" time="0.0" value="-167.7" />
 			<point error="2.8" time="0.995099999942" value="-169.7" />
@@ -30,6 +34,10 @@
 		<bibcodes>2009MNRAS.398..911J</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>3.6m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2454248.71385">
 			<point error="4.79" time="0.0" value="-3796.59" />
 			<point error="2.25" time="2.017459" value="-3794.42" />
@@ -45,6 +53,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447921.24571">
 			<point error="0.012" time="0.0" value="8.3590" />
 			<point error="0.013" time="0.0745500000194" value="8.3496" />

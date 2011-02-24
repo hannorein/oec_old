@@ -5,6 +5,10 @@
 		<bibcodes>2007A&amp;A...474..647S</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>3.6m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2453310.4946">
 			<point error="0.0009" time="0.0" value="13.6319" />
 			<point error="0.0008" time="264.1636" value="13.5948" />

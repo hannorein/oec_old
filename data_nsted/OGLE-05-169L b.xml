@@ -5,6 +5,10 @@
 		<bibcodes>2006ApJ...644L..37G</bibcodes>
 		<observatory>Stardome Observatory, Auckland, New Zealand</observatory>
 		<telescope>Nustrini</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>RELATIVE MAGNITUDE</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>mag</yaxisunits>
 		<data mintime="3491.97128">
 			<point error="1" time="0.0" value="0.0110" />
 			<point error="1" time="0.00157999999965" value="0.0110" />
@@ -88,6 +92,10 @@
 		<bibcodes>2006ApJ...644L..37G</bibcodes>
 		<observatory>Hawaii</observatory>
 		<telescope>Faulkes Telescope North</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>RELATIVE MAGNITUDE</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>mag</yaxisunits>
 		<data mintime="3491.11587">
 			<point error="1" time="0.0" value="0.0225" />
 			<point error="1" time="0.0009399999999" value="0.0205" />
@@ -128,6 +136,10 @@
 		<bibcodes>2006ApJ...644L..37G</bibcodes>
 		<observatory>Las Campanas Observatory</observatory>
 		<telescope>Warsaw University Telescope</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>RELATIVE MAGNITUDE</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>mag</yaxisunits>
 		<data mintime="2125.58418">
 			<point error="1" time="0.0" value="0.1694" />
 			<point error="1" time="4.07936" value="0.0797" />
@@ -478,6 +490,10 @@
 		<bibcodes>2006ApJ...644L..37G</bibcodes>
 		<observatory>MDM Observatory, Kitt Peak National Observatory</observatory>
 		<telescope>Hiltner</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>RELATIVE MAGNITUDE</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>mag</yaxisunits>
 		<data mintime="3491.88099">
 			<point error="1" time="0.0" value="0.0135" />
 			<point error="1" time="0.00055999999995" value="0.0080" />

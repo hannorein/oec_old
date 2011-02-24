@@ -5,6 +5,10 @@
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
 		<telescope>3.0m Shane and 0.6m CAT</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451685.85352">
 			<point error="3.8" time="0.0" value="-31.4" />
 			<point error="8.7" time="21.9003900001" value="0.8" />
@@ -133,6 +137,10 @@
 		<bibcodes>2002ApJ...576..478F</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
 		<telescope>0.6m CAT</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2451685.854">
 			<point error="4.1" time="0.0" value="-50.7" />
 			<point error="10.1" time="21.9000000004" value="-19.2" />
@@ -198,6 +206,10 @@
 		<bibcodes />
 		<observatory />
 		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
 		<data mintime="2447893.7567">
 			<point error="0.003" time="0.0" value="3.4644" />
 			<point error="0.003" time="0.0143200000748" value="3.4659" />
