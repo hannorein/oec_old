@@ -5,13 +5,13 @@
 		<bibcodes>2009A&amp;A...506..281R</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
-		<data>
-			<point error="0.017" time="2454463.4939000" value="48.947" />
-			<point error="0.028" time="2454465.5247100" value="48.816" />
-			<point error="0.016" time="2454506.3770000" value="48.767" />
-			<point error="0.020" time="2454525.3478500" value="48.860" />
-			<point error="0.031" time="2454528.2886100" value="48.933" />
-			<point error="0.026" time="2454544.3463300" value="48.925" />
+		<data mintime="2454463.4939">
+			<point error="0.017" time="0.0" value="48.947" />
+			<point error="0.028" time="2.03080999991" value="48.816" />
+			<point error="0.016" time="42.8830999997" value="48.767" />
+			<point error="0.020" time="61.8539499999" value="48.860" />
+			<point error="0.031" time="64.79471" value="48.933" />
+			<point error="0.026" time="80.85243" value="48.925" />
 		</data>
 	</curve>
 	<curve id="UID_0300076_RVC_01.tbl" type="4">
@@ -20,20 +20,20 @@
 		<bibcodes>2009A&amp;A...506..281R</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>3.6m</telescope>
-		<data>
-			<point error="0.014" time="2454548.583775" value="48.933" />
-			<point error="0.021" time="2454550.577783" value="48.792" />
-			<point error="0.013" time="2454551.584161" value="48.865" />
-			<point error="0.010" time="2454553.525234" value="48.883" />
-			<point error="0.012" time="2454554.546158" value="48.819" />
-			<point error="0.010" time="2454556.554191" value="48.929" />
-			<point error="0.009" time="2454768.852140" value="48.820" />
-			<point error="0.008" time="2454769.848137" value="48.900" />
-			<point error="0.009" time="2454771.850953" value="48.851" />
-			<point error="0.010" time="2454772.841289" value="48.827" />
-			<point error="0.008" time="2454773.847921" value="48.900" />
-			<point error="0.009" time="2454802.777527" value="48.929" />
-			<point error="0.012" time="2454805.748602" value="48.852" />
+		<data mintime="2454548.58378">
+			<point error="0.014" time="0.0" value="48.933" />
+			<point error="0.021" time="1.99400800001" value="48.792" />
+			<point error="0.013" time="3.00038599968" value="48.865" />
+			<point error="0.010" time="4.94145899964" value="48.883" />
+			<point error="0.012" time="5.96238299971" value="48.819" />
+			<point error="0.010" time="7.97041599965" value="48.929" />
+			<point error="0.009" time="220.268365" value="48.820" />
+			<point error="0.008" time="221.264362" value="48.900" />
+			<point error="0.009" time="223.267178" value="48.851" />
+			<point error="0.010" time="224.257514" value="48.827" />
+			<point error="0.008" time="225.264146" value="48.900" />
+			<point error="0.009" time="254.193752" value="48.929" />
+			<point error="0.012" time="257.164827" value="48.852" />
 		</data>
 	</curve>
 </planet>

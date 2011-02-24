@@ -5,15 +5,15 @@
 		<bibcodes>2009A&amp;A...497..545S</bibcodes>
 		<observatory>ESO VLT, Paranal Observatory, Chile</observatory>
 		<telescope>8.2m Kueyen (UT2)</telescope>
-		<data>
-			<point error="0.224" time="2454465.8421" value="1.090" />
-			<point error="0.276" time="2454466.8583" value="1.204" />
-			<point error="0.212" time="2454468.7219" value="0.842" />
-			<point error="0.231" time="2454472.7447" value="1.105" />
-			<point error="0.376" time="2454489.6749" value="2.345" />
-			<point error="0.318" time="2454490.8382" value="0.472" />
-			<point error="0.187" time="2454493.7697" value="1.187" />
-			<point error="0.272" time="2454496.7703" value="1.190" />
+		<data mintime="2454465.8421">
+			<point error="0.224" time="0.0" value="1.090" />
+			<point error="0.276" time="1.01619999995" value="1.204" />
+			<point error="0.212" time="2.87979999976" value="0.842" />
+			<point error="0.231" time="6.90260000015" value="1.105" />
+			<point error="0.376" time="23.8328" value="2.345" />
+			<point error="0.318" time="24.9961000001" value="0.472" />
+			<point error="0.187" time="27.9276000001" value="1.187" />
+			<point error="0.272" time="30.9282" value="1.190" />
 		</data>
 	</curve>
 </planet>

@@ -5,25 +5,25 @@
 		<bibcodes>2007ApJ...670..833J</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
-		<data>
-			<point error="3.79" time="2451550.993" value="13.89" />
-			<point error="4.99" time="2451552.990" value="30.27" />
-			<point error="4.16" time="2451582.891" value="45.77" />
-			<point error="3.74" time="2451883.101" value="-23.35" />
-			<point error="6.10" time="2451973.795" value="-65.89" />
-			<point error="6.52" time="2452243.073" value="0.00" />
-			<point error="6.07" time="2452362.949" value="95.56" />
-			<point error="5.09" time="2452601.045" value="-31.64" />
-			<point error="4.79" time="2452989.125" value="101.25" />
-			<point error="3.40" time="2453369.016" value="-29.65" />
-			<point error="3.68" time="2453753.983" value="130.31" />
-			<point error="4.64" time="2454084.001" value="-6.55" />
-			<point error="4.55" time="2454086.141" value="-21.73" />
-			<point error="4.79" time="2454130.082" value="-15.26" />
-			<point error="4.20" time="2454131.014" value="-15.47" />
-			<point error="2.82" time="2454138.932" value="-8.98" />
-			<point error="3.86" time="2454216.733" value="4.15" />
-			<point error="2.25" time="2454255.745" value="28.54" />
+		<data mintime="2451550.993">
+			<point error="3.79" time="0.0" value="13.89" />
+			<point error="4.99" time="1.99700000044" value="30.27" />
+			<point error="4.16" time="31.898" value="45.77" />
+			<point error="3.74" time="332.108" value="-23.35" />
+			<point error="6.10" time="422.802" value="-65.89" />
+			<point error="6.52" time="692.08" value="0.00" />
+			<point error="6.07" time="811.956" value="95.56" />
+			<point error="5.09" time="1050.052" value="-31.64" />
+			<point error="4.79" time="1438.132" value="101.25" />
+			<point error="3.40" time="1818.023" value="-29.65" />
+			<point error="3.68" time="2202.99" value="130.31" />
+			<point error="4.64" time="2533.008" value="-6.55" />
+			<point error="4.55" time="2535.148" value="-21.73" />
+			<point error="4.79" time="2579.089" value="-15.26" />
+			<point error="4.20" time="2580.021" value="-15.47" />
+			<point error="2.82" time="2587.939" value="-8.98" />
+			<point error="3.86" time="2665.74" value="4.15" />
+			<point error="2.25" time="2704.752" value="28.54" />
 		</data>
 	</curve>
 </planet>

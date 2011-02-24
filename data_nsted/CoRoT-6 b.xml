@@ -5,21 +5,21 @@
 		<bibcodes>2010arXiv1001.1426F</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
-		<data>
-			<point error="0.066" time="2454642.5591" value="-18.465" />
-			<point error="0.039" time="2454646.4820" value="-17.967" />
-			<point error="0.044" time="2454679.4155" value="-18.345" />
-			<point error="0.048" time="2454681.4542" value="-17.999" />
-			<point error="0.050" time="2454685.3983" value="-18.510" />
-			<point error="0.063" time="2454689.4129" value="-18.202" />
-			<point error="0.048" time="2454700.3532" value="-18.011" />
-			<point error="0.072" time="2454702.3841" value="-18.333" />
-			<point error="0.044" time="2454704.3410" value="-18.469" />
-			<point error="0.041" time="2454706.3593" value="-18.229" />
-			<point error="0.040" time="2454707.3968" value="-18.041" />
-			<point error="0.049" time="2454711.3270" value="-18.341" />
-			<point error="0.060" time="2454712.3234" value="-18.525" />
-			<point error="0.059" time="2454715.4002" value="-18.321" />
+		<data mintime="2454642.5591">
+			<point error="0.066" time="0.0" value="-18.465" />
+			<point error="0.039" time="3.92289999966" value="-17.967" />
+			<point error="0.044" time="36.8563999999" value="-18.345" />
+			<point error="0.048" time="38.8950999998" value="-17.999" />
+			<point error="0.050" time="42.8391999998" value="-18.510" />
+			<point error="0.063" time="46.8537999997" value="-18.202" />
+			<point error="0.048" time="57.7940999996" value="-18.011" />
+			<point error="0.072" time="59.8249999997" value="-18.333" />
+			<point error="0.044" time="61.7818999998" value="-18.469" />
+			<point error="0.041" time="63.8001999999" value="-18.229" />
+			<point error="0.040" time="64.8377" value="-18.041" />
+			<point error="0.049" time="68.7678999999" value="-18.341" />
+			<point error="0.060" time="69.7642999999" value="-18.525" />
+			<point error="0.059" time="72.8410999998" value="-18.321" />
 		</data>
 	</curve>
 </planet>
