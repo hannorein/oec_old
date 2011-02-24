@@ -1,5 +1,6 @@
 <planet id="HD 8574">
-	<curve id="UID_0006643_RVC_02.tbl">
+	<curve id="UID_0006643_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -23,7 +24,8 @@
 			<point error="11." time="2452160.899560" value="95." />
 		</data>
 	</curve>
-	<curve id="UID_0006643_RVC_01.tbl">
+	<curve id="UID_0006643_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -41,7 +43,8 @@
 			<point error="4.4" time="2453239.951852" value="11.3" />
 		</data>
 	</curve>
-	<curve id="UID_0006643_RVC_03.tbl">
+	<curve id="UID_0006643_RVC_03.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Perrier et al. 2003 (A&amp;A, 410, 1039)</reference>
 		<bibcodes>2003A&amp;A...410.1039P</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
@@ -90,7 +93,8 @@
 			<point error="0.011" time="2452565.5209" value="18.947" />
 		</data>
 	</curve>
-	<curve id="UID_0006643_RVC_05.tbl">
+	<curve id="UID_0006643_RVC_05.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Wittenmyer et al. 2009 (ApJS, 182, 97)</reference>
 		<bibcodes>2009ApJS..182...97W</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
@@ -114,7 +118,8 @@
 			<point error="9.9" time="2454018.87142" value="3.7" />
 		</data>
 	</curve>
-	<curve id="UID_0006643_RVC_04.tbl">
+	<curve id="UID_0006643_RVC_04.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Wittenmyer et al. 2009 (ApJS, 182, 97)</reference>
 		<bibcodes>2009ApJS..182...97W</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
@@ -166,7 +171,8 @@
 			<point error="9.3" time="2454434.54809" value="85.3" />
 		</data>
 	</curve>
-	<curve id="UID_0006643_GLC_01.tbl">
+	<curve id="UID_0006643_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

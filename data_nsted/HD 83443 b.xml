@@ -1,5 +1,6 @@
 <planet id="HD 83443">
-	<curve id="UID_0047202_RVC_04.tbl">
+	<curve id="UID_0047202_RVC_04.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
@@ -30,7 +31,8 @@
 			<point error="3.4" time="2452422.895080" value="51.1" />
 		</data>
 	</curve>
-	<curve id="UID_0047202_RVC_03.tbl">
+	<curve id="UID_0047202_RVC_03.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -66,7 +68,8 @@
 			<point error="2.4" time="2453426.947188" value="6.4" />
 		</data>
 	</curve>
-	<curve id="UID_0047202_RVC_02.tbl">
+	<curve id="UID_0047202_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2002 (ApJ, 578, 565)</reference>
 		<bibcodes>2002ApJ...578..565B</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
@@ -90,7 +93,8 @@
 			<point error="11.1" time="2451360.1546" value="67.3" />
 		</data>
 	</curve>
-	<curve id="UID_0047202_RVC_01.tbl">
+	<curve id="UID_0047202_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2002 (ApJ, 578, 565)</reference>
 		<bibcodes>2002ApJ...578..565B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -118,7 +122,8 @@
 			<point error="2.6" time="2451334.8507" value="-53.7" />
 		</data>
 	</curve>
-	<curve id="UID_0047202_RVC_05.tbl">
+	<curve id="UID_0047202_RVC_05.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Mayor et al. 2004 (A&amp;A, 415, 391)</reference>
 		<bibcodes>2004A&amp;A...415..391M</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
@@ -383,7 +388,8 @@
 			<point error="0.005" time="2452717.6163" value="29.001" />
 		</data>
 	</curve>
-	<curve id="UID_0047202_GLC_01.tbl">
+	<curve id="UID_0047202_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

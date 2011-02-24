@@ -1,5 +1,6 @@
 <planet id="HD 12661">
-	<curve id="UID_0009683_RVC_02.tbl">
+	<curve id="UID_0009683_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -58,7 +59,8 @@
 			<point error="6.7" time="2453008.746273" value="-55.8" />
 		</data>
 	</curve>
-	<curve id="UID_0009683_RVC_01.tbl">
+	<curve id="UID_0009683_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -123,7 +125,8 @@
 			<point error="2.8" time="2453239.957870" value="-19.7" />
 		</data>
 	</curve>
-	<curve id="UID_0009683_RVC_03.tbl">
+	<curve id="UID_0009683_RVC_03.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Fischer et al. 2001 (ApJ, 551, 1107)</reference>
 		<bibcodes>2001ApJ...551.1107F</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -146,7 +149,8 @@
 			<point error="4.58" time="2451752.98245" value="-22.42" />
 		</data>
 	</curve>
-	<curve id="UID_0009683_RVC_04.tbl">
+	<curve id="UID_0009683_RVC_04.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Fischer et al. 2001 (ApJ, 551, 1107)</reference>
 		<bibcodes>2001ApJ...551.1107F</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -174,7 +178,8 @@
 			<point error="4.38" time="2451776.00116" value="14.15" />
 		</data>
 	</curve>
-	<curve id="UID_0009683_RVC_06.tbl">
+	<curve id="UID_0009683_RVC_06.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Fischer et al. 2003 (ApJ, 586, 1394)</reference>
 		<bibcodes>2003ApJ...586.1394F</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -223,7 +228,8 @@
 			<point error="7.72" time="2452334.637" value="74.47" />
 		</data>
 	</curve>
-	<curve id="UID_0009683_RVC_05.tbl">
+	<curve id="UID_0009683_RVC_05.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Fischer et al. 2003 (ApJ, 586, 1394)</reference>
 		<bibcodes>2003ApJ...586.1394F</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -276,7 +282,8 @@
 			<point error="3.62" time="2452536.949" value="-85.90" />
 		</data>
 	</curve>
-	<curve id="UID_0009683_RVC_08.tbl">
+	<curve id="UID_0009683_RVC_08.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Wright et al. 2009 (ApJ, 693, 1084)</reference>
 		<bibcodes>2009ApJ...693.1084W</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -324,7 +331,8 @@
 			<point error="5.0" time="2454099.763472" value="-74.3" />
 		</data>
 	</curve>
-	<curve id="UID_0009683_RVC_07.tbl">
+	<curve id="UID_0009683_RVC_07.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Wright et al. 2009 (ApJ, 693, 1084)</reference>
 		<bibcodes>2009ApJ...693.1084W</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -398,7 +406,8 @@
 			<point error="1.8" time="2454727.061644" value="43.1" />
 		</data>
 	</curve>
-	<curve id="UID_0009683_GLC_01.tbl">
+	<curve id="UID_0009683_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

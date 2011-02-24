@@ -1,5 +1,6 @@
 <planet id="HD 173416">
-	<curve id="UID_0091852_RVC_01.tbl">
+	<curve id="UID_0091852_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Liu et al. 2009 (ReA&amp;A, 9, 1)</reference>
 		<bibcodes>2009ReA&amp;A...9....1L</bibcodes>
 		<observatory>Xinglong Obsevatory, China</observatory>
@@ -29,7 +30,8 @@
 			<point error="25.4" time="2454725.0446" value="-47.9" />
 		</data>
 	</curve>
-	<curve id="UID_0091852_RVC_02.tbl">
+	<curve id="UID_0091852_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Liu et al. 2009 (ReA&amp;A, 9, 1)</reference>
 		<bibcodes>2009ReA&amp;A...9....1L</bibcodes>
 		<observatory>Okayama Astrophysical Observatory (OAO), Japan</observatory>
@@ -67,7 +69,8 @@
 			<point error="5.2" time="2454796.9111" value="29.4" />
 		</data>
 	</curve>
-	<curve id="UID_0091852_GLC_01.tbl">
+	<curve id="UID_0091852_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

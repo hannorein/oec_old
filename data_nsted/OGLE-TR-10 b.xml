@@ -1,5 +1,6 @@
 <planet id="OGLE-TR-10">
-	<curve id="UID_0300001_RVC_03.tbl">
+	<curve id="UID_0300001_RVC_03.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Konacki et al. 2003 (ApJ, 597, 1076)</reference>
 		<bibcodes>2003ApJ...597.1076K</bibcodes>
 		<observatory>Manua Kea, Hawaii</observatory>
@@ -9,7 +10,8 @@
 			<point error="0.05" time="2452483.75773" value="-0.09" />
 		</data>
 	</curve>
-	<curve id="UID_0300001_RVC_02.tbl">
+	<curve id="UID_0300001_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Bouchy et al. 2005 (A&amp;A, 431, 1105)</reference>
 		<bibcodes>2005A&amp;A...431.1105B</bibcodes>
 		<observatory>ESO VLT, Paranal Observatory, Chile</observatory>
@@ -25,7 +27,8 @@
 			<point error="0.050" time="2452797.76880" value="-6.130" />
 		</data>
 	</curve>
-	<curve id="UID_0300001_RVC_01.tbl">
+	<curve id="UID_0300001_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Bouchy et al. 2005 (A&amp;A, 431, 1105)</reference>
 		<bibcodes>2005A&amp;A...431.1105B</bibcodes>
 		<observatory>ESO VLT, Paranal Observatory, Chile</observatory>
@@ -41,7 +44,8 @@
 			<point error="0.062" time="2452553.54729" value="-6.135" />
 		</data>
 	</curve>
-	<curve id="UID_0300001_data_PLC_01.tbl">
+	<curve id="UID_0300001_data_PLC_01.tbl" type="2">
+		<type>Transit Light Curve</type>
 		<reference>Holman et al. (2007, ApJ, 655, 1103)</reference>
 		<bibcodes />
 		<observatory />
@@ -437,7 +441,8 @@
 			<point error="1.00042000" time="2453583.72991000" value="0.02714581" />
 		</data>
 	</curve>
-	<curve id="UID_0300001_data_PLC_02.tbl">
+	<curve id="UID_0300001_data_PLC_02.tbl" type="2">
+		<type>Transit Light Curve</type>
 		<reference>Holman et al. (2007, ApJ, 655, 1103)</reference>
 		<bibcodes />
 		<observatory />
@@ -554,7 +559,8 @@
 			<point error="0.99895000" time="2452761.93308000" value="0.04115561" />
 		</data>
 	</curve>
-	<curve id="UID_0300001_data_PLC_03.tbl">
+	<curve id="UID_0300001_data_PLC_03.tbl" type="2">
+		<type>Transit Light Curve</type>
 		<reference>Holman et al. (2007, ApJ, 655, 1103)</reference>
 		<bibcodes />
 		<observatory />
@@ -666,7 +672,8 @@
 			<point error="1.00588000" time="2452761.92976000" value="0.04008512" />
 		</data>
 	</curve>
-	<curve id="UID_0300001_data_PLC_05.tbl">
+	<curve id="UID_0300001_data_PLC_05.tbl" type="2">
+		<type>Transit Light Curve</type>
 		<reference>Pont et al. (2007, A&amp;A, 465, 3, 1069)</reference>
 		<bibcodes />
 		<observatory />
@@ -741,7 +748,8 @@
 			<point error="0.99983382" time="2453890.81618000" value="0.04455565" />
 		</data>
 	</curve>
-	<curve id="UID_0300001_data_PLC_04.tbl">
+	<curve id="UID_0300001_data_PLC_04.tbl" type="2">
+		<type>Transit Light Curve</type>
 		<reference>Pont et al. (2007, A&amp;A, 465, 3, 1069)</reference>
 		<bibcodes />
 		<observatory />
@@ -827,7 +835,8 @@
 			<point error="0.99960238" time="2453890.82502000" value="0.04740608" />
 		</data>
 	</curve>
-	<curve id="UID_0300001_data_PLC_06.tbl">
+	<curve id="UID_0300001_data_PLC_06.tbl" type="2">
+		<type>Transit Light Curve</type>
 		<reference>Udalski et al. (2002, AcA, 52, 1)</reference>
 		<bibcodes />
 		<observatory />

@@ -1,5 +1,6 @@
 <planet id="HD 80606">
-	<curve id="UID_0045982_RVC_01.tbl">
+	<curve id="UID_0045982_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -53,7 +54,8 @@
 			<point error="5.4" time="2453428.783218" value="208.2" />
 		</data>
 	</curve>
-	<curve id="UID_0045982_RVC_03.tbl">
+	<curve id="UID_0045982_RVC_03.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Naef et al. 2001 (A&amp;A, 375, L27)</reference>
 		<bibcodes>2001A&amp;A...375L..27N</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
@@ -116,7 +118,8 @@
 			<point error="0.016" time="2451982.372" value="3.944" />
 		</data>
 	</curve>
-	<curve id="UID_0045982_RVC_02.tbl">
+	<curve id="UID_0045982_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Naef et al. 2001 (A&amp;A, 375, L27)</reference>
 		<bibcodes>2001A&amp;A...375L..27N</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -130,7 +133,8 @@
 			<point error="0.012" time="2451550.100" value="3.812" />
 		</data>
 	</curve>
-	<curve id="UID_0045982_RVC_04.tbl">
+	<curve id="UID_0045982_RVC_04.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Wittenmyer et al. 2009 (ApJS, 182, 97)</reference>
 		<bibcodes>2009ApJS..182...97W</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
@@ -161,7 +165,8 @@
 			<point error="7.4" time="2454186.76189" value="-134.1" />
 		</data>
 	</curve>
-	<curve id="UID_0045982_RVC_05.tbl">
+	<curve id="UID_0045982_RVC_05.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Moutou et al. 2009 (A&amp;A, 498, L5)</reference>
 		<bibcodes>2009A&amp;A...498L...5M</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
@@ -188,7 +193,8 @@
 			<point error="0.014" time="2452961.71930" value="3.631" />
 		</data>
 	</curve>
-	<curve id="UID_0045982_RVC_06.tbl">
+	<curve id="UID_0045982_RVC_06.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Moutou et al. 2009 (A&amp;A, 498, L5)</reference>
 		<bibcodes>2009A&amp;A...498L...5M</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
@@ -244,7 +250,8 @@
 			<point error="0.0044" time="2454880.53548" value="4.0708" />
 		</data>
 	</curve>
-	<curve id="UID_0045982_RVC_08.tbl">
+	<curve id="UID_0045982_RVC_08.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Winn et al. 2009 (ApJ, 703, 2091)</reference>
 		<bibcodes>2009ApJ...703.2091W</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -325,7 +332,8 @@
 			<point error="1.00" time="2454988.81684" value="24.89" />
 		</data>
 	</curve>
-	<curve id="UID_0045982_RVC_07.tbl">
+	<curve id="UID_0045982_RVC_07.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Wittenmyer et al. 2007 (AJ, 134, 1276)</reference>
 		<bibcodes>2007AJ....134.1276W</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
@@ -356,7 +364,8 @@
 			<point error="2.3" time="2454186.76189" value="-184.2" />
 		</data>
 	</curve>
-	<curve id="UID_0045982_GLC_01.tbl">
+	<curve id="UID_0045982_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />
@@ -454,7 +463,8 @@
 			<point error="0.031" time="2449053.61757" value="8.9152" />
 		</data>
 	</curve>
-	<curve id="UID_0045982_data_AXA_001.tbl">
+	<curve id="UID_0045982_data_AXA_001.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>FINLAND</observatory>

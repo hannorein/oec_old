@@ -1,5 +1,6 @@
 <planet id="OGLE-TR-111">
-	<curve id="UID_0300002_RVC_02.tbl">
+	<curve id="UID_0300002_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Pont et al. 2005 (A&amp;A, 438, 1123)</reference>
 		<bibcodes>2005A&amp;A...438.1123P</bibcodes>
 		<observatory>ESO VLT, Paranal Observatory, Chile</observatory>
@@ -15,7 +16,8 @@
 			<point error="0.037" time="2453085.60721" value="25.149" />
 		</data>
 	</curve>
-	<curve id="UID_0300002_RVC_01.tbl">
+	<curve id="UID_0300002_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Pont et al. 2004 (A&amp;A, 426, L15)</reference>
 		<bibcodes>2004A&amp;A...426L..15P</bibcodes>
 		<observatory>ESO VLT, Paranal Observatory, Chile</observatory>
@@ -31,7 +33,8 @@
 			<point error="0.027" time="2453085.60720" value="25.159" />
 		</data>
 	</curve>
-	<curve id="UID_0300002_data_PLC_02.tbl">
+	<curve id="UID_0300002_data_PLC_02.tbl" type="2">
+		<type>Transit Light Curve</type>
 		<reference>Minniti et al. (2007, ApJ, 660, 858)</reference>
 		<bibcodes />
 		<observatory />
@@ -252,7 +255,8 @@
 			<point error="1.00418963" time="2453470.82961000" value="0.06617040" />
 		</data>
 	</curve>
-	<curve id="UID_0300002_data_PLC_03.tbl">
+	<curve id="UID_0300002_data_PLC_03.tbl" type="2">
+		<type>Transit Light Curve</type>
 		<reference>Udalski et al. (2002, AcA, 52, 317)</reference>
 		<bibcodes />
 		<observatory />
@@ -1436,7 +1440,8 @@
 			<point error="15.54300000" time="2452437.50444000" value="-0.34290232" />
 		</data>
 	</curve>
-	<curve id="UID_0300002_data_PLC_01.tbl">
+	<curve id="UID_0300002_data_PLC_01.tbl" type="2">
+		<type>Transit Light Curve</type>
 		<reference>Winn et al. (2007, AJ, 133, 11)</reference>
 		<bibcodes />
 		<observatory />

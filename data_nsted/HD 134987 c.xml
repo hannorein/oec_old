@@ -1,5 +1,6 @@
 <planet id="HD 134987">
-	<curve id="UID_0074500_RVC_02.tbl">
+	<curve id="UID_0074500_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
@@ -41,7 +42,8 @@
 			<point error="3.0" time="2453521.078414" value="-13.2" />
 		</data>
 	</curve>
-	<curve id="UID_0074500_RVC_01.tbl">
+	<curve id="UID_0074500_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -105,7 +107,8 @@
 			<point error="2.4" time="2453426.074931" value="76.0" />
 		</data>
 	</curve>
-	<curve id="UID_0074500_RVC_03.tbl">
+	<curve id="UID_0074500_RVC_03.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Vogt et al. 2000 (Apj, 536, 902)</reference>
 		<bibcodes>2000ApJ...536..902V</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -156,7 +159,8 @@
 			<point error="3.0" time="2451411.7251" value="-5.5" />
 		</data>
 	</curve>
-	<curve id="UID_0074500_RVC_04.tbl">
+	<curve id="UID_0074500_RVC_04.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2001 (ApJ, 555, 410)</reference>
 		<bibcodes>2001ApJ...555..410B</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
@@ -175,7 +179,8 @@
 			<point error="3.5" time="2451742.9340" value="-8.2" />
 		</data>
 	</curve>
-	<curve id="UID_0074500_RVC_06.tbl">
+	<curve id="UID_0074500_RVC_06.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Jones et al. 2009 (arXiv, 0912, 2716)</reference>
 		<bibcodes>2009arXiv0912.2716J</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -258,7 +263,8 @@
 			<point error="0.8" time="2455049.8434" value="-15.8" />
 		</data>
 	</curve>
-	<curve id="UID_0074500_RVC_05.tbl">
+	<curve id="UID_0074500_RVC_05.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Jones et al. 2009 (arXiv, 0912, 2716)</reference>
 		<bibcodes>2009arXiv0912.2716J</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
@@ -329,7 +335,8 @@
 			<point error="1.4" time="2455111.8779" value="-61.8" />
 		</data>
 	</curve>
-	<curve id="UID_0074500_GLC_01.tbl">
+	<curve id="UID_0074500_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

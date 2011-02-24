@@ -1,5 +1,6 @@
 <planet id="HD 114762">
-	<curve id="UID_0064426_RVC_01.tbl">
+	<curve id="UID_0064426_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -52,7 +53,8 @@
 			<point error="11." time="2452033.864745" value="314." />
 		</data>
 	</curve>
-	<curve id="UID_0064426_RVC_02.tbl">
+	<curve id="UID_0064426_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Cochran et al. 1991 (ApJ, 380, L35)</reference>
 		<bibcodes>1991ApJ...380L..35C</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
@@ -88,7 +90,8 @@
 			<point error="1" time="2448086.7131" value="4.516" />
 		</data>
 	</curve>
-	<curve id="UID_0064426_GLC_01.tbl">
+	<curve id="UID_0064426_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

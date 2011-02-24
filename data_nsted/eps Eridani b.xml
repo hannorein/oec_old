@@ -1,5 +1,6 @@
 <planet id="eps Eridani">
-	<curve id="UID_0016537_RVC_02.tbl">
+	<curve id="UID_0016537_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -127,7 +128,8 @@
 			<point error="4.6" time="2453010.786227" value="-11.6" />
 		</data>
 	</curve>
-	<curve id="UID_0016537_RVC_01.tbl">
+	<curve id="UID_0016537_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Benedict et al. 2006 (AJ, 132, 2206)</reference>
 		<bibcodes>2006AJ....132.2206B</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
@@ -168,7 +170,8 @@
 			<point error="5.5" time="2453809.0850" value="9.0" />
 		</data>
 	</curve>
-	<curve id="UID_0016537_RVC_03.tbl">
+	<curve id="UID_0016537_RVC_03.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Campbell et al. 1988 (ApJ, 331, 902)</reference>
 		<bibcodes>1988ApJ...331..902C</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -209,7 +212,8 @@
 			<point error="9.3" time="2446866.762" value="-14.5" />
 		</data>
 	</curve>
-	<curve id="UID_0016537_data_GLC_02.tbl">
+	<curve id="UID_0016537_data_GLC_02.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Croll et al. (2006, ApJ, 648, 607)</reference>
 		<bibcodes />
 		<observatory />
@@ -709,7 +713,8 @@
 			<point error="5e-05" time="2453706.04757000" value="0.98521400" />
 		</data>
 	</curve>
-	<curve id="UID_0016537_GLC_01.tbl">
+	<curve id="UID_0016537_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

@@ -1,5 +1,6 @@
 <planet id="HD 145457">
-	<curve id="UID_0079219_RVC_02.tbl">
+	<curve id="UID_0079219_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Sato et al. 2010 (arXiv,1005,2860)</reference>
 		<bibcodes>2010arXiv1005.2860S</bibcodes>
 		<observatory>Okayama Astrophysical Observatory (OAO), Japan</observatory>
@@ -30,7 +31,8 @@
 			<point error="5.5" time="2455233.29591" value="-70.0" />
 		</data>
 	</curve>
-	<curve id="UID_0079219_RVC_01.tbl">
+	<curve id="UID_0079219_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Sato et al. 2010 (arXiv,1005,2860)</reference>
 		<bibcodes>2010arXiv1005.2860S</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -41,7 +43,8 @@
 			<point error="5.4" time="2453928.93366" value="27.9" />
 		</data>
 	</curve>
-	<curve id="UID_0079219_GLC_01.tbl">
+	<curve id="UID_0079219_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

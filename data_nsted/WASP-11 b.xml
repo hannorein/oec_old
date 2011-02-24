@@ -1,5 +1,6 @@
 <planet id="WASP-11">
-	<curve id="UID_0300067_RVC_01.tbl">
+	<curve id="UID_0300067_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Bakos et al. 2009 (ApJ, 696, 1950)</reference>
 		<bibcodes>2009ApJ...696.1950B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -15,7 +16,8 @@
 			<point error="2.34" time="2454806.81967" value="143.03" />
 		</data>
 	</curve>
-	<curve id="UID_0300067_RVC_02.tbl">
+	<curve id="UID_0300067_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>West et al. 2009 (A&amp;A, 502, 395)</reference>
 		<bibcodes>2009A&amp;A...502..395W</bibcodes>
 		<observatory>La Palma, Spain</observatory>
@@ -29,7 +31,8 @@
 			<point error="0.0220" time="2454491.424" value="4.9339" />
 		</data>
 	</curve>
-	<curve id="UID_0300067_RVC_03.tbl">
+	<curve id="UID_0300067_RVC_03.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>West et al. 2009 (A&amp;A, 502, 395)</reference>
 		<bibcodes>2009A&amp;A...502..395W</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
@@ -44,7 +47,8 @@
 			<point error="0.0096" time="2454512.3848" value="4.9482" />
 		</data>
 	</curve>
-	<curve id="UID_0300067_data_AXA_001.tbl">
+	<curve id="UID_0300067_data_AXA_001.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>GREECE</observatory>
@@ -221,7 +225,8 @@
 			<point error="1.015802" time="2454748.6015220" value="0.02199690" />
 		</data>
 	</curve>
-	<curve id="UID_0300067_data_AXA_002.tbl">
+	<curve id="UID_0300067_data_AXA_002.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>CYPRUS</observatory>

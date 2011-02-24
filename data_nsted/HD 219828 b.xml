@@ -1,5 +1,6 @@
 <planet id="HD 219828">
-	<curve id="UID_0115100_RVC_01.tbl">
+	<curve id="UID_0115100_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Melo et al. 2007 (A&amp;A, 467, 721)</reference>
 		<bibcodes>2007A&amp;A...467..721M</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
@@ -29,7 +30,8 @@
 			<point error="0.00069" time="2453975.734459" value="-24.05942" />
 		</data>
 	</curve>
-	<curve id="UID_0115100_GLC_01.tbl">
+	<curve id="UID_0115100_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

@@ -1,5 +1,6 @@
 <planet id="HD 208487">
-	<curve id="UID_0108375_RVC_01.tbl">
+	<curve id="UID_0108375_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
@@ -42,7 +43,8 @@
 			<point error="4.0" time="2453664.985292" value="11.1" />
 		</data>
 	</curve>
-	<curve id="UID_0108375_RVC_02.tbl">
+	<curve id="UID_0108375_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Tinney et al. 2005 (ApJ, 623, 1171)</reference>
 		<bibcodes>2005ApJ...623.1171T</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -81,7 +83,8 @@
 			<point error="5.9" time="2453245.9354" value="-6.5" />
 		</data>
 	</curve>
-	<curve id="UID_0108375_GLC_01.tbl">
+	<curve id="UID_0108375_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

@@ -1,5 +1,6 @@
 <planet id="HD 4208">
-	<curve id="UID_0003479_RVC_01.tbl">
+	<curve id="UID_0003479_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -48,7 +49,8 @@
 			<point error="3.3" time="2453604.081991" value="20.8" />
 		</data>
 	</curve>
-	<curve id="UID_0003479_RVC_02.tbl">
+	<curve id="UID_0003479_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Vogt et al. 2002 (ApJ, 568, 352)</reference>
 		<bibcodes>2002ApJ...568..352V</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -91,7 +93,8 @@
 			<point error="4.7" time="2452187.9813" value="-8.7" />
 		</data>
 	</curve>
-	<curve id="UID_0003479_GLC_01.tbl">
+	<curve id="UID_0003479_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

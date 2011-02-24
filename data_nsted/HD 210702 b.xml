@@ -1,5 +1,6 @@
 <planet id="HD 210702">
-	<curve id="UID_0109577_RVC_01.tbl">
+	<curve id="UID_0109577_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Johnson et al. 2007 (ApJ, 665, 785)</reference>
 		<bibcodes>2007ApJ...665..785J</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -36,7 +37,8 @@
 			<point error="4.26" time="2454197.033" value="53.95" />
 		</data>
 	</curve>
-	<curve id="UID_0109577_GLC_01.tbl">
+	<curve id="UID_0109577_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

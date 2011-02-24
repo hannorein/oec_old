@@ -1,5 +1,6 @@
 <planet id="HD 102195">
-	<curve id="UID_0057370_RVC_04.tbl">
+	<curve id="UID_0057370_RVC_04.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Melo et al. 2007 (A&amp;A, 467, 721)</reference>
 		<bibcodes>2007A&amp;A...467..721M</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
@@ -26,7 +27,8 @@
 			<point error="0.00061" time="2453936.476701" value="2.13495" />
 		</data>
 	</curve>
-	<curve id="UID_0057370_RVC_03.tbl">
+	<curve id="UID_0057370_RVC_03.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Ge et al. 2006 (ApJ, 648, 683)</reference>
 		<bibcodes>2006ApJ...648..683G</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
@@ -44,7 +46,8 @@
 			<point error="1.1" time="2453743.915" value="52.3" />
 		</data>
 	</curve>
-	<curve id="UID_0057370_RVC_01.tbl">
+	<curve id="UID_0057370_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Ge et al. 2006 (ApJ, 648, 683)</reference>
 		<bibcodes>2006ApJ...648..683G</bibcodes>
 		<observatory>Kitt Peak National Observatory (KPNO), Arizona</observatory>
@@ -66,7 +69,8 @@
 			<point error="26.5" time="2453433.963" value="-137.2" />
 		</data>
 	</curve>
-	<curve id="UID_0057370_RVC_02.tbl">
+	<curve id="UID_0057370_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Ge et al. 2006 (ApJ, 648, 683)</reference>
 		<bibcodes>2006ApJ...648..683G</bibcodes>
 		<observatory>Kitt Peak National Observatory (KPNO), Arizona</observatory>
@@ -109,7 +113,8 @@
 			<point error="14.5" time="2453727.040" value="73.1" />
 		</data>
 	</curve>
-	<curve id="UID_0057370_GLC_01.tbl">
+	<curve id="UID_0057370_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

@@ -1,5 +1,6 @@
 <planet id="WASP-6">
-	<curve id="UID_0300062_RVC_02.tbl">
+	<curve id="UID_0300062_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Gillon et al. 2009 (A&amp;A, 501, 785)</reference>
 		<bibcodes>2009A&amp;A...501..785G</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
@@ -51,7 +52,8 @@
 			<point error="0.00261" time="2454755.730495" value="11.43908" />
 		</data>
 	</curve>
-	<curve id="UID_0300062_RVC_01.tbl">
+	<curve id="UID_0300062_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Gillon et al. 2009 (A&amp;A, 501, 785)</reference>
 		<bibcodes>2009A&amp;A...501..785G</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
@@ -94,7 +96,8 @@
 			<point error="0.01649" time="2454734.747409" value="11.41662" />
 		</data>
 	</curve>
-	<curve id="UID_0300062_data_AXA_001.tbl">
+	<curve id="UID_0300062_data_AXA_001.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>ARGENTINA</observatory>

@@ -1,5 +1,6 @@
 <planet id="HD 152079">
-	<curve id="UID_0082632_RVC_01.tbl">
+	<curve id="UID_0082632_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Arriagada et al. 2010 (ApJ, 711, 1229)</reference>
 		<bibcodes>2010ApJ...711.1229A</bibcodes>
 		<observatory>Las Campanas Observatory, Chile</observatory>
@@ -22,7 +23,8 @@
 			<point error="2.2" time="2455019.6938" value="-22.5" />
 		</data>
 	</curve>
-	<curve id="UID_0082632_GLC_01.tbl">
+	<curve id="UID_0082632_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

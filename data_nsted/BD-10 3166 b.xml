@@ -1,5 +1,6 @@
 <planet id="BD-10 3166">
-	<curve id="UID_0300008_RVC_01.tbl">
+	<curve id="UID_0300008_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2000 (ApJ, 545, 504)</reference>
 		<bibcodes>2000ApJ...545..504B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -24,7 +25,8 @@
 			<point error="4.9" time="2451586.1319" value="55.1" />
 		</data>
 	</curve>
-	<curve id="UID_0300008_RVC_02.tbl">
+	<curve id="UID_0300008_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>

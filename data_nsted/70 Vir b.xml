@@ -1,5 +1,6 @@
 <planet id="70 Vir">
-	<curve id="UID_0065721_RVC_01.tbl">
+	<curve id="UID_0065721_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -81,7 +82,8 @@
 			<point error="4.0" time="2452449.729235" value="-156.9" />
 		</data>
 	</curve>
-	<curve id="UID_0065721_RVC_02.tbl">
+	<curve id="UID_0065721_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Naef et al. 2004 (A&amp;A, 414, 351)</reference>
 		<bibcodes>2004A&amp;A...414..351N</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
@@ -124,7 +126,8 @@
 			<point error="0.007" time="2452776.4905" value="4.774" />
 		</data>
 	</curve>
-	<curve id="UID_0065721_GLC_01.tbl">
+	<curve id="UID_0065721_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

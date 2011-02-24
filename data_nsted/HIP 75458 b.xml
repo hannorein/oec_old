@@ -1,5 +1,6 @@
 <planet id="HIP 75458">
-	<curve id="UID_0075458_RVC_01.tbl">
+	<curve id="UID_0075458_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -126,7 +127,8 @@
 			<point error="5.7" time="2453552.782118" value="-214.9" />
 		</data>
 	</curve>
-	<curve id="UID_0075458_RVC_02.tbl">
+	<curve id="UID_0075458_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Frink et al. 2002 (ApJ, 576, 478)</reference>
 		<bibcodes>2002ApJ...576..478F</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -190,7 +192,8 @@
 			<point error="5.5" time="2452363.931" value="66.6" />
 		</data>
 	</curve>
-	<curve id="UID_0075458_GLC_01.tbl">
+	<curve id="UID_0075458_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

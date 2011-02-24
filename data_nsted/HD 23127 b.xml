@@ -1,5 +1,6 @@
 <planet id="HD 23127">
-	<curve id="UID_0017054_RVC_01.tbl">
+	<curve id="UID_0017054_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>O'Toole et al. 2007 (ApJ, 660, 1636)</reference>
 		<bibcodes>2007ApJ...660.1636O</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
@@ -41,7 +42,8 @@
 			<point error="2.0" time="2454037.1442" value="3.9" />
 		</data>
 	</curve>
-	<curve id="UID_0017054_GLC_01.tbl">
+	<curve id="UID_0017054_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

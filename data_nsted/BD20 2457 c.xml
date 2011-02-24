@@ -1,1 +1,48 @@
-<planet id="BD20 2457" />
+<planet id="BD20 2457">
+	<curve id="UID_0300086_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Niedzielski et al. 2009 (ApJ, 707, 768)</reference>
+		<bibcodes>2009ApJ...707..768N</bibcodes>
+		<observatory>McDonald Observatory, Texas</observatory>
+		<telescope>9.2m Hobby Eberly Telescope (HET)</telescope>
+		<data>
+			<point error="5.2" time="2453033.46852" value="253.5" />
+			<point error="5.8" time="2453360.35712" value="-48.4" />
+			<point error="3.8" time="2453695.45657" value="434.5" />
+			<point error="11.8" time="2453751.49777" value="270.8" />
+			<point error="5.2" time="2453764.26867" value="224.4" />
+			<point error="6.4" time="2453774.23093" value="226.4" />
+			<point error="4.4" time="2453834.26977" value="-206.2" />
+			<point error="4.4" time="2453867.17424" value="-535.0" />
+			<point error="7.2" time="2453886.13781" value="-431.2" />
+			<point error="4.6" time="2454044.49085" value="191.4" />
+			<point error="7.3" time="2454080.38513" value="224.7" />
+			<point error="8.4" time="2454105.31918" value="224.8" />
+			<point error="7.2" time="2454106.31976" value="232.0" />
+			<point error="7.7" time="2454109.31078" value="323.1" />
+			<point error="10.1" time="2454109.32586" value="330.4" />
+			<point error="7.7" time="2454130.24993" value="242.1" />
+			<point error="8.3" time="2454153.18142" value="105.1" />
+			<point error="6.1" time="2454160.16793" value="85.4" />
+			<point error="4.7" time="2454179.11821" value="100.4" />
+			<point error="8.8" time="2454192.28757" value="60.9" />
+			<point error="5.7" time="2454212.23429" value="-63.9" />
+			<point error="6.1" time="2454242.15960" value="-185.7" />
+			<point error="7.5" time="2454433.43142" value="271.7" />
+			<point error="5.6" time="2454464.33911" value="230.7" />
+			<point error="4.9" time="2454515.20532" value="64.8" />
+			<point error="4.4" time="2454570.25941" value="-233.1" />
+			<point error="11.6" time="2454599.19278" value="-264.9" />
+			<point error="10.1" time="2454602.16715" value="-419.6" />
+			<point error="6.9" time="2454604.16879" value="-303.6" />
+			<point error="8.2" time="2454774.49799" value="213.9" />
+			<point error="7.1" time="2454789.47046" value="261.9" />
+			<point error="7.5" time="2454790.45754" value="280.0" />
+			<point error="9.5" time="2454808.40943" value="535.4" />
+			<point error="10.2" time="2454838.33812" value="414.5" />
+			<point error="7.6" time="2454840.52386" value="341.7" />
+			<point error="8.1" time="2454842.31586" value="317.8" />
+			<point error="7.2" time="2454866.44103" value="299.2" />
+		</data>
+	</curve>
+</planet>

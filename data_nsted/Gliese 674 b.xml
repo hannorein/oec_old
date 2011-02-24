@@ -1,5 +1,6 @@
 <planet id="Gliese 674">
-	<curve id="UID_0085523_RVC_01.tbl">
+	<curve id="UID_0085523_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Bonfils et al. 2007 (A&amp;A, 474, 293)</reference>
 		<bibcodes>2007A&amp;A...474..293B</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
@@ -39,7 +40,8 @@
 			<point error="0.0007" time="2453983.52887" value="-2.7360" />
 		</data>
 	</curve>
-	<curve id="UID_0085523_GLC_01.tbl">
+	<curve id="UID_0085523_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

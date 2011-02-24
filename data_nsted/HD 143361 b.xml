@@ -1,5 +1,6 @@
 <planet id="HD 143361">
-	<curve id="UID_0078521_RVC_01.tbl">
+	<curve id="UID_0078521_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Minniti et al. 2009 (ApJ, 693, 1424)</reference>
 		<bibcodes>2009ApJ...693.1424M</bibcodes>
 		<observatory>Las Campanas Observatory, Chile</observatory>
@@ -19,7 +20,8 @@
 			<point error="2.9" time="2452501.8720" value="-68.8" />
 		</data>
 	</curve>
-	<curve id="UID_0078521_RVC_02.tbl">
+	<curve id="UID_0078521_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Jenkins et al. 2009 (MNRAS, 398, 911)</reference>
 		<bibcodes>2009MNRAS.398..911J</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
@@ -33,7 +35,8 @@
 			<point error="2.19" time="2454581.807762" value="-531.75" />
 		</data>
 	</curve>
-	<curve id="UID_0078521_GLC_01.tbl">
+	<curve id="UID_0078521_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

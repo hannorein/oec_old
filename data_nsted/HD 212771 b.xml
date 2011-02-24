@@ -1,5 +1,6 @@
 <planet id="HD 212771">
-	<curve id="UID_0110813_RVC_01.tbl">
+	<curve id="UID_0110813_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Johnson et al. 2010 (arXiv, 1003, 3445)</reference>
 		<bibcodes>2010arXiv1003.3445J</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -27,7 +28,8 @@
 			<point error="1.77" time="2455188.695" value="44.57" />
 		</data>
 	</curve>
-	<curve id="UID_0110813_GLC_01.tbl">
+	<curve id="UID_0110813_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

@@ -1,5 +1,6 @@
 <planet id="CoRoT-4">
-	<curve id="UID_0300075_RVC_02.tbl">
+	<curve id="UID_0300075_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Moutou et al. 2008 (A&amp;AL, 488, 47)</reference>
 		<bibcodes>2008A&amp;A...488L..47M</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
@@ -14,7 +15,8 @@
 			<point error="0.020" time="2454507.3778" value="32.320" />
 		</data>
 	</curve>
-	<curve id="UID_0300075_RVC_01.tbl">
+	<curve id="UID_0300075_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Moutou et al. 2008 (A&amp;AL, 488, 47)</reference>
 		<bibcodes>2008A&amp;A...488L..47M</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>

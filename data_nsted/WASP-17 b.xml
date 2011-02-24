@@ -1,5 +1,6 @@
 <planet id="WASP-17">
-	<curve id="UID_0300091_RVC_01.tbl">
+	<curve id="UID_0300091_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Anderson et al. 2010 (ApJ, 709, 159)</reference>
 		<bibcodes>2010ApJ...709..159A</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
@@ -48,7 +49,8 @@
 			<point error="0.0271" time="2454951.8719" value="-49.5458" />
 		</data>
 	</curve>
-	<curve id="UID_0300091_RVC_02.tbl">
+	<curve id="UID_0300091_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Anderson et al. 2010 (ApJ, 709, 159)</reference>
 		<bibcodes>2010ApJ...709..159A</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
@@ -59,7 +61,8 @@
 			<point error="0.0105" time="2454567.8516" value="-49.5368" />
 		</data>
 	</curve>
-	<curve id="UID_0300091_data_AXA_001.tbl">
+	<curve id="UID_0300091_data_AXA_001.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>ARIZONA</observatory>

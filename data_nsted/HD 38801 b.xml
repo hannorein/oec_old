@@ -1,5 +1,6 @@
 <planet id="HD 38801">
-	<curve id="UID_0027384_RVC_02.tbl">
+	<curve id="UID_0027384_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Harakawa et al. 2010 (ApJ, 715, 550)</reference>
 		<bibcodes>2010ApJ...715..550H</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -18,7 +19,8 @@
 			<point error="3.9" time="2454787.0288" value="89.6" />
 		</data>
 	</curve>
-	<curve id="UID_0027384_RVC_01.tbl">
+	<curve id="UID_0027384_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Harakawa et al. 2010 (ApJ, 715, 550)</reference>
 		<bibcodes>2010ApJ...715..550H</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -36,7 +38,8 @@
 			<point error="1.2" time="2454838.9756" value="4.0" />
 		</data>
 	</curve>
-	<curve id="UID_0027384_GLC_01.tbl">
+	<curve id="UID_0027384_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

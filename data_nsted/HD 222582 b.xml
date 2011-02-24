@@ -1,5 +1,6 @@
 <planet id="HD 222582">
-	<curve id="UID_0116906_RVC_01.tbl">
+	<curve id="UID_0116906_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -44,7 +45,8 @@
 			<point error="3.3" time="2453571.112292" value="398.1" />
 		</data>
 	</curve>
-	<curve id="UID_0116906_RVC_02.tbl">
+	<curve id="UID_0116906_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Vogt et al. 2000 (Apj, 536, 902)</reference>
 		<bibcodes>2000ApJ...536..902V</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -76,7 +78,8 @@
 			<point error="3.4" time="2451488.7946" value="-60.1" />
 		</data>
 	</curve>
-	<curve id="UID_0116906_GLC_01.tbl">
+	<curve id="UID_0116906_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

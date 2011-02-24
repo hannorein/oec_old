@@ -1,5 +1,6 @@
 <planet id="gamma 1 Leo">
-	<curve id="UID_0050583_RVC_01.tbl">
+	<curve id="UID_0050583_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Han et al. 2010 (A&amp;A, 509, 24)</reference>
 		<bibcodes>2010A&amp;A...509A..24H</bibcodes>
 		<observatory>Bohyunsan Optical Astronomy Observatory (BOAO), Korea</observatory>
@@ -212,7 +213,8 @@
 			<point error="0.0065" time="2454971.053095" value="0.2712" />
 		</data>
 	</curve>
-	<curve id="UID_0050583_GLC_01.tbl">
+	<curve id="UID_0050583_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

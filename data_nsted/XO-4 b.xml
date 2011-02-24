@@ -1,5 +1,6 @@
 <planet id="XO-4">
-	<curve id="UID_0300072_RVC_01.tbl">
+	<curve id="UID_0300072_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>McCullogh et al. 2008 (arXiv, 0805, 2921)</reference>
 		<bibcodes>2008arXiv0805.2921M</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
@@ -16,7 +17,8 @@
 			<point error="39" time="2454480.8856" value="141" />
 		</data>
 	</curve>
-	<curve id="UID_0300072_data_AXA_001.tbl">
+	<curve id="UID_0300072_data_AXA_001.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>PORTUGAL</observatory>
@@ -326,7 +328,8 @@
 			<point error="1.001746" time="2454407.7113789" value="0.04106083" />
 		</data>
 	</curve>
-	<curve id="UID_0300072_data_AXA_002.tbl">
+	<curve id="UID_0300072_data_AXA_002.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>UTAH</observatory>
@@ -604,7 +607,8 @@
 			<point error="1.008302" time="2454420.0470959" value="0.02631444" />
 		</data>
 	</curve>
-	<curve id="UID_0300072_data_AXA_010.tbl">
+	<curve id="UID_0300072_data_AXA_010.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>SPAIN</observatory>
@@ -717,7 +721,8 @@
 			<point error="0.992862" time="2454902.5867501" value="0.00407286" />
 		</data>
 	</curve>
-	<curve id="UID_0300072_data_AXA_009.tbl">
+	<curve id="UID_0300072_data_AXA_009.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>UTAH</observatory>
@@ -1100,7 +1105,8 @@
 			<point error="1.000473" time="2454812.0654612" value="0.06019133" />
 		</data>
 	</curve>
-	<curve id="UID_0300072_data_AXA_008.tbl">
+	<curve id="UID_0300072_data_AXA_008.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>SPAIN</observatory>
@@ -1189,7 +1195,8 @@
 			<point error="0.989969" time="2454799.4326995" value="-0.00417103" />
 		</data>
 	</curve>
-	<curve id="UID_0300072_data_AXA_007.tbl">
+	<curve id="UID_0300072_data_AXA_007.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>CROATIA</observatory>
@@ -1471,7 +1478,8 @@
 			<point error="0.999272" time="2454766.6707169" value="0.05838634" />
 		</data>
 	</curve>
-	<curve id="UID_0300072_data_AXA_006.tbl">
+	<curve id="UID_0300072_data_AXA_006.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>UTAH</observatory>
@@ -1657,7 +1665,8 @@
 			<point error="1.003051" time="2454486.0240389" value="0.02210830" />
 		</data>
 	</curve>
-	<curve id="UID_0300072_data_AXA_005.tbl">
+	<curve id="UID_0300072_data_AXA_005.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>UTAH</observatory>
@@ -1844,7 +1853,8 @@
 			<point error="0.994271" time="2454486.0234889" value="0.02010910" />
 		</data>
 	</curve>
-	<curve id="UID_0300072_data_AXA_004.tbl">
+	<curve id="UID_0300072_data_AXA_004.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>UTAH</observatory>
@@ -2030,7 +2040,8 @@
 			<point error="0.999584" time="2454486.0249489" value="0.02269365" />
 		</data>
 	</curve>
-	<curve id="UID_0300072_data_AXA_003.tbl">
+	<curve id="UID_0300072_data_AXA_003.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>BELGIUM</observatory>

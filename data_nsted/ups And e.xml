@@ -1,5 +1,6 @@
 <planet id="ups And">
-	<curve id="UID_0007513_RVC_03.tbl">
+	<curve id="UID_0007513_RVC_03.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -275,7 +276,8 @@
 			<point error="9.7" time="2453220.951435" value="-63.6" />
 		</data>
 	</curve>
-	<curve id="UID_0007513_RVC_07.tbl">
+	<curve id="UID_0007513_RVC_07.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Naef et al. 2004 (A&amp;A, 414, 351)</reference>
 		<bibcodes>2004A&amp;A...414..351N</bibcodes>
 		<observatory>Obsevatoire de Haute Provence (OHP), France</observatory>
@@ -354,7 +356,8 @@
 			<point error="0.008" time="2452885.5724" value="-28.540" />
 		</data>
 	</curve>
-	<curve id="UID_0007513_RVC_06.tbl">
+	<curve id="UID_0007513_RVC_06.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Wittenmyer et al. 2007 (ApJ, 654, 625)</reference>
 		<bibcodes>2007ApJ...654..625W</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
@@ -403,7 +406,8 @@
 			<point error="8.3" time="2453746.71222" value="-150.9" />
 		</data>
 	</curve>
-	<curve id="UID_0007513_RVC_01.tbl">
+	<curve id="UID_0007513_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 1999 (ApJ, 526, 916)</reference>
 		<bibcodes>1999ApJ...526..916B</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -500,7 +504,8 @@
 			<point error="7.14" time="2451242.635" value="0.90" />
 		</data>
 	</curve>
-	<curve id="UID_0007513_RVC_02.tbl">
+	<curve id="UID_0007513_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 1999 (ApJ, 526, 916)</reference>
 		<bibcodes>1999ApJ...526..916B</bibcodes>
 		<observatory>Fred L. Whipple Observatory (FLWO), Mt. Hopkins, Arizona</observatory>
@@ -560,7 +565,8 @@
 			<point error="19.37" time="2451213.581" value="-74.08" />
 		</data>
 	</curve>
-	<curve id="UID_0007513_RVC_04.tbl">
+	<curve id="UID_0007513_RVC_04.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Fischer et al. 2003 (ApJ, 586, 1394)</reference>
 		<bibcodes>2003ApJ...586.1394F</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -816,7 +822,8 @@
 			<point error="7.28" time="2452597.740" value="-49.81" />
 		</data>
 	</curve>
-	<curve id="UID_0007513_RVC_05.tbl">
+	<curve id="UID_0007513_RVC_05.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Wright et al. 2009 (ApJ, 693, 1084)</reference>
 		<bibcodes>2009ApJ...693.1084W</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -1108,7 +1115,8 @@
 			<point error="6.8" time="2454428.702007" value="70.2" />
 		</data>
 	</curve>
-	<curve id="UID_0007513_GLC_01.tbl">
+	<curve id="UID_0007513_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

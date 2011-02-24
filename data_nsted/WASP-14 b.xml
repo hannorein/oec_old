@@ -1,5 +1,6 @@
 <planet id="WASP-14">
-	<curve id="UID_0300070_RVC_02.tbl">
+	<curve id="UID_0300070_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Joshi et al. 2009 (MNRAS, 392, 1532)</reference>
 		<bibcodes>2009MNRAS.392.1532J</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
@@ -28,7 +29,8 @@
 			<point error="0.0091" time="2454525.6755" value="-4.0564" />
 		</data>
 	</curve>
-	<curve id="UID_0300070_RVC_01.tbl">
+	<curve id="UID_0300070_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Joshi et al. 2009 (MNRAS, 392, 1532)</reference>
 		<bibcodes>2009MNRAS.392.1532J</bibcodes>
 		<observatory>La Palma, Spain</observatory>
@@ -42,7 +44,8 @@
 			<point error="0.0081" time="2454490.7820" value="-5.6383" />
 		</data>
 	</curve>
-	<curve id="UID_0300070_RVC_03.tbl">
+	<curve id="UID_0300070_RVC_03.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Johnson et al. 2009 (PASP, 121, 1104)</reference>
 		<bibcodes>2009PASP..121.1104J</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -89,7 +92,8 @@
 			<point error="6.4" time="2455000.01598" value="-429.6" />
 		</data>
 	</curve>
-	<curve id="UID_0300070_RVC_04.tbl">
+	<curve id="UID_0300070_RVC_04.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Johnson et al. 2009 (PASP, 121, 1104)</reference>
 		<bibcodes>2009PASP..121.1104J</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -102,7 +106,8 @@
 			<point error="1.7" time="2455015.91393" value="-812.7" />
 		</data>
 	</curve>
-	<curve id="UID_0300070_RVC_05.tbl">
+	<curve id="UID_0300070_RVC_05.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Husnoo et al. 2010 (arXiv, 1004, 1809)</reference>
 		<bibcodes>2010arXiv1004.1809H</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
@@ -121,7 +126,8 @@
 			<point error="0.0122" time="2454915.57681" value="-5.2325" />
 		</data>
 	</curve>
-	<curve id="UID_0300070_data_AXA_001.tbl">
+	<curve id="UID_0300070_data_AXA_001.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>SPAIN</observatory>
@@ -425,7 +431,8 @@
 			<point error="0.984060" time="2454674.5158173" value="0.00983657" />
 		</data>
 	</curve>
-	<curve id="UID_0300070_data_AXA_002.tbl">
+	<curve id="UID_0300070_data_AXA_002.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>SPAIN</observatory>
@@ -889,7 +896,8 @@
 			<point error="1.048977" time="2454683.4937584" value="0.01368993" />
 		</data>
 	</curve>
-	<curve id="UID_0300070_data_AXA_011.tbl">
+	<curve id="UID_0300070_data_AXA_011.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>UTAH</observatory>
@@ -1146,7 +1154,8 @@
 			<point error="1.006009" time="2454979.7296618" value="0.03879284" />
 		</data>
 	</curve>
-	<curve id="UID_0300070_data_AXA_010.tbl">
+	<curve id="UID_0300070_data_AXA_010.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>CROATIA</observatory>
@@ -1381,7 +1390,8 @@
 			<point error="0.982011" time="2454968.5670494" value="0.06336258" />
 		</data>
 	</curve>
-	<curve id="UID_0300070_data_AXA_009.tbl">
+	<curve id="UID_0300070_data_AXA_009.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>POLAND</observatory>
@@ -1639,7 +1649,8 @@
 			<point error="1.013713" time="2454950.5609261" value="0.03948700" />
 		</data>
 	</curve>
-	<curve id="UID_0300070_data_AXA_008.tbl">
+	<curve id="UID_0300070_data_AXA_008.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>POLAND</observatory>
@@ -1960,7 +1971,8 @@
 			<point error="0.984813" time="2454950.6062656" value="0.05525774" />
 		</data>
 	</curve>
-	<curve id="UID_0300070_data_AXA_007.tbl">
+	<curve id="UID_0300070_data_AXA_007.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>FLORIDA</observatory>
@@ -3020,7 +3032,8 @@
 			<point error="0.996739" time="2454943.8879563" value="0.06508259" />
 		</data>
 	</curve>
-	<curve id="UID_0300070_data_AXA_006.tbl">
+	<curve id="UID_0300070_data_AXA_006.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>ARIZONA</observatory>
@@ -3539,7 +3552,8 @@
 			<point error="1.000528" time="2454934.8667287" value="0.04559964" />
 		</data>
 	</curve>
-	<curve id="UID_0300070_data_AXA_005.tbl">
+	<curve id="UID_0300070_data_AXA_005.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>SPAIN</observatory>
@@ -3705,7 +3719,8 @@
 			<point error="0.998578" time="2454914.7088045" value="0.05983698" />
 		</data>
 	</curve>
-	<curve id="UID_0300070_data_AXA_004.tbl">
+	<curve id="UID_0300070_data_AXA_004.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>SPAIN</observatory>
@@ -4009,7 +4024,8 @@
 			<point error="0.984060" time="2454674.5158173" value="0.00983657" />
 		</data>
 	</curve>
-	<curve id="UID_0300070_data_AXA_003.tbl">
+	<curve id="UID_0300070_data_AXA_003.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>PORTUGAL</observatory>

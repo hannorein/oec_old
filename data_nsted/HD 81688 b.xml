@@ -1,5 +1,6 @@
 <planet id="HD 81688">
-	<curve id="UID_0046471_RVC_01.tbl">
+	<curve id="UID_0046471_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Sato et al. 2008 (PASJ, 60, 539)</reference>
 		<bibcodes>2008PASJ...60..539S</bibcodes>
 		<observatory>Okayama Astrophysical Observatory (OAO), Japan</observatory>
@@ -88,7 +89,8 @@
 			<point error="6.3" time="2454255.9738" value="-59.0" />
 		</data>
 	</curve>
-	<curve id="UID_0046471_GLC_01.tbl">
+	<curve id="UID_0046471_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

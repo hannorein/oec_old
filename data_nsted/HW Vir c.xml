@@ -1,5 +1,6 @@
 <planet id="HW Vir">
-	<curve id="UID_0062157_RVC_02.tbl">
+	<curve id="UID_0062157_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Hilditch et al. 1996 (MNRAS, 279, 1380)</reference>
 		<bibcodes>1996MNRAS.279.1380H</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
@@ -34,7 +35,8 @@
 			<point error="64.2" time="2449383.277" value="58.9" />
 		</data>
 	</curve>
-	<curve id="UID_0062157_RVC_01.tbl">
+	<curve id="UID_0062157_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Wood &amp; Saffer 1999 (MNRAS, 305, 820)</reference>
 		<bibcodes>1999MNRAS.305..820W</bibcodes>
 		<observatory>Kitt Peak National Observatory (KPNO), Arizona</observatory>
@@ -70,7 +72,8 @@
 			<point error="9.6" time="2449111.79083" value="68.7" />
 		</data>
 	</curve>
-	<curve id="UID_0062157_GLC_01.tbl">
+	<curve id="UID_0062157_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

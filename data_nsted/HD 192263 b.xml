@@ -1,5 +1,6 @@
 <planet id="HD 192263">
-	<curve id="UID_0099711_RVC_01.tbl">
+	<curve id="UID_0099711_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -38,7 +39,8 @@
 			<point error="2.9" time="2453546.985231" value="-30.0" />
 		</data>
 	</curve>
-	<curve id="UID_0099711_RVC_03.tbl">
+	<curve id="UID_0099711_RVC_03.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Vogt et al. 2000 (Apj, 536, 902)</reference>
 		<bibcodes>2000ApJ...536..902V</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -61,7 +63,8 @@
 			<point error="3.6" time="2451441.8293" value="23.6" />
 		</data>
 	</curve>
-	<curve id="UID_0099711_RVC_02.tbl">
+	<curve id="UID_0099711_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Santos et al. 2003 (A&amp;A, 406, 373)</reference>
 		<bibcodes>2003A&amp;A...406..373S</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
@@ -250,7 +253,8 @@
 			<point error="0.006" time="2452593.554379" value="-10.687" />
 		</data>
 	</curve>
-	<curve id="UID_0099711_GLC_01.tbl">
+	<curve id="UID_0099711_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

@@ -1,5 +1,6 @@
 <planet id="81 Cet">
-	<curve id="UID_0012247_RVC_01.tbl">
+	<curve id="UID_0012247_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Sato et al. 2008 (PASJ, 60, 1317)</reference>
 		<bibcodes>2008PASJ...60.1317S</bibcodes>
 		<observatory>Okayama Astrophysical Observatory (OAO), Japan</observatory>
@@ -40,7 +41,8 @@
 			<point error="5.1" time="2454526.9147" value="-28.9" />
 		</data>
 	</curve>
-	<curve id="UID_0012247_GLC_01.tbl">
+	<curve id="UID_0012247_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

@@ -1,5 +1,6 @@
 <planet id="HD 50499">
-	<curve id="UID_0032970_RVC_01.tbl">
+	<curve id="UID_0032970_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Vogt et al. 2005 (ApJ, 632, 638)</reference>
 		<bibcodes>2005ApJ...632..638V</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -42,7 +43,8 @@
 			<point error="3.1" time="2453483.722" value="-33.98" />
 		</data>
 	</curve>
-	<curve id="UID_0032970_GLC_01.tbl">
+	<curve id="UID_0032970_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

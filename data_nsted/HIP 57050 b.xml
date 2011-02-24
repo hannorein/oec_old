@@ -1,5 +1,6 @@
 <planet id="HIP 57050">
-	<curve id="UID_0057050_RVC_01.tbl">
+	<curve id="UID_0057050_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Haghighipour et al. 2010 (ApJ, 715, 271)</reference>
 		<bibcodes>2010arXiv1004.4608H</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -44,7 +45,8 @@
 			<point error="2.02" time="2455203.11589" value="26.33" />
 		</data>
 	</curve>
-	<curve id="UID_0057050_GLC_01.tbl">
+	<curve id="UID_0057050_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

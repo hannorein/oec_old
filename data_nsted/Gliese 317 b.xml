@@ -1,5 +1,6 @@
 <planet id="Gliese 317">
-	<curve id="UID_0250257_RVC_01.tbl">
+	<curve id="UID_0250257_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Johnson et al. 2007 (ApJ, 670, 833)</reference>
 		<bibcodes>2007ApJ...670..833J</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>

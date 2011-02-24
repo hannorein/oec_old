@@ -1,5 +1,6 @@
 <planet id="HD 38529">
-	<curve id="UID_0027253_RVC_01.tbl">
+	<curve id="UID_0027253_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -58,7 +59,8 @@
 			<point error="2.9" time="2453753.895081" value="4.5" />
 		</data>
 	</curve>
-	<curve id="UID_0027253_RVC_02.tbl">
+	<curve id="UID_0027253_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -177,7 +179,8 @@
 			<point error="6.5" time="2453069.666227" value="-160.6" />
 		</data>
 	</curve>
-	<curve id="UID_0027253_RVC_04.tbl">
+	<curve id="UID_0027253_RVC_04.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Fischer et al. 2001 (ApJ, 551, 1107)</reference>
 		<bibcodes>2001ApJ...551.1107F</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -237,7 +240,8 @@
 			<point error="5.11" time="2451629.655" value="48.41" />
 		</data>
 	</curve>
-	<curve id="UID_0027253_RVC_03.tbl">
+	<curve id="UID_0027253_RVC_03.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Fischer et al. 2001 (ApJ, 551, 1107)</reference>
 		<bibcodes>2001ApJ...551.1107F</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -268,7 +272,8 @@
 			<point error="2.92" time="2451585.909" value="28.65" />
 		</data>
 	</curve>
-	<curve id="UID_0027253_RVC_06.tbl">
+	<curve id="UID_0027253_RVC_06.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Fischer et al. 2003 (ApJ, 586, 1394)</reference>
 		<bibcodes>2003ApJ...586.1394F</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -356,7 +361,8 @@
 			<point error="6.22" time="2452334.653" value="222.72" />
 		</data>
 	</curve>
-	<curve id="UID_0027253_RVC_05.tbl">
+	<curve id="UID_0027253_RVC_05.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Fischer et al. 2003 (ApJ, 586, 1394)</reference>
 		<bibcodes>2003ApJ...586.1394F</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -409,7 +415,8 @@
 			<point error="3.50" time="2452536.103" value="63.77" />
 		</data>
 	</curve>
-	<curve id="UID_0027253_RVC_10.tbl">
+	<curve id="UID_0027253_RVC_10.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Wright et al. 2009 (ApJ, 693, 1084)</reference>
 		<bibcodes>2009ApJ...693.1084W</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -534,7 +541,8 @@
 			<point error="4.4" time="2454548.673900" value="58.5" />
 		</data>
 	</curve>
-	<curve id="UID_0027253_RVC_09.tbl">
+	<curve id="UID_0027253_RVC_09.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Wright et al. 2009 (ApJ, 693, 1084)</reference>
 		<bibcodes>2009ApJ...693.1084W</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -600,7 +608,8 @@
 			<point error="1.1" time="2454725.128854" value="-43.9" />
 		</data>
 	</curve>
-	<curve id="UID_0027253_RVC_08.tbl">
+	<curve id="UID_0027253_RVC_08.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Wittenmyer et al. 2009 (ApJS, 182, 97)</reference>
 		<bibcodes>2009ApJS..182...97W</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
@@ -615,7 +624,8 @@
 			<point error="6.4" time="2454020.90382" value="93.2" />
 		</data>
 	</curve>
-	<curve id="UID_0027253_RVC_07.tbl">
+	<curve id="UID_0027253_RVC_07.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Wittenmyer et al. 2009 (ApJS, 182, 97)</reference>
 		<bibcodes>2009ApJS..182...97W</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
@@ -696,7 +706,8 @@
 			<point error="4.7" time="2454163.63702" value="153.6" />
 		</data>
 	</curve>
-	<curve id="UID_0027253_RVC_11.tbl">
+	<curve id="UID_0027253_RVC_11.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Benedict et al. 2010 (arXiv, 1003, 421)</reference>
 		<bibcodes>2010arXiv1003.0421B</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
@@ -806,7 +817,8 @@
 			<point error="6.72" time="2454822.725625" value="18.40" />
 		</data>
 	</curve>
-	<curve id="UID_0027253_GLC_01.tbl">
+	<curve id="UID_0027253_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

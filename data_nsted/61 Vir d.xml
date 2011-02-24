@@ -1,5 +1,6 @@
 <planet id="61 Vir">
-	<curve id="UID_0064924_RVC_01.tbl">
+	<curve id="UID_0064924_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Campbell et al. 1988 (ApJ, 331, 902)</reference>
 		<bibcodes>1988ApJ...331..902C</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -33,7 +34,8 @@
 			<point error="9.0" time="2446866.973" value="-0.8" />
 		</data>
 	</curve>
-	<curve id="UID_0064924_RVC_03.tbl">
+	<curve id="UID_0064924_RVC_03.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Vogt et al. 2010 (ApJ, 708, 1366)</reference>
 		<bibcodes>2010ApJ...708.1366V</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
@@ -167,7 +169,8 @@
 			<point error="0.59" time="2455058.89140" value="-1.51" />
 		</data>
 	</curve>
-	<curve id="UID_0064924_RVC_02.tbl">
+	<curve id="UID_0064924_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Vogt et al. 2010 (ApJ, 708, 1366)</reference>
 		<bibcodes>2010ApJ...708.1366V</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -255,7 +258,8 @@
 			<point error="0.34" time="2455053.76245" value="-1.65" />
 		</data>
 	</curve>
-	<curve id="UID_0064924_GLC_01.tbl">
+	<curve id="UID_0064924_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

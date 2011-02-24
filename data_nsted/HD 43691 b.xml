@@ -1,5 +1,6 @@
 <planet id="HD 43691">
-	<curve id="UID_0030057_RVC_02.tbl">
+	<curve id="UID_0030057_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>da Silva et al. 2007 (A&amp;A, 473, 323)</reference>
 		<bibcodes>2007A&amp;A...473..323D</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
@@ -21,7 +22,8 @@
 			<point error="0.004" time="2454155.4284" value="-28.981" />
 		</data>
 	</curve>
-	<curve id="UID_0030057_RVC_01.tbl">
+	<curve id="UID_0030057_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>da Silva et al. 2007 (A&amp;A, 473, 323)</reference>
 		<bibcodes>2007A&amp;A...473..323D</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
@@ -51,7 +53,8 @@
 			<point error="0.020" time="2453872.3456" value="-28.923" />
 		</data>
 	</curve>
-	<curve id="UID_0030057_GLC_01.tbl">
+	<curve id="UID_0030057_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

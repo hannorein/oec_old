@@ -1,5 +1,6 @@
 <planet id="WASP-33">
-	<curve id="UID_0011397_RVC_01.tbl">
+	<curve id="UID_0011397_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Collier Cameron et al. 2010 (arXiv, 1004, 4551)</reference>
 		<bibcodes>2010arXiv1004.4551C</bibcodes>
 		<observatory>Thuringer Landessternwarte Tautenburg (TLS), Germany</observatory>
@@ -36,7 +37,8 @@
 			<point error="0.7" time="2454165.3654" value="-1.2" />
 		</data>
 	</curve>
-	<curve id="UID_0011397_GLC_01.tbl">
+	<curve id="UID_0011397_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

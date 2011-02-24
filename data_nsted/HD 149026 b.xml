@@ -1,5 +1,6 @@
 <planet id="HD 149026">
-	<curve id="UID_0080838_RVC_02.tbl">
+	<curve id="UID_0080838_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Sato et al. 2005 (ApJ, 633, 465)</reference>
 		<bibcodes>2005ApJ...633..465S</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -11,7 +12,8 @@
 			<point error="4.61" time="2453241.797685" value="6.06" />
 		</data>
 	</curve>
-	<curve id="UID_0080838_RVC_03.tbl">
+	<curve id="UID_0080838_RVC_03.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Sato et al. 2005 (ApJ, 633, 465)</reference>
 		<bibcodes>2005ApJ...633..465S</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -26,7 +28,8 @@
 			<point error="3.27" time="2453483.930012" value="30.55" />
 		</data>
 	</curve>
-	<curve id="UID_0080838_RVC_01.tbl">
+	<curve id="UID_0080838_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -50,7 +53,8 @@
 			<point error="3.0" time="2453602.745000" value="-20.6" />
 		</data>
 	</curve>
-	<curve id="UID_0080838_data_PLC_04.tbl">
+	<curve id="UID_0080838_data_PLC_04.tbl" type="2">
+		<type>Transit Light Curve</type>
 		<reference>Sato et al. (2005, ApJ, 633, 465)</reference>
 		<bibcodes />
 		<observatory />
@@ -1031,7 +1035,8 @@
 			<point error="1.60490000" time="2453536.90530000" value="0.15493986" />
 		</data>
 	</curve>
-	<curve id="UID_0080838_data_PLC_01.tbl">
+	<curve id="UID_0080838_data_PLC_01.tbl" type="2">
+		<type>Transit Light Curve</type>
 		<reference>Charbonneau et al. (2006, ApJ, 636, 445)</reference>
 		<bibcodes />
 		<observatory />
@@ -1718,7 +1723,8 @@
 			<point error="0.99560000" time="2453527.97920800" value="0.03699887" />
 		</data>
 	</curve>
-	<curve id="UID_0080838_data_PLC_02.tbl">
+	<curve id="UID_0080838_data_PLC_02.tbl" type="2">
+		<type>Transit Light Curve</type>
 		<reference>Charbonneau et al. (2006, ApJ, 636, 445)</reference>
 		<bibcodes />
 		<observatory />
@@ -2300,7 +2306,8 @@
 			<point error="0.99900000" time="2453553.87379600" value="0.04001975" />
 		</data>
 	</curve>
-	<curve id="UID_0080838_data_PLC_03.tbl">
+	<curve id="UID_0080838_data_PLC_03.tbl" type="2">
+		<type>Transit Light Curve</type>
 		<reference>Charbonneau et al. (2006, ApJ, 636, 445)</reference>
 		<bibcodes />
 		<observatory />
@@ -2545,7 +2552,8 @@
 			<point error="0.99410000" time="2453553.87647800" value="0.04060459" />
 		</data>
 	</curve>
-	<curve id="UID_0080838_GLC_01.tbl">
+	<curve id="UID_0080838_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />
@@ -2672,7 +2680,8 @@
 			<point error="0.013" time="2449057.09868" value="8.2892" />
 		</data>
 	</curve>
-	<curve id="UID_0080838_data_AXA_001.tbl">
+	<curve id="UID_0080838_data_AXA_001.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>CROATIA</observatory>
@@ -3040,7 +3049,8 @@
 			<point error="1.022188" time="2454997.6007051" value="0.05130183" />
 		</data>
 	</curve>
-	<curve id="UID_0080838_data_AXA_002.tbl">
+	<curve id="UID_0080838_data_AXA_002.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>ARIZONA</observatory>

@@ -1,5 +1,6 @@
 <planet id="HD 167042">
-	<curve id="UID_0089047_RVC_01.tbl">
+	<curve id="UID_0089047_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Johnson et al. 2008 (ApJ, 675, 784)</reference>
 		<bibcodes>2008ApJ...675..784J</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -38,7 +39,8 @@
 			<point error="4.52" time="2454417.653" value="14.48" />
 		</data>
 	</curve>
-	<curve id="UID_0089047_RVC_02.tbl">
+	<curve id="UID_0089047_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Sato et al. 2008 (PASJ, 60, 1317)</reference>
 		<bibcodes>2008PASJ...60.1317S</bibcodes>
 		<observatory>Okayama Astrophysical Observatory (OAO), Japan</observatory>
@@ -75,7 +77,8 @@
 			<point error="5.4" time="2454554.3268" value="39.9" />
 		</data>
 	</curve>
-	<curve id="UID_0089047_GLC_01.tbl">
+	<curve id="UID_0089047_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

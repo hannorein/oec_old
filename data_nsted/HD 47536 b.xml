@@ -1,5 +1,6 @@
 <planet id="HD 47536">
-	<curve id="UID_0031688_RVC_01.tbl">
+	<curve id="UID_0031688_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Setiawan et al. 2003 (A&amp;A, 398, L19)</reference>
 		<bibcodes>2003A&amp;A...398L..19S</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
@@ -45,7 +46,8 @@
 			<point error="42.41" time="2452321.57905" value="79511.04" />
 		</data>
 	</curve>
-	<curve id="UID_0031688_GLC_01.tbl">
+	<curve id="UID_0031688_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

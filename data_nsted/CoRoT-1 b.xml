@@ -1,5 +1,6 @@
 <planet id="CoRoT-1">
-	<curve id="UID_0300036_RVC_01.tbl">
+	<curve id="UID_0300036_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Barge et al. 2008 (A&amp;AL, 482, 17)</reference>
 		<bibcodes>2008A&amp;A...482L..17B</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
@@ -16,7 +17,8 @@
 			<point error="0.0227" time="2454381.63151" value="23.3795" />
 		</data>
 	</curve>
-	<curve id="UID_0300036_data_AXA_001.tbl">
+	<curve id="UID_0300036_data_AXA_001.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>FINLAND</observatory>
@@ -114,7 +116,8 @@
 			<point error="0.991079" time="2454776.6794590" value="0.03970598" />
 		</data>
 	</curve>
-	<curve id="UID_0300036_data_AXA_002.tbl">
+	<curve id="UID_0300036_data_AXA_002.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>USA (INDIANA)</observatory>

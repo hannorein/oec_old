@@ -1,5 +1,6 @@
 <planet id="Gliese 433">
-	<curve id="UID_0056528_RVC_01.tbl">
+	<curve id="UID_0056528_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Zechmeister et al. 2009 (A&amp;A, 505, 859)</reference>
 		<bibcodes>2009A&amp;A...505..859Z</bibcodes>
 		<observatory>ESO VLT, Paranal Observatory, Chile</observatory>
@@ -173,7 +174,8 @@
 			<point error="3.47" time="2454188.595868" value="5.08" />
 		</data>
 	</curve>
-	<curve id="UID_0056528_GLC_01.tbl">
+	<curve id="UID_0056528_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

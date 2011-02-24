@@ -1,5 +1,6 @@
 <planet id="HD 62509">
-	<curve id="UID_0037826_RVC_02.tbl">
+	<curve id="UID_0037826_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Reffert et al. 2006 (ApJ, 652, 661)</reference>
 		<bibcodes>2006ApJ...652..661R</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -87,7 +88,8 @@
 			<point error="3.9" time="2453792.756" value="-0.8" />
 		</data>
 	</curve>
-	<curve id="UID_0037826_RVC_01.tbl">
+	<curve id="UID_0037826_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Hatzes &amp; Cochran 1993 (ApJ, 413, 339)</reference>
 		<bibcodes>1993ApJ...413..339H</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
@@ -127,7 +129,8 @@
 			<point error="1" time="2448375.668" value="16.5" />
 		</data>
 	</curve>
-	<curve id="UID_0037826_RVC_07.tbl">
+	<curve id="UID_0037826_RVC_07.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Hatzes &amp; Cochran 1993 (ApJ, 413, 339)</reference>
 		<bibcodes>1993ApJ...413..339H</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
@@ -154,7 +157,8 @@
 			<point error="1" time="2448724.694" value="18.9" />
 		</data>
 	</curve>
-	<curve id="UID_0037826_RVC_05.tbl">
+	<curve id="UID_0037826_RVC_05.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Hatzes et al. 2006 (A&amp;A, 457, 335)</reference>
 		<bibcodes>2006A&amp;A...457..335H</bibcodes>
 		<observatory>Thuringer Landessternwarte Tautenburg (TLS), Germany</observatory>
@@ -184,7 +188,8 @@
 			<point error="3.0" time="2453758.3281" value="25.43" />
 		</data>
 	</curve>
-	<curve id="UID_0037826_RVC_04.tbl">
+	<curve id="UID_0037826_RVC_04.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Hatzes et al. 2006 (A&amp;A, 457, 335)</reference>
 		<bibcodes>2006A&amp;A...457..335H</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
@@ -203,7 +208,8 @@
 			<point error="5.6" time="2452565.0000" value="-6.17" />
 		</data>
 	</curve>
-	<curve id="UID_0037826_RVC_03.tbl">
+	<curve id="UID_0037826_RVC_03.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Hatzes et al. 2006 (A&amp;A, 457, 335)</reference>
 		<bibcodes>2006A&amp;A...457..335H</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
@@ -233,7 +239,8 @@
 			<point error="4.0" time="2453747.8125" value="11.56" />
 		</data>
 	</curve>
-	<curve id="UID_0037826_RVC_06.tbl">
+	<curve id="UID_0037826_RVC_06.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Han et al. 2008 (JKAS, 41, 59)</reference>
 		<bibcodes>2008JKAS...41...59H</bibcodes>
 		<observatory>Bohyunsan Optical Astronomy Observatory (BOAO), Korea</observatory>
@@ -406,7 +413,8 @@
 			<point error="0.0061" time="2454507.058596" value="0.0169" />
 		</data>
 	</curve>
-	<curve id="UID_0037826_GLC_01.tbl">
+	<curve id="UID_0037826_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

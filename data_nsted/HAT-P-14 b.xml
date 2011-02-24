@@ -1,5 +1,6 @@
 <planet id="HAT-P-14">
-	<curve id="UID_0300102_RVC_01.tbl">
+	<curve id="UID_0300102_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Torres et al. 2010 (ApJ, 715, 458)</reference>
 		<bibcodes>2010ApJ...715..458T</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>

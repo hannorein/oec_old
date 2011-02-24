@@ -1,5 +1,6 @@
 <planet id="WASP-19">
-	<curve id="UID_0300095_RVC_01.tbl">
+	<curve id="UID_0300095_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Hebb et al. 2010 (ApJ, 708, 224)</reference>
 		<bibcodes>2010ApJ...708..224H</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>

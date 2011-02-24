@@ -1,5 +1,6 @@
 <planet id="HD 139357">
-	<curve id="UID_0076311_RVC_01.tbl">
+	<curve id="UID_0076311_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Doellinger et al. 2009 (A&amp;A, 499, 935)</reference>
 		<bibcodes>2009A&amp;A...499..935D</bibcodes>
 		<observatory>Thuringer Landessternwarte Tautenburg (TLS), Germany</observatory>
@@ -56,7 +57,8 @@
 			<point error="7.29" time="2454338.350758" value="-60.271" />
 		</data>
 	</curve>
-	<curve id="UID_0076311_GLC_01.tbl">
+	<curve id="UID_0076311_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

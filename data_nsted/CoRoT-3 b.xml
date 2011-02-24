@@ -1,5 +1,6 @@
 <planet id="CoRoT-3">
-	<curve id="UID_0300074_RVC_05.tbl">
+	<curve id="UID_0300074_RVC_05.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Deleuil et al. 2008 (A&amp;A, 491, 889)</reference>
 		<bibcodes>2008A&amp;A...491..889D</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
@@ -10,7 +11,8 @@
 			<point error="0.157" time="2454613.8684" value="-53.308" />
 		</data>
 	</curve>
-	<curve id="UID_0300074_RVC_01.tbl">
+	<curve id="UID_0300074_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Deleuil et al. 2008 (A&amp;A, 491, 889)</reference>
 		<bibcodes>2008A&amp;A...491..889D</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
@@ -22,7 +24,8 @@
 			<point error="0.057" time="2454344.6816" value="-56.683" />
 		</data>
 	</curve>
-	<curve id="UID_0300074_RVC_03.tbl">
+	<curve id="UID_0300074_RVC_03.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Deleuil et al. 2008 (A&amp;A, 491, 889)</reference>
 		<bibcodes>2008A&amp;A...491..889D</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
@@ -48,7 +51,8 @@
 			<point error="0.232" time="2454400.5461" value="-55.556" />
 		</data>
 	</curve>
-	<curve id="UID_0300074_RVC_02.tbl">
+	<curve id="UID_0300074_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Deleuil et al. 2008 (A&amp;A, 491, 889)</reference>
 		<bibcodes>2008A&amp;A...491..889D</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
@@ -63,7 +67,8 @@
 			<point error="0.074" time="2454643.5273" value="-54.386" />
 		</data>
 	</curve>
-	<curve id="UID_0300074_RVC_04.tbl">
+	<curve id="UID_0300074_RVC_04.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Deleuil et al. 2008 (A&amp;A, 491, 889)</reference>
 		<bibcodes>2008A&amp;A...491..889D</bibcodes>
 		<observatory>Tautenberg, Germany</observatory>
@@ -74,7 +79,8 @@
 			<point error="0.240" time="2454336.9060" value="-53.650" />
 		</data>
 	</curve>
-	<curve id="UID_0300074_RVC_06.tbl">
+	<curve id="UID_0300074_RVC_06.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Triaud et al. 2009 (A&amp;A, 506, 377)</reference>
 		<bibcodes>2009A&amp;A...506..377T</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
@@ -93,7 +99,8 @@
 			<point error="0.02760" time="2454704.685277" value="-56.58493" />
 		</data>
 	</curve>
-	<curve id="UID_0300074_data_AXA_001.tbl">
+	<curve id="UID_0300074_data_AXA_001.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>USA (INDIANA)</observatory>

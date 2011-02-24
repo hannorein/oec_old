@@ -1,5 +1,6 @@
 <planet id="HD 33283">
-	<curve id="UID_0023889_RVC_01.tbl">
+	<curve id="UID_0023889_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Johnson et al. 2006 (ApJ, 647, 600J)</reference>
 		<bibcodes>2006ApJ...647..600J</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -32,7 +33,8 @@
 			<point error="3.89" time="2453752.878" value="13.17" />
 		</data>
 	</curve>
-	<curve id="UID_0023889_GLC_01.tbl">
+	<curve id="UID_0023889_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

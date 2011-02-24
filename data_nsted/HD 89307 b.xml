@@ -1,5 +1,6 @@
 <planet id="HD 89307">
-	<curve id="UID_0050473_RVC_01.tbl">
+	<curve id="UID_0050473_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -19,7 +20,8 @@
 			<point error="9.0" time="2452334.785521" value="36.0" />
 		</data>
 	</curve>
-	<curve id="UID_0050473_RVC_02.tbl">
+	<curve id="UID_0050473_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Fischer et al. 2009 (ApJ, 703, 1545)</reference>
 		<bibcodes>2009ApJ...703.1545F</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -86,7 +88,8 @@
 			<point error="5.84" time="2454865.91973" value="2.72" />
 		</data>
 	</curve>
-	<curve id="UID_0050473_GLC_01.tbl">
+	<curve id="UID_0050473_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

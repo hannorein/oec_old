@@ -1,5 +1,6 @@
 <planet id="HD 153950">
-	<curve id="UID_0083547_RVC_01.tbl">
+	<curve id="UID_0083547_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Moutou et al. 2009 (A&amp;A, 496, 513)</reference>
 		<bibcodes>2009A&amp;A...496..513M</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
@@ -56,7 +57,8 @@
 			<point error="0.00139" time="2454643.794707" value="33.25740" />
 		</data>
 	</curve>
-	<curve id="UID_0083547_GLC_01.tbl">
+	<curve id="UID_0083547_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

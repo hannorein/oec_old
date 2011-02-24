@@ -1,5 +1,6 @@
 <planet id="HD 96167">
-	<curve id="UID_0054195_RVC_01.tbl">
+	<curve id="UID_0054195_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Peek et al. 2009 (PASP, 121, 613)</reference>
 		<bibcodes>2009PASP..121..613P</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -54,7 +55,8 @@
 			<point error="1.31" time="2454847.065" value="-15.94" />
 		</data>
 	</curve>
-	<curve id="UID_0054195_GLC_01.tbl">
+	<curve id="UID_0054195_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

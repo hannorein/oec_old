@@ -1,5 +1,6 @@
 <planet id="HD 187085">
-	<curve id="UID_0097546_RVC_01.tbl">
+	<curve id="UID_0097546_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Jones et al. 2006 (MNRAS, 369, 249)</reference>
 		<bibcodes>2006MNRAS.369..249J</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
@@ -47,7 +48,8 @@
 			<point error="3.7" time="2453665.9534" value="18.9" />
 		</data>
 	</curve>
-	<curve id="UID_0097546_RVC_02.tbl">
+	<curve id="UID_0097546_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Jones et al. 2006 (MNRAS, 369, 249)</reference>
 		<bibcodes>2006MNRAS.369..249J</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
@@ -95,7 +97,8 @@
 			<point error="3.7" time="2453665.9534" value="18.9" />
 		</data>
 	</curve>
-	<curve id="UID_0097546_GLC_01.tbl">
+	<curve id="UID_0097546_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

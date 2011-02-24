@@ -1,5 +1,6 @@
 <planet id="BD-17 63">
-	<curve id="UID_0002247_RVC_01.tbl">
+	<curve id="UID_0002247_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Moutou et al. 2009 (A&amp;A, 496, 513)</reference>
 		<bibcodes>2009A&amp;A...496..513M</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
@@ -33,7 +34,8 @@
 			<point error="0.00162" time="2454703.858883" value="2.85025" />
 		</data>
 	</curve>
-	<curve id="UID_0002247_GLC_01.tbl">
+	<curve id="UID_0002247_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

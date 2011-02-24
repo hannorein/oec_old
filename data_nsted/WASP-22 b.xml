@@ -1,5 +1,6 @@
 <planet id="WASP-22">
-	<curve id="UID_0300105_RVC_02.tbl">
+	<curve id="UID_0300105_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Maxted et al. 2010 (arXiv, 1004, 1514)</reference>
 		<bibcodes>2010arXiv1004.1514M</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
@@ -13,7 +14,8 @@
 			<point error="0.0032" time="2454755.7558" value="-7.2726" />
 		</data>
 	</curve>
-	<curve id="UID_0300105_RVC_01.tbl">
+	<curve id="UID_0300105_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Maxted et al. 2010 (arXiv, 1004, 1514)</reference>
 		<bibcodes>2010arXiv1004.1514M</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>

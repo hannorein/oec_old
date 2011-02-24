@@ -1,5 +1,6 @@
 <planet id="MOA-2007-BLG-192-L">
-	<curve id="UID_0300077_data_GLC_01.tbl">
+	<curve id="UID_0300077_data_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Bennett, D.P. et al., 2008, ApJ, 684, 663</reference>
 		<bibcodes>2008ApJ...684..663B</bibcodes>
 		<observatory>Mt John Observatory</observatory>
@@ -725,7 +726,8 @@
 			<point error="1" time="4376.96419" value="0.1960" />
 		</data>
 	</curve>
-	<curve id="UID_0300077_data_GLC_02.tbl">
+	<curve id="UID_0300077_data_GLC_02.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Bennett, D.P. et al., 2008, ApJ, 684, 663</reference>
 		<bibcodes>2008ApJ...684..663B</bibcodes>
 		<observatory>Las Campanas Observatory</observatory>

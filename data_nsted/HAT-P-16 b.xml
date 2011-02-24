@@ -1,5 +1,6 @@
 <planet id="HAT-P-16">
-	<curve id="UID_0300112_RVC_01.tbl">
+	<curve id="UID_0300112_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Buchhave et al. 2010 (arXiv, 1005, 2009)</reference>
 		<bibcodes>2010arXiv1005.2009B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -13,7 +14,8 @@
 			<point error="2.5" time="2455135.02181" value="510.9" />
 		</data>
 	</curve>
-	<curve id="UID_0300112_RVC_02.tbl">
+	<curve id="UID_0300112_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Buchhave et al. 2010 (arXiv, 1005, 2009)</reference>
 		<bibcodes>2010arXiv1005.2009B</bibcodes>
 		<observatory>La Palma, Spain</observatory>
@@ -28,7 +30,8 @@
 			<point error="5.7" time="2455054.71713" value="66.2" />
 		</data>
 	</curve>
-	<curve id="UID_0300112_RVC_03.tbl">
+	<curve id="UID_0300112_RVC_03.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Buchhave et al. 2010 (arXiv, 1005, 2009)</reference>
 		<bibcodes>2010arXiv1005.2009B</bibcodes>
 		<observatory>La Palma, Spain</observatory>

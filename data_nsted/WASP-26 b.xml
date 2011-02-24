@@ -1,5 +1,6 @@
 <planet id="WASP-26">
-	<curve id="UID_0300106_RVC_01.tbl">
+	<curve id="UID_0300106_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Smalley et al. 2010 (arXiv, 1004, 1542)</reference>
 		<bibcodes>2010arXiv1004.1542S</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>

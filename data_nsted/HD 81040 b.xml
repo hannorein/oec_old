@@ -1,5 +1,6 @@
 <planet id="HD 81040">
-	<curve id="UID_0046076_RVC_02.tbl">
+	<curve id="UID_0046076_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Sozzetti et al. 2006 (A&amp;A, 449, 417)</reference>
 		<bibcodes>2006A&amp;A...449..417S</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
@@ -30,7 +31,8 @@
 			<point error="0.013" time="2453518.35250" value="49.234" />
 		</data>
 	</curve>
-	<curve id="UID_0046076_RVC_01.tbl">
+	<curve id="UID_0046076_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Sozzetti et al. 2006 (A&amp;A, 449, 417)</reference>
 		<bibcodes>2006A&amp;A...449..417S</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -41,7 +43,8 @@
 			<point error="0.009" time="2451545.63921" value="49.088" />
 		</data>
 	</curve>
-	<curve id="UID_0046076_GLC_01.tbl">
+	<curve id="UID_0046076_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

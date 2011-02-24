@@ -1,5 +1,6 @@
 <planet id="HD 74156">
-	<curve id="UID_0042723_RVC_02.tbl">
+	<curve id="UID_0042723_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Naef et al. 2004 (A&amp;A, 414, 351)</reference>
 		<bibcodes>2004A&amp;A...414..351N</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
@@ -51,7 +52,8 @@
 			<point error="0.023" time="2452909.8593" value="3.569" />
 		</data>
 	</curve>
-	<curve id="UID_0042723_RVC_03.tbl">
+	<curve id="UID_0042723_RVC_03.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Naef et al. 2004 (A&amp;A, 414, 351)</reference>
 		<bibcodes>2004A&amp;A...414..351N</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
@@ -110,7 +112,8 @@
 			<point error="0.017" time="2452777.3734" value="3.762" />
 		</data>
 	</curve>
-	<curve id="UID_0042723_RVC_01.tbl">
+	<curve id="UID_0042723_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Bean et al. 2008 (ApJ, 672, 1202)</reference>
 		<bibcodes>2008ApJ...672.1202B</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
@@ -200,7 +203,8 @@
 			<point error="1.78" time="2454231.6001" value="104.84" />
 		</data>
 	</curve>
-	<curve id="UID_0042723_RVC_04.tbl">
+	<curve id="UID_0042723_RVC_04.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Wittenmyer et al. 2009 (ApJS, 182, 97)</reference>
 		<bibcodes>2009ApJS..182...97W</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
@@ -290,7 +294,8 @@
 			<point error="6.4" time="2454231.60002" value="58.8" />
 		</data>
 	</curve>
-	<curve id="UID_0042723_GLC_01.tbl">
+	<curve id="UID_0042723_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

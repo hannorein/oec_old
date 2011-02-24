@@ -1,5 +1,6 @@
 <planet id="HD 73526">
-	<curve id="UID_0042282_RVC_01.tbl">
+	<curve id="UID_0042282_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Tinney et al. 2003 (ApJ, 587, 423)</reference>
 		<bibcodes>2003ApJ...587..423T</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
@@ -25,7 +26,8 @@
 			<point error="6.3" time="2452454.8529" value="-109.0" />
 		</data>
 	</curve>
-	<curve id="UID_0042282_RVC_02.tbl">
+	<curve id="UID_0042282_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Tinney et al. 2006 (ApJ, 647, 594)</reference>
 		<bibcodes>2006ApJ...647..594T</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
@@ -63,7 +65,8 @@
 			<point error="6.3" time="2453520.9103" value="-3.9" />
 		</data>
 	</curve>
-	<curve id="UID_0042282_GLC_01.tbl">
+	<curve id="UID_0042282_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

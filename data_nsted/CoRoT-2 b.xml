@@ -1,5 +1,6 @@
 <planet id="CoRoT-2">
-	<curve id="UID_0300048_RVC_05.tbl">
+	<curve id="UID_0300048_RVC_05.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Alonso et al. 2008 (A&amp;AL, 482, 21)</reference>
 		<bibcodes>2008A&amp;A...482L..21A</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
@@ -10,7 +11,8 @@
 			<point error="0.032" time="2454378.56018" value="23.339" />
 		</data>
 	</curve>
-	<curve id="UID_0300048_RVC_03.tbl">
+	<curve id="UID_0300048_RVC_03.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Alonso et al. 2008 (A&amp;AL, 482, 21)</reference>
 		<bibcodes>2008A&amp;A...482L..21A</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
@@ -30,7 +32,8 @@
 			<point error="0.012" time="2454349.66605" value="22.813" />
 		</data>
 	</curve>
-	<curve id="UID_0300048_RVC_04.tbl">
+	<curve id="UID_0300048_RVC_04.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Alonso et al. 2008 (A&amp;AL, 482, 21)</reference>
 		<bibcodes>2008A&amp;A...482L..21A</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
@@ -49,7 +52,8 @@
 			<point error="0.027" time="2454314.44185" value="22.684" />
 		</data>
 	</curve>
-	<curve id="UID_0300048_RVC_02.tbl">
+	<curve id="UID_0300048_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Bouchy et al. 2008 (A&amp;AL, 482, 25)</reference>
 		<bibcodes>2008A&amp;A...482L..25B</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
@@ -65,7 +69,8 @@
 			<point error="0.030" time="2454298.5879" value="23.023" />
 		</data>
 	</curve>
-	<curve id="UID_0300048_RVC_01.tbl">
+	<curve id="UID_0300048_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Bouchy et al. 2008 (A&amp;AL, 482, 25)</reference>
 		<bibcodes>2008A&amp;A...482L..25B</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
@@ -94,7 +99,8 @@
 			<point error="0.020" time="2454345.6709" value="23.034" />
 		</data>
 	</curve>
-	<curve id="UID_0300048_data_AXA_001.tbl">
+	<curve id="UID_0300048_data_AXA_001.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>GREECE</observatory>
@@ -328,7 +334,8 @@
 			<point error="0.982294" time="2454624.5655715" value="0.04745462" />
 		</data>
 	</curve>
-	<curve id="UID_0300048_data_AXA_002.tbl">
+	<curve id="UID_0300048_data_AXA_002.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>GREECE</observatory>
@@ -586,7 +593,8 @@
 			<point error="1.006837" time="2454624.5964025" value="0.06550830" />
 		</data>
 	</curve>
-	<curve id="UID_0300048_data_AXA_019.tbl">
+	<curve id="UID_0300048_data_AXA_019.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>INDIANA</observatory>
@@ -682,7 +690,8 @@
 			<point error="0.992277" time="2455077.7135027" value="0.03128461" />
 		</data>
 	</curve>
-	<curve id="UID_0300048_data_AXA_018.tbl">
+	<curve id="UID_0300048_data_AXA_018.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>CROATIA</observatory>
@@ -804,7 +813,8 @@
 			<point error="1.004110" time="2455072.5177748" value="0.05162532" />
 		</data>
 	</curve>
-	<curve id="UID_0300048_data_AXA_017.tbl">
+	<curve id="UID_0300048_data_AXA_017.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>SPAIN </observatory>
@@ -999,7 +1009,8 @@
 			<point error="0.985962" time="2455058.6048873" value="0.06795460" />
 		</data>
 	</curve>
-	<curve id="UID_0300048_data_AXA_016.tbl">
+	<curve id="UID_0300048_data_AXA_016.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>UTAH</observatory>
@@ -1139,7 +1150,8 @@
 			<point error="0.991485" time="2455035.9263089" value="0.05591501" />
 		</data>
 	</curve>
-	<curve id="UID_0300048_data_AXA_015.tbl">
+	<curve id="UID_0300048_data_AXA_015.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>UTAH</observatory>
@@ -1313,7 +1325,8 @@
 			<point error="0.963143" time="2455028.9522808" value="0.05533571" />
 		</data>
 	</curve>
-	<curve id="UID_0300048_data_AXA_014.tbl">
+	<curve id="UID_0300048_data_AXA_014.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>ITALY</observatory>
@@ -1483,7 +1496,8 @@
 			<point error="1.005029" time="2455025.4641992" value="0.05506445" />
 		</data>
 	</curve>
-	<curve id="UID_0300048_data_AXA_013.tbl">
+	<curve id="UID_0300048_data_AXA_013.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>USA (INDIANA)</observatory>
@@ -1575,7 +1589,8 @@
 			<point error="0.995605" time="2455009.7466500" value="0.03562608" />
 		</data>
 	</curve>
-	<curve id="UID_0300048_data_AXA_012.tbl">
+	<curve id="UID_0300048_data_AXA_012.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>GREECE</observatory>
@@ -1833,7 +1848,8 @@
 			<point error="1.006825" time="2454624.5964025" value="0.06527589" />
 		</data>
 	</curve>
-	<curve id="UID_0300048_data_AXA_011.tbl">
+	<curve id="UID_0300048_data_AXA_011.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>UTAH</observatory>
@@ -1991,7 +2007,8 @@
 			<point error="0.965185" time="2454702.9167071" value="-0.00262747" />
 		</data>
 	</curve>
-	<curve id="UID_0300048_data_AXA_010.tbl">
+	<curve id="UID_0300048_data_AXA_010.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>MISSOURI (MOSCOW MILLS)</observatory>
@@ -2179,7 +2196,8 @@
 			<point error="1.076321" time="2454697.7545331" value="0.03593862" />
 		</data>
 	</curve>
-	<curve id="UID_0300048_data_AXA_009.tbl">
+	<curve id="UID_0300048_data_AXA_009.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>SPAIN</observatory>
@@ -2312,7 +2330,8 @@
 			<point error="0.973077" time="2454692.5615785" value="0.05870431" />
 		</data>
 	</curve>
-	<curve id="UID_0300048_data_AXA_008.tbl">
+	<curve id="UID_0300048_data_AXA_008.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>SPAIN</observatory>
@@ -2440,7 +2459,8 @@
 			<point error="1.003661" time="2454685.5810659" value="0.05550561" />
 		</data>
 	</curve>
-	<curve id="UID_0300048_data_AXA_007.tbl">
+	<curve id="UID_0300048_data_AXA_007.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>MISSOURI (MOSCOW MILLS)</observatory>
@@ -2529,7 +2549,8 @@
 			<point error="0.925869" time="2454683.7513903" value="0.00275430" />
 		</data>
 	</curve>
-	<curve id="UID_0300048_data_AXA_006.tbl">
+	<curve id="UID_0300048_data_AXA_006.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>SPAIN</observatory>
@@ -2662,7 +2683,8 @@
 			<point error="0.990549" time="2454678.5962336" value="0.04883248" />
 		</data>
 	</curve>
-	<curve id="UID_0300048_data_AXA_005.tbl">
+	<curve id="UID_0300048_data_AXA_005.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>FINLAND</observatory>
@@ -2750,7 +2772,8 @@
 			<point error="0.924083" time="2454678.5117342" value="-0.00240264" />
 		</data>
 	</curve>
-	<curve id="UID_0300048_data_AXA_004.tbl">
+	<curve id="UID_0300048_data_AXA_004.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>MISSOURI</observatory>
@@ -3021,7 +3044,8 @@
 			<point error="1.003138" time="2454676.8382397" value="0.03790398" />
 		</data>
 	</curve>
-	<curve id="UID_0300048_data_AXA_003.tbl">
+	<curve id="UID_0300048_data_AXA_003.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>MISSOURI</observatory>

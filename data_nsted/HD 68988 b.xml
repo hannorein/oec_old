@@ -1,5 +1,6 @@
 <planet id="HD 68988">
-	<curve id="UID_0040687_RVC_01.tbl">
+	<curve id="UID_0040687_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -35,7 +36,8 @@
 			<point error="2.8" time="2453753.917002" value="-182.3" />
 		</data>
 	</curve>
-	<curve id="UID_0040687_RVC_03.tbl">
+	<curve id="UID_0040687_RVC_03.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Vogt et al. 2002 (ApJ, 568, 352)</reference>
 		<bibcodes>2002ApJ...568..352V</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -49,7 +51,8 @@
 			<point error="10.8" time="2450946.7834" value="-157.2" />
 		</data>
 	</curve>
-	<curve id="UID_0040687_RVC_02.tbl">
+	<curve id="UID_0040687_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Vogt et al. 2002 (ApJ, 568, 352)</reference>
 		<bibcodes>2002ApJ...568..352V</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -70,7 +73,8 @@
 			<point error="3.8" time="2451064.7680" value="-57.4" />
 		</data>
 	</curve>
-	<curve id="UID_0040687_GLC_01.tbl">
+	<curve id="UID_0040687_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />
@@ -226,7 +230,8 @@
 			<point error="0.011" time="2449049.62700" value="8.3313" />
 		</data>
 	</curve>
-	<curve id="UID_0040687_data_AXA_004.tbl">
+	<curve id="UID_0040687_data_AXA_004.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>SPAIN</observatory>

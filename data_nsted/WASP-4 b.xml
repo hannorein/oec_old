@@ -1,5 +1,6 @@
 <planet id="WASP-4">
-	<curve id="UID_0300057_RVC_01.tbl">
+	<curve id="UID_0300057_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Wilson et al. 2008 (ApJ, 675, L113)</reference>
 		<bibcodes>2008ApJ...675L.113W</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
@@ -21,7 +22,8 @@
 			<point error="0.02156" time="2454409.51932" value="57.82666" />
 		</data>
 	</curve>
-	<curve id="UID_0300057_data_PLC_01.tbl">
+	<curve id="UID_0300057_data_PLC_01.tbl" type="2">
+		<type>Transit Light Curve</type>
 		<reference>Wilson et al. (2008, ApJ, 675, L113)</reference>
 		<bibcodes />
 		<observatory />
@@ -4058,7 +4060,8 @@
 			<point error="-0.03008205" time="2454020.57306713" value="-0.05880706" />
 		</data>
 	</curve>
-	<curve id="UID_0300057_data_PLC_02.tbl">
+	<curve id="UID_0300057_data_PLC_02.tbl" type="2">
+		<type>Transit Light Curve</type>
 		<reference>Wilson et al. (2008, ApJ, 675, L113)</reference>
 		<bibcodes />
 		<observatory />
@@ -9278,7 +9281,8 @@
 			<point error="0.01121988" time="2454433.43358796" value="0.45398682" />
 		</data>
 	</curve>
-	<curve id="UID_0300057_data_PLC_03.tbl">
+	<curve id="UID_0300057_data_PLC_03.tbl" type="2">
+		<type>Transit Light Curve</type>
 		<reference>Wilson et al. (2008, ApJ, 675, L113)</reference>
 		<bibcodes />
 		<observatory />
@@ -9499,7 +9503,8 @@
 			<point error="0.99962700" time="2454368.83084100" value="0.17915076" />
 		</data>
 	</curve>
-	<curve id="UID_0300057_data_AXA_001.tbl">
+	<curve id="UID_0300057_data_AXA_001.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>ARGENTINA</observatory>
@@ -9659,7 +9664,8 @@
 			<point error="0.984953" time="2454732.6700796" value="0.05993397" />
 		</data>
 	</curve>
-	<curve id="UID_0300057_data_AXA_002.tbl">
+	<curve id="UID_0300057_data_AXA_002.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>ARGENTINA</observatory>

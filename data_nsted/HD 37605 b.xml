@@ -1,5 +1,6 @@
 <planet id="HD 37605">
-	<curve id="UID_0026664_RVC_01.tbl">
+	<curve id="UID_0026664_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Cochran et al. 2004 (ApJ, 611, L133)</reference>
 		<bibcodes>2004ApJ...611L.133C</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
@@ -27,7 +28,8 @@
 			<point error="5.5" time="2453102.5727" value="-409.9" />
 		</data>
 	</curve>
-	<curve id="UID_0026664_RVC_02.tbl">
+	<curve id="UID_0026664_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Cochran et al. 2004 (ApJ, 611, L133)</reference>
 		<bibcodes>2004ApJ...611L.133C</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
@@ -42,7 +44,8 @@
 			<point error="29.20" time="2453104.5972" value="-79.7" />
 		</data>
 	</curve>
-	<curve id="UID_0026664_GLC_01.tbl">
+	<curve id="UID_0026664_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

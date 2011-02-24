@@ -1,5 +1,6 @@
 <planet id="HD 231701">
-	<curve id="UID_0096078_RVC_01.tbl">
+	<curve id="UID_0096078_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Fischer et al. 2007 (ApJ, 669, 1336)</reference>
 		<bibcodes>2007ApJ...669.1336F</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -24,7 +25,8 @@
 			<point error="2.86" time="2454286.00169" value="31.17" />
 		</data>
 	</curve>
-	<curve id="UID_0096078_GLC_01.tbl">
+	<curve id="UID_0096078_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

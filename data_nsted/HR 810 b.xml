@@ -1,5 +1,6 @@
 <planet id="HR 810">
-	<curve id="UID_0012653_RVC_02.tbl">
+	<curve id="UID_0012653_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
@@ -32,7 +33,8 @@
 			<point error="4.2" time="2453576.284016" value="-10.2" />
 		</data>
 	</curve>
-	<curve id="UID_0012653_RVC_01.tbl">
+	<curve id="UID_0012653_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2001 (ApJ, 555, 410)</reference>
 		<bibcodes>2001ApJ...555..410B</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
@@ -53,7 +55,8 @@
 			<point error="5.4" time="2451918.9703" value="-2.7" />
 		</data>
 	</curve>
-	<curve id="UID_0012653_RVC_04.tbl">
+	<curve id="UID_0012653_RVC_04.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Naef et al. 2001 (A&amp;A, 375, 205)</reference>
 		<bibcodes>2001A&amp;A...375..205N</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
@@ -87,7 +90,8 @@
 			<point error="0.011" time="2451625.504824" value="16.948" />
 		</data>
 	</curve>
-	<curve id="UID_0012653_RVC_03.tbl">
+	<curve id="UID_0012653_RVC_03.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Kurster et al. 2000 (A&amp;A, 353, L33)</reference>
 		<bibcodes>2000A&amp;A...353L..33K</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
@@ -190,7 +194,8 @@
 			<point error="18.9" time="2450907.487" value="73.2" />
 		</data>
 	</curve>
-	<curve id="UID_0012653_GLC_01.tbl">
+	<curve id="UID_0012653_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

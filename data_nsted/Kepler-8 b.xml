@@ -1,5 +1,6 @@
 <planet id="Kepler-8">
-	<curve id="UID_0300100_RVC_01.tbl">
+	<curve id="UID_0300100_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Jenkins et al. 2010 (arXiv, 1001, 0416)</reference>
 		<bibcodes>2010arXiv1001.0416J</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>

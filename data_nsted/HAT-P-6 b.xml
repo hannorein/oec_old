@@ -1,5 +1,6 @@
 <planet id="HAT-P-6">
-	<curve id="UID_0300051_RVC_01.tbl">
+	<curve id="UID_0300051_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Noyes et al. 2008 (ApJ, 673, 79)</reference>
 		<bibcodes>2008ApJ...673L..79N</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
@@ -22,7 +23,8 @@
 			<point error="4.41" time="2454337.86117" value="-59.68" />
 		</data>
 	</curve>
-	<curve id="UID_0300051_data_GLC_01.tbl">
+	<curve id="UID_0300051_data_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Pollacco et al. (2006, PASP, 118, 1407)</reference>
 		<bibcodes />
 		<observatory />
@@ -4911,7 +4913,8 @@
 			<point error="0.114145180366" time="2454449.41756944" value="0.02142911" />
 		</data>
 	</curve>
-	<curve id="UID_0300051_data_AXA_001.tbl">
+	<curve id="UID_0300051_data_AXA_001.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>UTAH</observatory>
@@ -5198,7 +5201,8 @@
 			<point error="0.999467" time="2454767.8990897" value="0.04085742" />
 		</data>
 	</curve>
-	<curve id="UID_0300051_data_AXA_002.tbl">
+	<curve id="UID_0300051_data_AXA_002.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>ARIZONA</observatory>
@@ -5778,7 +5782,8 @@
 			<point error="0.997266" time="2454767.8532108" value="0.02113986" />
 		</data>
 	</curve>
-	<curve id="UID_0300051_data_AXA_004.tbl">
+	<curve id="UID_0300051_data_AXA_004.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>CROATIA</observatory>
@@ -5962,7 +5967,8 @@
 			<point error="0.999605" time="2455064.6330436" value="0.05506790" />
 		</data>
 	</curve>
-	<curve id="UID_0300051_data_AXA_003.tbl">
+	<curve id="UID_0300051_data_AXA_003.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>CROATIA</observatory>

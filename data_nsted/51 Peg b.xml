@@ -1,5 +1,6 @@
 <planet id="51 Peg">
-	<curve id="UID_0113357_RVC_01.tbl">
+	<curve id="UID_0113357_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -263,7 +264,8 @@
 			<point error="6.0" time="2452189.707882" value="-46.2" />
 		</data>
 	</curve>
-	<curve id="UID_0113357_RVC_03.tbl">
+	<curve id="UID_0113357_RVC_03.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Naef et al. 2004 (A&amp;A, 414, 351)</reference>
 		<bibcodes>2004A&amp;A...414..351N</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
@@ -424,7 +426,8 @@
 			<point error="0.007" time="2452887.5339" value="-33.275" />
 		</data>
 	</curve>
-	<curve id="UID_0113357_RVC_02.tbl">
+	<curve id="UID_0113357_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Marcy et al. 1997 (ApJ, 481, 926)</reference>
 		<bibcodes>1997ApJ...481..926M</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
@@ -543,7 +546,8 @@
 			<point error="4.4" time="2450326.896" value="53.51" />
 		</data>
 	</curve>
-	<curve id="UID_0113357_GLC_01.tbl">
+	<curve id="UID_0113357_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

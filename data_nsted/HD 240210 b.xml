@@ -1,5 +1,6 @@
 <planet id="HD 240210">
-	<curve id="UID_0300087_RVC_01.tbl">
+	<curve id="UID_0300087_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Niedzielski et al. 2009 (ApJ, 707, 768)</reference>
 		<bibcodes>2009ApJ...707..768N</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>

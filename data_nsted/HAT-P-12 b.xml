@@ -1,5 +1,6 @@
 <planet id="HAT-P-12">
-	<curve id="UID_0300085_RVC_01.tbl">
+	<curve id="UID_0300085_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Hartman et al. 2009 (ApJ, 706, 785)</reference>
 		<bibcodes>2009ApJ...706..785H</bibcodes>
 		<observatory>Mauna Kea, HI</observatory>
@@ -28,7 +29,8 @@
 			<point error="2.52" time="2454674.76312" value="-2.42" />
 		</data>
 	</curve>
-	<curve id="UID_0300085_data_AXA_001.tbl">
+	<curve id="UID_0300085_data_AXA_001.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>PORTUGAL</observatory>
@@ -202,7 +204,8 @@
 			<point error="1.004355" time="2454952.6620166" value="0.03075017" />
 		</data>
 	</curve>
-	<curve id="UID_0300085_data_AXA_002.tbl">
+	<curve id="UID_0300085_data_AXA_002.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>GREECE</observatory>
@@ -362,7 +365,8 @@
 			<point error="1.008430" time="2454965.5089526" value="0.02870331" />
 		</data>
 	</curve>
-	<curve id="UID_0300085_data_AXA_004.tbl">
+	<curve id="UID_0300085_data_AXA_004.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>CROATIA</observatory>
@@ -590,7 +594,8 @@
 			<point error="1.007432" time="2455026.5787095" value="0.03597203" />
 		</data>
 	</curve>
-	<curve id="UID_0300085_data_AXA_003.tbl">
+	<curve id="UID_0300085_data_AXA_003.tbl" type="3">
+		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
 		<bibcodes />
 		<observatory>ARIZONA</observatory>

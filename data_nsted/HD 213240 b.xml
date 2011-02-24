@@ -1,5 +1,6 @@
 <planet id="HD 213240">
-	<curve id="UID_0111143_RVC_01.tbl">
+	<curve id="UID_0111143_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
@@ -37,7 +38,8 @@
 			<point error="2.7" time="2453576.189384" value="55.8" />
 		</data>
 	</curve>
-	<curve id="UID_0111143_RVC_02.tbl">
+	<curve id="UID_0111143_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Santos et al. 2001 (A&amp;A, 379, 999)</reference>
 		<bibcodes>2001A&amp;A...379..999S</bibcodes>
 		<observatory>ESO Las Silla, Chile</observatory>
@@ -117,7 +119,8 @@
 			<point error="0.004" time="2452161.689162" value="-0.4445" />
 		</data>
 	</curve>
-	<curve id="UID_0111143_GLC_01.tbl">
+	<curve id="UID_0111143_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />

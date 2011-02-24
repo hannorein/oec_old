@@ -1,5 +1,6 @@
 <planet id="11 UMi">
-	<curve id="UID_0074793_RVC_01.tbl">
+	<curve id="UID_0074793_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
 		<reference>Dollinger et al. 2009 (A&amp;A, 505, 1311)</reference>
 		<bibcodes>2009A&amp;A...505.1311D</bibcodes>
 		<observatory>Thuringer Landessternwarte Tautenburg (TLS), Germnay</observatory>
@@ -65,7 +66,8 @@
 			<point error="7.98" time="2454338.545262" value="59.28" />
 		</data>
 	</curve>
-	<curve id="UID_0074793_GLC_01.tbl">
+	<curve id="UID_0074793_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
 		<bibcodes />
 		<observatory />
