@@ -1,40 +1,4 @@
 <planet id="HD 212301">
-	<curve id="UID_0110852_RVC_01.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Lo Curto et al. 2006 (ApJ, 451, 345)</reference>
-		<bibcodes>2006A&amp;A...451..345L</bibcodes>
-		<observatory>ESO La Silla, Chile</observatory>
-		<telescope>3.6m</telescope>
-		<xaxis>Relative Date</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>km/s</yaxisunits>
-		<data mintime="2452856.82311">
-			<point error="0.0017" time="0.0" value="4.6829" />
-			<point error="0.0015" time="0.977390380111" value="4.7449" />
-			<point error="0.0027" time="1.79825513018" value="4.6458" />
-			<point error="0.0031" time="2.06608580984" value="4.6522" />
-			<point error="0.0038" time="2.84269146016" value="4.7497" />
-			<point error="0.0020" time="3.08455021027" value="4.7505" />
-			<point error="0.0017" time="687.01040524" value="4.6442" />
-			<point error="0.0020" time="688.09420958" value="4.7377" />
-			<point error="0.0024" time="690.08206725" value="4.7487" />
-			<point error="0.0035" time="694.01016847" value="4.6858" />
-			<point error="0.0028" time="695.08444123" value="4.7019" />
-			<point error="0.0030" time="716.03888897" value="4.6179" />
-			<point error="0.0035" time="716.99789977" value="4.7272" />
-			<point error="0.0033" time="717.96381948" value="4.6441" />
-			<point error="0.0036" time="718.09445516" value="4.6429" />
-			<point error="0.0033" time="718.90365067" value="4.7164" />
-			<point error="0.0040" time="719.10242229" value="4.7473" />
-			<point error="0.0014" time="719.89035573" value="4.6928" />
-			<point error="0.0012" time="720.03982205" value="4.6681" />
-			<point error="0.0047" time="720.94210568" value="4.6849" />
-			<point error="0.0035" time="721.09555332" value="4.7066" />
-			<point error="0.0015" time="722.00430601" value="4.7087" />
-			<point error="0.0012" time="722.9440299" value="4.6457" />
-		</data>
-	</curve>
 	<curve id="UID_0110852_GLC_01.tbl" type="1">
 		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>

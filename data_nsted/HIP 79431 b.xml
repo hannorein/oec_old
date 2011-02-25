@@ -1,30 +1,4 @@
 <planet id="HIP 79431">
-	<curve id="UID_0079431_RVC_01.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Apps et al. 2010 (PASP, 122, 156)</reference>
-		<bibcodes>2010PASP..122..156A</bibcodes>
-		<observatory>Mauna Kea, Hawaii</observatory>
-		<telescope>10m Keck I</telescope>
-		<xaxis>Relative Date</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>m/s</yaxisunits>
-		<data mintime="2454928.07496">
-			<point error="2.73" time="0.0" value="-63.11" />
-			<point error="2.84" time="1.04114999995" value="-70.45" />
-			<point error="2.68" time="56.7998100002" value="103.92" />
-			<point error="3.14" time="58.8876800002" value="125.53" />
-			<point error="3.10" time="59.8737000003" value="140.47" />
-			<point error="3.88" time="100.88509" value="-7.06" />
-			<point error="3.21" time="113.82042" value="-74.88" />
-			<point error="3.55" time="114.85245" value="-81.75" />
-			<point error="2.80" time="120.67793" value="-104.55" />
-			<point error="2.84" time="146.65237" value="-140.47" />
-			<point error="2.90" time="150.6701" value="-119.78" />
-			<point error="2.97" time="156.65928" value="-64.40" />
-			<point error="3.52" time="178.65912" value="139.86" />
-		</data>
-	</curve>
 	<curve id="UID_0079431_GLC_01.tbl" type="1">
 		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
