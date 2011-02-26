@@ -1,1 +1,74 @@
-<planet id="NGC 2423 3" />
+<planet id="NGC 2423 3">
+	<curve id="UID_0300041_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Lovis &amp; Mayor 2007 (A&amp;A, 472, 657)</reference>
+		<bibcodes>2007A&amp;A...472..657L</bibcodes>
+		<observatory>ESO La Silla, Chile</observatory>
+		<telescope>1.2m Euler Swiss telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2452593.84866">
+			<point error="0.00949" time="0.0" value="18.35282" />
+			<point error="0.00849" time="89.7502029999" value="18.27881" />
+			<point error="0.01090" time="99.732963" value="18.26094" />
+			<point error="0.01366" time="348.968212" value="18.19154" />
+			<point error="0.00918" time="422.912381" value="18.32692" />
+			<point error="0.01019" time="451.688646" value="18.32506" />
+			<point error="0.00819" time="460.702622" value="18.33671" />
+			<point error="0.00835" time="504.673035" value="18.42907" />
+			<point error="0.01128" time="516.685584" value="18.42353" />
+			<point error="0.01166" time="541.630786" value="18.45580" />
+			<point error="0.00814" time="546.627334" value="18.45805" />
+			<point error="0.01544" time="695.017443" value="18.38649" />
+			<point error="0.00841" time="703.036033" value="18.36009" />
+			<point error="0.00849" time="737.0042" value="18.29186" />
+			<point error="0.00979" time="769.918776" value="18.23434" />
+			<point error="0.00848" time="776.889937" value="18.22681" />
+			<point error="0.00762" time="850.743474" value="18.21294" />
+			<point error="0.01174" time="855.695507" value="18.20224" />
+			<point error="0.01050" time="1077.026283" value="18.27125" />
+			<point error="0.00711" time="1107.000406" value="18.29006" />
+			<point error="0.00919" time="1110.004308" value="18.29413" />
+			<point error="0.01251" time="1176.754859" value="18.34491" />
+			<point error="0.01013" time="1182.812583" value="18.35691" />
+			<point error="0.01518" time="1412.022495" value="18.36764" />
+			<point error="0.00987" time="1417.029435" value="18.36103" />
+			<point error="0.01191" time="1435.998686" value="18.36718" />
+			<point error="0.00864" time="1437.994657" value="18.33092" />
+			<point error="0.00809" time="1443.989225" value="18.34742" />
+		</data>
+	</curve>
+	<curve id="UID_0300041_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Lovis &amp; Mayor 2007 (A&amp;A, 472, 657)</reference>
+		<bibcodes>2007A&amp;A...472..657L</bibcodes>
+		<observatory>ESO La Silla, Chile</observatory>
+		<telescope>3.6m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2453669.84607">
+			<point error="0.00142" time="0.0" value="18.28006" />
+			<point error="0.00147" time="4.95071600005" value="18.27805" />
+			<point error="0.00142" time="23.016332" value="18.27738" />
+			<point error="0.00140" time="29.9964310001" value="18.29594" />
+			<point error="0.00127" time="52.0098740002" value="18.31043" />
+			<point error="0.00129" time="58.9062939999" value="18.31082" />
+			<point error="0.00189" time="88.8107659998" value="18.36799" />
+			<point error="0.00107" time="94.8548650001" value="18.34264" />
+			<point error="0.00129" time="114.793139" value="18.38299" />
+			<point error="0.00142" time="147.717619" value="18.43727" />
+			<point error="0.00132" time="161.722203" value="18.41925" />
+			<point error="0.00227" time="191.719035" value="18.44917" />
+			<point error="0.00148" time="380.978931" value="18.29213" />
+			<point error="0.00130" time="385.018266" value="18.31615" />
+			<point error="0.00129" time="408.974559" value="18.29799" />
+			<point error="0.00183" time="412.936019" value="18.26291" />
+			<point error="0.00296" time="444.856849" value="18.26573" />
+			<point error="0.00155" time="452.869856" value="18.25682" />
+		</data>
+	</curve>
+</planet>
