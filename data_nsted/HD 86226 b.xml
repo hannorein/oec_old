@@ -1,30 +1,4 @@
 <planet id="HD 86226">
-	<curve id="UID_0048739_RVC_01.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Arriagada et al. 2010 (ApJ, 711, 1229)</reference>
-		<bibcodes>2010ApJ...711.1229A</bibcodes>
-		<observatory>Las Campanas Observatory, Chile</observatory>
-		<telescope>6.5m Magellan II (Clay)</telescope>
-		<xaxis>Relative Date</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>m/s</yaxisunits>
-		<data mintime="2452626.8679">
-			<point error="7.5" time="0.0" value="-24.6" />
-			<point error="5.1" time="36.8872000002" value="-11.1" />
-			<point error="6.9" time="414.8056" value="-12.4" />
-			<point error="4.2" time="501.6918" value="2.4" />
-			<point error="4.6" time="828.7626" value="11.5" />
-			<point error="4.8" time="1157.9247" value="20.4" />
-			<point error="4.2" time="1956.7372" value="-4.7" />
-			<point error="6.3" time="2216.9433" value="-1.5" />
-			<point error="4.2" time="2298.7712" value="11.9" />
-			<point error="4.0" time="2336.6724" value="11.3" />
-			<point error="4.1" time="2367.6382" value="11.9" />
-			<point error="4.5" time="2374.6126" value="9.4" />
-			<point error="4.2" time="2392.5906" value="19.6" />
-		</data>
-	</curve>
 	<curve id="UID_0048739_GLC_01.tbl" type="1">
 		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
