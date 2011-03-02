@@ -1,4 +1,43 @@
 <planet id="HD 221287">
+	<curve id="UID_0116084_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Naef et al. 2007 (A&amp;A, 470, 721)</reference>
+		<bibcodes>2007A&amp;A...470..721N</bibcodes>
+		<observatory>ESO La Silla, Chile</observatory>
+		<telescope>3.6m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2452851.8534">
+			<point error="0.0012" time="0.0" value="-21.9101" />
+			<point error="0.0021" time="2.00100000016" value="-21.9201" />
+			<point error="0.0019" time="6.92760000005" value="-21.9252" />
+			<point error="0.0021" time="412.8563" value="-21.8617" />
+			<point error="0.0020" time="414.8271" value="-21.8852" />
+			<point error="0.0034" time="416.8496" value="-21.8595" />
+			<point error="0.0031" time="421.8417" value="-21.8888" />
+			<point error="0.0021" time="422.8595" value="-21.8718" />
+			<point error="0.0020" time="440.775" value="-21.9049" />
+			<point error="0.0019" time="442.7705" value="-21.8998" />
+			<point error="0.0024" time="443.8247" value="-21.9017" />
+			<point error="0.0026" time="444.7854" value="-21.9186" />
+			<point error="0.0015" time="487.7475" value="-21.9289" />
+			<point error="0.0013" time="488.744" value="-21.9225" />
+			<point error="0.0013" time="490.7421" value="-21.9172" />
+			<point error="0.0014" time="492.7427" value="-21.9428" />
+			<point error="0.0013" time="493.7389" value="-21.9291" />
+			<point error="0.0013" time="494.7032" value="-21.9284" />
+			<point error="0.0039" time="695.0851" value="-21.8022" />
+			<point error="0.0022" time="699.0587" value="-21.8294" />
+			<point error="0.0018" time="700.0945" value="-21.7956" />
+			<point error="0.0033" time="871.7173" value="-21.8679" />
+			<point error="0.0021" time="875.6768" value="-21.8815" />
+			<point error="0.0023" time="1011.0763" value="-21.9205" />
+			<point error="0.0021" time="1122.8793" value="-21.8240" />
+			<point error="0.0022" time="1128.8739" value="-21.8192" />
+		</data>
+	</curve>
 	<curve id="UID_0116084_GLC_01.tbl" type="1">
 		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
