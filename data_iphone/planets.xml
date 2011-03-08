@@ -18733,6 +18733,40 @@ This planetary system is in a 2:1 mean motion resonance. The inner planet orbits
 		<lastupdate>10/12/24</lastupdate>
 	</planet>
 	<planet>
+		<id_exoplaneteu>SR 12 AB c</id_exoplaneteu>
+		<name>SR 12 AB c</name>
+		<id>SR 12 AB c</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>13</mass>
+			<radius />
+			<orbit>
+				<period />
+				<semimajoraxis>1083</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K4-M2.5</spectraltype>
+			<mass />
+			<radius />
+			<metallicity />
+			<rightascension>16 27 20</rightascension>
+			<declination>-24 41 40</declination>
+			<angulardistance>8.664</angulardistance>
+			<distance>125</distance>
+			<magV>13.28</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/03/08</lastupdate>
+	</planet>
+	<planet>
 		<id_exoplaneteu>SWEEPS-04</id_exoplaneteu>
 		<name>SWEEPS-04</name>
 		<id>SWEEPS-04</id>
@@ -20762,9 +20796,9 @@ This planetary system is in a 2:1 mean motion resonance. The inner planet orbits
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.077</mass>
-			<radius>1.089</radius>
+			<radius>1.03</radius>
 			<orbit>
-				<period>4.1877539</period>
+				<period>4.1877537</period>
 				<semimajoraxis>0.0487</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
 				<inclination>86.8</inclination>
@@ -20787,6 +20821,6 @@ This planetary system is in a 2:1 mean motion resonance. The inner planet orbits
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>08/10/04</lastupdate>
+		<lastupdate>11/03/08</lastupdate>
 	</planet>
 </planets>
