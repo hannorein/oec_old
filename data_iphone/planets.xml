@@ -1620,6 +1620,40 @@
 		<lastupdate>11/03/02</lastupdate>
 	</planet>
 	<planet>
+		<id_exoplaneteu>CHXR 73 b</id_exoplaneteu>
+		<name>CHXR 73 b</name>
+		<id>CHXR 73 b</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>12</mass>
+			<radius />
+			<orbit>
+				<period />
+				<semimajoraxis>200</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M3.25</spectraltype>
+			<mass>0.35</mass>
+			<radius />
+			<metallicity />
+			<rightascension>11 06 29</rightascension>
+			<declination>-77 37 33</declination>
+			<angulardistance />
+			<distance />
+			<magV />
+			<magI />
+			<magH>11.32</magH>
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2006</discoveryyear>
+		<lastupdate>11/03/08</lastupdate>
+	</planet>
+	<planet>
 		<id_exoplaneteu>CoRoT-1 b</id_exoplaneteu>
 		<name>CoRoT-1 b</name>
 		<id>CoRoT-1 b</id>
@@ -2273,6 +2307,40 @@
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
 		<lastupdate>08/09/24</lastupdate>
+	</planet>
+	<planet>
+		<id_exoplaneteu>DH Tau b</id_exoplaneteu>
+		<name>DH Tau b</name>
+		<id>DH Tau b</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>11</mass>
+			<radius />
+			<orbit>
+				<period />
+				<semimajoraxis>330</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M0.5V</spectraltype>
+			<mass>37.5</mass>
+			<radius />
+			<metallicity />
+			<rightascension>04 29 42</rightascension>
+			<declination>+26 32 58</declination>
+			<angulardistance />
+			<distance />
+			<magV>13.71</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2005</discoveryyear>
+		<lastupdate>11/03/08</lastupdate>
 	</planet>
 	<planet>
 		<id_exoplaneteu>DP Leo b</id_exoplaneteu>
