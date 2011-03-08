@@ -1,4 +1,51 @@
 <planet id="HD 132406">
+	<curve id="UID_0073146_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>da Silva et al. 2007 (A&amp;A, 473, 323)</reference>
+		<bibcodes>2007A&amp;A...473..323D</bibcodes>
+		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
+		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2453152.4773">
+			<point error="0.010" time="0.0" value="-37.821" />
+			<point error="0.008" time="2.00520000001" value="-37.837" />
+			<point error="0.010" time="65.8832" value="-37.858" />
+			<point error="0.013" time="367.9465" value="-37.928" />
+			<point error="0.010" time="383.9367" value="-37.875" />
+			<point error="0.012" time="423.8908" value="-37.859" />
+			<point error="0.014" time="443.9032" value="-37.818" />
+			<point error="0.025" time="655.1893" value="-37.727" />
+			<point error="0.011" time="656.1764" value="-37.755" />
+			<point error="0.011" time="657.187" value="-37.742" />
+			<point error="0.011" time="717.0344" value="-37.779" />
+			<point error="0.007" time="717.9633" value="-37.771" />
+			<point error="0.009" time="720.9613" value="-37.768" />
+			<point error="0.009" time="742.9478" value="-37.757" />
+			<point error="0.012" time="743.9614" value="-37.745" />
+			<point error="0.019" time="746.9513" value="-37.743" />
+			<point error="0.013" time="747.9603" value="-37.770" />
+		</data>
+	</curve>
+	<curve id="UID_0073146_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>da Silva et al. 2007 (A&amp;A, 473, 323)</reference>
+		<bibcodes>2007A&amp;A...473..323D</bibcodes>
+		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
+		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2454080.7252">
+			<point error="0.003" time="0.0" value="-37.718" />
+			<point error="0.004" time="92.9595999997" value="-37.752" />
+			<point error="0.004" time="106.908" value="-37.770" />
+			<point error="0.004" time="149.8551" value="-37.790" />
+		</data>
+	</curve>
 	<curve id="UID_0073146_GLC_01.tbl" type="1">
 		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
