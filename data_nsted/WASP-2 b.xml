@@ -1,4 +1,26 @@
 <planet id="WASP-2">
+	<curve id="UID_0300018_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Collier Cameron et al. 2007 (MNRAS, 375, 951)</reference>
+		<bibcodes>2007MNRAS.375..951C</bibcodes>
+		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
+		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2453981.5065">
+			<point error="0.186" time="0.0" value="-28.125" />
+			<point error="0.012" time="0.872099999804" value="-27.711" />
+			<point error="0.013" time="0.989699999802" value="-27.736" />
+			<point error="0.011" time="9.87519999966" value="-27.780" />
+			<point error="0.011" time="10.0036999998" value="-27.812" />
+			<point error="0.011" time="14.8463999997" value="-28.037" />
+			<point error="0.012" time="14.9235999999" value="-28.020" />
+			<point error="0.012" time="15.8758999999" value="-27.723" />
+			<point error="0.011" time="16.835" value="-27.987" />
+		</data>
+	</curve>
 	<curve id="UID_0300018_data_PLC_01.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>Charbonneau et al. (2007, ApJ, 658, 1322)</reference>
