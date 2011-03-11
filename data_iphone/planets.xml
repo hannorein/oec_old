@@ -16909,6 +16909,74 @@ This planetary system is in a 2:1 mean motion resonance. The inner planet orbits
 		<lastupdate>10/11/23</lastupdate>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HU Aqr(AB) b</id_exoplaneteu>
+		<name>HU Aqr(AB) b</name>
+		<id>HU Aqr(AB) b</id>
+		<discoverymethod>timing</discoverymethod>
+		<properties>
+			<mass>5.9</mass>
+			<radius />
+			<orbit>
+				<period>2390</period>
+				<semimajoraxis>3.6</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>Catac. var.</spectraltype>
+			<mass>1</mass>
+			<radius />
+			<metallicity />
+			<rightascension>21 07 58</rightascension>
+			<declination>-05 17 41</declination>
+			<angulardistance />
+			<distance />
+			<magV>15</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2009</discoveryyear>
+		<lastupdate>11/03/11</lastupdate>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HU Aqr(AB) c</id_exoplaneteu>
+		<name>HU Aqr(AB) c</name>
+		<id>HU Aqr(AB) c</id>
+		<discoverymethod>timing</discoverymethod>
+		<properties>
+			<mass>4.5</mass>
+			<radius />
+			<orbit>
+				<period>4370</period>
+				<semimajoraxis>5.4</semimajoraxis>
+				<eccentricity>0.51</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>Catac. var.</spectraltype>
+			<mass>1</mass>
+			<radius />
+			<metallicity />
+			<rightascension>21 07 58</rightascension>
+			<declination>-05 17 41</declination>
+			<angulardistance />
+			<distance />
+			<magV>15</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/03/11</lastupdate>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HW Vir b</id_exoplaneteu>
 		<name>HW Vir b</name>
 		<id>HW Vir b</id>
