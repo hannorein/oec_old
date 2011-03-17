@@ -7382,6 +7382,71 @@
 			<point error="0.027" time="933.28006" value="10.6840" />
 		</data>
 	</curve>
+	<curve id="UID_0057087_GLC_01.tbl" type="1">
+		<type>General Light Curve</type>
+		<reference>Hipparcos and Tycho Catalogs</reference>
+		<bibcodes />
+		<observatory />
+		<telescope>Hipparcos Satellite</telescope>
+		<xaxis />
+		<yaxis />
+		<xaxisunits />
+		<yaxisunits />
+		<data mintime="2448027.63098">
+			<point error="0.034" time="0.0" value="10.6840" />
+			<point error="0.026" time="0.0143300001509" value="10.6342" />
+			<point error="0.029" time="24.6116300002" value="10.6471" />
+			<point error="0.030" time="24.6259500002" value="10.6009" />
+			<point error="0.026" time="24.7148199999" value="10.6832" />
+			<point error="0.036" time="49.3184000002" value="10.6505" />
+			<point error="0.032" time="49.3929500002" value="10.6821" />
+			<point error="0.027" time="49.4072700003" value="10.7041" />
+			<point error="0.026" time="49.4818600002" value="10.7043" />
+			<point error="0.033" time="49.4961600001" value="10.6841" />
+			<point error="0.030" time="49.5707100001" value="10.6982" />
+			<point error="0.027" time="169.28008" value="10.6973" />
+			<point error="0.025" time="189.09945" value="10.7207" />
+			<point error="0.029" time="189.11378" value="10.6856" />
+			<point error="0.033" time="189.18837" value="10.6825" />
+			<point error="0.025" time="189.20267" value="10.6963" />
+			<point error="0.027" time="347.13213" value="10.6620" />
+			<point error="0.024" time="347.14643" value="10.6714" />
+			<point error="0.032" time="347.22101" value="10.6865" />
+			<point error="0.026" time="347.23531" value="10.6519" />
+			<point error="0.031" time="362.87577" value="10.6326" />
+			<point error="0.032" time="363.12807" value="10.5890" />
+			<point error="0.029" time="394.75512" value="10.6477" />
+			<point error="0.028" time="394.76945" value="10.6788" />
+			<point error="0.033" time="394.844" value="10.8011" />
+			<point error="0.034" time="394.85832" value="10.5141" />
+			<point error="0.026" time="562.4064" value="10.7035" />
+			<point error="0.032" time="562.481" value="10.6693" />
+			<point error="0.029" time="562.4953" value="10.6884" />
+			<point error="0.026" time="592.70499" value="10.6729" />
+			<point error="0.027" time="592.77956" value="10.7072" />
+			<point error="0.029" time="592.79388" value="10.7211" />
+			<point error="0.049" time="592.95735" value="10.6963" />
+			<point error="0.032" time="607.54808" value="10.6841" />
+			<point error="0.034" time="740.14851" value="10.6595" />
+			<point error="0.027" time="740.16281" value="10.6564" />
+			<point error="0.026" time="740.23735" value="10.7033" />
+			<point error="0.027" time="740.25167" value="10.6766" />
+			<point error="0.026" time="768.94874" value="10.6116" />
+			<point error="0.028" time="769.02332" value="10.6682" />
+			<point error="0.024" time="769.03765" value="10.7143" />
+			<point error="0.028" time="769.11221" value="10.7078" />
+			<point error="0.030" time="769.1265" value="10.6849" />
+			<point error="0.047" time="789.24667" value="11.1226" />
+			<point error="0.041" time="789.42475" value="10.7684" />
+			<point error="0.035" time="789.43908" value="10.7326" />
+			<point error="0.031" time="789.51365" value="10.6749" />
+			<point error="0.036" time="789.52799" value="10.6841" />
+			<point error="0.035" time="933.17689" value="10.6892" />
+			<point error="0.027" time="933.19117" value="10.6852" />
+			<point error="0.028" time="933.26572" value="10.7301" />
+			<point error="0.027" time="933.28006" value="10.6840" />
+		</data>
+	</curve>
 	<curve id="UID_0057087_data_AXA_001.tbl" type="3">
 		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>
