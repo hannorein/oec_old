@@ -1,34 +1,4 @@
 <planet id="BD-10 3166">
-	<curve id="UID_0300008_RVC_01.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Butler et al. 2000 (ApJ, 545, 504)</reference>
-		<bibcodes>2000ApJ...545..504B</bibcodes>
-		<observatory>Mauna Kea, Hawaii</observatory>
-		<telescope>10m Keck I</telescope>
-		<xaxis>Relative Date</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>m/s</yaxisunits>
-		<data mintime="2451172.08">
-			<point error="5.1" time="0.0" value="33.6" />
-			<point error="4.6" time="54.9288999997" value="56.8" />
-			<point error="5.0" time="140.7161" value="-48.5" />
-			<point error="5.4" time="168.6894" value="-56.6" />
-			<point error="8.0" time="169.771" value="51.7" />
-			<point error="5.6" time="170.7245" value="48.3" />
-			<point error="6.3" time="378.9674" value="27.2" />
-			<point error="5.2" time="380.9649" value="-50.6" />
-			<point error="3.9" time="408.931" value="-50.1" />
-			<point error="4.8" time="409.9241" value="-22.4" />
-			<point error="4.8" time="410.0635" value="-10.8" />
-			<point error="4.7" time="410.8833" value="53.6" />
-			<point error="4.5" time="411.857" value="0.0" />
-			<point error="4.1" time="412.0537" value="-28.5" />
-			<point error="7.8" time="413.0706" value="-25.1" />
-			<point error="5.1" time="413.8615" value="31.0" />
-			<point error="4.9" time="414.0519" value="55.1" />
-		</data>
-	</curve>
 	<curve id="UID_0300008_RVC_02.tbl" type="4">
 		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
@@ -71,6 +41,36 @@
 			<point error="3.7" time="1633.684017" value="-49.8" />
 			<point error="3.3" time="1845.929827" value="-46.1" />
 			<point error="2.7" time="2225.921794" value="-33.7" />
+		</data>
+	</curve>
+	<curve id="UID_0300008_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Butler et al. 2000 (ApJ, 545, 504)</reference>
+		<bibcodes>2000ApJ...545..504B</bibcodes>
+		<observatory>Mauna Kea, Hawaii</observatory>
+		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2451172.08">
+			<point error="5.1" time="0.0" value="33.6" />
+			<point error="4.6" time="54.9288999997" value="56.8" />
+			<point error="5.0" time="140.7161" value="-48.5" />
+			<point error="5.4" time="168.6894" value="-56.6" />
+			<point error="8.0" time="169.771" value="51.7" />
+			<point error="5.6" time="170.7245" value="48.3" />
+			<point error="6.3" time="378.9674" value="27.2" />
+			<point error="5.2" time="380.9649" value="-50.6" />
+			<point error="3.9" time="408.931" value="-50.1" />
+			<point error="4.8" time="409.9241" value="-22.4" />
+			<point error="4.8" time="410.0635" value="-10.8" />
+			<point error="4.7" time="410.8833" value="53.6" />
+			<point error="4.5" time="411.857" value="0.0" />
+			<point error="4.1" time="412.0537" value="-28.5" />
+			<point error="7.8" time="413.0706" value="-25.1" />
+			<point error="5.1" time="413.8615" value="31.0" />
+			<point error="4.9" time="414.0519" value="55.1" />
 		</data>
 	</curve>
 </planet>

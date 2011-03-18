@@ -1,33 +1,4 @@
 <planet id="HD 168746">
-	<curve id="UID_0090004_RVC_01.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
-		<bibcodes>2006ApJ...646..505B</bibcodes>
-		<observatory>Mauna Kea, Hawaii</observatory>
-		<telescope>10m Keck I</telescope>
-		<xaxis>Relative Date</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>m/s</yaxisunits>
-		<data mintime="2451755.86664">
-			<point error="2.9" time="0.0" value="-5.1" />
-			<point error="3.4" time="251.224907" value="29.3" />
-			<point error="4.0" time="306.061782" value="-22.3" />
-			<point error="3.1" time="344.063668" value="-27.6" />
-			<point error="3.0" time="371.983865" value="11.9" />
-			<point error="3.2" time="372.982164" value="31.4" />
-			<point error="3.5" time="377.91155" value="3.5" />
-			<point error="3.4" time="405.890243" value="25.3" />
-			<point error="3.6" time="634.175439" value="-4.1" />
-			<point error="3.6" time="732.996967" value="2.9" />
-			<point error="3.3" time="818.831956" value="-18.6" />
-			<point error="3.2" time="1048.191331" value="-22.5" />
-			<point error="3.4" time="1094.021331" value="-29.2" />
-			<point error="3.3" time="1398.172569" value="26.6" />
-			<point error="2.3" time="1484.981574" value="-17.9" />
-			<point error="3.3" time="1791.021539" value="-21.6" />
-		</data>
-	</curve>
 	<curve id="UID_0090004_RVC_02.tbl" type="4">
 		<type>Radial Velocity Curve</type>
 		<reference>Pepe et al. 2002 (A&amp;A, 388, 632)</reference>
@@ -195,82 +166,33 @@
 			<point error="0.004" time="869.74053" value="-25.5961" />
 		</data>
 	</curve>
-	<curve id="UID_0090004_GLC_01.tbl" type="1">
-		<type>General Light Curve</type>
-		<reference>Hipparcos and Tycho Catalogs</reference>
-		<bibcodes />
-		<observatory />
-		<telescope>Hipparcos Satellite</telescope>
-		<xaxis />
-		<yaxis />
-		<xaxisunits />
-		<yaxisunits />
-		<data mintime="2447962.63996">
-			<point error="0.010" time="0.0" value="8.0812" />
-			<point error="0.012" time="28.33176" value="8.0923" />
-			<point error="0.011" time="28.3461100003" value="8.1007" />
-			<point error="0.011" time="28.4206600003" value="8.0963" />
-			<point error="0.009" time="28.4350100001" value="8.0832" />
-			<point error="0.011" time="46.7436600002" value="8.0865" />
-			<point error="0.009" time="46.8182200002" value="8.0835" />
-			<point error="0.009" time="46.8325500004" value="8.0946" />
-			<point error="0.015" time="46.9071200001" value="8.1113" />
-			<point error="0.010" time="46.9214600003" value="8.1038" />
-			<point error="0.010" time="180.39824" value="8.0981" />
-			<point error="0.009" time="180.41256" value="8.0791" />
-			<point error="0.012" time="180.48711" value="8.0784" />
-			<point error="0.010" time="180.50144" value="8.0957" />
-			<point error="0.010" time="180.57599" value="8.0824" />
-			<point error="0.011" time="205.09827" value="8.0975" />
-			<point error="0.011" time="205.11259" value="8.0800" />
-			<point error="0.013" time="205.18715" value="8.0812" />
-			<point error="0.009" time="205.20145" value="8.0875" />
-			<point error="0.022" time="227.75593" value="8.0832" />
-			<point error="0.009" time="227.77025" value="8.1005" />
-			<point error="0.016" time="227.9337" value="8.0748" />
-			<point error="0.011" time="227.94802" value="8.0890" />
-			<point error="0.016" time="347.12743" value="8.0850" />
-			<point error="0.011" time="347.29091" value="8.0872" />
-			<point error="0.017" time="347.30525" value="8.0939" />
-			<point error="0.011" time="347.3798" value="8.1118" />
-			<point error="0.020" time="347.39415" value="8.1107" />
-			<point error="0.020" time="367.03548" value="8.0909" />
-			<point error="0.010" time="367.11008" value="8.0802" />
-			<point error="0.009" time="367.12442" value="8.0905" />
-			<point error="0.008" time="393.94643" value="8.0870" />
-			<point error="0.009" time="393.96075" value="8.0962" />
-			<point error="0.010" time="527.89394" value="8.0904" />
-			<point error="0.008" time="527.90826" value="8.0957" />
-			<point error="0.009" time="527.98282" value="8.0823" />
-			<point error="0.009" time="527.99714" value="8.0760" />
-			<point error="0.008" time="528.0717" value="8.0947" />
-			<point error="0.008" time="528.08602" value="8.0943" />
-			<point error="0.009" time="528.16058" value="8.0840" />
-			<point error="0.010" time="543.46003" value="8.0901" />
-			<point error="0.010" time="543.53458" value="8.0901" />
-			<point error="0.009" time="543.54894" value="8.0844" />
-			<point error="0.011" time="543.6235" value="8.0801" />
-			<point error="0.013" time="574.4969" value="8.0850" />
-			<point error="0.012" time="740.13635" value="8.0835" />
-			<point error="0.021" time="740.1507" value="8.1016" />
-			<point error="0.015" time="772.49336" value="8.0635" />
-			<point error="0.012" time="772.56795" value="8.0834" />
-			<point error="0.015" time="772.58226" value="8.1046" />
-			<point error="0.009" time="772.65682" value="8.0963" />
-			<point error="0.010" time="785.27862" value="7.9751" />
-			<point error="0.009" time="785.29298" value="8.0973" />
-			<point error="0.010" time="785.36752" value="8.0773" />
-			<point error="0.010" time="785.38187" value="8.0779" />
-			<point error="0.008" time="785.45645" value="8.0935" />
-			<point error="0.009" time="785.47079" value="8.0981" />
-			<point error="0.011" time="967.9283" value="8.0893" />
-			<point error="0.011" time="967.9426" value="8.0894" />
-			<point error="0.009" time="968.03148" value="8.0818" />
-			<point error="0.007" time="1077.59503" value="8.0734" />
-			<point error="0.008" time="1077.60936" value="8.0871" />
-			<point error="0.012" time="1077.6839" value="8.0775" />
-			<point error="0.011" time="1077.69826" value="8.0828" />
-			<point error="0.010" time="1098.45939" value="8.0839" />
+	<curve id="UID_0090004_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
+		<bibcodes>2006ApJ...646..505B</bibcodes>
+		<observatory>Mauna Kea, Hawaii</observatory>
+		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2451755.86664">
+			<point error="2.9" time="0.0" value="-5.1" />
+			<point error="3.4" time="251.224907" value="29.3" />
+			<point error="4.0" time="306.061782" value="-22.3" />
+			<point error="3.1" time="344.063668" value="-27.6" />
+			<point error="3.0" time="371.983865" value="11.9" />
+			<point error="3.2" time="372.982164" value="31.4" />
+			<point error="3.5" time="377.91155" value="3.5" />
+			<point error="3.4" time="405.890243" value="25.3" />
+			<point error="3.6" time="634.175439" value="-4.1" />
+			<point error="3.6" time="732.996967" value="2.9" />
+			<point error="3.3" time="818.831956" value="-18.6" />
+			<point error="3.2" time="1048.191331" value="-22.5" />
+			<point error="3.4" time="1094.021331" value="-29.2" />
+			<point error="3.3" time="1398.172569" value="26.6" />
+			<point error="2.3" time="1484.981574" value="-17.9" />
+			<point error="3.3" time="1791.021539" value="-21.6" />
 		</data>
 	</curve>
 	<curve id="UID_0090004_GLC_01.tbl" type="1">

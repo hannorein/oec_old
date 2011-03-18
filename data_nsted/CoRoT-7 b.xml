@@ -1,19 +1,4 @@
 <planet id="CoRoT-7">
-	<curve id="UID_0300083_RVC_01.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Leger et al. 2009 (A&amp;A, 506, 287)</reference>
-		<bibcodes>2009A&amp;A...506..287L</bibcodes>
-		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
-		<telescope>1.93m</telescope>
-		<xaxis>Relative Date</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>km/s</yaxisunits>
-		<data mintime="2454514.32514">
-			<point error="0.0095" time="0.0" value="31.1444" />
-			<point error="0.0073" time="3.07716000034" value="31.1392" />
-		</data>
-	</curve>
 	<curve id="UID_0300083_RVC_02.tbl" type="4">
 		<type>Radial Velocity Curve</type>
 		<reference>Queloz et al. 2009 (A&amp;A, 506, 303)</reference>
@@ -134,6 +119,21 @@
 			<point error="0.0015" time="356.044134" value="31.2043" />
 			<point error="0.0016" time="356.982378" value="31.1985" />
 			<point error="0.0020" time="357.102531" value="31.1903" />
+		</data>
+	</curve>
+	<curve id="UID_0300083_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Leger et al. 2009 (A&amp;A, 506, 287)</reference>
+		<bibcodes>2009A&amp;A...506..287L</bibcodes>
+		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
+		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2454514.32514">
+			<point error="0.0095" time="0.0" value="31.1444" />
+			<point error="0.0073" time="3.07716000034" value="31.1392" />
 		</data>
 	</curve>
 </planet>

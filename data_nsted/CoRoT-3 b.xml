@@ -32,6 +32,42 @@
 			<point error="0.057" time="3.00009999983" value="-56.683" />
 		</data>
 	</curve>
+	<curve id="UID_0300074_RVC_04.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Deleuil et al. 2008 (A&amp;A, 491, 889)</reference>
+		<bibcodes>2008A&amp;A...491..889D</bibcodes>
+		<observatory>Tautenberg, Germany</observatory>
+		<telescope>2.0m Alfred Jensch telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2454331.359">
+			<point error="0.250" time="0.0" value="-57.130" />
+			<point error="0.290" time="1.0009999997" value="-54.460" />
+			<point error="0.240" time="5.54699999979" value="-53.650" />
+		</data>
+	</curve>
+	<curve id="UID_0300074_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Deleuil et al. 2008 (A&amp;A, 491, 889)</reference>
+		<bibcodes>2008A&amp;A...491..889D</bibcodes>
+		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
+		<telescope>1.93m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2454309.5696">
+			<point error="0.046" time="0.0" value="-58.262" />
+			<point error="0.060" time="6.89759999979" value="-54.269" />
+			<point error="0.060" time="7.87470000004" value="-57.122" />
+			<point error="0.078" time="8.79779999983" value="-58.371" />
+			<point error="0.047" time="26.8306" value="-55.938" />
+			<point error="0.051" time="281.0306" value="-58.386" />
+			<point error="0.074" time="333.9577" value="-54.386" />
+		</data>
+	</curve>
 	<curve id="UID_0300074_RVC_03.tbl" type="4">
 		<type>Radial Velocity Curve</type>
 		<reference>Deleuil et al. 2008 (A&amp;A, 491, 889)</reference>
@@ -61,42 +97,6 @@
 			<point error="0.226" time="67.8019000003" value="-54.844" />
 			<point error="0.211" time="73.8144999999" value="-58.696" />
 			<point error="0.232" time="79.8273" value="-55.556" />
-		</data>
-	</curve>
-	<curve id="UID_0300074_RVC_02.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Deleuil et al. 2008 (A&amp;A, 491, 889)</reference>
-		<bibcodes>2008A&amp;A...491..889D</bibcodes>
-		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
-		<telescope>1.93m</telescope>
-		<xaxis>Relative Date</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>km/s</yaxisunits>
-		<data mintime="2454309.5696">
-			<point error="0.046" time="0.0" value="-58.262" />
-			<point error="0.060" time="6.89759999979" value="-54.269" />
-			<point error="0.060" time="7.87470000004" value="-57.122" />
-			<point error="0.078" time="8.79779999983" value="-58.371" />
-			<point error="0.047" time="26.8306" value="-55.938" />
-			<point error="0.051" time="281.0306" value="-58.386" />
-			<point error="0.074" time="333.9577" value="-54.386" />
-		</data>
-	</curve>
-	<curve id="UID_0300074_RVC_04.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Deleuil et al. 2008 (A&amp;A, 491, 889)</reference>
-		<bibcodes>2008A&amp;A...491..889D</bibcodes>
-		<observatory>Tautenberg, Germany</observatory>
-		<telescope>2.0m Alfred Jensch telescope</telescope>
-		<xaxis>Relative Date</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>km/s</yaxisunits>
-		<data mintime="2454331.359">
-			<point error="0.250" time="0.0" value="-57.130" />
-			<point error="0.290" time="1.0009999997" value="-54.460" />
-			<point error="0.240" time="5.54699999979" value="-53.650" />
 		</data>
 	</curve>
 	<curve id="UID_0300074_RVC_06.tbl" type="4">
