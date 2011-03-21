@@ -1,4 +1,43 @@
 <planet id="HD 11506">
+	<curve id="UID_0008770_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Fischer et al. 2007 (ApJ, 669, 1336)</reference>
+		<bibcodes>2007ApJ...669.1336F</bibcodes>
+		<observatory>Mauna Kea, Hawaii</observatory>
+		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2453014.73505">
+			<point error="2.94" time="0.0" value="-6.67" />
+			<point error="2.89" time="1.00388000021" value="-6.58" />
+			<point error="2.98" time="2.00584000023" value="-18.73" />
+			<point error="3.56" time="176.38696" value="-43.89" />
+			<point error="3.17" time="192.36611" value="-71.30" />
+			<point error="3.41" time="193.34896" value="-56.92" />
+			<point error="2.26" time="354.10273" value="-80.87" />
+			<point error="2.18" time="355.02392" value="-80.35" />
+			<point error="2.17" time="355.99737" value="-81.24" />
+			<point error="2.36" time="382.99504" value="-75.66" />
+			<point error="2.67" time="736.00302" value="59.16" />
+			<point error="2.77" time="760.99348" value="71.94" />
+			<point error="2.57" time="761.9693" value="74.90" />
+			<point error="2.93" time="762.99023" value="76.27" />
+			<point error="2.73" time="763.98353" value="78.70" />
+			<point error="2.77" time="765.01232" value="71.93" />
+			<point error="2.66" time="911.39239" value="73.68" />
+			<point error="2.62" time="918.3556" value="75.37" />
+			<point error="2.46" time="944.4043" value="80.47" />
+			<point error="2.73" time="946.38916" value="81.24" />
+			<point error="3.12" time="967.24751" value="74.91" />
+			<point error="3.07" time="1009.23933" value="44.32" />
+			<point error="2.44" time="1069.10822" value="26.82" />
+			<point error="2.54" time="1071.1861" value="38.66" />
+			<point error="2.48" time="1115.00827" value="56.29" />
+			<point error="3.01" time="1271.38333" value="28.66" />
+		</data>
+	</curve>
 	<curve id="UID_0008770_GLC_01.tbl" type="1">
 		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
