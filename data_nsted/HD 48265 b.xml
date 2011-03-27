@@ -1,4 +1,55 @@
 <planet id="HD 48265">
+	<curve id="UID_0031895_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Minniti et al. 2009 (ApJ, 693, 1424)</reference>
+		<bibcodes>2009ApJ...693.1424M</bibcodes>
+		<observatory>Las Campanas Observatory, Chile</observatory>
+		<telescope>6.5m Magellan II (Clay) telescope</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2450920.8629">
+			<point error="6.9" time="0.0" value="20.6" />
+			<point error="2.5" time="510.7444" value="-30.2" />
+			<point error="2.6" time="534.6944" value="-35.0" />
+			<point error="2.9" time="764.9509" value="15.0" />
+			<point error="3.3" time="853.8115" value="25.0" />
+			<point error="5.2" time="854.8134" value="12.4" />
+			<point error="2.6" time="863.8258" value="25.4" />
+			<point error="2.5" time="890.7314" value="24.3" />
+			<point error="2.9" time="1067.0539" value="-7.7" />
+			<point error="3.0" time="1157.9197" value="-17.9" />
+			<point error="2.8" time="1160.8504" value="-23.4" />
+			<point error="2.5" time="1216.7807" value="-20.7" />
+			<point error="2.6" time="1217.8041" value="-28.7" />
+			<point error="4.4" time="1268.704" value="-29.5" />
+			<point error="3.0" time="1562.7519" value="28.5" />
+			<point error="2.4" time="1580.8096" value="21.5" />
+			<point error="2.7" time="1601.759" value="25.4" />
+		</data>
+	</curve>
+	<curve id="UID_0031895_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Jenkins et al. 2009 (MNRAS, 398, 911)</reference>
+		<bibcodes>2009MNRAS.398..911J</bibcodes>
+		<observatory>ESO La Silla, Chile</observatory>
+		<telescope>3.6m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2454365.82457">
+			<point error="3.47" time="0.0" value="23394.21" />
+			<point error="3.50" time="1.04959199997" value="23399.40" />
+			<point error="3.45" time="2.027642" value="23395.69" />
+			<point error="3.45" time="214.698335" value="23449.18" />
+			<point error="3.45" time="215.729333" value="23450.06" />
+			<point error="3.45" time="359.009126" value="23413.42" />
+			<point error="3.44" time="359.993193" value="23414.08" />
+			<point error="3.47" time="360.954529" value="23411.87" />
+		</data>
+	</curve>
 	<curve id="UID_0031895_GLC_01.tbl" type="1">
 		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
