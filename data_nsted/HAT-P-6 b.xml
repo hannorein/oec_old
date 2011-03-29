@@ -1,4 +1,32 @@
 <planet id="HAT-P-6">
+	<curve id="UID_0300051_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Noyes et al. 2008 (ApJ, 673, 79)</reference>
+		<bibcodes>2008ApJ...673L..79N</bibcodes>
+		<observatory>Mauna Kea, Hawaii</observatory>
+		<telescope>10m Keck I</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2454022.70228">
+			<point error="4.85" time="0.0" value="74.01" />
+			<point error="4.85" time="1.0867300001" value="47.70" />
+			<point error="5.72" time="63.1128400001" value="-3.70" />
+			<point error="6.93" time="108.02029" value="62.40" />
+			<point error="4.55" time="224.40973" value="67.25" />
+			<point error="4.91" time="225.38727" value="-110.02" />
+			<point error="4.23" time="226.3833" value="-94.78" />
+			<point error="4.61" time="227.423" value="66.22" />
+			<point error="4.21" time="228.38538" value="56.10" />
+			<point error="4.09" time="235.41373" value="103.71" />
+			<point error="6.05" time="256.39257" value="-127.75" />
+			<point error="6.84" time="263.42471" value="-18.23" />
+			<point error="4.30" time="296.41662" value="32.41" />
+			<point error="4.13" time="314.17426" value="-112.33" />
+			<point error="4.41" time="315.15889" value="-59.68" />
+		</data>
+	</curve>
 	<curve id="UID_0300051_data_GLC_01.tbl" type="1">
 		<type>General Light Curve</type>
 		<reference>Pollacco et al. (2006, PASP, 118, 1407)</reference>

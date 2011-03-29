@@ -1,4 +1,108 @@
 <planet id="HD 104985">
+	<curve id="UID_0058952_RVC_02.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Sato et al. 2008 (PASJ, 60, 539)</reference>
+		<bibcodes>2008PASJ...60..539S</bibcodes>
+		<observatory>Okayama Astrophysical Observatory (OAO), Japan</observatory>
+		<telescope>1.88m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2452284.3135">
+			<point error="6.6" time="0.0" value="-97.5" />
+			<point error="6.8" time="52.8978999997" value="-110.8" />
+			<point error="7.7" time="141.6825" value="153.5" />
+			<point error="5.7" time="142.6547" value="159.7" />
+			<point error="7.7" time="143.6618" value="117.4" />
+			<point error="8.7" time="200.6736" value="-129.7" />
+			<point error="5.8" time="221.6466" value="-150.1" />
+			<point error="9.8" time="307.9341" value="174.6" />
+			<point error="7.6" time="308.0366" value="173.1" />
+			<point error="7.1" time="354.0539" value="94.0" />
+			<point error="7.4" time="367.0248" value="59.4" />
+			<point error="7.9" time="392.7944" value="-63.0" />
+			<point error="8.0" time="395.9244" value="-49.3" />
+			<point error="7.1" time="407.942" value="-163.8" />
+			<point error="8.6" time="421.8455" value="-198.4" />
+			<point error="6.3" time="425.8524" value="-153.1" />
+			<point error="7.8" time="450.8152" value="-120.6" />
+			<point error="9.5" time="471.7918" value="-32.4" />
+			<point error="7.5" time="689.9607" value="74.2" />
+			<point error="6.1" time="717.9139" value="180.6" />
+			<point error="5.7" time="739.816" value="155.2" />
+			<point error="5.6" time="745.9898" value="110.8" />
+			<point error="7.0" time="767.77" value="26.3" />
+			<point error="5.2" time="792.7365" value="-32.3" />
+			<point error="5.2" time="815.7558" value="-135.6" />
+			<point error="5.7" time="846.7405" value="-154.7" />
+			<point error="5.7" time="876.6575" value="70.7" />
+			<point error="6.2" time="1048.0659" value="-155.5" />
+			<point error="6.7" time="1051.0147" value="-130.7" />
+			<point error="6.2" time="1056.0011" value="-129.6" />
+			<point error="6.0" time="1079.0458" value="44.4" />
+			<point error="5.9" time="1082.8888" value="53.9" />
+			<point error="6.3" time="1118.9916" value="174.8" />
+			<point error="6.3" time="1162.892" value="68.0" />
+			<point error="5.6" time="1410.0324" value="-175.4" />
+			<point error="6.3" time="1445.0202" value="-133.6" />
+			<point error="6.8" time="1461.0033" value="-33.4" />
+			<point error="6.2" time="-302.1923" value="58.4" />
+			<point error="4.9" time="-302.1794" value="77.4" />
+			<point error="7.1" time="1490.9168" value="16.7" />
+			<point error="4.3" time="1527.811" value="139.3" />
+			<point error="7.0" time="1604.7114" value="-161.0" />
+			<point error="5.4" time="-268.219" value="157.3" />
+			<point error="6.8" time="-251.2741" value="122.9" />
+			<point error="6.8" time="-243.3079" value="123.2" />
+			<point error="5.0" time="-242.3023" value="95.1" />
+			<point error="6.4" time="1765.0271" value="64.8" />
+			<point error="5.8" time="1804.0686" value="-111.6" />
+			<point error="5.4" time="1841.9887" value="-186.5" />
+			<point error="6.9" time="1858.9082" value="-63.1" />
+			<point error="5.6" time="1884.7674" value="46.6" />
+			<point error="7.1" time="1931.8049" value="131.1" />
+		</data>
+	</curve>
+	<curve id="UID_0058952_RVC_01.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Sato et al. 2003 (ApJ, 597, L157)</reference>
+		<bibcodes>2003ApJ...597L.157S</bibcodes>
+		<observatory>Okayama Astrophysical Observatory (OAO), Japan</observatory>
+		<telescope>1.88m</telescope>
+		<xaxis>Relative Date</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2451982.1212">
+			<point error="4.6" time="0.0" value="58.7" />
+			<point error="5.2" time="0.0128999999724" value="72.3" />
+			<point error="6.2" time="33.9733000002" value="162.0" />
+			<point error="6.9" time="50.9182000002" value="117.1" />
+			<point error="6.6" time="58.8843999999" value="132.1" />
+			<point error="4.7" time="59.8900000001" value="89.0" />
+			<point error="5.3" time="302.1923" value="-101.5" />
+			<point error="5.7" time="355.0902" value="-122.0" />
+			<point error="6.7" time="443.8748" value="153.8" />
+			<point error="6.3" time="444.847" value="163.9" />
+			<point error="8.0" time="445.8541" value="109.3" />
+			<point error="7.5" time="502.8659" value="-129.5" />
+			<point error="5.6" time="523.8389" value="-137.6" />
+			<point error="10.4" time="610.1264" value="167.4" />
+			<point error="7.8" time="610.229" value="169.3" />
+			<point error="6.1" time="656.2462" value="107.5" />
+			<point error="6.7" time="669.2171" value="63.3" />
+			<point error="8.1" time="694.9867" value="-52.1" />
+			<point error="7.8" time="698.1167" value="-42.6" />
+			<point error="10.7" time="707.0481" value="-126.3" />
+			<point error="6.7" time="710.1343" value="-156.5" />
+			<point error="10.0" time="724.0378" value="-181.5" />
+			<point error="6.7" time="728.0447" value="-160.8" />
+			<point error="8.2" time="753.0075" value="-106.9" />
+			<point error="11.4" time="756.8573" value="-94.3" />
+			<point error="10.5" time="773.9841" value="-15.0" />
+		</data>
+	</curve>
 	<curve id="UID_0058952_GLC_01.tbl" type="1">
 		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
