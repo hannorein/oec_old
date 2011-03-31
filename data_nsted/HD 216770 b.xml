@@ -1,33 +1,4 @@
 <planet id="HD 216770">
-	<curve id="UID_0113238_RVC_01.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Mayor et al. 2004 (A&amp;A, 415, 391)</reference>
-		<bibcodes>2004A&amp;A...415..391M</bibcodes>
-		<observatory>ESO La Silla, Chile</observatory>
-		<telescope>1.2m Euler Swiss telescope</telescope>
-		<xaxis>Relative Date</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>km/s</yaxisunits>
-		<data mintime="2451795.6279">
-			<point error="0.006" time="0.0" value="31.152" />
-			<point error="0.006" time="35.0181" value="31.137" />
-			<point error="0.005" time="285.3003" value="31.169" />
-			<point error="0.005" time="379.1565" value="31.122" />
-			<point error="0.004" time="392.0056" value="31.125" />
-			<point error="0.004" time="392.0056" value="31.125" />
-			<point error="0.004" time="400.0145" value="31.149" />
-			<point error="0.005" time="430.967" value="31.162" />
-			<point error="0.005" time="651.2794" value="31.189" />
-			<point error="0.005" time="652.2291" value="31.181" />
-			<point error="0.005" time="670.2742" value="31.186" />
-			<point error="0.006" time="748.1015" value="31.149" />
-			<point error="0.005" time="752.0779" value="31.135" />
-			<point error="0.005" time="794.9546" value="31.171" />
-			<point error="0.005" time="825.9599" value="31.139" />
-			<point error="0.005" time="826.9229" value="31.135" />
-		</data>
-	</curve>
 	<curve id="UID_0113238_GLC_01.tbl" type="1">
 		<type>General Light Curve</type>
 		<reference>Hipparcos and Tycho Catalogs</reference>
