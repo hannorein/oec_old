@@ -1,31 +1,31 @@
 <planet id="WASP-26">
-	<curve id="UID_0300106_RVC_01.tbl" type="4">
+	<curve id="UID_0300106_RVC_001.tbl" type="4">
 		<type>Radial Velocity Curve</type>
 		<reference>Smalley et al. 2010 (arXiv, 1004, 1542)</reference>
 		<bibcodes>2010arXiv1004.1542S</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>1.2m Euler Swiss telescope</telescope>
-		<xaxis>Relative Date</xaxis>
+		<xaxis>BJD</xaxis>
 		<yaxis>Radial Velocity</yaxis>
 		<xaxisunits>days</xaxisunits>
 		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2455001.92744">
-			<point error="0.00915" time="0.0" value="8.59117" />
-			<point error="0.00959" time="6.97268000012" value="8.35510" />
-			<point error="0.01134" time="10.0106239999" value="8.45626" />
-			<point error="0.01092" time="10.906066" value="8.58264" />
-			<point error="0.00997" time="11.991074" value="8.32991" />
-			<point error="0.01022" time="35.007363" value="8.50676" />
-			<point error="0.00951" time="35.9896729998" value="8.53360" />
-			<point error="0.00871" time="36.991984" value="8.32703" />
-			<point error="0.01929" time="38.9882220002" value="8.47129" />
-			<point error="0.00800" time="40.971771" value="8.57224" />
-			<point error="0.01011" time="66.7410849999" value="8.41145" />
-			<point error="0.00967" time="68.8803579998" value="8.57495" />
-			<point error="0.00979" time="70.8016880001" value="8.49720" />
-			<point error="0.01866" time="74.929248" value="8.43943" />
-			<point error="0.00929" time="92.8908529999" value="8.49411" />
-			<point error="0.00855" time="94.8012890001" value="8.31789" />
+			<point error="1" time="0.0" value="0.00915" />
+			<point error="1" time="6.97268000012" value="0.00959" />
+			<point error="1" time="10.0106239999" value="0.01134" />
+			<point error="1" time="10.906066" value="0.01092" />
+			<point error="1" time="11.991074" value="0.00997" />
+			<point error="1" time="35.007363" value="0.01022" />
+			<point error="1" time="35.9896729998" value="0.00951" />
+			<point error="1" time="36.991984" value="0.00871" />
+			<point error="1" time="38.9882220002" value="0.01929" />
+			<point error="1" time="40.971771" value="0.00800" />
+			<point error="1" time="66.7410849999" value="0.01011" />
+			<point error="1" time="68.8803579998" value="0.00967" />
+			<point error="1" time="70.8016880001" value="0.00979" />
+			<point error="1" time="74.929248" value="0.01866" />
+			<point error="1" time="92.8908529999" value="0.00929" />
+			<point error="1" time="94.8012890001" value="0.00855" />
 		</data>
 	</curve>
 </planet>

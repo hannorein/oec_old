@@ -1,35 +1,35 @@
 <planet id="NGC 4349 No 127">
-	<curve id="UID_0300053_RVC_01.tbl" type="4">
+	<curve id="UID_0300053_RVC_001.tbl" type="4">
 		<type>Radial Velocity Curve</type>
 		<reference>Lovis &amp; Mayor 2007 (A&amp;A, 472, 657)</reference>
 		<bibcodes>2007A&amp;A...472..657L</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>3.6m</telescope>
-		<xaxis>Relative Date</xaxis>
+		<xaxis>BJD</xaxis>
 		<yaxis>Radial Velocity</yaxis>
 		<xaxisunits>days</xaxisunits>
 		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2453449.78298">
-			<point error="0.00246" time="0.0" value="-11.33346" />
-			<point error="0.00358" time="11.0527109997" value="-11.38321" />
-			<point error="0.00231" time="20.0069800001" value="-11.39941" />
-			<point error="0.00444" time="49.794342" value="-11.48408" />
-			<point error="0.00951" time="50.8578749998" value="-11.48348" />
-			<point error="0.00223" time="338.011367" value="-11.49031" />
-			<point error="0.00274" time="362.975306" value="-11.48578" />
-			<point error="0.00197" time="383.919549" value="-11.41748" />
-			<point error="0.00205" time="412.829389" value="-11.39202" />
-			<point error="0.00174" time="433.80632" value="-11.35062" />
-			<point error="0.00430" time="472.71614" value="-11.33090" />
-			<point error="0.00299" time="500.692548" value="-11.28637" />
-			<point error="0.00404" time="668.062338" value="-11.33707" />
-			<point error="0.00201" time="688.02256" value="-11.37590" />
-			<point error="0.00178" time="719.9403" value="-11.45319" />
-			<point error="0.00226" time="744.995946" value="-11.49212" />
-			<point error="0.00193" time="752.942202" value="-11.54309" />
-			<point error="0.00373" time="775.876251" value="-11.55665" />
-			<point error="0.00266" time="778.885971" value="-11.54985" />
-			<point error="0.00318" time="783.833646" value="-11.56043" />
+			<point error="1" time="0.0" value="0.00246" />
+			<point error="1" time="11.0527109997" value="0.00358" />
+			<point error="1" time="20.0069800001" value="0.00231" />
+			<point error="1" time="49.794342" value="0.00444" />
+			<point error="1" time="50.8578749998" value="0.00951" />
+			<point error="1" time="338.011367" value="0.00223" />
+			<point error="1" time="362.975306" value="0.00274" />
+			<point error="1" time="383.919549" value="0.00197" />
+			<point error="1" time="412.829389" value="0.00205" />
+			<point error="1" time="433.80632" value="0.00174" />
+			<point error="1" time="472.71614" value="0.00430" />
+			<point error="1" time="500.692548" value="0.00299" />
+			<point error="1" time="668.062338" value="0.00404" />
+			<point error="1" time="688.02256" value="0.00201" />
+			<point error="1" time="719.9403" value="0.00178" />
+			<point error="1" time="744.995946" value="0.00226" />
+			<point error="1" time="752.942202" value="0.00193" />
+			<point error="1" time="775.876251" value="0.00373" />
+			<point error="1" time="778.885971" value="0.00266" />
+			<point error="1" time="783.833646" value="0.00318" />
 		</data>
 	</curve>
 </planet>

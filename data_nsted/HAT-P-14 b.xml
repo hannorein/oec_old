@@ -1,29 +1,29 @@
 <planet id="HAT-P-14">
-	<curve id="UID_0300102_RVC_01.tbl" type="4">
+	<curve id="UID_0300102_RVC_001.tbl" type="4">
 		<type>Radial Velocity Curve</type>
 		<reference>Torres et al. 2010 (ApJ, 715, 458)</reference>
 		<bibcodes>2010ApJ...715..458T</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
-		<xaxis>Relative Date</xaxis>
+		<xaxis>BJD</xaxis>
 		<yaxis>Radial Velocity</yaxis>
 		<xaxisunits>days</xaxisunits>
 		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2454602.85803">
-			<point error="3.63" time="0.0" value="-193.02" />
-			<point error="2.97" time="0.244630000088" value="-208.31" />
-			<point error="3.39" time="1.0049800002" value="-163.07" />
-			<point error="3.35" time="1.23750000028" value="-95.63" />
-			<point error="3.59" time="31.1353800003" value="197.89" />
-			<point error="3.08" time="32.0764700002" value="-104.57" />
-			<point error="3.48" time="33.1225000001" value="-207.08" />
-			<point error="3.10" time="35.1057300004" value="200.73" />
-			<point error="3.34" time="36.1562300003" value="90.31" />
-			<point error="4.20" time="39.1285000001" value="101.38" />
-			<point error="3.94" time="174.84807" value="124.49" />
-			<point error="3.65" time="352.22444" value="-213.27" />
-			<point error="3.44" time="414.15476" value="126.95" />
-			<point error="4.34" time="503.91423" value="-27.59" />
+			<point error="1" time="0.0" value="3.63" />
+			<point error="1" time="0.244630000088" value="2.97" />
+			<point error="1" time="1.0049800002" value="3.39" />
+			<point error="1" time="1.23750000028" value="3.35" />
+			<point error="1" time="31.1353800003" value="3.59" />
+			<point error="1" time="32.0764700002" value="3.08" />
+			<point error="1" time="33.1225000001" value="3.48" />
+			<point error="1" time="35.1057300004" value="3.10" />
+			<point error="1" time="36.1562300003" value="3.34" />
+			<point error="1" time="39.1285000001" value="4.20" />
+			<point error="1" time="174.84807" value="3.94" />
+			<point error="1" time="352.22444" value="3.65" />
+			<point error="1" time="414.15476" value="3.44" />
+			<point error="1" time="503.91423" value="4.34" />
 		</data>
 	</curve>
 </planet>

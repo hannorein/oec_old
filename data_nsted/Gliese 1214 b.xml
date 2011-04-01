@@ -1,42 +1,42 @@
 <planet id="Gliese 1214">
-	<curve id="UID_0250599_RVC_01.tbl" type="4">
+	<curve id="UID_0250599_RVC_001.tbl" type="4">
 		<type>Radial Velocity Curve</type>
 		<reference>Charbonneau et al. 2009 (Nature, 462, 891)</reference>
 		<bibcodes>2009Natur.462..891C</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>3.6m</telescope>
-		<xaxis>Relative Date</xaxis>
+		<xaxis>BJD</xaxis>
 		<yaxis>Radial Velocity</yaxis>
 		<xaxisunits>days</xaxisunits>
 		<yaxisunits>m/s</yaxisunits>
 		<data mintime="2454993.76749">
-			<point error="4.455" time="0.0" value="-3.067" />
-			<point error="4.440" time="0.8752969997" value="23.961" />
-			<point error="6.351" time="4.85747599974" value="-5.204" />
-			<point error="8.662" time="4.98113199975" value="-16.122" />
-			<point error="4.287" time="7.89924199972" value="-5.218" />
-			<point error="4.040" time="7.98988799984" value="2.789" />
-			<point error="4.620" time="42.8067969996" value="-11.168" />
-			<point error="4.892" time="42.88405" value="-4.798" />
-			<point error="5.164" time="43.8182989997" value="9.604" />
-			<point error="5.230" time="43.885609" value="-10.277" />
-			<point error="4.492" time="44.7723719999" value="7.348" />
-			<point error="4.467" time="44.8695419999" value="14.137" />
-			<point error="4.567" time="45.7845419999" value="-12.980" />
-			<point error="3.993" time="45.8712839996" value="-10.222" />
-			<point error="4.921" time="46.7947319997" value="5.703" />
-			<point error="5.051" time="46.8721349998" value="7.386" />
-			<point error="4.266" time="47.806692" value="8.056" />
-			<point error="4.084" time="48.7781789997" value="-6.776" />
-			<point error="3.876" time="48.8677339996" value="-7.165" />
-			<point error="5.736" time="51.7921419996" value="-9.352" />
-			<point error="5.685" time="51.8765459997" value="-1.676" />
-			<point error="5.531" time="52.7893649996" value="12.845" />
-			<point error="5.550" time="52.863932" value="14.850" />
-			<point error="4.973" time="53.7829409996" value="-9.778" />
-			<point error="4.961" time="54.7824879996" value="7.291" />
-			<point error="4.846" time="54.843479" value="9.280" />
-			<point error="4.902" time="55.7951469999" value="3.899" />
+			<point error="1" time="0.0" value="4.455" />
+			<point error="1" time="0.8752969997" value="4.440" />
+			<point error="1" time="4.85747599974" value="6.351" />
+			<point error="1" time="4.98113199975" value="8.662" />
+			<point error="1" time="7.89924199972" value="4.287" />
+			<point error="1" time="7.98988799984" value="4.040" />
+			<point error="1" time="42.8067969996" value="4.620" />
+			<point error="1" time="42.88405" value="4.892" />
+			<point error="1" time="43.8182989997" value="5.164" />
+			<point error="1" time="43.885609" value="5.230" />
+			<point error="1" time="44.7723719999" value="4.492" />
+			<point error="1" time="44.8695419999" value="4.467" />
+			<point error="1" time="45.7845419999" value="4.567" />
+			<point error="1" time="45.8712839996" value="3.993" />
+			<point error="1" time="46.7947319997" value="4.921" />
+			<point error="1" time="46.8721349998" value="5.051" />
+			<point error="1" time="47.806692" value="4.266" />
+			<point error="1" time="48.7781789997" value="4.084" />
+			<point error="1" time="48.8677339996" value="3.876" />
+			<point error="1" time="51.7921419996" value="5.736" />
+			<point error="1" time="51.8765459997" value="5.685" />
+			<point error="1" time="52.7893649996" value="5.531" />
+			<point error="1" time="52.863932" value="5.550" />
+			<point error="1" time="53.7829409996" value="4.973" />
+			<point error="1" time="54.7824879996" value="4.961" />
+			<point error="1" time="54.843479" value="4.846" />
+			<point error="1" time="55.7951469999" value="4.902" />
 		</data>
 	</curve>
 </planet>

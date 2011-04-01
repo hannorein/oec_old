@@ -1,48 +1,48 @@
 <planet id="CoRoT-4">
-	<curve id="UID_0300075_RVC_02.tbl" type="4">
+	<curve id="UID_0300075_RVC_001.tbl" type="4">
 		<type>Radial Velocity Curve</type>
 		<reference>Moutou et al. 2008 (A&amp;AL, 488, 47)</reference>
 		<bibcodes>2008A&amp;A...488L..47M</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
-		<xaxis>Relative Date</xaxis>
+		<xaxis>BJD</xaxis>
 		<yaxis>Radial Velocity</yaxis>
 		<xaxisunits>days</xaxisunits>
 		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454405.6545">
-			<point error="0.024" time="0.0" value="32.370" />
-			<point error="0.018" time="3.01219999976" value="32.278" />
-			<point error="0.027" time="4.97989999969" value="32.258" />
-			<point error="0.034" time="8.02389999991" value="32.343" />
-			<point error="0.027" time="11.0362999998" value="32.294" />
-			<point error="0.019" time="88.7196" value="32.259" />
-			<point error="0.020" time="101.7233" value="32.320" />
+			<point error="1" time="0.0" value="0.024" />
+			<point error="1" time="3.01219999976" value="0.018" />
+			<point error="1" time="4.97989999969" value="0.027" />
+			<point error="1" time="8.02389999991" value="0.034" />
+			<point error="1" time="11.0362999998" value="0.027" />
+			<point error="1" time="88.7196" value="0.019" />
+			<point error="1" time="101.7233" value="0.020" />
 		</data>
 	</curve>
-	<curve id="UID_0300075_RVC_01.tbl" type="4">
+	<curve id="UID_0300075_RVC_002.tbl" type="4">
 		<type>Radial Velocity Curve</type>
 		<reference>Moutou et al. 2008 (A&amp;AL, 488, 47)</reference>
 		<bibcodes>2008A&amp;A...488L..47M</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>3.6m</telescope>
-		<xaxis>Relative Date</xaxis>
+		<xaxis>BJD</xaxis>
 		<yaxis>Radial Velocity</yaxis>
 		<xaxisunits>days</xaxisunits>
 		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454423.843">
-			<point error="0.022" time="0.0" value="32.352" />
-			<point error="0.019" time="0.984300000127" value="32.344" />
-			<point error="0.014" time="4.96610000031" value="32.234" />
-			<point error="0.012" time="18.9188000001" value="32.381" />
-			<point error="0.021" time="19.8731" value="32.361" />
-			<point error="0.012" time="21.9317999999" value="32.270" />
-			<point error="0.013" time="23.9383" value="32.239" />
-			<point error="0.014" time="24.9560000002" value="32.268" />
-			<point error="0.017" time="25.9441" value="32.272" />
-			<point error="0.013" time="26.9299000003" value="32.373" />
-			<point error="0.016" time="57.8237999999" value="32.287" />
-			<point error="0.015" time="58.8289000001" value="32.287" />
-			<point error="0.015" time="62.8078999999" value="32.290" />
+			<point error="1" time="0.0" value="0.022" />
+			<point error="1" time="0.984300000127" value="0.019" />
+			<point error="1" time="4.96610000031" value="0.014" />
+			<point error="1" time="18.9188000001" value="0.012" />
+			<point error="1" time="19.8731" value="0.021" />
+			<point error="1" time="21.9317999999" value="0.012" />
+			<point error="1" time="23.9383" value="0.013" />
+			<point error="1" time="24.9560000002" value="0.014" />
+			<point error="1" time="25.9441" value="0.017" />
+			<point error="1" time="26.9299000003" value="0.013" />
+			<point error="1" time="57.8237999999" value="0.016" />
+			<point error="1" time="58.8289000001" value="0.015" />
+			<point error="1" time="62.8078999999" value="0.015" />
 		</data>
 	</curve>
 </planet>

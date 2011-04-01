@@ -1,23 +1,23 @@
 <planet id="OGLE2-TR-L9">
-	<curve id="UID_0300081_RVC_01.tbl" type="4">
+	<curve id="UID_0300081_RVC_001.tbl" type="4">
 		<type>Radial Velocity Curve</type>
 		<reference>Snellen et al. 2009 (A&amp;A, 497, 545)</reference>
 		<bibcodes>2009A&amp;A...497..545S</bibcodes>
 		<observatory>ESO VLT, Paranal Observatory, Chile</observatory>
 		<telescope>8.2m Kueyen (UT2)</telescope>
-		<xaxis>Relative Date</xaxis>
+		<xaxis>HJD</xaxis>
 		<yaxis>Radial Velocity</yaxis>
 		<xaxisunits>days</xaxisunits>
 		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2454465.8421">
-			<point error="0.224" time="0.0" value="1.090" />
-			<point error="0.276" time="1.01619999995" value="1.204" />
-			<point error="0.212" time="2.87979999976" value="0.842" />
-			<point error="0.231" time="6.90260000015" value="1.105" />
-			<point error="0.376" time="23.8328" value="2.345" />
-			<point error="0.318" time="24.9961000001" value="0.472" />
-			<point error="0.187" time="27.9276000001" value="1.187" />
-			<point error="0.272" time="30.9282" value="1.190" />
+			<point error="1" time="0.0" value="0.224" />
+			<point error="1" time="1.01619999995" value="0.276" />
+			<point error="1" time="2.87979999976" value="0.212" />
+			<point error="1" time="6.90260000015" value="0.231" />
+			<point error="1" time="23.8328" value="0.376" />
+			<point error="1" time="24.9961000001" value="0.318" />
+			<point error="1" time="27.9276000001" value="0.187" />
+			<point error="1" time="30.9282" value="0.272" />
 		</data>
 	</curve>
 </planet>
