@@ -1,4 +1,32 @@
 <planet id="HAT-P-9">
+	<curve id="UID_0300078_RVC_001.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Shporer et al. 2009 (ApJ, 690, 1393)</reference>
+		<bibcodes>2009ApJ...690.1393S</bibcodes>
+		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
+		<telescope>1.93m</telescope>
+		<xaxis>BJD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2454233.3347">
+			<point error="1" time="0.0" value="24" />
+			<point error="1" time="146.301" value="20" />
+			<point error="1" time="147.2866" value="24" />
+			<point error="1" time="148.2468" value="23" />
+			<point error="1" time="180.2945" value="21" />
+			<point error="1" time="181.2737" value="24" />
+			<point error="1" time="182.311" value="27" />
+			<point error="1" time="183.3045" value="21" />
+			<point error="1" time="188.3354" value="31" />
+			<point error="1" time="189.3304" value="20" />
+			<point error="1" time="354.0196" value="21" />
+			<point error="1" time="355.0224" value="23" />
+			<point error="1" time="356.0178" value="23" />
+			<point error="1" time="357.0078" value="25" />
+			<point error="1" time="358.03" value="30" />
+		</data>
+	</curve>
 	<curve id="UID_0300078_data_AXA_001.tbl" type="3">
 		<type>Amateur Light Curve</type>
 		<reference>http://nsted.ipac.caltech.edu/NStED/docs/datasethelp/AXA.html</reference>

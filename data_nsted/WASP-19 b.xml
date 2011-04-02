@@ -1,4 +1,51 @@
 <planet id="WASP-19">
+	<curve id="UID_0300095_RVC_001.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Hebb et al. 2010 (ApJ, 708, 224)</reference>
+		<bibcodes>2010ApJ...708..224H</bibcodes>
+		<observatory>ESO La Silla, Chile</observatory>
+		<telescope>1.2m Euler Swiss telescope</telescope>
+		<xaxis>BJD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2454616.46326">
+			<point error="1" time="0.0" value="0.0218" />
+			<point error="1" time="7.00386999967" value="0.0289" />
+			<point error="1" time="7.99864999996" value="0.0220" />
+			<point error="1" time="36.0026099999" value="0.0210" />
+			<point error="1" time="37.0021699998" value="0.0231" />
+			<point error="1" time="38.0020399997" value="0.0219" />
+			<point error="1" time="40.0123799997" value="0.0193" />
+			<point error="1" time="41.0047899997" value="0.0386" />
+			<point error="1" time="42.0005000001" value="0.0302" />
+			<point error="1" time="44.0032599997" value="0.0400" />
+			<point error="1" time="45.0010799998" value="0.0217" />
+			<point error="1" time="46.0022299998" value="0.0191" />
+			<point error="1" time="47.00281" value="0.0188" />
+			<point error="1" time="48.0024699997" value="0.0362" />
+			<point error="1" time="49.0038299998" value="0.0305" />
+			<point error="1" time="211.28426" value="0.0188" />
+			<point error="1" time="216.28036" value="0.0242" />
+			<point error="1" time="217.20518" value="0.0212" />
+			<point error="1" time="218.21367" value="0.0191" />
+			<point error="1" time="221.20698" value="0.0227" />
+			<point error="1" time="222.2217" value="0.0244" />
+			<point error="1" time="223.23738" value="0.0185" />
+			<point error="1" time="274.15165" value="0.0187" />
+			<point error="1" time="278.22417" value="0.0290" />
+			<point error="1" time="279.22912" value="0.0179" />
+			<point error="1" time="280.19854" value="0.0145" />
+			<point error="1" time="281.19389" value="0.0175" />
+			<point error="1" time="282.19689" value="0.0197" />
+			<point error="1" time="323.07047" value="0.0164" />
+			<point error="1" time="324.06421" value="0.0154" />
+			<point error="1" time="325.07602" value="0.0156" />
+			<point error="1" time="326.06095" value="0.0169" />
+			<point error="1" time="327.07268" value="0.0191" />
+			<point error="1" time="328.06629" value="0.0155" />
+		</data>
+	</curve>
 	<curve id="UID_0300095_PLC_001.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>SuperWASP Consortium</reference>
