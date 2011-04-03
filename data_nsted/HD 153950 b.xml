@@ -1,4 +1,66 @@
 <planet id="HD 153950">
+	<curve id="UID_0083547_RVC_001.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Moutou et al. 2009 (A&amp;A, 496, 513)</reference>
+		<bibcodes>2009A&amp;A...496..513M</bibcodes>
+		<observatory>ESO La Silla, Chile</observatory>
+		<telescope>3.6m</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2452852.54183">
+			<point error="1" time="0.0" value="0.00154" />
+			<point error="1" time="2.05465799989" value="0.00225" />
+			<point error="1" time="654.251198" value="0.00381" />
+			<point error="1" time="979.351506" value="0.00164" />
+			<point error="1" time="980.35417" value="0.00178" />
+			<point error="1" time="981.356035" value="0.00263" />
+			<point error="1" time="984.353129" value="0.00160" />
+			<point error="1" time="1008.377739" value="0.00247" />
+			<point error="1" time="1011.246656" value="0.00251" />
+			<point error="1" time="1034.184517" value="0.00124" />
+			<point error="1" time="1069.065157" value="0.00163" />
+			<point error="1" time="1092.015008" value="0.00119" />
+			<point error="1" time="1123.937497" value="0.00128" />
+			<point error="1" time="1128.018922" value="0.00255" />
+			<point error="1" time="1315.318638" value="0.00234" />
+			<point error="1" time="1317.316337" value="0.00264" />
+			<point error="1" time="1321.308181" value="0.00195" />
+			<point error="1" time="1344.284237" value="0.00148" />
+			<point error="1" time="1347.340184" value="0.00144" />
+			<point error="1" time="1348.266822" value="0.00185" />
+			<point error="1" time="1349.368901" value="0.00109" />
+			<point error="1" time="1350.253347" value="0.00197" />
+			<point error="1" time="1374.344224" value="0.00430" />
+			<point error="1" time="1375.268427" value="0.00199" />
+			<point error="1" time="1376.256695" value="0.00169" />
+			<point error="1" time="1377.22481" value="0.00196" />
+			<point error="1" time="1378.296922" value="0.00146" />
+			<point error="1" time="1379.253101" value="0.00157" />
+			<point error="1" time="1380.171591" value="0.00229" />
+			<point error="1" time="1381.361273" value="0.00230" />
+			<point error="1" time="1382.242098" value="0.00165" />
+			<point error="1" time="1401.156886" value="0.00265" />
+			<point error="1" time="1402.189515" value="0.00161" />
+			<point error="1" time="1406.117757" value="0.00227" />
+			<point error="1" time="1408.295637" value="0.00308" />
+			<point error="1" time="1461.107601" value="0.00183" />
+			<point error="1" time="1497.008981" value="0.00353" />
+			<point error="1" time="1540.951354" value="0.00155" />
+			<point error="1" time="1674.282819" value="0.00225" />
+			<point error="1" time="1678.360213" value="0.00145" />
+			<point error="1" time="1695.244471" value="0.00178" />
+			<point error="1" time="1696.362015" value="0.00259" />
+			<point error="1" time="1702.313441" value="0.00178" />
+			<point error="1" time="1730.215967" value="0.00245" />
+			<point error="1" time="1736.386989" value="0.00336" />
+			<point error="1" time="1757.19291" value="0.00211" />
+			<point error="1" time="1760.227594" value="0.00121" />
+			<point error="1" time="1785.251338" value="0.00103" />
+			<point error="1" time="1791.252873" value="0.00139" />
+		</data>
+	</curve>
 	<curve id="UID_0083547_PLC_001.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>The Hipparcos and Tycho Catalogues, Vol 1, Pt 2.5, Hipparcos Epoch Photometry Annex (and Extension), pp 215 ff, http://www.rssd.esa.int/SA/HIPPARCOS/docs/vol1_all.pdf</reference>

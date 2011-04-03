@@ -1,0 +1,39 @@
+<planet id="HD 224693">
+	<curve id="UID_0118319_RVC_001.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Johnson et al. 2006 (ApJ, 647, 600J)</reference>
+		<bibcodes>2006ApJ...647..600J</bibcodes>
+		<observatory>Mauna Kea, Hawaii</observatory>
+		<telescope>10m Keck I</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2453191.097">
+			<point error="1" time="0.0" value="5.09" />
+			<point error="1" time="7.03399999999" value="5.54" />
+			<point error="1" time="7.99399999995" value="5.50" />
+			<point error="1" time="8.94499999983" value="5.06" />
+			<point error="1" time="176.608" value="2.65" />
+			<point error="1" time="177.616" value="3.26" />
+			<point error="1" time="178.617" value="2.50" />
+			<point error="1" time="179.639" value="11.3" />
+			<point error="1" time="359.015" value="3.48" />
+			<point error="1" time="360.025" value="3.25" />
+			<point error="1" time="360.993" value="3.38" />
+			<point error="1" time="379.991" value="3.31" />
+			<point error="1" time="411.992" value="3.06" />
+			<point error="1" time="412.965" value="2.87" />
+			<point error="1" time="413.924" value="2.87" />
+			<point error="1" time="501.809" value="1.97" />
+			<point error="1" time="502.753" value="1.95" />
+			<point error="1" time="503.665" value="2.11" />
+			<point error="1" time="504.66" value="2.09" />
+			<point error="1" time="505.654" value="2.01" />
+			<point error="1" time="532.713" value="2.65" />
+			<point error="1" time="533.659" value="2.68" />
+			<point error="1" time="555.599" value="3.14" />
+			<point error="1" time="561.664" value="2.67" />
+		</data>
+	</curve>
+</planet>
