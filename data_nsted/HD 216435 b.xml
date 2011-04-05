@@ -1,4 +1,132 @@
 <planet id="HD 216435">
+	<curve id="UID_0113044_RVC_001.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
+		<bibcodes>2006ApJ...646..505B</bibcodes>
+		<observatory>Siding Spring Observatory, Australia</observatory>
+		<telescope>3.9m Anglo-Australian Telescope (AAT)</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2451034.21052">
+			<point error="1" time="0.0" value="4.3" />
+			<point error="1" time="83.8331249999" value="4.1" />
+			<point error="1" time="84.7452199999" value="8.7" />
+			<point error="1" time="85.7294910001" value="3.9" />
+			<point error="1" time="86.7892010002" value="4.0" />
+			<point error="1" time="87.710335" value="3.4" />
+			<point error="1" time="352.107708" value="5.0" />
+			<point error="1" time="376.938773" value="6.4" />
+			<point error="1" time="380.05294" value="5.4" />
+			<point error="1" time="438.738727" value="4.0" />
+			<point error="1" time="649.107454" value="4.8" />
+			<point error="1" time="650.114004" value="4.1" />
+			<point error="1" time="709.031481" value="6.0" />
+			<point error="1" time="732.989213" value="4.1" />
+			<point error="1" time="734.008206" value="5.2" />
+			<point error="1" time="793.827766" value="4.5" />
+			<point error="1" time="794.748403" value="4.1" />
+			<point error="1" time="795.742153" value="5.5" />
+			<point error="1" time="821.83309" value="7.5" />
+			<point error="1" time="885.71456" value="4.7" />
+			<point error="1" time="886.71978" value="5.6" />
+			<point error="1" time="1027.06987" value="7.1" />
+			<point error="1" time="1058.003981" value="4.5" />
+			<point error="1" time="1059.030949" value="4.9" />
+			<point error="1" time="1092.981655" value="4.8" />
+			<point error="1" time="1093.937025" value="5.3" />
+			<point error="1" time="1095.894664" value="4.1" />
+			<point error="1" time="1119.88765" value="4.5" />
+			<point error="1" time="1152.741296" value="3.5" />
+			<point error="1" time="1153.829757" value="3.8" />
+			<point error="1" time="1154.763365" value="3.1" />
+			<point error="1" time="1155.770312" value="5.6" />
+			<point error="1" time="1354.102708" value="3.8" />
+			<point error="1" time="1355.090301" value="5.3" />
+			<point error="1" time="1388.093981" value="3.8" />
+			<point error="1" time="1420.126956" value="4.3" />
+			<point error="1" time="1422.065984" value="4.2" />
+			<point error="1" time="1442.987627" value="4.9" />
+			<point error="1" time="1476.033042" value="2.5" />
+			<point error="1" time="1476.813556" value="2.8" />
+			<point error="1" time="1557.761724" value="3.5" />
+			<point error="1" time="1559.752048" value="4.3" />
+			<point error="1" time="1714.116354" value="4.8" />
+			<point error="1" time="1826.983935" value="5.4" />
+			<point error="1" time="1910.818947" value="4.3" />
+			<point error="1" time="1972.75272" value="4.4" />
+			<point error="1" time="2181.032481" value="2.7" />
+			<point error="1" time="2209.977106" value="5.0" />
+			<point error="1" time="2248.86265" value="11." />
+			<point error="1" time="2475.07808" value="2.3" />
+			<point error="1" time="2487.127376" value="2.9" />
+			<point error="1" time="2536.013917" value="2.2" />
+			<point error="1" time="2630.859363" value="1.9" />
+			<point error="1" time="2631.860305" value="2.0" />
+			<point error="1" time="2633.885217" value="1.9" />
+			<point error="1" time="2634.853739" value="2.2" />
+			<point error="1" time="2636.896546" value="2.5" />
+			<point error="1" time="2668.767491" value="1.9" />
+		</data>
+	</curve>
+	<curve id="UID_0113044_RVC_002.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Jones et al. 2003 (MNRAS, 341, 948)</reference>
+		<bibcodes>2003MNRAS.341..948J</bibcodes>
+		<observatory>Siding Spring Observatory, Australia</observatory>
+		<telescope>3.9m Anglo-Australian Telescope (AAT)</telescope>
+		<xaxis>HJD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2451034.2105">
+			<point error="1" time="0.0" value="5.0" />
+			<point error="1" time="83.8330999999" value="5.0" />
+			<point error="1" time="84.7451999998" value="11.6" />
+			<point error="1" time="85.7294999999" value="4.8" />
+			<point error="1" time="86.7892" value="4.9" />
+			<point error="1" time="87.7103999997" value="4.3" />
+			<point error="1" time="352.1077" value="6.0" />
+			<point error="1" time="376.9388" value="7.7" />
+			<point error="1" time="380.053" value="6.4" />
+			<point error="1" time="438.7387" value="4.4" />
+			<point error="1" time="649.1075" value="5.5" />
+			<point error="1" time="650.114" value="4.4" />
+			<point error="1" time="709.0315" value="6.5" />
+			<point error="1" time="732.9892" value="4.7" />
+			<point error="1" time="734.0082" value="6.8" />
+			<point error="1" time="793.8278" value="5.6" />
+			<point error="1" time="794.7484" value="5.2" />
+			<point error="1" time="795.7422" value="6.1" />
+			<point error="1" time="821.8331" value="8.3" />
+			<point error="1" time="822.7018" value="13.4" />
+			<point error="1" time="885.7146" value="6.1" />
+			<point error="1" time="886.7198" value="7.2" />
+			<point error="1" time="1027.0698" value="8.3" />
+			<point error="1" time="1028.1341" value="5.1" />
+			<point error="1" time="1058.004" value="5.5" />
+			<point error="1" time="1059.031" value="5.1" />
+			<point error="1" time="1092.9817" value="6.3" />
+			<point error="1" time="1093.937" value="6.3" />
+			<point error="1" time="1095.8947" value="4.7" />
+			<point error="1" time="1119.8877" value="4.7" />
+			<point error="1" time="1152.7413" value="4.0" />
+			<point error="1" time="1153.8298" value="4.9" />
+			<point error="1" time="1154.7636" value="3.7" />
+			<point error="1" time="1155.7703" value="6.3" />
+			<point error="1" time="1354.1027" value="4.7" />
+			<point error="1" time="1355.0903" value="5.8" />
+			<point error="1" time="1388.094" value="4.4" />
+			<point error="1" time="1420.127" value="4.9" />
+			<point error="1" time="1422.066" value="4.1" />
+			<point error="1" time="1442.9876" value="5.4" />
+			<point error="1" time="1476.0329" value="2.7" />
+			<point error="1" time="1476.8139" value="3.1" />
+			<point error="1" time="1557.7617" value="5.0" />
+			<point error="1" time="1559.7521" value="5.5" />
+		</data>
+	</curve>
 	<curve id="UID_0113044_PLC_001.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>The Hipparcos and Tycho Catalogues, Vol 1, Pt 2.5, Hipparcos Epoch Photometry Annex (and Extension), pp 215 ff, http://www.rssd.esa.int/SA/HIPPARCOS/docs/vol1_all.pdf</reference>
