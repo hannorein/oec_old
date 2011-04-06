@@ -24,6 +24,78 @@
 		<multiplicity>1</multiplicity>
 	</planet>
 	<planet>
+		<id>10.01</id>
+		<properties>
+			<mass>0.03302985</mass>
+			<radius>11.5694130465</radius>
+			<orbit>
+				<period>3.522297</period>
+				<semimajoraxis>0.047</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<temperature>6164</temperature>
+			<mass>1.12</mass>
+			<radius>1.05</radius>
+			<metallicity>0</metallicity>
+			<rightascension>18 45 09</rightascension>
+			<declination>+18 45 09</declination>
+			<distance>663.031787262</distance>
+			<mag>13.563</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>12.01</id>
+		<properties>
+			<mass>0.03963582</mass>
+			<radius>16.8432033983</radius>
+			<orbit>
+				<period>17.855038</period>
+				<semimajoraxis>0.140</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<temperature>6419</temperature>
+			<mass>1.17</mass>
+			<radius>1.32</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 49 48</rightascension>
+			<declination>+19 49 48</declination>
+			<distance>326.684457972</distance>
+			<mag>11.353</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>13.01</id>
+		<properties>
+			<mass>0.06448685</mass>
+			<radius>45.9065149537</radius>
+			<orbit>
+				<period>1.763589</period>
+				<semimajoraxis>0.035</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<temperature>8848</temperature>
+			<mass>1.83</mass>
+			<radius>2.44</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 07 53</rightascension>
+			<declination>+19 07 53</declination>
+			<distance>603.531365204</distance>
+			<mag>9.958</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
 		<id>2.01</id>
 		<properties>
 			<mass>0.03649012</mass>
@@ -92,6 +164,54 @@
 			<declination>+19 37 25</declination>
 			<distance>246.563269079</distance>
 			<mag>11.432</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>5.01</id>
+		<properties>
+			<mass>0.0220199</mass>
+			<radius>5.01837756168</radius>
+			<orbit>
+				<period>4.780325</period>
+				<semimajoraxis>0.059</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<temperature>5766</temperature>
+			<mass>1.18</mass>
+			<radius>1.73</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 18 57</rightascension>
+			<declination>+19 18 57</declination>
+			<distance>398.855118804</distance>
+			<mag>11.665</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>7.01</id>
+		<properties>
+			<mass>0.01163909</mass>
+			<radius>1.34945038591</radius>
+			<orbit>
+				<period>3.213682</period>
+				<semimajoraxis>0.044</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<temperature>5701</temperature>
+			<mass>1.08</mass>
+			<radius>1.16</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 02 27</rightascension>
+			<declination>+19 02 27</declination>
+			<distance>336.186184359</distance>
+			<mag>12.211</mag>
 		</star>
 		<multiplicity>1</multiplicity>
 	</planet>
