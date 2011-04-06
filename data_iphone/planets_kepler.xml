@@ -17550,6 +17550,942 @@
 		<multiplicity>1</multiplicity>
 	</planet>
 	<planet>
+		<id>KOI 781.01</id>
+		<stellarid>KOI 781</stellarid>
+		<properties>
+			<radius>0.391859</radius>
+			<mass>0.0634837131811</mass>
+			<orbit>
+				<period>11.598230</period>
+				<semimajoraxis>0.083</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>11923270</kic>
+			<temperature>3833</temperature>
+			<mass>0.57</mass>
+			<radius>0.79</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 44 53</rightascension>
+			<declination>+19 44 53</declination>
+			<distance>575.604950732</distance>
+			<mag>15.937</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 782.01</id>
+		<stellarid>KOI 782</stellarid>
+		<properties>
+			<radius>0.510328</radius>
+			<mass>0.109391767113</mass>
+			<orbit>
+				<period>6.575260</period>
+				<semimajoraxis>0.070</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>11960862</kic>
+			<temperature>5733</temperature>
+			<mass>1.08</mass>
+			<radius>1.07</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 20 23</rightascension>
+			<declination>+19 20 23</declination>
+			<distance>1307.87865512</distance>
+			<mag>15.312</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 783.01</id>
+		<stellarid>KOI 783</stellarid>
+		<properties>
+			<radius>0.318955</radius>
+			<mass>0.0415429634678</mass>
+			<orbit>
+				<period>7.275090</period>
+				<semimajoraxis>0.072</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>12020329</kic>
+			<temperature>5284</temperature>
+			<mass>0.93</mass>
+			<radius>0.66</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 41 49</rightascension>
+			<declination>+19 41 49</declination>
+			<distance>615.87041806</distance>
+			<mag>15.08</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 784.01</id>
+		<stellarid>KOI 784</stellarid>
+		<properties>
+			<radius>0.209599</radius>
+			<mass>0.0174934973898</mass>
+			<orbit>
+				<period>19.269300</period>
+				<semimajoraxis>0.120</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>12066335</kic>
+			<temperature>4112</temperature>
+			<mass>0.58</mass>
+			<radius>0.65</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 35 53</rightascension>
+			<declination>+19 35 53</declination>
+			<distance>422.706921798</distance>
+			<mag>15.385</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 785.01</id>
+		<stellarid>KOI 785</stellarid>
+		<properties>
+			<radius>0.191373</radius>
+			<mass>0.0145040420267</mass>
+			<orbit>
+				<period>12.393250</period>
+				<semimajoraxis>0.100</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>12070811</kic>
+			<temperature>5380</temperature>
+			<mass>0.96</mass>
+			<radius>0.70</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 44 05</rightascension>
+			<declination>+19 44 05</declination>
+			<distance>823.535608457</distance>
+			<mag>15.505</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 786.01</id>
+		<stellarid>KOI 786</stellarid>
+		<properties>
+			<radius>0.164034</radius>
+			<mass>0.0105579271944</mass>
+			<orbit>
+				<period>3.689947</period>
+				<semimajoraxis>0.047</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>12110942</kic>
+			<temperature>5638</temperature>
+			<mass>1.01</mass>
+			<radius>0.73</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 26 29</rightascension>
+			<declination>+19 26 29</declination>
+			<distance>835.589153673</distance>
+			<mag>15.242</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 787.01</id>
+		<stellarid>KOI 787</stellarid>
+		<properties>
+			<radius>0.264277</radius>
+			<mass>0.0282005239937</mass>
+			<orbit>
+				<period>4.431061</period>
+				<semimajoraxis>0.054</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>12366084</kic>
+			<temperature>5615</temperature>
+			<mass>1.05</mass>
+			<radius>0.92</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 43 15</rightascension>
+			<declination>+19 43 15</declination>
+			<distance>1106.38719148</distance>
+			<mag>15.367</mag>
+		</star>
+		<multiplicity>2</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 787.02</id>
+		<stellarid>KOI 787</stellarid>
+		<properties>
+			<radius>0.200486</radius>
+			<mass>0.0159627614981</mass>
+			<orbit>
+				<period>5.689520</period>
+				<semimajoraxis>0.063</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>12366084</kic>
+			<temperature>5615</temperature>
+			<mass>1.05</mass>
+			<radius>0.92</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 43 15</rightascension>
+			<declination>+19 43 15</declination>
+			<distance>1106.38719148</distance>
+			<mag>15.367</mag>
+		</star>
+		<multiplicity>2</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 788.01</id>
+		<stellarid>KOI 788</stellarid>
+		<properties>
+			<radius>0.291616</radius>
+			<mass>0.0345403121181</mass>
+			<orbit>
+				<period>26.395300</period>
+				<semimajoraxis>0.170</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>12404086</kic>
+			<temperature>4950</temperature>
+			<mass>0.88</mass>
+			<radius>0.75</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 17 35</rightascension>
+			<declination>+19 17 35</declination>
+			<distance>659.312716179</distance>
+			<mag>15.234</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 790.01</id>
+		<stellarid>KOI 790</stellarid>
+		<properties>
+			<radius>0.127582</radius>
+			<mass>0.0062913095736</mass>
+			<orbit>
+				<period>8.472390</period>
+				<semimajoraxis>0.076</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>12470844</kic>
+			<temperature>5176</temperature>
+			<mass>0.82</mass>
+			<radius>0.44</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 45 27</rightascension>
+			<declination>+19 45 27</declination>
+			<distance>443.875324311</distance>
+			<mag>15.339</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 791.01</id>
+		<stellarid>KOI 791</stellarid>
+		<properties>
+			<radius>0.647023</radius>
+			<mass>0.178364943544</mass>
+			<orbit>
+				<period>12.611939</period>
+				<semimajoraxis>0.110</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>12644822</kic>
+			<temperature>5564</temperature>
+			<mass>1.03</mass>
+			<radius>0.92</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 16 26</rightascension>
+			<declination>+19 16 26</declination>
+			<distance>978.547385223</distance>
+			<mag>15.14</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 794.01</id>
+		<stellarid>KOI 794</stellarid>
+		<properties>
+			<radius>0.191373</radius>
+			<mass>0.0145040420267</mass>
+			<orbit>
+				<period>2.539147</period>
+				<semimajoraxis>0.037</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>2713049</kic>
+			<temperature>5744</temperature>
+			<mass>1.07</mass>
+			<radius>0.97</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 25 45</rightascension>
+			<declination>+19 25 45</declination>
+			<distance>1043.32685831</distance>
+			<mag>15.026</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 795.01</id>
+		<stellarid>KOI 795</stellarid>
+		<properties>
+			<radius>0.218712</radius>
+			<mass>0.0190964420931</mass>
+			<orbit>
+				<period>6.770340</period>
+				<semimajoraxis>0.069</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>3114167</kic>
+			<temperature>5455</temperature>
+			<mass>0.95</mass>
+			<radius>0.64</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 23 28</rightascension>
+			<declination>+19 23 28</declination>
+			<distance>805.358551786</distance>
+			<mag>15.591</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 797.01</id>
+		<stellarid>KOI 797</stellarid>
+		<properties>
+			<radius>0.701701</radius>
+			<mass>0.210808537928</mass>
+			<orbit>
+				<period>10.181510</period>
+				<semimajoraxis>0.094</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>3115833</kic>
+			<temperature>5725</temperature>
+			<mass>1.05</mass>
+			<radius>0.92</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 25 07</rightascension>
+			<declination>+19 25 07</declination>
+			<distance>1314.493976</distance>
+			<mag>15.657</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 799.01</id>
+		<stellarid>KOI 799</stellarid>
+		<properties>
+			<radius>0.410085</radius>
+			<mass>0.0697164205005</mass>
+			<orbit>
+				<period>1.626662</period>
+				<semimajoraxis>0.027</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>3246984</kic>
+			<temperature>5491</temperature>
+			<mass>1.04</mass>
+			<radius>1.05</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 37 28</rightascension>
+			<declination>+19 37 28</declination>
+			<distance>1159.61006789</distance>
+			<mag>15.279</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 800.01</id>
+		<stellarid>KOI 800</stellarid>
+		<properties>
+			<radius>0.246051</radius>
+			<mass>0.0243403409022</mass>
+			<orbit>
+				<period>2.711437</period>
+				<semimajoraxis>0.039</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>3342970</kic>
+			<temperature>5938</temperature>
+			<mass>1.07</mass>
+			<radius>0.85</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 26 36</rightascension>
+			<declination>+19 26 36</declination>
+			<distance>1238.56585476</distance>
+			<mag>15.541</mag>
+		</star>
+		<multiplicity>2</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 800.02</id>
+		<stellarid>KOI 800</stellarid>
+		<properties>
+			<radius>0.227825</radius>
+			<mass>0.020771780287</mass>
+			<orbit>
+				<period>7.212270</period>
+				<semimajoraxis>0.075</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>3342970</kic>
+			<temperature>5938</temperature>
+			<mass>1.07</mass>
+			<radius>0.85</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 26 36</rightascension>
+			<declination>+19 26 36</declination>
+			<distance>1238.56585476</distance>
+			<mag>15.541</mag>
+		</star>
+		<multiplicity>2</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 801.01</id>
+		<stellarid>KOI 801</stellarid>
+		<properties>
+			<radius>0.874848</radius>
+			<mass>0.332044309964</mass>
+			<orbit>
+				<period>1.625520</period>
+				<semimajoraxis>0.027</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>3351888</kic>
+			<temperature>5472</temperature>
+			<mass>1.04</mass>
+			<radius>1.08</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 35 29</rightascension>
+			<declination>+19 35 29</declination>
+			<distance>1042.16317617</distance>
+			<mag>15.001</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 802.01</id>
+		<stellarid>KOI 802</stellarid>
+		<properties>
+			<radius>0.665249</radius>
+			<mass>0.1888697451</mass>
+			<orbit>
+				<period>19.620402</period>
+				<semimajoraxis>0.140</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>3453214</kic>
+			<temperature>5556</temperature>
+			<mass>0.92</mass>
+			<radius>0.50</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 35 15</rightascension>
+			<declination>+19 35 15</declination>
+			<distance>644.042117586</distance>
+			<mag>15.562</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 804.01</id>
+		<stellarid>KOI 804</stellarid>
+		<properties>
+			<radius>0.27339</radius>
+			<mass>0.0302403690587</mass>
+			<orbit>
+				<period>9.029710</period>
+				<semimajoraxis>0.083</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>3641726</kic>
+			<temperature>5136</temperature>
+			<mass>0.95</mass>
+			<radius>0.87</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 21 20</rightascension>
+			<declination>+19 21 20</declination>
+			<distance>883.46443997</distance>
+			<mag>15.387</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 805.01</id>
+		<stellarid>KOI 805</stellarid>
+		<properties>
+			<radius>1.312272</radius>
+			<mass>0.765497957162</mass>
+			<orbit>
+				<period>10.327948</period>
+				<semimajoraxis>0.094</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>3734868</kic>
+			<temperature>5415</temperature>
+			<mass>1.04</mass>
+			<radius>1.11</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 10 47</rightascension>
+			<declination>+19 10 47</declination>
+			<distance>1411.69114813</distance>
+			<mag>15.646</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 806.01</id>
+		<stellarid>KOI 806</stellarid>
+		<properties>
+			<radius>0.82017</radius>
+			<mass>0.290707925361</mass>
+			<orbit>
+				<period>143.181400</period>
+				<semimajoraxis>0.530</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>3832474</kic>
+			<temperature>5206</temperature>
+			<mass>0.97</mass>
+			<radius>0.88</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 01 08</rightascension>
+			<declination>+19 01 08</declination>
+			<distance>924.934098766</distance>
+			<mag>15.403</mag>
+		</star>
+		<multiplicity>3</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 806.02</id>
+		<stellarid>KOI 806</stellarid>
+		<properties>
+			<radius>1.102673</radius>
+			<mass>0.534878529399</mass>
+			<orbit>
+				<period>60.328750</period>
+				<semimajoraxis>0.300</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>3832474</kic>
+			<temperature>5206</temperature>
+			<mass>0.97</mass>
+			<radius>0.88</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 01 08</rightascension>
+			<declination>+19 01 08</declination>
+			<distance>924.934098766</distance>
+			<mag>15.403</mag>
+		</star>
+		<multiplicity>3</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 806.03</id>
+		<stellarid>KOI 806</stellarid>
+		<properties>
+			<radius>0.282503</radius>
+			<mass>0.0323535835959</mass>
+			<orbit>
+				<period>29.165400</period>
+				<semimajoraxis>0.180</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>3832474</kic>
+			<temperature>5206</temperature>
+			<mass>0.97</mass>
+			<radius>0.88</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 01 08</rightascension>
+			<declination>+19 01 08</declination>
+			<distance>924.934098766</distance>
+			<mag>15.403</mag>
+		</star>
+		<multiplicity>3</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 809.01</id>
+		<stellarid>KOI 809</stellarid>
+		<properties>
+			<radius>1.111786</radius>
+			<mass>0.544024619076</mass>
+			<orbit>
+				<period>1.594745</period>
+				<semimajoraxis>0.027</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>3935914</kic>
+			<temperature>5690</temperature>
+			<mass>1.06</mass>
+			<radius>0.98</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 00 51</rightascension>
+			<declination>+19 00 51</declination>
+			<distance>1304.57904793</distance>
+			<mag>15.53</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 810.01</id>
+		<stellarid>KOI 810</stellarid>
+		<properties>
+			<radius>0.246051</radius>
+			<mass>0.0243403409022</mass>
+			<orbit>
+				<period>4.782942</period>
+				<semimajoraxis>0.054</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>3940418</kic>
+			<temperature>4997</temperature>
+			<mass>0.91</mass>
+			<radius>0.82</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 08 22</rightascension>
+			<declination>+19 08 22</declination>
+			<distance>696.71047806</distance>
+			<mag>15.119</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 811.01</id>
+		<stellarid>KOI 811</stellarid>
+		<properties>
+			<radius>0.391859</radius>
+			<mass>0.0634837131811</mass>
+			<orbit>
+				<period>20.506170</period>
+				<semimajoraxis>0.140</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>4049131</kic>
+			<temperature>4764</temperature>
+			<mass>0.88</mass>
+			<radius>0.94</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 17 15</rightascension>
+			<declination>+19 17 15</declination>
+			<distance>825.450718772</distance>
+			<mag>15.398</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 812.01</id>
+		<stellarid>KOI 812</stellarid>
+		<properties>
+			<radius>0.227825</radius>
+			<mass>0.020771780287</mass>
+			<orbit>
+				<period>3.340240</period>
+				<semimajoraxis>0.036</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>4139816</kic>
+			<temperature>4097</temperature>
+			<mass>0.55</mass>
+			<radius>0.57</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 04 18</rightascension>
+			<declination>+19 04 18</declination>
+			<distance>478.218721878</distance>
+			<mag>15.954</mag>
+		</star>
+		<multiplicity>3</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 812.02</id>
+		<stellarid>KOI 812</stellarid>
+		<properties>
+			<radius>0.200486</radius>
+			<mass>0.0159627614981</mass>
+			<orbit>
+				<period>20.060860</period>
+				<semimajoraxis>0.120</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>4139816</kic>
+			<temperature>4097</temperature>
+			<mass>0.55</mass>
+			<radius>0.57</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 04 18</rightascension>
+			<declination>+19 04 18</declination>
+			<distance>478.218721878</distance>
+			<mag>15.954</mag>
+		</star>
+		<multiplicity>3</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 812.03</id>
+		<stellarid>KOI 812</stellarid>
+		<properties>
+			<radius>0.191373</radius>
+			<mass>0.0145040420267</mass>
+			<orbit>
+				<period>46.185100</period>
+				<semimajoraxis>0.210</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>4139816</kic>
+			<temperature>4097</temperature>
+			<mass>0.55</mass>
+			<radius>0.57</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 04 18</rightascension>
+			<declination>+19 04 18</declination>
+			<distance>478.218721878</distance>
+			<mag>15.954</mag>
+		</star>
+		<multiplicity>3</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 813.01</id>
+		<stellarid>KOI 813</stellarid>
+		<properties>
+			<radius>0.592345</radius>
+			<mass>0.148702687309</mass>
+			<orbit>
+				<period>3.895926</period>
+				<semimajoraxis>0.048</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>4275191</kic>
+			<temperature>5357</temperature>
+			<mass>0.95</mass>
+			<radius>0.70</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 38 37</rightascension>
+			<declination>+19 38 37</declination>
+			<distance>903.568586003</distance>
+			<mag>15.725</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 814.01</id>
+		<stellarid>KOI 814</stellarid>
+		<properties>
+			<radius>0.164034</radius>
+			<mass>0.0105579271944</mass>
+			<orbit>
+				<period>22.367000</period>
+				<semimajoraxis>0.150</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>4476123</kic>
+			<temperature>5236</temperature>
+			<mass>0.89</mass>
+			<radius>0.58</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 38 50</rightascension>
+			<declination>+19 38 50</declination>
+			<distance>669.95720202</distance>
+			<mag>15.583</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 815.01</id>
+		<stellarid>KOI 815</stellarid>
+		<properties>
+			<radius>0.947752</radius>
+			<mass>0.391566907639</mass>
+			<orbit>
+				<period>34.844200</period>
+				<semimajoraxis>0.210</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>4544670</kic>
+			<temperature>5344</temperature>
+			<mass>1.00</mass>
+			<radius>0.95</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 03 40</rightascension>
+			<declination>+19 03 40</declination>
+			<distance>1197.50213129</distance>
+			<mag>15.684</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 816.01</id>
+		<stellarid>KOI 816</stellarid>
+		<properties>
+			<radius>0.419198</radius>
+			<mass>0.0729454882647</mass>
+			<orbit>
+				<period>7.748017</period>
+				<semimajoraxis>0.078</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>4664847</kic>
+			<temperature>5699</temperature>
+			<mass>1.06</mass>
+			<radius>0.96</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 37 57</rightascension>
+			<declination>+19 37 57</declination>
+			<distance>1367.37721169</distance>
+			<mag>15.67</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 817.01</id>
+		<stellarid>KOI 817</stellarid>
+		<properties>
+			<radius>0.191373</radius>
+			<mass>0.0145040420267</mass>
+			<orbit>
+				<period>23.971600</period>
+				<semimajoraxis>0.130</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>4725681</kic>
+			<temperature>3905</temperature>
+			<mass>0.50</mass>
+			<radius>0.59</radius>
+			<metallicity>0</metallicity>
+			<rightascension>18 55 27</rightascension>
+			<declination>+18 55 27</declination>
+			<distance>350.68232633</distance>
+			<mag>15.414</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 818.01</id>
+		<stellarid>KOI 818</stellarid>
+		<properties>
+			<radius>0.328068</radius>
+			<mass>0.0440251104224</mass>
+			<orbit>
+				<period>8.114290</period>
+				<semimajoraxis>0.066</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>4913852</kic>
+			<temperature>3785</temperature>
+			<mass>0.58</mass>
+			<radius>0.83</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 15 14</rightascension>
+			<declination>+19 15 14</declination>
+			<distance>573.62708711</distance>
+			<mag>15.877</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
 		<id>KOI 82.01</id>
 		<stellarid>KOI 82</stellarid>
 		<properties>
@@ -17602,6 +18538,526 @@
 		<multiplicity>2</multiplicity>
 	</planet>
 	<planet>
+		<id>KOI 821.01</id>
+		<stellarid>KOI 821</stellarid>
+		<properties>
+			<radius>0.355407</radius>
+			<mass>0.05191709609</mass>
+			<orbit>
+				<period>21.813100</period>
+				<semimajoraxis>0.150</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5021899</kic>
+			<temperature>5408</temperature>
+			<mass>1.03</mass>
+			<radius>1.05</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 39 06</rightascension>
+			<declination>+19 39 06</declination>
+			<distance>1268.47658741</distance>
+			<mag>15.54</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 822.01</id>
+		<stellarid>KOI 822</stellarid>
+		<properties>
+			<radius>1.047995</radius>
+			<mass>0.481675828962</mass>
+			<orbit>
+				<period>7.919371</period>
+				<semimajoraxis>0.078</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5077629</kic>
+			<temperature>5458</temperature>
+			<mass>1.00</mass>
+			<radius>0.82</radius>
+			<metallicity>0</metallicity>
+			<rightascension>18 54 09</rightascension>
+			<declination>+18 54 09</declination>
+			<distance>1139.98911841</distance>
+			<mag>15.805</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 823.01</id>
+		<stellarid>KOI 823</stellarid>
+		<properties>
+			<radius>0.792831</radius>
+			<mass>0.271098405194</mass>
+			<orbit>
+				<period>1.028437</period>
+				<semimajoraxis>0.021</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5115978</kic>
+			<temperature>5976</temperature>
+			<mass>1.10</mass>
+			<radius>1.06</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 44 01</rightascension>
+			<declination>+19 44 01</declination>
+			<distance>1338.27952551</distance>
+			<mag>15.202</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 824.01</id>
+		<stellarid>KOI 824</stellarid>
+		<properties>
+			<radius>1.139125</radius>
+			<mass>0.571941920237</mass>
+			<orbit>
+				<period>15.375500</period>
+				<semimajoraxis>0.120</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5164255</kic>
+			<temperature>4829</temperature>
+			<mass>0.90</mass>
+			<radius>0.94</radius>
+			<metallicity>0</metallicity>
+			<rightascension>18 53 00</rightascension>
+			<declination>+18 53 00</declination>
+			<distance>1359.13330626</distance>
+			<mag>16.422</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 825.01</id>
+		<stellarid>KOI 825</stellarid>
+		<properties>
+			<radius>0.218712</radius>
+			<mass>0.0190964420931</mass>
+			<orbit>
+				<period>8.103410</period>
+				<semimajoraxis>0.074</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5252423</kic>
+			<temperature>4735</temperature>
+			<mass>0.81</mass>
+			<radius>0.76</radius>
+			<metallicity>0</metallicity>
+			<rightascension>18 52 53</rightascension>
+			<declination>+18 52 53</declination>
+			<distance>627.008386547</distance>
+			<mag>15.289</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 826.01</id>
+		<stellarid>KOI 826</stellarid>
+		<properties>
+			<radius>0.154921</radius>
+			<mass>0.00938516863169</mass>
+			<orbit>
+				<period>6.365997</period>
+				<semimajoraxis>0.066</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5272878</kic>
+			<temperature>5557</temperature>
+			<mass>0.97</mass>
+			<radius>0.62</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 24 35</rightascension>
+			<declination>+19 24 35</declination>
+			<distance>642.824282698</distance>
+			<mag>15.09</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 827.01</id>
+		<stellarid>KOI 827</stellarid>
+		<properties>
+			<radius>0.282503</radius>
+			<mass>0.0323535835959</mass>
+			<orbit>
+				<period>5.975690</period>
+				<semimajoraxis>0.066</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5283542</kic>
+			<temperature>5837</temperature>
+			<mass>1.06</mass>
+			<radius>0.92</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 36 53</rightascension>
+			<declination>+19 36 53</declination>
+			<distance>1298.33571745</distance>
+			<mag>15.546</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 829.01</id>
+		<stellarid>KOI 829</stellarid>
+		<properties>
+			<radius>0.236938</radius>
+			<mass>0.0225196895502</mass>
+			<orbit>
+				<period>18.649020</period>
+				<semimajoraxis>0.140</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5358241</kic>
+			<temperature>5858</temperature>
+			<mass>1.06</mass>
+			<radius>0.89</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 21 50</rightascension>
+			<declination>+19 21 50</declination>
+			<distance>1175.19120383</distance>
+			<mag>15.386</mag>
+		</star>
+		<multiplicity>3</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 829.02</id>
+		<stellarid>KOI 829</stellarid>
+		<properties>
+			<radius>0.173147</radius>
+			<mass>0.0118018399398</mass>
+			<orbit>
+				<period>9.752220</period>
+				<semimajoraxis>0.091</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5358241</kic>
+			<temperature>5858</temperature>
+			<mass>1.06</mass>
+			<radius>0.89</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 21 50</rightascension>
+			<declination>+19 21 50</declination>
+			<distance>1175.19120383</distance>
+			<mag>15.386</mag>
+		</star>
+		<multiplicity>3</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 829.03</id>
+		<stellarid>KOI 829</stellarid>
+		<properties>
+			<radius>0.246051</radius>
+			<mass>0.0243403409022</mass>
+			<orbit>
+				<period>38.559600</period>
+				<semimajoraxis>0.230</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5358241</kic>
+			<temperature>5858</temperature>
+			<mass>1.06</mass>
+			<radius>0.89</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 21 50</rightascension>
+			<declination>+19 21 50</declination>
+			<distance>1175.19120383</distance>
+			<mag>15.386</mag>
+		</star>
+		<multiplicity>3</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 830.01</id>
+		<stellarid>KOI 830</stellarid>
+		<properties>
+			<radius>0.701701</radius>
+			<mass>0.210808537928</mass>
+			<orbit>
+				<period>3.525635</period>
+				<semimajoraxis>0.042</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5358624</kic>
+			<temperature>4915</temperature>
+			<mass>0.80</mass>
+			<radius>0.53</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 22 19</rightascension>
+			<declination>+19 22 19</declination>
+			<distance>457.238408825</distance>
+			<mag>15.224</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 833.01</id>
+		<stellarid>KOI 833</stellarid>
+		<properties>
+			<radius>0.391859</radius>
+			<mass>0.0634837131811</mass>
+			<orbit>
+				<period>3.951399</period>
+				<semimajoraxis>0.050</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5376067</kic>
+			<temperature>5781</temperature>
+			<mass>1.04</mass>
+			<radius>0.79</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 42 01</rightascension>
+			<declination>+19 42 01</declination>
+			<distance>1044.36623135</distance>
+			<mag>15.446</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 834.01</id>
+		<stellarid>KOI 834</stellarid>
+		<properties>
+			<radius>0.446537</radius>
+			<mass>0.0830847327401</mass>
+			<orbit>
+				<period>23.654220</period>
+				<semimajoraxis>0.160</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5436502</kic>
+			<temperature>5614</temperature>
+			<mass>1.03</mass>
+			<radius>0.85</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 11 35</rightascension>
+			<declination>+19 11 35</declination>
+			<distance>896.981597473</distance>
+			<mag>15.084</mag>
+		</star>
+		<multiplicity>4</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 834.02</id>
+		<stellarid>KOI 834</stellarid>
+		<properties>
+			<radius>0.173147</radius>
+			<mass>0.0118018399398</mass>
+			<orbit>
+				<period>13.233110</period>
+				<semimajoraxis>0.110</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5436502</kic>
+			<temperature>5614</temperature>
+			<mass>1.03</mass>
+			<radius>0.85</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 11 35</rightascension>
+			<declination>+19 11 35</declination>
+			<distance>896.981597473</distance>
+			<mag>15.084</mag>
+		</star>
+		<multiplicity>4</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 834.03</id>
+		<stellarid>KOI 834</stellarid>
+		<properties>
+			<radius>0.127582</radius>
+			<mass>0.0062913095736</mass>
+			<orbit>
+				<period>6.155420</period>
+				<semimajoraxis>0.066</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5436502</kic>
+			<temperature>5614</temperature>
+			<mass>1.03</mass>
+			<radius>0.85</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 11 35</rightascension>
+			<declination>+19 11 35</declination>
+			<distance>896.981597473</distance>
+			<mag>15.084</mag>
+		</star>
+		<multiplicity>4</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 834.04</id>
+		<stellarid>KOI 834</stellarid>
+		<properties>
+			<radius>0.127582</radius>
+			<mass>0.0062913095736</mass>
+			<orbit>
+				<period>2.090925</period>
+				<semimajoraxis>0.032</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5436502</kic>
+			<temperature>5614</temperature>
+			<mass>1.03</mass>
+			<radius>0.85</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 11 35</rightascension>
+			<declination>+19 11 35</declination>
+			<distance>896.981597473</distance>
+			<mag>15.084</mag>
+		</star>
+		<multiplicity>4</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 835.01</id>
+		<stellarid>KOI 835</stellarid>
+		<properties>
+			<radius>0.145808</radius>
+			<mass>0.0082833205213</mass>
+			<orbit>
+				<period>11.762960</period>
+				<semimajoraxis>0.092</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5456651</kic>
+			<temperature>4817</temperature>
+			<mass>0.75</mass>
+			<radius>0.48</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 36 48</rightascension>
+			<declination>+19 36 48</declination>
+			<distance>394.833797429</distance>
+			<mag>15.208</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 837.01</id>
+		<stellarid>KOI 837</stellarid>
+		<properties>
+			<radius>0.164034</radius>
+			<mass>0.0105579271944</mass>
+			<orbit>
+				<period>7.953670</period>
+				<semimajoraxis>0.072</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5531576</kic>
+			<temperature>4817</temperature>
+			<mass>0.80</mass>
+			<radius>0.62</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 24 38</rightascension>
+			<declination>+19 24 38</declination>
+			<distance>628.007416992</distance>
+			<mag>15.66</mag>
+		</star>
+		<multiplicity>2</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 837.02</id>
+		<stellarid>KOI 837</stellarid>
+		<properties>
+			<radius>0.127582</radius>
+			<mass>0.0062913095736</mass>
+			<orbit>
+				<period>4.144590</period>
+				<semimajoraxis>0.047</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5531576</kic>
+			<temperature>4817</temperature>
+			<mass>0.80</mass>
+			<radius>0.62</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 24 38</rightascension>
+			<declination>+19 24 38</declination>
+			<distance>628.007416992</distance>
+			<mag>15.66</mag>
+		</star>
+		<multiplicity>2</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 838.01</id>
+		<stellarid>KOI 838</stellarid>
+		<properties>
+			<radius>0.710814</radius>
+			<mass>0.216487180305</mass>
+			<orbit>
+				<period>4.859373</period>
+				<semimajoraxis>0.057</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5534814</kic>
+			<temperature>5794</temperature>
+			<mass>1.07</mass>
+			<radius>0.99</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 28 51</rightascension>
+			<declination>+19 28 51</declination>
+			<distance>1235.41243144</distance>
+			<mag>15.311</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
 		<id>KOI 84.01</id>
 		<stellarid>KOI 84</stellarid>
 		<properties>
@@ -17624,6 +19080,292 @@
 			<declination>+19 21 40</declination>
 			<distance>185.404147487</distance>
 			<mag>11.898</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 840.01</id>
+		<stellarid>KOI 840</stellarid>
+		<properties>
+			<radius>0.975091</radius>
+			<mass>0.415190955579</mass>
+			<orbit>
+				<period>3.040324</period>
+				<semimajoraxis>0.040</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5651104</kic>
+			<temperature>4916</temperature>
+			<mass>0.94</mass>
+			<radius>1.03</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 57 15</rightascension>
+			<declination>+19 57 15</declination>
+			<distance>812.233249862</distance>
+			<mag>15.028</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 841.01</id>
+		<stellarid>KOI 841</stellarid>
+		<properties>
+			<radius>0.36452</radius>
+			<mass>0.0546966697128</mass>
+			<orbit>
+				<period>15.336110</period>
+				<semimajoraxis>0.120</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5792202</kic>
+			<temperature>5226</temperature>
+			<mass>0.94</mass>
+			<radius>0.76</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 28 56</rightascension>
+			<declination>+19 28 56</declination>
+			<distance>991.224878787</distance>
+			<mag>15.855</mag>
+		</star>
+		<multiplicity>2</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 841.02</id>
+		<stellarid>KOI 841</stellarid>
+		<properties>
+			<radius>0.446537</radius>
+			<mass>0.0830847327401</mass>
+			<orbit>
+				<period>31.328650</period>
+				<semimajoraxis>0.190</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5792202</kic>
+			<temperature>5226</temperature>
+			<mass>0.94</mass>
+			<radius>0.76</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 28 56</rightascension>
+			<declination>+19 28 56</declination>
+			<distance>991.224878787</distance>
+			<mag>15.855</mag>
+		</star>
+		<multiplicity>2</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 842.01</id>
+		<stellarid>KOI 842</stellarid>
+		<properties>
+			<radius>0.255164</radius>
+			<mass>0.0262338992853</mass>
+			<orbit>
+				<period>12.718620</period>
+				<semimajoraxis>0.097</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5794379</kic>
+			<temperature>4497</temperature>
+			<mass>0.76</mass>
+			<radius>0.79</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 31 39</rightascension>
+			<declination>+19 31 39</declination>
+			<distance>615.591560547</distance>
+			<mag>15.389</mag>
+		</star>
+		<multiplicity>2</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 842.02</id>
+		<stellarid>KOI 842</stellarid>
+		<properties>
+			<radius>0.282503</radius>
+			<mass>0.0323535835959</mass>
+			<orbit>
+				<period>36.065390</period>
+				<semimajoraxis>0.200</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5794379</kic>
+			<temperature>4497</temperature>
+			<mass>0.76</mass>
+			<radius>0.79</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 31 39</rightascension>
+			<declination>+19 31 39</declination>
+			<distance>615.591560547</distance>
+			<mag>15.389</mag>
+		</star>
+		<multiplicity>2</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 843.01</id>
+		<stellarid>KOI 843</stellarid>
+		<properties>
+			<radius>0.574119</radius>
+			<mass>0.13943083693</mass>
+			<orbit>
+				<period>4.190400</period>
+				<semimajoraxis>0.052</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>5881688</kic>
+			<temperature>5784</temperature>
+			<mass>1.08</mass>
+			<radius>1.09</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 33 59</rightascension>
+			<declination>+19 33 59</declination>
+			<distance>1330.15685618</distance>
+			<mag>15.27</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 844.01</id>
+		<stellarid>KOI 844</stellarid>
+		<properties>
+			<radius>0.255164</radius>
+			<mass>0.0262338992853</mass>
+			<orbit>
+				<period>3.709881</period>
+				<semimajoraxis>0.046</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6022556</kic>
+			<temperature>5381</temperature>
+			<mass>0.94</mass>
+			<radius>0.63</radius>
+			<metallicity>0</metallicity>
+			<rightascension>18 55 27</rightascension>
+			<declination>+18 55 27</declination>
+			<distance>767.867567011</distance>
+			<mag>15.581</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 845.01</id>
+		<stellarid>KOI 845</stellarid>
+		<properties>
+			<radius>0.328068</radius>
+			<mass>0.0440251104224</mass>
+			<orbit>
+				<period>16.329400</period>
+				<semimajoraxis>0.130</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6032497</kic>
+			<temperature>5646</temperature>
+			<mass>1.06</mass>
+			<radius>1.02</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 14 02</rightascension>
+			<declination>+19 14 02</declination>
+			<distance>1286.77232017</distance>
+			<mag>15.447</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 846.01</id>
+		<stellarid>KOI 846</stellarid>
+		<properties>
+			<radius>1.394289</radius>
+			<mass>0.867324570708</mass>
+			<orbit>
+				<period>27.807488</period>
+				<semimajoraxis>0.180</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6061119</kic>
+			<temperature>5612</temperature>
+			<mass>1.03</mass>
+			<radius>0.85</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 47 33</rightascension>
+			<declination>+19 47 33</declination>
+			<distance>1076.6487518</distance>
+			<mag>15.482</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 847.01</id>
+		<stellarid>KOI 847</stellarid>
+		<properties>
+			<radius>0.464763</radius>
+			<mass>0.0902218784692</mass>
+			<orbit>
+				<period>80.871100</period>
+				<semimajoraxis>0.370</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6191521</kic>
+			<temperature>5469</temperature>
+			<mass>1.01</mass>
+			<radius>0.88</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 08 37</rightascension>
+			<declination>+19 08 37</declination>
+			<distance>930.075725614</distance>
+			<mag>15.201</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 849.01</id>
+		<stellarid>KOI 849</stellarid>
+		<properties>
+			<radius>0.255164</radius>
+			<mass>0.0262338992853</mass>
+			<orbit>
+				<period>10.355450</period>
+				<semimajoraxis>0.093</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6276477</kic>
+			<temperature>5303</temperature>
+			<mass>1.00</mass>
+			<radius>0.96</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 15 58</rightascension>
+			<declination>+19 15 58</declination>
+			<distance>876.868114396</distance>
+			<mag>15.018</mag>
 		</star>
 		<multiplicity>1</multiplicity>
 	</planet>
@@ -17706,6 +19448,526 @@
 		<multiplicity>3</multiplicity>
 	</planet>
 	<planet>
+		<id>KOI 850.01</id>
+		<stellarid>KOI 850</stellarid>
+		<properties>
+			<radius>0.792831</radius>
+			<mass>0.271098405194</mass>
+			<orbit>
+				<period>10.526305</period>
+				<semimajoraxis>0.093</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6291653</kic>
+			<temperature>5236</temperature>
+			<mass>0.97</mass>
+			<radius>0.87</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 35 30</rightascension>
+			<declination>+19 35 30</declination>
+			<distance>884.175179359</distance>
+			<mag>15.305</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 851.01</id>
+		<stellarid>KOI 851</stellarid>
+		<properties>
+			<radius>0.501215</radius>
+			<mass>0.105405783963</mass>
+			<orbit>
+				<period>4.583526</period>
+				<semimajoraxis>0.055</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6392727</kic>
+			<temperature>5570</temperature>
+			<mass>1.03</mass>
+			<radius>0.89</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 56 44</rightascension>
+			<declination>+19 56 44</declination>
+			<distance>1015.12655276</distance>
+			<mag>15.287</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 852.01</id>
+		<stellarid>KOI 852</stellarid>
+		<properties>
+			<radius>0.218712</radius>
+			<mass>0.0190964420931</mass>
+			<orbit>
+				<period>3.761790</period>
+				<semimajoraxis>0.048</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6422070</kic>
+			<temperature>5448</temperature>
+			<mass>1.03</mass>
+			<radius>0.98</radius>
+			<metallicity>0</metallicity>
+			<rightascension>18 53 15</rightascension>
+			<declination>+18 53 15</declination>
+			<distance>1054.6784307</distance>
+			<mag>15.257</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 853.01</id>
+		<stellarid>KOI 853</stellarid>
+		<properties>
+			<radius>0.264277</radius>
+			<mass>0.0282005239937</mass>
+			<orbit>
+				<period>8.203710</period>
+				<semimajoraxis>0.077</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6428700</kic>
+			<temperature>4842</temperature>
+			<mass>0.89</mass>
+			<radius>0.91</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 06 15</rightascension>
+			<declination>+19 06 15</declination>
+			<distance>817.166874552</distance>
+			<mag>15.376</mag>
+		</star>
+		<multiplicity>2</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 853.02</id>
+		<stellarid>KOI 853</stellarid>
+		<properties>
+			<radius>0.191373</radius>
+			<mass>0.0145040420267</mass>
+			<orbit>
+				<period>14.496790</period>
+				<semimajoraxis>0.110</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6428700</kic>
+			<temperature>4842</temperature>
+			<mass>0.89</mass>
+			<radius>0.91</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 06 15</rightascension>
+			<declination>+19 06 15</declination>
+			<distance>817.166874552</distance>
+			<mag>15.376</mag>
+		</star>
+		<multiplicity>2</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 854.01</id>
+		<stellarid>KOI 854</stellarid>
+		<properties>
+			<radius>0.173147</radius>
+			<mass>0.0118018399398</mass>
+			<orbit>
+				<period>56.051700</period>
+				<semimajoraxis>0.220</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6435936</kic>
+			<temperature>3743</temperature>
+			<mass>0.43</mass>
+			<radius>0.49</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 18 02</rightascension>
+			<declination>+19 18 02</declination>
+			<distance>326.93056504</distance>
+			<mag>15.849</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 855.01</id>
+		<stellarid>KOI 855</stellarid>
+		<properties>
+			<radius>1.139125</radius>
+			<mass>0.571941920237</mass>
+			<orbit>
+				<period>41.408460</period>
+				<semimajoraxis>0.230</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6522242</kic>
+			<temperature>5316</temperature>
+			<mass>0.97</mass>
+			<radius>0.83</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 27 02</rightascension>
+			<declination>+19 27 02</declination>
+			<distance>826.928247961</distance>
+			<mag>15.196</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 856.01</id>
+		<stellarid>KOI 856</stellarid>
+		<properties>
+			<radius>1.193803</radius>
+			<mass>0.629935627208</mass>
+			<orbit>
+				<period>39.748970</period>
+				<semimajoraxis>0.230</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6526710</kic>
+			<temperature>5858</temperature>
+			<mass>1.06</mass>
+			<radius>0.86</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 32 43</rightascension>
+			<declination>+19 32 43</declination>
+			<distance>1113.82503916</distance>
+			<mag>15.344</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 857.01</id>
+		<stellarid>KOI 857</stellarid>
+		<properties>
+			<radius>0.200486</radius>
+			<mass>0.0159627614981</mass>
+			<orbit>
+				<period>5.715374</period>
+				<semimajoraxis>0.061</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6587280</kic>
+			<temperature>5033</temperature>
+			<mass>0.91</mass>
+			<radius>0.76</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 00 26</rightascension>
+			<declination>+19 00 26</declination>
+			<distance>645.189430099</distance>
+			<mag>15.086</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 858.01</id>
+		<stellarid>KOI 858</stellarid>
+		<properties>
+			<radius>0.902187</radius>
+			<mass>0.353773911356</mass>
+			<orbit>
+				<period>13.610127</period>
+				<semimajoraxis>0.110</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6599919</kic>
+			<temperature>5440</temperature>
+			<mass>1.03</mass>
+			<radius>1.00</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 19 35</rightascension>
+			<declination>+19 19 35</declination>
+			<distance>979.980852412</distance>
+			<mag>15.06</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 861.01</id>
+		<stellarid>KOI 861</stellarid>
+		<properties>
+			<radius>0.136695</radius>
+			<mass>0.00725212524829</mass>
+			<orbit>
+				<period>2.237565</period>
+				<semimajoraxis>0.032</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6685526</kic>
+			<temperature>5066</temperature>
+			<mass>0.91</mass>
+			<radius>0.76</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 20 01</rightascension>
+			<declination>+19 20 01</declination>
+			<distance>628.58462487</distance>
+			<mag>15.001</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 863.01</id>
+		<stellarid>KOI 863</stellarid>
+		<properties>
+			<radius>0.246051</radius>
+			<mass>0.0243403409022</mass>
+			<orbit>
+				<period>3.167920</period>
+				<semimajoraxis>0.043</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6784235</kic>
+			<temperature>5651</temperature>
+			<mass>1.04</mass>
+			<radius>0.85</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 35 15</rightascension>
+			<declination>+19 35 15</declination>
+			<distance>1117.60756063</distance>
+			<mag>15.533</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 864.01</id>
+		<stellarid>KOI 864</stellarid>
+		<properties>
+			<radius>0.200486</radius>
+			<mass>0.0159627614981</mass>
+			<orbit>
+				<period>4.311802</period>
+				<semimajoraxis>0.051</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6849310</kic>
+			<temperature>5337</temperature>
+			<mass>0.93</mass>
+			<radius>0.66</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 08 58</rightascension>
+			<declination>+19 08 58</declination>
+			<distance>799.757150927</distance>
+			<mag>15.604</mag>
+		</star>
+		<multiplicity>3</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 864.02</id>
+		<stellarid>KOI 864</stellarid>
+		<properties>
+			<radius>0.164034</radius>
+			<mass>0.0105579271944</mass>
+			<orbit>
+				<period>20.050520</period>
+				<semimajoraxis>0.140</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6849310</kic>
+			<temperature>5337</temperature>
+			<mass>0.93</mass>
+			<radius>0.66</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 08 58</rightascension>
+			<declination>+19 08 58</declination>
+			<distance>799.757150927</distance>
+			<mag>15.604</mag>
+		</star>
+		<multiplicity>3</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 864.03</id>
+		<stellarid>KOI 864</stellarid>
+		<properties>
+			<radius>0.164034</radius>
+			<mass>0.0105579271944</mass>
+			<orbit>
+				<period>9.767420</period>
+				<semimajoraxis>0.087</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6849310</kic>
+			<temperature>5337</temperature>
+			<mass>0.93</mass>
+			<radius>0.66</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 08 58</rightascension>
+			<declination>+19 08 58</declination>
+			<distance>799.757150927</distance>
+			<mag>15.604</mag>
+		</star>
+		<multiplicity>3</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 865.01</id>
+		<stellarid>KOI 865</stellarid>
+		<properties>
+			<radius>0.54678</radius>
+			<mass>0.126098197356</mass>
+			<orbit>
+				<period>119.021300</period>
+				<semimajoraxis>0.470</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6862328</kic>
+			<temperature>5560</temperature>
+			<mass>1.00</mass>
+			<radius>0.73</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 26 20</rightascension>
+			<declination>+19 26 20</declination>
+			<distance>755.94854261</distance>
+			<mag>15.085</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 867.01</id>
+		<stellarid>KOI 867</stellarid>
+		<properties>
+			<radius>0.309842</radius>
+			<mass>0.039134867833</mass>
+			<orbit>
+				<period>16.085610</period>
+				<semimajoraxis>0.120</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6863998</kic>
+			<temperature>5059</temperature>
+			<mass>0.94</mass>
+			<radius>0.88</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 28 25</rightascension>
+			<declination>+19 28 25</declination>
+			<distance>802.475573432</distance>
+			<mag>15.219</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 868.01</id>
+		<stellarid>KOI 868</stellarid>
+		<properties>
+			<radius>1.139125</radius>
+			<mass>0.571941920237</mass>
+			<orbit>
+				<period>234.000000</period>
+				<semimajoraxis>0.630</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6867155</kic>
+			<temperature>4118</temperature>
+			<mass>0.61</mass>
+			<radius>0.71</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 32 01</rightascension>
+			<declination>+19 32 01</declination>
+			<distance>419.808109919</distance>
+			<mag>15.172</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 869.01</id>
+		<stellarid>KOI 869</stellarid>
+		<properties>
+			<radius>0.291616</radius>
+			<mass>0.0345403121181</mass>
+			<orbit>
+				<period>7.490000</period>
+				<semimajoraxis>0.074</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6948054</kic>
+			<temperature>5085</temperature>
+			<mass>0.96</mass>
+			<radius>0.96</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 26 33</rightascension>
+			<declination>+19 26 33</declination>
+			<distance>1053.59315</distance>
+			<mag>15.599</mag>
+		</star>
+		<multiplicity>2</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 869.02</id>
+		<stellarid>KOI 869</stellarid>
+		<properties>
+			<radius>0.391859</radius>
+			<mass>0.0634837131811</mass>
+			<orbit>
+				<period>36.291100</period>
+				<semimajoraxis>0.210</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6948054</kic>
+			<temperature>5085</temperature>
+			<mass>0.96</mass>
+			<radius>0.96</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 26 33</rightascension>
+			<declination>+19 26 33</declination>
+			<distance>1053.59315</distance>
+			<mag>15.599</mag>
+		</star>
+		<multiplicity>2</multiplicity>
+	</planet>
+	<planet>
 		<id>KOI 87.01</id>
 		<stellarid>KOI 87</stellarid>
 		<properties>
@@ -17728,6 +19990,656 @@
 			<declination>+19 16 52</declination>
 			<distance>248.330938021</distance>
 			<mag>11.664</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 870.01</id>
+		<stellarid>KOI 870</stellarid>
+		<properties>
+			<radius>0.328068</radius>
+			<mass>0.0440251104224</mass>
+			<orbit>
+				<period>5.912130</period>
+				<semimajoraxis>0.062</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6949607</kic>
+			<temperature>4590</temperature>
+			<mass>0.89</mass>
+			<radius>1.12</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 28 32</rightascension>
+			<declination>+19 28 32</declination>
+			<distance>772.793008889</distance>
+			<mag>15.036</mag>
+		</star>
+		<multiplicity>2</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 870.02</id>
+		<stellarid>KOI 870</stellarid>
+		<properties>
+			<radius>0.318955</radius>
+			<mass>0.0415429634678</mass>
+			<orbit>
+				<period>8.985970</period>
+				<semimajoraxis>0.081</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>6949607</kic>
+			<temperature>4590</temperature>
+			<mass>0.89</mass>
+			<radius>1.12</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 28 32</rightascension>
+			<declination>+19 28 32</declination>
+			<distance>772.793008889</distance>
+			<mag>15.036</mag>
+		</star>
+		<multiplicity>2</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 871.01</id>
+		<stellarid>KOI 871</stellarid>
+		<properties>
+			<radius>0.993317</radius>
+			<mass>0.431336180287</mass>
+			<orbit>
+				<period>12.940664</period>
+				<semimajoraxis>0.100</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7031517</kic>
+			<temperature>5650</temperature>
+			<mass>0.93</mass>
+			<radius>0.48</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 24 28</rightascension>
+			<declination>+19 24 28</declination>
+			<distance>544.951589712</distance>
+			<mag>15.215</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 872.01</id>
+		<stellarid>KOI 872</stellarid>
+		<properties>
+			<radius>0.674362</radius>
+			<mass>0.194238200076</mass>
+			<orbit>
+				<period>33.601670</period>
+				<semimajoraxis>0.200</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7109675</kic>
+			<temperature>5127</temperature>
+			<mass>0.94</mass>
+			<radius>0.81</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 17 04</rightascension>
+			<declination>+19 17 04</declination>
+			<distance>773.804844901</distance>
+			<mag>15.262</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 873.01</id>
+		<stellarid>KOI 873</stellarid>
+		<properties>
+			<radius>0.118469</radius>
+			<mass>0.00540058254095</mass>
+			<orbit>
+				<period>4.347610</period>
+				<semimajoraxis>0.051</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7118364</kic>
+			<temperature>5470</temperature>
+			<mass>0.96</mass>
+			<radius>0.66</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 27 51</rightascension>
+			<declination>+19 27 51</declination>
+			<distance>643.188660326</distance>
+			<mag>15.024</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 874.01</id>
+		<stellarid>KOI 874</stellarid>
+		<properties>
+			<radius>0.200486</radius>
+			<mass>0.0159627614981</mass>
+			<orbit>
+				<period>4.601803</period>
+				<semimajoraxis>0.053</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7134976</kic>
+			<temperature>5037</temperature>
+			<mass>0.93</mass>
+			<radius>0.84</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 45 56</rightascension>
+			<declination>+19 45 56</declination>
+			<distance>694.133458335</distance>
+			<mag>15.024</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 875.01</id>
+		<stellarid>KOI 875</stellarid>
+		<properties>
+			<radius>0.200486</radius>
+			<mass>0.0159627614981</mass>
+			<orbit>
+				<period>4.220936</period>
+				<semimajoraxis>0.042</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7135852</kic>
+			<temperature>4198</temperature>
+			<mass>0.54</mass>
+			<radius>0.45</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 46 46</rightascension>
+			<declination>+19 46 46</declination>
+			<distance>351.331567285</distance>
+			<mag>15.692</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 876.01</id>
+		<stellarid>KOI 876</stellarid>
+		<properties>
+			<radius>0.838396</radius>
+			<mass>0.304172695695</mass>
+			<orbit>
+				<period>6.998077</period>
+				<semimajoraxis>0.070</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7270230</kic>
+			<temperature>5417</temperature>
+			<mass>0.93</mass>
+			<radius>0.59</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 11 32</rightascension>
+			<declination>+19 11 32</declination>
+			<distance>835.198053751</distance>
+			<mag>15.877</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 877.01</id>
+		<stellarid>KOI 877</stellarid>
+		<properties>
+			<radius>0.227825</radius>
+			<mass>0.020771780287</mass>
+			<orbit>
+				<period>5.954870</period>
+				<semimajoraxis>0.055</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7287995</kic>
+			<temperature>4211</temperature>
+			<mass>0.62</mass>
+			<radius>0.68</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 34 32</rightascension>
+			<declination>+19 34 32</declination>
+			<distance>391.831355307</distance>
+			<mag>15.019</mag>
+		</star>
+		<multiplicity>2</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 877.02</id>
+		<stellarid>KOI 877</stellarid>
+		<properties>
+			<radius>0.209599</radius>
+			<mass>0.0174934973898</mass>
+			<orbit>
+				<period>12.039570</period>
+				<semimajoraxis>0.088</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7287995</kic>
+			<temperature>4211</temperature>
+			<mass>0.62</mass>
+			<radius>0.68</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 34 32</rightascension>
+			<declination>+19 34 32</declination>
+			<distance>391.831355307</distance>
+			<mag>15.019</mag>
+		</star>
+		<multiplicity>2</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 878.01</id>
+		<stellarid>KOI 878</stellarid>
+		<properties>
+			<radius>0.473876</radius>
+			<mass>0.0939040212032</mass>
+			<orbit>
+				<period>23.588790</period>
+				<semimajoraxis>0.160</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7303253</kic>
+			<temperature>4749</temperature>
+			<mass>0.94</mass>
+			<radius>1.16</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 49 50</rightascension>
+			<declination>+19 49 50</declination>
+			<distance>974.725031644</distance>
+			<mag>15.316</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 880.01</id>
+		<stellarid>KOI 880</stellarid>
+		<properties>
+			<radius>0.446537</radius>
+			<mass>0.0830847327401</mass>
+			<orbit>
+				<period>26.443020</period>
+				<semimajoraxis>0.180</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7366258</kic>
+			<temperature>5512</temperature>
+			<mass>1.03</mass>
+			<radius>0.96</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 31 29</rightascension>
+			<declination>+19 31 29</declination>
+			<distance>1010.43746741</distance>
+			<mag>15.158</mag>
+		</star>
+		<multiplicity>4</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 880.02</id>
+		<stellarid>KOI 880</stellarid>
+		<properties>
+			<radius>0.528554</radius>
+			<mass>0.117592322805</mass>
+			<orbit>
+				<period>51.529910</period>
+				<semimajoraxis>0.270</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7366258</kic>
+			<temperature>5512</temperature>
+			<mass>1.03</mass>
+			<radius>0.96</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 31 29</rightascension>
+			<declination>+19 31 29</declination>
+			<distance>1010.43746741</distance>
+			<mag>15.158</mag>
+		</star>
+		<multiplicity>4</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 880.03</id>
+		<stellarid>KOI 880</stellarid>
+		<properties>
+			<radius>0.255164</radius>
+			<mass>0.0262338992853</mass>
+			<orbit>
+				<period>5.902243</period>
+				<semimajoraxis>0.065</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7366258</kic>
+			<temperature>5512</temperature>
+			<mass>1.03</mass>
+			<radius>0.96</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 31 29</rightascension>
+			<declination>+19 31 29</declination>
+			<distance>1010.43746741</distance>
+			<mag>15.158</mag>
+		</star>
+		<multiplicity>4</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 880.04</id>
+		<stellarid>KOI 880</stellarid>
+		<properties>
+			<radius>0.18226</radius>
+			<mass>0.0131171381755</mass>
+			<orbit>
+				<period>2.382948</period>
+				<semimajoraxis>0.035</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7366258</kic>
+			<temperature>5512</temperature>
+			<mass>1.03</mass>
+			<radius>0.96</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 31 29</rightascension>
+			<declination>+19 31 29</declination>
+			<distance>1010.43746741</distance>
+			<mag>15.158</mag>
+		</star>
+		<multiplicity>4</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 881.01</id>
+		<stellarid>KOI 881</stellarid>
+		<properties>
+			<radius>0.227825</radius>
+			<mass>0.020771780287</mass>
+			<orbit>
+				<period>21.021470</period>
+				<semimajoraxis>0.140</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7373451</kic>
+			<temperature>5053</temperature>
+			<mass>0.86</mass>
+			<radius>0.60</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 39 38</rightascension>
+			<declination>+19 39 38</declination>
+			<distance>732.942048533</distance>
+			<mag>15.859</mag>
+		</star>
+		<multiplicity>2</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 881.02</id>
+		<stellarid>KOI 881</stellarid>
+		<properties>
+			<radius>0.355407</radius>
+			<mass>0.05191709609</mass>
+			<orbit>
+				<period>226.891600</period>
+				<semimajoraxis>0.690</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7373451</kic>
+			<temperature>5053</temperature>
+			<mass>0.86</mass>
+			<radius>0.60</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 39 38</rightascension>
+			<declination>+19 39 38</declination>
+			<distance>732.942048533</distance>
+			<mag>15.859</mag>
+		</star>
+		<multiplicity>2</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 882.01</id>
+		<stellarid>KOI 882</stellarid>
+		<properties>
+			<radius>1.239368</radius>
+			<mass>0.680467603432</mass>
+			<orbit>
+				<period>1.956810</period>
+				<semimajoraxis>0.030</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7377033</kic>
+			<temperature>5081</temperature>
+			<mass>0.93</mass>
+			<radius>0.83</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 43 20</rightascension>
+			<declination>+19 43 20</declination>
+			<distance>882.25935689</distance>
+			<mag>15.533</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 883.01</id>
+		<stellarid>KOI 883</stellarid>
+		<properties>
+			<radius>0.9113</radius>
+			<mass>0.361174684714</mass>
+			<orbit>
+				<period>2.688900</period>
+				<semimajoraxis>0.034</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7380537</kic>
+			<temperature>4674</temperature>
+			<mass>0.73</mass>
+			<radius>0.55</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 46 43</rightascension>
+			<declination>+19 46 43</declination>
+			<distance>550.756836121</distance>
+			<mag>15.766</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 884.01</id>
+		<stellarid>KOI 884</stellarid>
+		<properties>
+			<radius>0.27339</radius>
+			<mass>0.0302403690587</mass>
+			<orbit>
+				<period>9.439536</period>
+				<semimajoraxis>0.082</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7434875</kic>
+			<temperature>4931</temperature>
+			<mass>0.81</mass>
+			<radius>0.55</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 14 34</rightascension>
+			<declination>+19 14 34</declination>
+			<distance>444.275623838</distance>
+			<mag>15.067</mag>
+		</star>
+		<multiplicity>3</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 884.02</id>
+		<stellarid>KOI 884</stellarid>
+		<properties>
+			<radius>0.246051</radius>
+			<mass>0.0243403409022</mass>
+			<orbit>
+				<period>20.476870</period>
+				<semimajoraxis>0.140</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7434875</kic>
+			<temperature>4931</temperature>
+			<mass>0.81</mass>
+			<radius>0.55</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 14 34</rightascension>
+			<declination>+19 14 34</declination>
+			<distance>444.275623838</distance>
+			<mag>15.067</mag>
+		</star>
+		<multiplicity>3</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 884.03</id>
+		<stellarid>KOI 884</stellarid>
+		<properties>
+			<radius>0.109356</radius>
+			<mass>0.00457963292667</mass>
+			<orbit>
+				<period>3.336241</period>
+				<semimajoraxis>0.041</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7434875</kic>
+			<temperature>4931</temperature>
+			<mass>0.81</mass>
+			<radius>0.55</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 14 34</rightascension>
+			<declination>+19 14 34</declination>
+			<distance>444.275623838</distance>
+			<mag>15.067</mag>
+		</star>
+		<multiplicity>3</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 886.01</id>
+		<stellarid>KOI 886</stellarid>
+		<properties>
+			<radius>0.18226</radius>
+			<mass>0.0131171381755</mass>
+			<orbit>
+				<period>8.012810</period>
+				<semimajoraxis>0.059</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7455287</kic>
+			<temperature>3705</temperature>
+			<mass>0.44</mass>
+			<radius>0.53</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 39 05</rightascension>
+			<declination>+19 39 05</declination>
+			<distance>346.156176394</distance>
+			<mag>15.847</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 887.01</id>
+		<stellarid>KOI 887</stellarid>
+		<properties>
+			<radius>0.209599</radius>
+			<mass>0.0174934973898</mass>
+			<orbit>
+				<period>7.411210</period>
+				<semimajoraxis>0.075</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7458762</kic>
+			<temperature>5601</temperature>
+			<mass>1.04</mass>
+			<radius>0.92</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 42 36</rightascension>
+			<declination>+19 42 36</declination>
+			<distance>943.058781593</distance>
+			<mag>15.031</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 889.01</id>
+		<stellarid>KOI 889</stellarid>
+		<properties>
+			<radius>1.066221</radius>
+			<mass>0.499091504663</mass>
+			<orbit>
+				<period>8.884903</period>
+				<semimajoraxis>0.083</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>757450</kic>
+			<temperature>5101</temperature>
+			<mass>0.96</mass>
+			<radius>0.93</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 24 33</rightascension>
+			<declination>+19 24 33</declination>
+			<distance>880.264902924</distance>
+			<mag>15.264</mag>
 		</star>
 		<multiplicity>1</multiplicity>
 	</planet>
@@ -17784,6 +20696,890 @@
 		<multiplicity>2</multiplicity>
 	</planet>
 	<planet>
+		<id>KOI 890.01</id>
+		<stellarid>KOI 890</stellarid>
+		<properties>
+			<radius>0.692588</radius>
+			<mass>0.205207534473</mass>
+			<orbit>
+				<period>8.098880</period>
+				<semimajoraxis>0.081</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7585481</kic>
+			<temperature>5976</temperature>
+			<mass>1.07</mass>
+			<radius>0.90</radius>
+			<metallicity>0</metallicity>
+			<rightascension>18 50 47</rightascension>
+			<declination>+18 50 47</declination>
+			<distance>1167.57147955</distance>
+			<mag>15.261</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 891.01</id>
+		<stellarid>KOI 891</stellarid>
+		<properties>
+			<radius>0.246051</radius>
+			<mass>0.0243403409022</mass>
+			<orbit>
+				<period>10.006340</period>
+				<semimajoraxis>0.093</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7663691</kic>
+			<temperature>5851</temperature>
+			<mass>1.06</mass>
+			<radius>0.86</radius>
+			<metallicity>0</metallicity>
+			<rightascension>18 54 31</rightascension>
+			<declination>+18 54 31</declination>
+			<distance>976.289094872</distance>
+			<mag>15.063</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 892.01</id>
+		<stellarid>KOI 892</stellarid>
+		<properties>
+			<radius>0.255164</radius>
+			<mass>0.0262338992853</mass>
+			<orbit>
+				<period>10.371760</period>
+				<semimajoraxis>0.090</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7678434</kic>
+			<temperature>5010</temperature>
+			<mass>0.91</mass>
+			<radius>0.79</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 21 34</rightascension>
+			<declination>+19 21 34</declination>
+			<distance>698.107548284</distance>
+			<mag>15.193</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 893.01</id>
+		<stellarid>KOI 893</stellarid>
+		<properties>
+			<radius>0.236938</radius>
+			<mass>0.0225196895502</mass>
+			<orbit>
+				<period>4.408450</period>
+				<semimajoraxis>0.054</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7685981</kic>
+			<temperature>5729</temperature>
+			<mass>1.07</mass>
+			<radius>1.01</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 31 51</rightascension>
+			<declination>+19 31 51</declination>
+			<distance>1448.43432806</distance>
+			<mag>15.662</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 895.01</id>
+		<stellarid>KOI 895</stellarid>
+		<properties>
+			<radius>1.166464</radius>
+			<mass>0.600578581461</mass>
+			<orbit>
+				<period>4.409394</period>
+				<semimajoraxis>0.053</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7767559</kic>
+			<temperature>5436</temperature>
+			<mass>1.04</mass>
+			<radius>1.10</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 45 38</rightascension>
+			<declination>+19 45 38</declination>
+			<distance>1260.58278545</distance>
+			<mag>15.403</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 896.01</id>
+		<stellarid>KOI 896</stellarid>
+		<properties>
+			<radius>0.355407</radius>
+			<mass>0.05191709609</mass>
+			<orbit>
+				<period>16.239800</period>
+				<semimajoraxis>0.120</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7825899</kic>
+			<temperature>5206</temperature>
+			<mass>0.94</mass>
+			<radius>0.78</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 32 14</rightascension>
+			<declination>+19 32 14</declination>
+			<distance>766.871717357</distance>
+			<mag>15.258</mag>
+		</star>
+		<multiplicity>2</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 896.02</id>
+		<stellarid>KOI 896</stellarid>
+		<properties>
+			<radius>0.255164</radius>
+			<mass>0.0262338992853</mass>
+			<orbit>
+				<period>6.308146</period>
+				<semimajoraxis>0.066</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7825899</kic>
+			<temperature>5206</temperature>
+			<mass>0.94</mass>
+			<radius>0.78</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 32 14</rightascension>
+			<declination>+19 32 14</declination>
+			<distance>766.871717357</distance>
+			<mag>15.258</mag>
+		</star>
+		<multiplicity>2</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 897.01</id>
+		<stellarid>KOI 897</stellarid>
+		<properties>
+			<radius>1.09356</radius>
+			<mass>0.525812212988</mass>
+			<orbit>
+				<period>2.052350</period>
+				<semimajoraxis>0.032</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7849854</kic>
+			<temperature>5734</temperature>
+			<mass>1.07</mass>
+			<radius>1.01</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 58 14</rightascension>
+			<declination>+19 58 14</declination>
+			<distance>1204.08332444</distance>
+			<mag>15.257</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 898.01</id>
+		<stellarid>KOI 898</stellarid>
+		<properties>
+			<radius>0.27339</radius>
+			<mass>0.0302403690587</mass>
+			<orbit>
+				<period>9.770590</period>
+				<semimajoraxis>0.074</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7870390</kic>
+			<temperature>4051</temperature>
+			<mass>0.57</mass>
+			<radius>0.68</radius>
+			<metallicity>0</metallicity>
+			<rightascension>18 48 55</rightascension>
+			<declination>+18 48 55</declination>
+			<distance>514.106612544</distance>
+			<mag>15.777</mag>
+		</star>
+		<multiplicity>3</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 898.02</id>
+		<stellarid>KOI 898</stellarid>
+		<properties>
+			<radius>0.218712</radius>
+			<mass>0.0190964420931</mass>
+			<orbit>
+				<period>5.169910</period>
+				<semimajoraxis>0.049</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7870390</kic>
+			<temperature>4051</temperature>
+			<mass>0.57</mass>
+			<radius>0.68</radius>
+			<metallicity>0</metallicity>
+			<rightascension>18 48 55</rightascension>
+			<declination>+18 48 55</declination>
+			<distance>514.106612544</distance>
+			<mag>15.777</mag>
+		</star>
+		<multiplicity>3</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 898.03</id>
+		<stellarid>KOI 898</stellarid>
+		<properties>
+			<radius>0.227825</radius>
+			<mass>0.020771780287</mass>
+			<orbit>
+				<period>20.089230</period>
+				<semimajoraxis>0.120</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7870390</kic>
+			<temperature>4051</temperature>
+			<mass>0.57</mass>
+			<radius>0.68</radius>
+			<metallicity>0</metallicity>
+			<rightascension>18 48 55</rightascension>
+			<declination>+18 48 55</declination>
+			<distance>514.106612544</distance>
+			<mag>15.777</mag>
+		</star>
+		<multiplicity>3</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 899.01</id>
+		<stellarid>KOI 899</stellarid>
+		<properties>
+			<radius>0.154921</radius>
+			<mass>0.00938516863169</mass>
+			<orbit>
+				<period>7.113880</period>
+				<semimajoraxis>0.055</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7907423</kic>
+			<temperature>3653</temperature>
+			<mass>0.43</mass>
+			<radius>0.55</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 47 56</rightascension>
+			<declination>+19 47 56</declination>
+			<distance>263.318774219</distance>
+			<mag>15.234</mag>
+		</star>
+		<multiplicity>3</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 899.02</id>
+		<stellarid>KOI 899</stellarid>
+		<properties>
+			<radius>0.118469</radius>
+			<mass>0.00540058254095</mass>
+			<orbit>
+				<period>3.306569</period>
+				<semimajoraxis>0.033</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7907423</kic>
+			<temperature>3653</temperature>
+			<mass>0.43</mass>
+			<radius>0.55</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 47 56</rightascension>
+			<declination>+19 47 56</declination>
+			<distance>263.318774219</distance>
+			<mag>15.234</mag>
+		</star>
+		<multiplicity>3</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 899.03</id>
+		<stellarid>KOI 899</stellarid>
+		<properties>
+			<radius>0.154921</radius>
+			<mass>0.00938516863169</mass>
+			<orbit>
+				<period>15.368130</period>
+				<semimajoraxis>0.091</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7907423</kic>
+			<temperature>3653</temperature>
+			<mass>0.43</mass>
+			<radius>0.55</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 47 56</rightascension>
+			<declination>+19 47 56</declination>
+			<distance>263.318774219</distance>
+			<mag>15.234</mag>
+		</star>
+		<multiplicity>3</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 900.01</id>
+		<stellarid>KOI 900</stellarid>
+		<properties>
+			<radius>0.391859</radius>
+			<mass>0.0634837131811</mass>
+			<orbit>
+				<period>13.810010</period>
+				<semimajoraxis>0.120</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>7938496</kic>
+			<temperature>5692</temperature>
+			<mass>1.09</mass>
+			<radius>1.17</radius>
+			<metallicity>0</metallicity>
+			<rightascension>18 47 50</rightascension>
+			<declination>+18 47 50</declination>
+			<distance>1485.0307119</distance>
+			<mag>15.425</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 901.01</id>
+		<stellarid>KOI 901</stellarid>
+		<properties>
+			<radius>0.400972</radius>
+			<mass>0.0665625292411</mass>
+			<orbit>
+				<period>12.732557</period>
+				<semimajoraxis>0.089</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>8013419</kic>
+			<temperature>4213</temperature>
+			<mass>0.58</mass>
+			<radius>0.55</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 00 40</rightascension>
+			<declination>+19 00 40</declination>
+			<distance>444.186544495</distance>
+			<mag>15.75</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 902.01</id>
+		<stellarid>KOI 902</stellarid>
+		<properties>
+			<radius>0.519441</radius>
+			<mass>0.113453919748</mass>
+			<orbit>
+				<period>83.904200</period>
+				<semimajoraxis>0.320</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>8018547</kic>
+			<temperature>4312</temperature>
+			<mass>0.64</mass>
+			<radius>0.65</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 11 24</rightascension>
+			<declination>+19 11 24</declination>
+			<distance>550.922680432</distance>
+			<mag>15.754</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 903.01</id>
+		<stellarid>KOI 903</stellarid>
+		<properties>
+			<radius>0.510328</radius>
+			<mass>0.109391767113</mass>
+			<orbit>
+				<period>5.007341</period>
+				<semimajoraxis>0.057</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>8039892</kic>
+			<temperature>5620</temperature>
+			<mass>0.99</mass>
+			<radius>0.68</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 42 08</rightascension>
+			<declination>+19 42 08</declination>
+			<distance>1006.00776909</distance>
+			<mag>15.813</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 904.01</id>
+		<stellarid>KOI 904</stellarid>
+		<properties>
+			<radius>0.191373</radius>
+			<mass>0.0145040420267</mass>
+			<orbit>
+				<period>2.211073</period>
+				<semimajoraxis>0.029</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>8150320</kic>
+			<temperature>4362</temperature>
+			<mass>0.69</mass>
+			<radius>0.72</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 00 40</rightascension>
+			<declination>+19 00 40</declination>
+			<distance>635.219190083</distance>
+			<mag>15.791</mag>
+		</star>
+		<multiplicity>2</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 904.02</id>
+		<stellarid>KOI 904</stellarid>
+		<properties>
+			<radius>0.27339</radius>
+			<mass>0.0302403690587</mass>
+			<orbit>
+				<period>27.938860</period>
+				<semimajoraxis>0.160</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>8150320</kic>
+			<temperature>4362</temperature>
+			<mass>0.69</mass>
+			<radius>0.72</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 00 40</rightascension>
+			<declination>+19 00 40</declination>
+			<distance>635.219190083</distance>
+			<mag>15.791</mag>
+		</star>
+		<multiplicity>2</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 905.01</id>
+		<stellarid>KOI 905</stellarid>
+		<properties>
+			<radius>0.18226</radius>
+			<mass>0.0131171381755</mass>
+			<orbit>
+				<period>5.795111</period>
+				<semimajoraxis>0.062</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>8180063</kic>
+			<temperature>5668</temperature>
+			<mass>0.94</mass>
+			<radius>0.48</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 46 01</rightascension>
+			<declination>+19 46 01</declination>
+			<distance>567.440998879</distance>
+			<mag>15.289</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 906.01</id>
+		<stellarid>KOI 906</stellarid>
+		<properties>
+			<radius>0.255164</radius>
+			<mass>0.0262338992853</mass>
+			<orbit>
+				<period>7.156840</period>
+				<semimajoraxis>0.071</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>8226994</kic>
+			<temperature>5017</temperature>
+			<mass>0.92</mass>
+			<radius>0.84</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 18 22</rightascension>
+			<declination>+19 18 22</declination>
+			<distance>841.758051075</distance>
+			<mag>15.46</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 907.01</id>
+		<stellarid>KOI 907</stellarid>
+		<properties>
+			<radius>0.318955</radius>
+			<mass>0.0415429634678</mass>
+			<orbit>
+				<period>16.513850</period>
+				<semimajoraxis>0.130</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>8247638</kic>
+			<temperature>5634</temperature>
+			<mass>1.08</mass>
+			<radius>1.15</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 46 15</rightascension>
+			<declination>+19 46 15</declination>
+			<distance>1303.02070428</distance>
+			<mag>15.223</mag>
+		</star>
+		<multiplicity>3</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 907.02</id>
+		<stellarid>KOI 907</stellarid>
+		<properties>
+			<radius>0.309842</radius>
+			<mass>0.039134867833</mass>
+			<orbit>
+				<period>30.132400</period>
+				<semimajoraxis>0.190</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>8247638</kic>
+			<temperature>5634</temperature>
+			<mass>1.08</mass>
+			<radius>1.15</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 46 15</rightascension>
+			<declination>+19 46 15</declination>
+			<distance>1303.02070428</distance>
+			<mag>15.223</mag>
+		</star>
+		<multiplicity>3</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 907.03</id>
+		<stellarid>KOI 907</stellarid>
+		<properties>
+			<radius>0.191373</radius>
+			<mass>0.0145040420267</mass>
+			<orbit>
+				<period>4.790850</period>
+				<semimajoraxis>0.057</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>8247638</kic>
+			<temperature>5634</temperature>
+			<mass>1.08</mass>
+			<radius>1.15</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 46 15</rightascension>
+			<declination>+19 46 15</declination>
+			<distance>1303.02070428</distance>
+			<mag>15.223</mag>
+		</star>
+		<multiplicity>3</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 908.01</id>
+		<stellarid>KOI 908</stellarid>
+		<properties>
+			<radius>1.038882</radius>
+			<mass>0.473087307082</mass>
+			<orbit>
+				<period>4.708326</period>
+				<semimajoraxis>0.056</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>8255887</kic>
+			<temperature>5391</temperature>
+			<mass>1.07</mass>
+			<radius>1.29</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 54 32</rightascension>
+			<declination>+19 54 32</declination>
+			<distance>1272.17883132</distance>
+			<mag>15.113</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 910.01</id>
+		<stellarid>KOI 910</stellarid>
+		<properties>
+			<radius>0.173147</radius>
+			<mass>0.0118018399398</mass>
+			<orbit>
+				<period>5.392096</period>
+				<semimajoraxis>0.057</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>8414716</kic>
+			<temperature>5017</temperature>
+			<mass>0.84</mass>
+			<radius>0.56</radius>
+			<metallicity>0</metallicity>
+			<rightascension>18 57 43</rightascension>
+			<declination>+18 57 43</declination>
+			<distance>612.767918737</distance>
+			<mag>15.651</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 911.01</id>
+		<stellarid>KOI 911</stellarid>
+		<properties>
+			<radius>0.154921</radius>
+			<mass>0.00938516863169</mass>
+			<orbit>
+				<period>4.093609</period>
+				<semimajoraxis>0.050</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>8490993</kic>
+			<temperature>5820</temperature>
+			<mass>1.02</mass>
+			<radius>0.68</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 21 03</rightascension>
+			<declination>+19 21 03</declination>
+			<distance>891.609470492</distance>
+			<mag>15.399</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 912.01</id>
+		<stellarid>KOI 912</stellarid>
+		<properties>
+			<radius>0.236938</radius>
+			<mass>0.0225196895502</mass>
+			<orbit>
+				<period>10.848470</period>
+				<semimajoraxis>0.081</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>8505670</kic>
+			<temperature>4214</temperature>
+			<mass>0.60</mass>
+			<radius>0.64</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 42 19</rightascension>
+			<declination>+19 42 19</declination>
+			<distance>376.000850547</distance>
+			<mag>15.058</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 913.01</id>
+		<stellarid>KOI 913</stellarid>
+		<properties>
+			<radius>0.829283</radius>
+			<mass>0.297401100005</mass>
+			<orbit>
+				<period>4.082276</period>
+				<semimajoraxis>0.049</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>8544996</kic>
+			<temperature>5463</temperature>
+			<mass>0.97</mass>
+			<radius>0.69</radius>
+			<metallicity>0</metallicity>
+			<rightascension>18 59 19</rightascension>
+			<declination>+18 59 19</declination>
+			<distance>726.66004696</distance>
+			<mag>15.198</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 914.01</id>
+		<stellarid>KOI 914</stellarid>
+		<properties>
+			<radius>0.109356</radius>
+			<mass>0.00457963292667</mass>
+			<orbit>
+				<period>3.886670</period>
+				<semimajoraxis>0.047</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>8552202</kic>
+			<temperature>5479</temperature>
+			<mass>0.92</mass>
+			<radius>0.52</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 14 54</rightascension>
+			<declination>+19 14 54</declination>
+			<distance>596.520997369</distance>
+			<mag>15.371</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 916.01</id>
+		<stellarid>KOI 916</stellarid>
+		<properties>
+			<radius>0.355407</radius>
+			<mass>0.05191709609</mass>
+			<orbit>
+				<period>3.314908</period>
+				<semimajoraxis>0.044</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>8628973</kic>
+			<temperature>5401</temperature>
+			<mass>1.01</mass>
+			<radius>0.96</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 33 49</rightascension>
+			<declination>+19 33 49</declination>
+			<distance>963.029028927</distance>
+			<mag>15.142</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 917.01</id>
+		<stellarid>KOI 917</stellarid>
+		<properties>
+			<radius>0.291616</radius>
+			<mass>0.0345403121181</mass>
+			<orbit>
+				<period>6.719720</period>
+				<semimajoraxis>0.071</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>8655354</kic>
+			<temperature>5681</temperature>
+			<mass>1.06</mass>
+			<radius>0.98</radius>
+			<metallicity>0</metallicity>
+			<rightascension>20 04 11</rightascension>
+			<declination>+20 04 11</declination>
+			<distance>1102.79666751</distance>
+			<mag>15.172</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 918.01</id>
+		<stellarid>KOI 918</stellarid>
+		<properties>
+			<radius>0.965978</radius>
+			<mass>0.407237145651</mass>
+			<orbit>
+				<period>39.645520</period>
+				<semimajoraxis>0.230</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>8672910</kic>
+			<temperature>5321</temperature>
+			<mass>0.99</mass>
+			<radius>0.88</radius>
+			<metallicity>0</metallicity>
+			<rightascension>18 55 54</rightascension>
+			<declination>+18 55 54</declination>
+			<distance>806.657137333</distance>
+			<mag>15.011</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
 		<id>KOI 92.01</id>
 		<stellarid>KOI 92</stellarid>
 		<properties>
@@ -17806,6 +21602,32 @@
 			<declination>+18 53 29</declination>
 			<distance>299.296796271</distance>
 			<mag>11.667</mag>
+		</star>
+		<multiplicity>1</multiplicity>
+	</planet>
+	<planet>
+		<id>KOI 920.01</id>
+		<stellarid>KOI 920</stellarid>
+		<properties>
+			<radius>0.173147</radius>
+			<mass>0.0118018399398</mass>
+			<orbit>
+				<period>21.805870</period>
+				<semimajoraxis>0.150</semimajoraxis>
+				<eccentricity>-1</eccentricity>
+				<inclination>-1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<kic>8689031</kic>
+			<temperature>5330</temperature>
+			<mass>0.91</mass>
+			<radius>0.59</radius>
+			<metallicity>0</metallicity>
+			<rightascension>19 26 52</rightascension>
+			<declination>+19 26 52</declination>
+			<distance>556.834609406</distance>
+			<mag>15.067</mag>
 		</star>
 		<multiplicity>1</multiplicity>
 	</planet>
