@@ -44,6 +44,40 @@
 			<point error="1" time="824.777" value="0.0007" />
 		</data>
 	</curve>
+	<curve id="UID_0085523_PLC_002.tbl" type="2">
+		<type>Transit Light Curve</type>
+		<reference>Bonfils et al. 2007 (A&amp;A, 474, 293)</reference>
+		<bibcodes>2007A&amp;A...474..293B</bibcodes>
+		<observatory>ESO La Silla, Chile</observatory>
+		<telescope>1.2m Euler Swiss telescope</telescope>
+		<xaxis>BJD</xaxis>
+		<yaxis>Relative Flux</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>mag</yaxisunits>
+		<data mintime="2453981.55615">
+			<point error="1" time="0.0" value="0.00025" />
+			<point error="1" time="0.937990000006" value="0.00039" />
+			<point error="1" time="11.9506899999" value="0.00050" />
+			<point error="1" time="12.9482399998" value="0.00067" />
+			<point error="1" time="13.9445799999" value="0.00036" />
+			<point error="1" time="14.93628" value="0.00035" />
+			<point error="1" time="16.9487299998" value="0.00047" />
+			<point error="1" time="17.9519099998" value="0.00057" />
+			<point error="1" time="19.9526399998" value="0.00060" />
+			<point error="1" time="20.9484899999" value="0.00056" />
+			<point error="1" time="21.9755899999" value="0.00034" />
+			<point error="1" time="22.9501999998" value="0.00059" />
+			<point error="1" time="23.9497099998" value="0.00030" />
+			<point error="1" time="27.0505399997" value="0.00117" />
+			<point error="1" time="28.0551800001" value="0.00130" />
+			<point error="1" time="29.9506899999" value="0.00072" />
+			<point error="1" time="42.9602099997" value="0.00052" />
+			<point error="1" time="43.9985400001" value="0.00149" />
+			<point error="1" time="44.93726" value="0.00056" />
+			<point error="1" time="45.9411599999" value="0.00065" />
+			<point error="1" time="46.93897" value="0.00043" />
+		</data>
+	</curve>
 	<curve id="UID_0085523_PLC_001.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>The Hipparcos and Tycho Catalogues, Vol 1, Pt 2.5, Hipparcos Epoch Photometry Annex (and Extension), pp 215 ff, http://www.rssd.esa.int/SA/HIPPARCOS/docs/vol1_all.pdf</reference>
@@ -156,40 +190,6 @@
 			<point error="2" time="902.74288" value="0.027" />
 			<point error="0" time="902.81742" value="0.024" />
 			<point error="0" time="902.83177" value="0.022" />
-		</data>
-	</curve>
-	<curve id="UID_0085523_PLC_002.tbl" type="2">
-		<type>Transit Light Curve</type>
-		<reference>Bonfils et al. 2007 (A&amp;A, 474, 293)</reference>
-		<bibcodes>2007A&amp;A...474..293B</bibcodes>
-		<observatory>ESO La Silla, Chile</observatory>
-		<telescope>1.2m Euler Swiss telescope</telescope>
-		<xaxis>BJD</xaxis>
-		<yaxis>Relative Flux</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>mag</yaxisunits>
-		<data mintime="2453981.55615">
-			<point error="1" time="0.0" value="0.00025" />
-			<point error="1" time="0.937990000006" value="0.00039" />
-			<point error="1" time="11.9506899999" value="0.00050" />
-			<point error="1" time="12.9482399998" value="0.00067" />
-			<point error="1" time="13.9445799999" value="0.00036" />
-			<point error="1" time="14.93628" value="0.00035" />
-			<point error="1" time="16.9487299998" value="0.00047" />
-			<point error="1" time="17.9519099998" value="0.00057" />
-			<point error="1" time="19.9526399998" value="0.00060" />
-			<point error="1" time="20.9484899999" value="0.00056" />
-			<point error="1" time="21.9755899999" value="0.00034" />
-			<point error="1" time="22.9501999998" value="0.00059" />
-			<point error="1" time="23.9497099998" value="0.00030" />
-			<point error="1" time="27.0505399997" value="0.00117" />
-			<point error="1" time="28.0551800001" value="0.00130" />
-			<point error="1" time="29.9506899999" value="0.00072" />
-			<point error="1" time="42.9602099997" value="0.00052" />
-			<point error="1" time="43.9985400001" value="0.00149" />
-			<point error="1" time="44.93726" value="0.00056" />
-			<point error="1" time="45.9411599999" value="0.00065" />
-			<point error="1" time="46.93897" value="0.00043" />
 		</data>
 	</curve>
 </planet>
