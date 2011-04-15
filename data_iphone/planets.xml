@@ -22647,13 +22647,13 @@
 		<id>WASP-35 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>2.3</mass>
-			<radius>1.5</radius>
+			<mass>0.72</mass>
+			<radius>1.32</radius>
 			<orbit>
-				<period>1.5</period>
-				<semimajoraxis />
-				<eccentricity />
-				<inclination />
+				<period>3.161575</period>
+				<semimajoraxis>0.04317</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>87.96</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -22673,7 +22673,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/02/07</lastupdate>
+		<lastupdate>11/04/15</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -22917,6 +22917,82 @@
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>WASP-43 b</id_exoplaneteu>
+		<name>WASP-43 b</name>
+		<id>WASP-43 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.78</mass>
+			<radius>0.93</radius>
+			<orbit>
+				<period>0.813475</period>
+				<semimajoraxis>0.0142</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>82.6</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K7V</spectraltype>
+			<mass>0.58</mass>
+			<radius>0.93</radius>
+			<metallicity>-0.05</metallicity>
+			<rightascension>10 19 38</rightascension>
+			<declination>-09 48 23</declination>
+			<angulardistance />
+			<distance />
+			<magV>12.4</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/04/15</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-48 b</id_exoplaneteu>
+		<name>WASP-48 b</name>
+		<id>WASP-48 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.98</mass>
+			<radius>1.67</radius>
+			<orbit>
+				<period>2.143634</period>
+				<semimajoraxis>0.03444</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>80.09</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.09</mass>
+			<radius>1.09</radius>
+			<metallicity>-0.15</metallicity>
+			<rightascension>19 24 39</rightascension>
+			<declination>+55 28 23</declination>
+			<angulardistance />
+			<distance />
+			<magV>11.06</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/04/15</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>WASP-5 b</id_exoplaneteu>
 		<name>WASP-5 b</name>
 		<id>WASP-5 b</id>
@@ -22950,6 +23026,44 @@
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2007</discoveryyear>
 		<lastupdate>10/11/29</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-51 b</id_exoplaneteu>
+		<name>WASP-51 b</name>
+		<id>WASP-51 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.76</mass>
+			<radius>1.42</radius>
+			<orbit>
+				<period>2.810603</period>
+				<semimajoraxis>0.04118</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>82.48</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.2</mass>
+			<radius>1.28</radius>
+			<metallicity>-0.08</metallicity>
+			<rightascension>08 15 48</rightascension>
+			<declination>005 50 12</declination>
+			<angulardistance />
+			<distance />
+			<magV>10.36</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/04/15</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
