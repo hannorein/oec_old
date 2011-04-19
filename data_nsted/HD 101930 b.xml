@@ -1,4 +1,33 @@
 <planet id="HD 101930">
+	<curve id="UID_0057172_RVC_001.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Lovis et al. 2005 (A&amp;A, 437, 1121)</reference>
+		<bibcodes>2005A&amp;A...437.1121L</bibcodes>
+		<observatory>ESO La Silla, Chile</observatory>
+		<telescope>3.6m</telescope>
+		<xaxis>BJD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2453038.78552">
+			<point error="1" time="0.0" value="0.0014" />
+			<point error="1" time="15.1052299999" value="0.0014" />
+			<point error="1" time="17.0526399999" value="0.0013" />
+			<point error="1" time="106.79664" value="0.0010" />
+			<point error="1" time="108.77368" value="0.0009" />
+			<point error="1" time="111.88278" value="0.0009" />
+			<point error="1" time="115.79886" value="0.0010" />
+			<point error="1" time="120.76155" value="0.0009" />
+			<point error="1" time="162.68514" value="0.0009" />
+			<point error="1" time="164.6876" value="0.0009" />
+			<point error="1" time="167.68239" value="0.0009" />
+			<point error="1" time="178.73039" value="0.0009" />
+			<point error="1" time="179.72538" value="0.0009" />
+			<point error="1" time="272.08242" value="0.0009" />
+			<point error="1" time="306.07595" value="0.0009" />
+			<point error="1" time="362.03377" value="0.0010" />
+		</data>
+	</curve>
 	<curve id="UID_0057172_PLC_001.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>The Hipparcos and Tycho Catalogues, Vol 1, Pt 2.5, Hipparcos Epoch Photometry Annex (and Extension), pp 215 ff, http://www.rssd.esa.int/SA/HIPPARCOS/docs/vol1_all.pdf</reference>
