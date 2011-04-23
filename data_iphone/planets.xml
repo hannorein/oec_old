@@ -18551,6 +18551,54 @@
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>HN Peg b</id_exoplaneteu>
+		<name>HN Peg b</name>
+		<id>HN Peg b</id>
+		<name>HD 206860 b</name>
+		<name>HR 8314 b</name>
+		<name>BD+14 4668 b</name>
+		<name>SAO 107364 b</name>
+		<name>GJ 836.7 b</name>
+		<name>GJ 9751 b</name>
+		<name>2MASS J21443131+1446190 b</name>
+		<name>HIP 107350 b</name>
+		<name>TYC 1133-01258-1 b</name>
+		<name>IRAS 21421+1432 b</name>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>16</mass>
+			<radius>1.1</radius>
+			<orbit>
+				<period />
+				<semimajoraxis>795</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G0V</spectraltype>
+			<mass>1</mass>
+			<radius />
+			<metallicity />
+			<rightascension>21 44 31</rightascension>
+			<declination>+14 46 19</declination>
+			<angulardistance>43.206522</angulardistance>
+			<distance>18.4</distance>
+			<magV>6</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2007</discoveryyear>
+		<lastupdate>11/04/23</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>HR 810 b</id_exoplaneteu>
 		<name>HR 810 b</name>
 		<id>HR 810 b</id>
@@ -20852,6 +20900,44 @@
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>Oph 11 b</id_exoplaneteu>
+		<name>Oph 11 b</name>
+		<id>Oph 11 b</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>14</mass>
+			<radius />
+			<orbit>
+				<period>730000</period>
+				<semimajoraxis>243</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M9</spectraltype>
+			<mass>0.162</mass>
+			<radius />
+			<metallicity />
+			<rightascension>16 22 25</rightascension>
+			<declination>-24 05 14</declination>
+			<angulardistance />
+			<distance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK>14.03</magK>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2007</discoveryyear>
+		<lastupdate>11/04/22</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>PSR 1257 12 b</id_exoplaneteu>
 		<name>PSR 1257 12 b</name>
 		<id>PSR 1257 12 b</id>
@@ -21037,6 +21123,44 @@
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
 		<lastupdate>10/12/24</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Ross 458 b</id_exoplaneteu>
+		<name>Ross 458 b</name>
+		<id>Ross 458 b</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>8.5</mass>
+			<radius />
+			<orbit>
+				<period />
+				<semimajoraxis>1168</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M2V</spectraltype>
+			<mass>0.6</mass>
+			<radius />
+			<metallicity />
+			<rightascension>13 00 47</rightascension>
+			<declination>+12 22 33</declination>
+			<angulardistance>10.245614</angulardistance>
+			<distance>114</distance>
+			<magV>9.76</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>11/04/23</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -22696,6 +22820,7 @@
 		<id_exoplaneteu>WASP-35 b</id_exoplaneteu>
 		<name>WASP-35 b</name>
 		<id>WASP-35 b</id>
+		<name>2MASS J05041962-0613473 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.72</mass>
@@ -22971,6 +23096,7 @@
 		<id_exoplaneteu>WASP-43 b</id_exoplaneteu>
 		<name>WASP-43 b</name>
 		<id>WASP-43 b</id>
+		<name>2MASS J10193800-0948225 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.78</mass>
@@ -23009,6 +23135,7 @@
 		<id_exoplaneteu>WASP-48 b</id_exoplaneteu>
 		<name>WASP-48 b</name>
 		<id>WASP-48 b</id>
+		<name>2MASS J19243895+5528233 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.98</mass>
@@ -23086,6 +23213,7 @@
 		<id_exoplaneteu>WASP-51 b</id_exoplaneteu>
 		<name>WASP-51 b</name>
 		<id>WASP-51 b</id>
+		<name>2MASS J08154797+0550121 b</name>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>0.76</mass>
@@ -23239,9 +23367,9 @@
 		<imagedescription />
 	</planet>
 	<planet>
-		<id_exoplaneteu>WD 0806-661 b</id_exoplaneteu>
-		<name>WD 0806-661 b</name>
-		<id>WD 0806-661 b</id>
+		<id_exoplaneteu>WD 0806-661B b</id_exoplaneteu>
+		<name>WD 0806-661B b</name>
+		<id>WD 0806-661B b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
 			<mass>8</mass>
@@ -23270,11 +23398,11 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/04/21</lastupdate>
+		<lastupdate>11/04/22</lastupdate>
 		<description />
 		<new>0</new>
-		<image>WD 0806-661</image>
-		<imagedescription>This image shows the white dwarf WD 0806-661 (indicated with A) and the companion (indicated with B). The separation is about 2500 times the distance from the Earth to the Sun. Credit: Kevin Luhman (Penn State University).</imagedescription>
+		<image />
+		<imagedescription />
 	</planet>
 	<planet>
 		<id_exoplaneteu>XO-1 b</id_exoplaneteu>
