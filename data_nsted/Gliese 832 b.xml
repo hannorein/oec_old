@@ -1,49 +1,4 @@
 <planet id="Gliese 832">
-	<curve id="UID_0106440_RVC_001.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Bailey et al. 2009 (ApJ, 690, 743)</reference>
-		<bibcodes>2009ApJ...690..743B</bibcodes>
-		<observatory>Siding Springs Observatory, Australia</observatory>
-		<telescope>3.9m Anglo-Australian Telescope (AAT)</telescope>
-		<xaxis>JD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>m/s</yaxisunits>
-		<data mintime="2451034.0873">
-			<point error="1" time="0.0" value="2.2" />
-			<point error="1" time="84.9286000002" value="6.0" />
-			<point error="1" time="377.0349" value="3.3" />
-			<point error="1" time="649.1755" value="2.8" />
-			<point error="1" time="709.0583" value="2.7" />
-			<point error="1" time="732.9939" value="2.3" />
-			<point error="1" time="1028.157" value="2.2" />
-			<point error="1" time="1058.0804" value="2.5" />
-			<point error="1" time="1094.04" value="4.0" />
-			<point error="1" time="1421.1468" value="1.6" />
-			<point error="1" time="1443.0582" value="2.6" />
-			<point error="1" time="1825.0001" value="2.1" />
-			<point error="1" time="1908.9488" value="2.7" />
-			<point error="1" time="1912.8839" value="1.9" />
-			<point error="1" time="2180.1193" value="2.5" />
-			<point error="1" time="2183.1244" value="2.3" />
-			<point error="1" time="2208.963" value="2.5" />
-			<point error="1" time="2211.0638" value="2.5" />
-			<point error="1" time="2246.9596" value="1.9" />
-			<point error="1" time="2451.2138" value="2.0" />
-			<point error="1" time="2489.2132" value="1.6" />
-			<point error="1" time="2542.0547" value="1.7" />
-			<point error="1" time="2593.9826" value="5.2" />
-			<point error="1" time="2594.9676" value="2.1" />
-			<point error="1" time="2909.0201" value="1.3" />
-			<point error="1" time="2974.9505" value="1.6" />
-			<point error="1" time="3002.8686" value="1.5" />
-			<point error="1" time="3220.113" value="1.7" />
-			<point error="1" time="3336.9797" value="1.7" />
-			<point error="1" time="3340.9569" value="1.7" />
-			<point error="1" time="3518.2039" value="4.1" />
-			<point error="1" time="3519.2168" value="2.8" />
-		</data>
-	</curve>
 	<curve id="UID_0106440_PLC_001.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>The Hipparcos and Tycho Catalogues, Vol 1, Pt 2.5, Hipparcos Epoch Photometry Annex (and Extension), pp 215 ff, http://www.rssd.esa.int/SA/HIPPARCOS/docs/vol1_all.pdf</reference>
