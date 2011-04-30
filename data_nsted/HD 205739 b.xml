@@ -1,4 +1,41 @@
 <planet id="HD 205739">
+	<curve id="UID_0106824_RVC_001.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Lopez-Morales et al. 2008 (AJ, 136, 1901)</reference>
+		<bibcodes>2008AJ....136.1901L</bibcodes>
+		<observatory>Las Campanas Observatory, Chile</observatory>
+		<telescope>6.5m Magellan II (Clay)</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2453189.808">
+			<point error="1" time="0.0" value="4.0" />
+			<point error="1" time="1.05629999982" value="4.4" />
+			<point error="1" time="2.01629999978" value="4.0" />
+			<point error="1" time="64.8013999998" value="3.6" />
+			<point error="1" time="361.0913" value="4.3" />
+			<point error="1" time="362.0612" value="3.9" />
+			<point error="1" time="465.8252" value="3.2" />
+			<point error="1" time="467.7919" value="3.6" />
+			<point error="1" time="468.8037" value="3.4" />
+			<point error="1" time="495.7388" value="3.3" />
+			<point error="1" time="683.0752" value="3.5" />
+			<point error="1" time="792.9375" value="4.0" />
+			<point error="1" time="798.912" value="3.9" />
+			<point error="1" time="823.8696" value="3.6" />
+			<point error="1" time="876.7072" value="3.7" />
+			<point error="1" time="877.7151" value="3.6" />
+			<point error="1" time="1027.1314" value="4.0" />
+			<point error="1" time="1088.0096" value="5.6" />
+			<point error="1" time="1110.0011" value="3.9" />
+			<point error="1" time="1110.9879" value="3.6" />
+			<point error="1" time="1148.9595" value="4.6" />
+			<point error="1" time="1149.8998" value="4.4" />
+			<point error="1" time="1207.7186" value="4.7" />
+			<point error="1" time="1208.6985" value="3.3" />
+		</data>
+	</curve>
 	<curve id="UID_0106824_PLC_001.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>The Hipparcos and Tycho Catalogues, Vol 1, Pt 2.5, Hipparcos Epoch Photometry Annex (and Extension), pp 215 ff, http://www.rssd.esa.int/SA/HIPPARCOS/docs/vol1_all.pdf</reference>
