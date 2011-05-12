@@ -2164,12 +2164,12 @@
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>2.45</mass>
-			<radius>1.47</radius>
+			<radius>1.02</radius>
 			<orbit>
 				<period>3.768125</period>
-				<semimajoraxis />
+				<semimajoraxis>0.0461</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
-				<inclination>77.47</inclination>
+				<inclination>88.34</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -2179,7 +2179,7 @@
 			<metallicity />
 			<rightascension />
 			<declination />
-			<angulardistance />
+			<angulardistance>5e-05</angulardistance>
 			<distance>920</distance>
 			<magV>15.46</magV>
 			<magI />
@@ -2189,7 +2189,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>11/02/15</lastupdate>
+		<lastupdate>11/05/11</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -3880,7 +3880,7 @@
 				<period>61.1166</period>
 				<semimajoraxis>0.208317</semimajoraxis>
 				<eccentricity>0.0324</eccentricity>
-				<inclination>48.93</inclination>
+				<inclination>84</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -3900,7 +3900,7 @@
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2000</discoveryyear>
-		<lastupdate>10/06/23</lastupdate>
+		<lastupdate>11/05/11</lastupdate>
 		<description>Gliese 876 is a red dwarf only 15 light years from Earth in the constellation Aquarius. The orbits of the outer three planets are locked in a Laplace reasonance. This resonance is also present in the moons of Jupiter: Io, Europa, Ganymede. This strong dynamical interaction leads to interesting conclusions about the formation history of the system. It is a very strong indication that the planets migrated in the protoplanetary disk to their current position and got locked into mean motion resonances during that process.</description>
 		<new>0</new>
 		<image />
@@ -7739,7 +7739,7 @@
 				<period>919</period>
 				<semimajoraxis>1.76</semimajoraxis>
 				<eccentricity>0.17</eccentricity>
-				<inclination />
+				<inclination>50</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -7759,7 +7759,7 @@
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2005</discoveryyear>
-		<lastupdate>10/12/23</lastupdate>
+		<lastupdate>11/05/11</lastupdate>
 		<description>This planetary system is most likely in a 2:1 mean motion resonance. The inner planet orbits the star exactly twice during one orbit of the outer planet. This is a very stable configuration. Mean motion resonances help us to understand the formation of multiplanteray systems. The existense of this resonance is a strong indication that interactions with the protoplanetary disk migrated the planets to their current positions. A detailed analysis of the HD 128311 system shows that there also had to be non-adiabatic effects during the migration phase such as a third planet (Sandor and Kley 2006) or turbulence in the protoplanetary disk (Rein and Papaloizou 2009).</description>
 		<new>0</new>
 		<image />
@@ -14138,7 +14138,7 @@
 				<period>14.3104</period>
 				<semimajoraxis>0.131</semimajoraxis>
 				<eccentricity>0.248</eccentricity>
-				<inclination />
+				<inclination>57</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -14158,7 +14158,7 @@
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2000</discoveryyear>
-		<lastupdate>10/03/02</lastupdate>
+		<lastupdate>11/05/11</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -21697,7 +21697,7 @@
 				<period>237.7</period>
 				<semimajoraxis>0.861</semimajoraxis>
 				<eccentricity>0.24</eccentricity>
-				<inclination>16.7</inclination>
+				<inclination>8</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -21717,7 +21717,7 @@
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>1999</discoveryyear>
-		<lastupdate>10/11/11</lastupdate>
+		<lastupdate>11/05/11</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -21747,7 +21747,7 @@
 				<period>1302.61</period>
 				<semimajoraxis>2.55</semimajoraxis>
 				<eccentricity>0.274</eccentricity>
-				<inclination>13.5</inclination>
+				<inclination>24</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -21767,7 +21767,7 @@
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>1999</discoveryyear>
-		<lastupdate>10/11/11</lastupdate>
+		<lastupdate>11/05/11</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
