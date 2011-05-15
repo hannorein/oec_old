@@ -1,4 +1,41 @@
 <planet id="HD 206610">
+	<curve id="UID_0107251_RVC_001.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Johnson et al. 2010 (PASP, 122, 701)</reference>
+		<bibcodes>2010PASP..122..701J</bibcodes>
+		<observatory>Mauna Kea, Hawaii</observatory>
+		<telescope>10m Keck I</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2454313.98">
+			<point error="1" time="0.0" value="1.48" />
+			<point error="1" time="25.8629999999" value="1.25" />
+			<point error="1" time="85.7790000001" value="1.48" />
+			<point error="1" time="360.984" value="1.42" />
+			<point error="1" time="403.939" value="1.20" />
+			<point error="1" time="465.842" value="1.36" />
+			<point error="1" time="476.766" value="1.42" />
+			<point error="1" time="493.803" value="1.57" />
+			<point error="1" time="642.122" value="1.28" />
+			<point error="1" time="650.138" value="1.26" />
+			<point error="1" time="670.102" value="1.27" />
+			<point error="1" time="671.131" value="1.43" />
+			<point error="1" time="672.133" value="1.27" />
+			<point error="1" time="701.042" value="1.36" />
+			<point error="1" time="701.976" value="1.37" />
+			<point error="1" time="705.086" value="1.47" />
+			<point error="1" time="715.031" value="1.46" />
+			<point error="1" time="729.078" value="1.31" />
+			<point error="1" time="763.078" value="1.40" />
+			<point error="1" time="769.075" value="1.41" />
+			<point error="1" time="821.781" value="1.13" />
+			<point error="1" time="855.72" value="1.46" />
+			<point error="1" time="873.716" value="1.50" />
+			<point error="1" time="874.711" value="1.40" />
+		</data>
+	</curve>
 	<curve id="UID_0107251_PLC_001.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>The Hipparcos and Tycho Catalogues, Vol 1, Pt 2.5, Hipparcos Epoch Photometry Annex (and Extension), pp 215 ff, http://www.rssd.esa.int/SA/HIPPARCOS/docs/vol1_all.pdf</reference>
