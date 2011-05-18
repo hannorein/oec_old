@@ -1,4 +1,83 @@
 <planet id="HD 111232">
+	<curve id="UID_0062534_RVC_001.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Mayor et al. 2004 (A&amp;A, 415, 391)</reference>
+		<bibcodes>2004A&amp;A...415..391M</bibcodes>
+		<observatory>ESO La Silla, Chile</observatory>
+		<telescope>1.2m Euler Swiss telescope</telescope>
+		<xaxis>BJD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2451613.8535">
+			<point error="1" time="0.0" value="0.008" />
+			<point error="1" time="356.0014" value="0.006" />
+			<point error="1" time="359.9087" value="0.006" />
+			<point error="1" time="362.9167" value="0.006" />
+			<point error="1" time="363.9582" value="0.006" />
+			<point error="1" time="365.9216" value="0.005" />
+			<point error="1" time="386.8556" value="0.008" />
+			<point error="1" time="433.7677" value="0.008" />
+			<point error="1" time="433.7794" value="0.009" />
+			<point error="1" time="707.9286" value="0.004" />
+			<point error="1" time="710.0131" value="0.004" />
+			<point error="1" time="729.8938" value="0.004" />
+			<point error="1" time="745.8271" value="0.005" />
+			<point error="1" time="749.8627" value="0.006" />
+			<point error="1" time="751.9076" value="0.005" />
+			<point error="1" time="752.8869" value="0.005" />
+			<point error="1" time="754.9144" value="0.005" />
+			<point error="1" time="759.9131" value="0.005" />
+			<point error="1" time="790.7773" value="0.005" />
+			<point error="1" time="819.7092" value="0.006" />
+			<point error="1" time="820.7589" value="0.005" />
+			<point error="1" time="836.7571" value="0.006" />
+			<point error="1" time="849.6827" value="0.006" />
+			<point error="1" time="1033.9897" value="0.006" />
+			<point error="1" time="1034.997" value="0.005" />
+			<point error="1" time="1054.9675" value="0.005" />
+			<point error="1" time="1071.9246" value="0.005" />
+			<point error="1" time="1074.9864" value="0.005" />
+			<point error="1" time="1098.9315" value="0.006" />
+			<point error="1" time="1099.8688" value="0.009" />
+			<point error="1" time="1100.9302" value="0.005" />
+			<point error="1" time="1101.9513" value="0.005" />
+			<point error="1" time="1102.9321" value="0.005" />
+			<point error="1" time="1103.8845" value="0.005" />
+			<point error="1" time="1162.7346" value="0.011" />
+			<point error="1" time="1174.6481" value="0.006" />
+			<point error="1" time="1174.6601" value="0.006" />
+			<point error="1" time="1180.7268" value="0.010" />
+		</data>
+	</curve>
+	<curve id="UID_0062534_RVC_002.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Minniti et al. 2009 (ApJ, 693, 1424)</reference>
+		<bibcodes>2009ApJ...693.1424M</bibcodes>
+		<observatory>Las Campanas Observatory, Chile</observatory>
+		<telescope>6.5m Magellan II (Clay) telescope</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2450863.4875">
+			<point error="1" time="0.0" value="7.5" />
+			<point error="1" time="179.2716" value="7.8" />
+			<point error="1" time="264.2523" value="3.3" />
+			<point error="1" time="592.3276" value="3.2" />
+			<point error="1" time="679.0455" value="3.5" />
+			<point error="1" time="893.3843" value="2.8" />
+			<point error="1" time="894.3838" value="2.7" />
+			<point error="1" time="911.3755" value="3.3" />
+			<point error="1" time="912.3823" value="3.7" />
+			<point error="1" time="920.3853" value="2.8" />
+			<point error="1" time="922.387" value="2.8" />
+			<point error="1" time="948.3139" value="2.9" />
+			<point error="1" time="1009.1547" value="2.9" />
+			<point error="1" time="1033.0944" value="3.5" />
+			<point error="1" time="1326.3148" value="3.0" />
+		</data>
+	</curve>
 	<curve id="UID_0062534_PLC_001.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>The Hipparcos and Tycho Catalogues, Vol 1, Pt 2.5, Hipparcos Epoch Photometry Annex (and Extension), pp 215 ff, http://www.rssd.esa.int/SA/HIPPARCOS/docs/vol1_all.pdf</reference>
