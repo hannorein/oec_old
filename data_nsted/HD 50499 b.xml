@@ -1,4 +1,52 @@
 <planet id="HD 50499">
+	<curve id="UID_0032970_RVC_001.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Vogt et al. 2005 (ApJ, 632, 638)</reference>
+		<bibcodes>2005ApJ...632..638V</bibcodes>
+		<observatory>Mauna Kea, Hawaii</observatory>
+		<telescope>10m Keck I</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2450418.985">
+			<point error="1" time="0.0" value="3.3" />
+			<point error="1" time="43.9590000003" value="2.0" />
+			<point error="1" time="127.808" value="3.7" />
+			<point error="1" time="387.996" value="3.6" />
+			<point error="1" time="418.904" value="3.2" />
+			<point error="1" time="442.803" value="2.9" />
+			<point error="1" time="654.159" value="3.5" />
+			<point error="1" time="752.928" value="3.2" />
+			<point error="1" time="808.855" value="3.3" />
+			<point error="1" time="1161.871" value="3.6" />
+			<point error="1" time="1164.926" value="3.4" />
+			<point error="1" time="1166.927" value="3.8" />
+			<point error="1" time="1463.967" value="3.7" />
+			<point error="1" time="1555.736" value="3.2" />
+			<point error="1" time="1823.967" value="3.8" />
+			<point error="1" time="1888.847" value="3.4" />
+			<point error="1" time="1915.874" value="3.8" />
+			<point error="1" time="2119.148" value="4.1" />
+			<point error="1" time="2155.048" value="3.7" />
+			<point error="1" time="2156.111" value="4.0" />
+			<point error="1" time="2181.993" value="3.4" />
+			<point error="1" time="2232.951" value="3.8" />
+			<point error="1" time="2292.748" value="3.6" />
+			<point error="1" time="2480.151" value="3.1" />
+			<point error="1" time="2505.156" value="3.8" />
+			<point error="1" time="2568.936" value="6.0" />
+			<point error="1" time="2569.933" value="3.5" />
+			<point error="1" time="2596.909" value="3.2" />
+			<point error="1" time="2597.905" value="2.9" />
+			<point error="1" time="2625.838" value="3.5" />
+			<point error="1" time="2626.828" value="3.3" />
+			<point error="1" time="2652.786" value="3.5" />
+			<point error="1" time="2949.985" value="3.4" />
+			<point error="1" time="3061.736" value="3.5" />
+			<point error="1" time="3064.737" value="3.1" />
+		</data>
+	</curve>
 	<curve id="UID_0032970_PLC_001.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>The Hipparcos and Tycho Catalogues, Vol 1, Pt 2.5, Hipparcos Epoch Photometry Annex (and Extension), pp 215 ff, http://www.rssd.esa.int/SA/HIPPARCOS/docs/vol1_all.pdf</reference>
