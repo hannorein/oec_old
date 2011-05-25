@@ -1769,9 +1769,9 @@
 			<radius />
 			<orbit>
 				<period>6000</period>
-				<semimajoraxis>12</semimajoraxis>
-				<eccentricity />
-				<inclination />
+				<semimajoraxis>9.55</semimajoraxis>
+				<eccentricity>0.24</eccentricity>
+				<inclination>89</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -1781,7 +1781,7 @@
 			<metallicity />
 			<rightascension>05 47 17</rightascension>
 			<declination>-51 03 59</declination>
-			<angulardistance>0.621762</angulardistance>
+			<angulardistance>0.494819</angulardistance>
 			<distance>19.3</distance>
 			<magV>3.86</magV>
 			<magI />
@@ -1791,7 +1791,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>10/06/11</lastupdate>
+		<lastupdate>11/05/25</lastupdate>
 		<description />
 		<new>0</new>
 		<image>beta Pic</image>
@@ -4284,7 +4284,7 @@
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>10/09/21</lastupdate>
+		<lastupdate>11/05/25</lastupdate>
 		<description>The star HAT-P-13 is located in the constalltion Ursa Major and hosts at least two extrasolar planets. Only the inner planet is transiting. There might be an unconfirmed third planet in the system.</description>
 		<new>0</new>
 		<image />
