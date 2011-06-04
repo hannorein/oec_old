@@ -1,43 +1,4 @@
 <planet id="BD-17 63">
-	<curve id="UID_0002247_RVC_001.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Moutou et al. 2009 (A&amp;A, 496, 513)</reference>
-		<bibcodes>2009A&amp;A...496..513M</bibcodes>
-		<observatory>ESO La Silla, Chile</observatory>
-		<telescope>3.6m</telescope>
-		<xaxis>JD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>km/s</yaxisunits>
-		<data mintime="2452943.61051">
-			<point error="1" time="0.0" value="0.00258" />
-			<point error="1" time="352.142697" value="0.00174" />
-			<point error="1" time="1002.292931" value="0.00111" />
-			<point error="1" time="1003.212768" value="0.00141" />
-			<point error="1" time="1008.254171" value="0.00252" />
-			<point error="1" time="1036.263516" value="0.00194" />
-			<point error="1" time="1138.989259" value="0.00174" />
-			<point error="1" time="1140.964071" value="0.00192" />
-			<point error="1" time="1403.225537" value="0.00107" />
-			<point error="1" time="1406.182251" value="0.00132" />
-			<point error="1" time="1483.988116" value="0.00149" />
-			<point error="1" time="1486.992548" value="0.00140" />
-			<point error="1" time="1493.994554" value="0.00137" />
-			<point error="1" time="1503.003786" value="0.00164" />
-			<point error="1" time="1534.981864" value="0.00155" />
-			<point error="1" time="1542.918667" value="0.00174" />
-			<point error="1" time="1666.300084" value="0.00155" />
-			<point error="1" time="1694.301038" value="0.00136" />
-			<point error="1" time="1698.314397" value="0.00115" />
-			<point error="1" time="1703.276743" value="0.00130" />
-			<point error="1" time="1714.213127" value="0.00101" />
-			<point error="1" time="1727.179798" value="0.00139" />
-			<point error="1" time="1729.228073" value="0.00183" />
-			<point error="1" time="1755.196546" value="0.00149" />
-			<point error="1" time="1758.213008" value="0.00177" />
-			<point error="1" time="1760.248374" value="0.00162" />
-		</data>
-	</curve>
 	<curve id="UID_0002247_PLC_001.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>The Hipparcos and Tycho Catalogues, Vol 1, Pt 2.5, Hipparcos Epoch Photometry Annex (and Extension), pp 215 ff, http://www.rssd.esa.int/SA/HIPPARCOS/docs/vol1_all.pdf</reference>
