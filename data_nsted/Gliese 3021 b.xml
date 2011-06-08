@@ -1,4 +1,78 @@
 <planet id="Gliese 3021">
+	<curve id="UID_0001292_RVC_001.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Naef et al. 2001 (A&amp;A, 375, 205)</reference>
+		<bibcodes>2001A&amp;A...375..205N</bibcodes>
+		<observatory>ESO La Silla, Chile</observatory>
+		<telescope>1.2m Euler Swiss telescope</telescope>
+		<xaxis>BJD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2451128.60587">
+			<point error="1" time="0.0" value="0.009" />
+			<point error="1" time="4.04722099984" value="0.010" />
+			<point error="1" time="13.0674120001" value="0.009" />
+			<point error="1" time="13.9188069999" value="0.011" />
+			<point error="1" time="236.319544" value="0.009" />
+			<point error="1" time="241.220573" value="0.013" />
+			<point error="1" time="311.160411" value="0.010" />
+			<point error="1" time="314.07388" value="0.009" />
+			<point error="1" time="316.137564" value="0.012" />
+			<point error="1" time="318.105128" value="0.017" />
+			<point error="1" time="322.158014" value="0.010" />
+			<point error="1" time="325.142363" value="0.015" />
+			<point error="1" time="330.077684" value="0.011" />
+			<point error="1" time="335.066645" value="0.009" />
+			<point error="1" time="337.073089" value="0.011" />
+			<point error="1" time="352.041993" value="0.024" />
+			<point error="1" time="356.030256" value="0.010" />
+			<point error="1" time="359.022358" value="0.010" />
+			<point error="1" time="361.970703" value="0.014" />
+			<point error="1" time="365.976717" value="0.010" />
+			<point error="1" time="368.996974" value="0.014" />
+			<point error="1" time="370.92791" value="0.012" />
+			<point error="1" time="372.971077" value="0.011" />
+			<point error="1" time="374.923971" value="0.011" />
+			<point error="1" time="377.031642" value="0.010" />
+			<point error="1" time="391.947542" value="0.008" />
+			<point error="1" time="393.928718" value="0.009" />
+			<point error="1" time="395.92537" value="0.008" />
+			<point error="1" time="403.937511" value="0.009" />
+			<point error="1" time="405.962208" value="0.011" />
+			<point error="1" time="406.960558" value="0.011" />
+			<point error="1" time="409.942281" value="0.010" />
+			<point error="1" time="411.929012" value="0.011" />
+			<point error="1" time="413.925294" value="0.009" />
+			<point error="1" time="414.928604" value="0.009" />
+			<point error="1" time="416.928709" value="0.009" />
+			<point error="1" time="419.929793" value="0.011" />
+			<point error="1" time="420.930006" value="0.010" />
+			<point error="1" time="421.927673" value="0.010" />
+			<point error="1" time="422.928546" value="0.010" />
+			<point error="1" time="423.929143" value="0.009" />
+			<point error="1" time="424.935631" value="0.009" />
+			<point error="1" time="425.927421" value="0.009" />
+			<point error="1" time="427.92495" value="0.009" />
+			<point error="1" time="429.932644" value="0.012" />
+			<point error="1" time="431.927691" value="0.014" />
+			<point error="1" time="433.931085" value="0.009" />
+			<point error="1" time="434.927581" value="0.014" />
+			<point error="1" time="437.956876" value="0.010" />
+			<point error="1" time="438.940701" value="0.011" />
+			<point error="1" time="440.931814" value="0.011" />
+			<point error="1" time="442.935465" value="0.012" />
+			<point error="1" time="444.920658" value="0.010" />
+			<point error="1" time="446.950125" value="0.010" />
+			<point error="1" time="448.928761" value="0.016" />
+			<point error="1" time="449.929284" value="0.009" />
+			<point error="1" time="450.919784" value="0.012" />
+			<point error="1" time="452.94375" value="0.012" />
+			<point error="1" time="454.916908" value="0.009" />
+			<point error="1" time="456.913726" value="0.010" />
+			<point error="1" time="458.910211" value="0.011" />
+		</data>
+	</curve>
 	<curve id="UID_0001292_PLC_001.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>The Hipparcos and Tycho Catalogues, Vol 1, Pt 2.5, Hipparcos Epoch Photometry Annex (and Extension), pp 215 ff, http://www.rssd.esa.int/SA/HIPPARCOS/docs/vol1_all.pdf</reference>
