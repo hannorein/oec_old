@@ -2151,7 +2151,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>11/06/07</lastupdate>
+		<lastupdate>11/06/08</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -5163,6 +5163,120 @@
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/03/24</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HAT-P-31 b</id_exoplaneteu>
+		<name>HAT-P-31 b</name>
+		<id>HAT-P-31 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.171</mass>
+			<radius>1.07</radius>
+			<orbit>
+				<period>5.005425</period>
+				<semimajoraxis>0.055</semimajoraxis>
+				<eccentricity>0.245</eccentricity>
+				<inclination>87.1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.218</mass>
+			<radius>1.36</radius>
+			<metallicity>0.15</metallicity>
+			<rightascension>08 06 09</rightascension>
+			<declination>+26 25 36</declination>
+			<angulardistance>0.000155</angulardistance>
+			<distance>354</distance>
+			<magV>11.66</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/06/08</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HAT-P-32 b</id_exoplaneteu>
+		<name>HAT-P-32 b</name>
+		<id>HAT-P-32 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.941</mass>
+			<radius>2.037</radius>
+			<orbit>
+				<period>2.150009</period>
+				<semimajoraxis>0.0344</semimajoraxis>
+				<eccentricity>0.163</eccentricity>
+				<inclination>88.7</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F/G</spectraltype>
+			<mass>1.176</mass>
+			<radius>1.387</radius>
+			<metallicity>-0.16</metallicity>
+			<rightascension>02 01 10</rightascension>
+			<declination>+46 41 16</declination>
+			<angulardistance>0.000108</angulardistance>
+			<distance>320</distance>
+			<magV>11.29</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/06/08</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HAT-P-33 b</id_exoplaneteu>
+		<name>HAT-P-33 b</name>
+		<id>HAT-P-33 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.763</mass>
+			<radius>1.827</radius>
+			<orbit>
+				<period>3.474474</period>
+				<semimajoraxis>0.503</semimajoraxis>
+				<eccentricity>0.148</eccentricity>
+				<inclination>86.7</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F</spectraltype>
+			<mass>1.403</mass>
+			<radius>1.777</radius>
+			<metallicity>0.05</metallicity>
+			<rightascension>07 32 44</rightascension>
+			<declination>+33 50 06</declination>
+			<angulardistance>0.0012</angulardistance>
+			<distance>419</distance>
+			<magV>11.89</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/06/08</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -21910,6 +22024,44 @@
 		<new>0</new>
 		<image>UScoCTIO 108</image>
 		<imagedescription>This composite color image shows UScoCTIO 108 together with its companion. Credit: V.J.S. Bejar, Telescopio Nazionale Galileo, William Herschel Telescope.</imagedescription>
+	</planet>
+	<planet>
+		<id_exoplaneteu>UZ For(ab) d</id_exoplaneteu>
+		<name>UZ For(ab) d</name>
+		<id>UZ For(ab) d</id>
+		<discoverymethod>timing</discoverymethod>
+		<properties>
+			<mass>7.7</mass>
+			<radius />
+			<orbit>
+				<period>1900</period>
+				<semimajoraxis>2.8</semimajoraxis>
+				<eccentricity>0.05</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>Catac. var.</spectraltype>
+			<mass>0.84</mass>
+			<radius />
+			<metallicity />
+			<rightascension>03 35 29</rightascension>
+			<declination>-25 44 22</declination>
+			<angulardistance />
+			<distance />
+			<magV>18.2</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/06/08</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
 	</planet>
 	<planet>
 		<id_exoplaneteu>V391 Peg b</id_exoplaneteu>
