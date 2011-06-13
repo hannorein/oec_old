@@ -1,49 +1,4 @@
 <planet id="Gliese 674">
-	<curve id="UID_0085523_RVC_001.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Bonfils et al. 2007 (A&amp;A, 474, 293)</reference>
-		<bibcodes>2007A&amp;A...474..293B</bibcodes>
-		<observatory>ESO La Silla, Chile</observatory>
-		<telescope>3.6m</telescope>
-		<xaxis>BJD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>km/s</yaxisunits>
-		<data mintime="2453158.75187">
-			<point error="1" time="0.0" value="0.0007" />
-			<point error="1" time="46.84767" value="0.0006" />
-			<point error="1" time="78.8118100003" value="0.0010" />
-			<point error="1" time="362.04126" value="0.0007" />
-			<point error="1" time="421.81685" value="0.0006" />
-			<point error="1" time="655.096" value="0.0006" />
-			<point error="1" time="658.11704" value="0.0006" />
-			<point error="1" time="703.05661" value="0.0006" />
-			<point error="1" time="704.03416" value="0.0006" />
-			<point error="1" time="705.05882" value="0.0006" />
-			<point error="1" time="706.01492" value="0.0006" />
-			<point error="1" time="707.0594" value="0.0006" />
-			<point error="1" time="708.00384" value="0.0006" />
-			<point error="1" time="709.09626" value="0.0006" />
-			<point error="1" time="710.08746" value="0.0006" />
-			<point error="1" time="711.0519" value="0.0006" />
-			<point error="1" time="711.98677" value="0.0007" />
-			<point error="1" time="713.10869" value="0.0006" />
-			<point error="1" time="723.99287" value="0.0006" />
-			<point error="1" time="727.9969" value="0.0006" />
-			<point error="1" time="729.03981" value="0.0006" />
-			<point error="1" time="758.97144" value="0.0007" />
-			<point error="1" time="760.97493" value="0.0008" />
-			<point error="1" time="762.87528" value="0.0006" />
-			<point error="1" time="785.83461" value="0.0007" />
-			<point error="1" time="788.83954" value="0.0017" />
-			<point error="1" time="791.8954" value="0.0006" />
-			<point error="1" time="817.77261" value="0.0006" />
-			<point error="1" time="821.81735" value="0.0007" />
-			<point error="1" time="822.84075" value="0.0006" />
-			<point error="1" time="823.86461" value="0.0006" />
-			<point error="1" time="824.777" value="0.0007" />
-		</data>
-	</curve>
 	<curve id="UID_0085523_PLC_002.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>Bonfils et al. 2007 (A&amp;A, 474, 293)</reference>
