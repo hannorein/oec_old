@@ -3,41 +3,6 @@
 		<type>Radial Velocity Curve</type>
 		<reference>Liu et al. 2009 (ReA&amp;A, 9, 1)</reference>
 		<bibcodes>2009ReA&amp;A...9....1L</bibcodes>
-		<observatory>Xinglong Obsevatory, China</observatory>
-		<telescope>2.16m</telescope>
-		<xaxis>JD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>m/s</yaxisunits>
-		<data mintime="2454041.0323">
-			<point error="1" time="0.0" value="24.9" />
-			<point error="1" time="153.2833" value="23.7" />
-			<point error="1" time="185.219" value="18.8" />
-			<point error="1" time="185.2407" value="22.3" />
-			<point error="1" time="215.2114" value="30.3" />
-			<point error="1" time="274.0816" value="22.6" />
-			<point error="1" time="296.0231" value="30.6" />
-			<point error="1" time="299.0244" value="24.3" />
-			<point error="1" time="324.9571" value="25.7" />
-			<point error="1" time="324.9794" value="31.0" />
-			<point error="1" time="325.9448" value="27.6" />
-			<point error="1" time="326.9513" value="27.1" />
-			<point error="1" time="326.9676" value="21.5" />
-			<point error="1" time="356.9332" value="20.9" />
-			<point error="1" time="356.9441" value="22.0" />
-			<point error="1" time="357.9206" value="23.0" />
-			<point error="1" time="357.9317" value="24.5" />
-			<point error="1" time="415.9279" value="30.5" />
-			<point error="1" time="628.0345" value="32.5" />
-			<point error="1" time="628.0572" value="35.0" />
-			<point error="1" time="680.9883" value="28.3" />
-			<point error="1" time="684.0123" value="25.4" />
-		</data>
-	</curve>
-	<curve id="UID_0091852_RVC_002.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Liu et al. 2009 (ReA&amp;A, 9, 1)</reference>
-		<bibcodes>2009ReA&amp;A...9....1L</bibcodes>
 		<observatory>Okayama Astrophysical Observatory (OAO), Japan</observatory>
 		<telescope>1.88m</telescope>
 		<xaxis>JD</xaxis>
@@ -75,6 +40,41 @@
 			<point error="1" time="1183.8244" value="4.5" />
 			<point error="1" time="1235.7707" value="7.7" />
 			<point error="1" time="1277.6776" value="5.2" />
+		</data>
+	</curve>
+	<curve id="UID_0091852_RVC_002.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Liu et al. 2009 (ReA&amp;A, 9, 1)</reference>
+		<bibcodes>2009ReA&amp;A...9....1L</bibcodes>
+		<observatory>Xinglong Obsevatory, China</observatory>
+		<telescope>2.16m</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2454041.0323">
+			<point error="1" time="0.0" value="24.9" />
+			<point error="1" time="153.2833" value="23.7" />
+			<point error="1" time="185.219" value="18.8" />
+			<point error="1" time="185.2407" value="22.3" />
+			<point error="1" time="215.2114" value="30.3" />
+			<point error="1" time="274.0816" value="22.6" />
+			<point error="1" time="296.0231" value="30.6" />
+			<point error="1" time="299.0244" value="24.3" />
+			<point error="1" time="324.9571" value="25.7" />
+			<point error="1" time="324.9794" value="31.0" />
+			<point error="1" time="325.9448" value="27.6" />
+			<point error="1" time="326.9513" value="27.1" />
+			<point error="1" time="326.9676" value="21.5" />
+			<point error="1" time="356.9332" value="20.9" />
+			<point error="1" time="356.9441" value="22.0" />
+			<point error="1" time="357.9206" value="23.0" />
+			<point error="1" time="357.9317" value="24.5" />
+			<point error="1" time="415.9279" value="30.5" />
+			<point error="1" time="628.0345" value="32.5" />
+			<point error="1" time="628.0572" value="35.0" />
+			<point error="1" time="680.9883" value="28.3" />
+			<point error="1" time="684.0123" value="25.4" />
 		</data>
 	</curve>
 	<curve id="UID_0091852_PLC_001.tbl" type="2">

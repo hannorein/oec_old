@@ -3,6 +3,71 @@
 		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 1999 (ApJ, 526, 916)</reference>
 		<bibcodes>1999ApJ...526..916B</bibcodes>
+		<observatory>Fred L. Whipple Observatory (FLWO), Mt. Hopkins, Arizona</observatory>
+		<telescope>1.5m Tillinghast</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2449617.921">
+			<point error="1" time="0.0" value="7.68" />
+			<point error="1" time="2.90700000012" value="11.40" />
+			<point error="1" time="3.95399999991" value="12.83" />
+			<point error="1" time="53.753" value="19.12" />
+			<point error="1" time="292.069" value="14.57" />
+			<point error="1" time="355.025" value="10.05" />
+			<point error="1" time="377.035" value="9.76" />
+			<point error="1" time="380.067" value="10.42" />
+			<point error="1" time="435.776" value="11.56" />
+			<point error="1" time="436.843" value="9.82" />
+			<point error="1" time="437.764" value="13.08" />
+			<point error="1" time="438.833" value="15.58" />
+			<point error="1" time="439.764" value="17.96" />
+			<point error="1" time="674.012" value="12.38" />
+			<point error="1" time="677.031" value="11.96" />
+			<point error="1" time="795.872" value="11.78" />
+			<point error="1" time="800.724" value="9.52" />
+			<point error="1" time="801.72" value="12.09" />
+			<point error="1" time="802.764" value="10.66" />
+			<point error="1" time="847.676" value="10.35" />
+			<point error="1" time="850.685" value="5.46" />
+			<point error="1" time="852.737" value="9.03" />
+			<point error="1" time="1030.047" value="8.47" />
+			<point error="1" time="1091.07" value="6.55" />
+			<point error="1" time="1093.09" value="8.21" />
+			<point error="1" time="1093.917" value="8.69" />
+			<point error="1" time="1114.916" value="15.49" />
+			<point error="1" time="1116.941" value="13.01" />
+			<point error="1" time="1118.007" value="15.76" />
+			<point error="1" time="1120.774" value="9.99" />
+			<point error="1" time="1142.874" value="9.08" />
+			<point error="1" time="1143.917" value="10.65" />
+			<point error="1" time="1149.841" value="19.89" />
+			<point error="1" time="1151.896" value="21.72" />
+			<point error="1" time="1213.724" value="9.49" />
+			<point error="1" time="1232.659" value="13.07" />
+			<point error="1" time="1443.967" value="12.66" />
+			<point error="1" time="1446.0" value="16.75" />
+			<point error="1" time="1448.046" value="14.72" />
+			<point error="1" time="1476.015" value="15.73" />
+			<point error="1" time="1477.917" value="22.90" />
+			<point error="1" time="1479.927" value="15.38" />
+			<point error="1" time="1481.947" value="15.25" />
+			<point error="1" time="1507.891" value="14.93" />
+			<point error="1" time="1508.793" value="17.08" />
+			<point error="1" time="1509.855" value="15.47" />
+			<point error="1" time="1537.723" value="12.44" />
+			<point error="1" time="1538.804" value="14.58" />
+			<point error="1" time="1562.72" value="25.42" />
+			<point error="1" time="1563.666" value="10.19" />
+			<point error="1" time="1588.69" value="13.17" />
+			<point error="1" time="1595.66" value="19.37" />
+		</data>
+	</curve>
+	<curve id="UID_0007513_RVC_002.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Butler et al. 1999 (ApJ, 526, 916)</reference>
+		<bibcodes>1999ApJ...526..916B</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
 		<telescope>3.0m Shane and 0.6m CAT</telescope>
 		<xaxis>JD</xaxis>
@@ -99,71 +164,6 @@
 			<point error="1" time="4192.713" value="6.85" />
 			<point error="1" time="4193.724" value="7.77" />
 			<point error="1" time="4195.713" value="7.14" />
-		</data>
-	</curve>
-	<curve id="UID_0007513_RVC_002.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Butler et al. 1999 (ApJ, 526, 916)</reference>
-		<bibcodes>1999ApJ...526..916B</bibcodes>
-		<observatory>Fred L. Whipple Observatory (FLWO), Mt. Hopkins, Arizona</observatory>
-		<telescope>1.5m Tillinghast</telescope>
-		<xaxis>JD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>m/s</yaxisunits>
-		<data mintime="2449617.921">
-			<point error="1" time="0.0" value="7.68" />
-			<point error="1" time="2.90700000012" value="11.40" />
-			<point error="1" time="3.95399999991" value="12.83" />
-			<point error="1" time="53.753" value="19.12" />
-			<point error="1" time="292.069" value="14.57" />
-			<point error="1" time="355.025" value="10.05" />
-			<point error="1" time="377.035" value="9.76" />
-			<point error="1" time="380.067" value="10.42" />
-			<point error="1" time="435.776" value="11.56" />
-			<point error="1" time="436.843" value="9.82" />
-			<point error="1" time="437.764" value="13.08" />
-			<point error="1" time="438.833" value="15.58" />
-			<point error="1" time="439.764" value="17.96" />
-			<point error="1" time="674.012" value="12.38" />
-			<point error="1" time="677.031" value="11.96" />
-			<point error="1" time="795.872" value="11.78" />
-			<point error="1" time="800.724" value="9.52" />
-			<point error="1" time="801.72" value="12.09" />
-			<point error="1" time="802.764" value="10.66" />
-			<point error="1" time="847.676" value="10.35" />
-			<point error="1" time="850.685" value="5.46" />
-			<point error="1" time="852.737" value="9.03" />
-			<point error="1" time="1030.047" value="8.47" />
-			<point error="1" time="1091.07" value="6.55" />
-			<point error="1" time="1093.09" value="8.21" />
-			<point error="1" time="1093.917" value="8.69" />
-			<point error="1" time="1114.916" value="15.49" />
-			<point error="1" time="1116.941" value="13.01" />
-			<point error="1" time="1118.007" value="15.76" />
-			<point error="1" time="1120.774" value="9.99" />
-			<point error="1" time="1142.874" value="9.08" />
-			<point error="1" time="1143.917" value="10.65" />
-			<point error="1" time="1149.841" value="19.89" />
-			<point error="1" time="1151.896" value="21.72" />
-			<point error="1" time="1213.724" value="9.49" />
-			<point error="1" time="1232.659" value="13.07" />
-			<point error="1" time="1443.967" value="12.66" />
-			<point error="1" time="1446.0" value="16.75" />
-			<point error="1" time="1448.046" value="14.72" />
-			<point error="1" time="1476.015" value="15.73" />
-			<point error="1" time="1477.917" value="22.90" />
-			<point error="1" time="1479.927" value="15.38" />
-			<point error="1" time="1481.947" value="15.25" />
-			<point error="1" time="1507.891" value="14.93" />
-			<point error="1" time="1508.793" value="17.08" />
-			<point error="1" time="1509.855" value="15.47" />
-			<point error="1" time="1537.723" value="12.44" />
-			<point error="1" time="1538.804" value="14.58" />
-			<point error="1" time="1562.72" value="25.42" />
-			<point error="1" time="1563.666" value="10.19" />
-			<point error="1" time="1588.69" value="13.17" />
-			<point error="1" time="1595.66" value="19.37" />
 		</data>
 	</curve>
 	<curve id="UID_0007513_RVC_003.tbl" type="4">

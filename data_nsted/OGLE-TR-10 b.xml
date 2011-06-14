@@ -85,82 +85,9 @@
 		<observatory>ESO VLT, Paranal Observatory, Chile</observatory>
 		<telescope>8.2m Melipal (UT3)</telescope>
 		<xaxis>HJD</xaxis>
-		<yaxis>Relative Magnitude</yaxis>
+		<yaxis>Relative Flux</yaxis>
 		<xaxisunits>days</xaxisunits>
-		<yaxisunits>mag</yaxisunits>
-		<data mintime="2454262.7147">
-			<point error="1" time="0.0" value="0.0013" />
-			<point error="1" time="0.00359999993816" value="0.0005" />
-			<point error="1" time="0.00710000004619" value="0.0006" />
-			<point error="1" time="0.0106000001542" value="0.0001" />
-			<point error="1" time="0.0142999999225" value="0.0006" />
-			<point error="1" time="0.0177000002004" value="0.0005" />
-			<point error="1" time="0.0208999998868" value="0.0013" />
-			<point error="1" time="0.0248000002466" value="0.0004" />
-			<point error="1" time="0.028299999889" value="0.0005" />
-			<point error="1" time="0.031799999997" value="0.0005" />
-			<point error="1" time="0.0353999999352" value="0.0035" />
-			<point error="1" time="0.038500000257" value="0.0075" />
-			<point error="1" time="0.0416000001132" value="0.0006" />
-			<point error="1" time="0.0449000000954" value="0.0011" />
-			<point error="1" time="0.0487000001594" value="0.0006" />
-			<point error="1" time="0.0523000000976" value="0.0011" />
-			<point error="1" time="0.0558000002056" value="0.0011" />
-			<point error="1" time="0.0593000003137" value="0.0010" />
-			<point error="1" time="0.0629000002518" value="0.0011" />
-			<point error="1" time="0.0663999998942" value="0.0010" />
-			<point error="1" time="0.070000000298" value="0.0013" />
-			<point error="1" time="0.0734999999404" value="0.0016" />
-			<point error="1" time="0.0769000002183" value="0.0018" />
-			<point error="1" time="0.0800999999046" value="0.0017" />
-			<point error="1" time="0.0837000003085" value="0.0010" />
-			<point error="1" time="0.0871999999508" value="0.0011" />
-			<point error="1" time="0.0907000000589" value="0.0007" />
-			<point error="1" time="0.094299999997" value="0.0013" />
-			<point error="1" time="0.0978000001051" value="0.0006" />
-			<point error="1" time="0.101400000043" value="0.0035" />
-			<point error="1" time="0.104400000069" value="0.0009" />
-			<point error="1" time="0.107600000221" value="0.0039" />
-			<point error="1" time="0.11129999999" value="0.0030" />
-			<point error="1" time="0.114899999928" value="0.0021" />
-			<point error="1" time="0.118400000036" value="0.0036" />
-			<point error="1" time="0.121900000144" value="0.0038" />
-			<point error="1" time="0.125500000082" value="0.0002" />
-			<point error="1" time="0.12900000019" value="0.0003" />
-			<point error="1" time="0.132500000298" value="0.0004" />
-			<point error="1" time="0.136100000236" value="0.0002" />
-			<point error="1" time="0.139200000092" value="0.0010" />
-			<point error="1" time="0.142299999949" value="0.0072" />
-			<point error="1" time="0.145800000057" value="0.0015" />
-			<point error="1" time="0.149300000165" value="0.0016" />
-			<point error="1" time="0.152900000103" value="0.0013" />
-			<point error="1" time="0.156400000211" value="0.0007" />
-			<point error="1" time="0.160000000149" value="0.0006" />
-			<point error="1" time="0.163500000257" value="0.0004" />
-			<point error="1" time="0.166999999899" value="0.0010" />
-			<point error="1" time="0.170600000303" value="0.0032" />
-			<point error="1" time="0.173900000285" value="0.0025" />
-			<point error="1" time="0.177000000142" value="0.0030" />
-			<point error="1" time="0.18050000025" value="0.0037" />
-			<point error="1" time="0.184100000188" value="0.0017" />
-			<point error="1" time="0.187600000296" value="0.0002" />
-			<point error="1" time="0.191099999938" value="0.0003" />
-			<point error="1" time="0.194699999876" value="0.0003" />
-			<point error="1" time="0.198199999984" value="0.0002" />
-			<point error="1" time="0.201900000218" value="0.0004" />
-			<point error="1" time="0.205400000326" value="0.0000" />
-		</data>
-	</curve>
-	<curve id="UID_0300001_PLC_002.tbl" type="2">
-		<type>Transit Light Curve</type>
-		<reference>Bentley et al. 2009 (A&amp;A, 505, 901)</reference>
-		<bibcodes>2009A&amp;A...505..901B</bibcodes>
-		<observatory>ESO VLT, Paranal Observatory, Chile</observatory>
-		<telescope>8.2m Melipal (UT3)</telescope>
-		<xaxis>HJD</xaxis>
-		<yaxis>Relative Magnitude</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>mag</yaxisunits>
+		<yaxisunits />
 		<data mintime="2454262.7037">
 			<point error="1" time="0.0" value="0.0001" />
 			<point error="1" time="0.00340000027791" value="0.0001" />
@@ -229,16 +156,16 @@
 			<point error="1" time="0.222000000067" value="0.0000" />
 		</data>
 	</curve>
-	<curve id="UID_0300001_PLC_003.tbl" type="2">
+	<curve id="UID_0300001_PLC_002.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>Bentley et al. 2009 (A&amp;A, 505, 901)</reference>
 		<bibcodes>2009A&amp;A...505..901B</bibcodes>
 		<observatory>ESO VLT, Paranal Observatory, Chile</observatory>
 		<telescope>8.2m Melipal (UT3)</telescope>
 		<xaxis>HJD</xaxis>
-		<yaxis>Relative Magnitude</yaxis>
+		<yaxis>Relative Flux</yaxis>
 		<xaxisunits>days</xaxisunits>
-		<yaxisunits>mag</yaxisunits>
+		<yaxisunits />
 		<data mintime="2454262.7037">
 			<point error="1" time="0.0" value="0.0001" />
 			<point error="1" time="0.00340000027791" value="0.0001" />
@@ -307,6 +234,79 @@
 			<point error="1" time="0.222000000067" value="0.0001" />
 		</data>
 	</curve>
+	<curve id="UID_0300001_PLC_003.tbl" type="2">
+		<type>Transit Light Curve</type>
+		<reference>Bentley et al. 2009 (A&amp;A, 505, 901)</reference>
+		<bibcodes>2009A&amp;A...505..901B</bibcodes>
+		<observatory>ESO VLT, Paranal Observatory, Chile</observatory>
+		<telescope>8.2m Melipal (UT3)</telescope>
+		<xaxis>HJD</xaxis>
+		<yaxis>Relative Flux</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits />
+		<data mintime="2454262.7147">
+			<point error="1" time="0.0" value="0.0013" />
+			<point error="1" time="0.00359999993816" value="0.0005" />
+			<point error="1" time="0.00710000004619" value="0.0006" />
+			<point error="1" time="0.0106000001542" value="0.0001" />
+			<point error="1" time="0.0142999999225" value="0.0006" />
+			<point error="1" time="0.0177000002004" value="0.0005" />
+			<point error="1" time="0.0208999998868" value="0.0013" />
+			<point error="1" time="0.0248000002466" value="0.0004" />
+			<point error="1" time="0.028299999889" value="0.0005" />
+			<point error="1" time="0.031799999997" value="0.0005" />
+			<point error="1" time="0.0353999999352" value="0.0035" />
+			<point error="1" time="0.038500000257" value="0.0075" />
+			<point error="1" time="0.0416000001132" value="0.0006" />
+			<point error="1" time="0.0449000000954" value="0.0011" />
+			<point error="1" time="0.0487000001594" value="0.0006" />
+			<point error="1" time="0.0523000000976" value="0.0011" />
+			<point error="1" time="0.0558000002056" value="0.0011" />
+			<point error="1" time="0.0593000003137" value="0.0010" />
+			<point error="1" time="0.0629000002518" value="0.0011" />
+			<point error="1" time="0.0663999998942" value="0.0010" />
+			<point error="1" time="0.070000000298" value="0.0013" />
+			<point error="1" time="0.0734999999404" value="0.0016" />
+			<point error="1" time="0.0769000002183" value="0.0018" />
+			<point error="1" time="0.0800999999046" value="0.0017" />
+			<point error="1" time="0.0837000003085" value="0.0010" />
+			<point error="1" time="0.0871999999508" value="0.0011" />
+			<point error="1" time="0.0907000000589" value="0.0007" />
+			<point error="1" time="0.094299999997" value="0.0013" />
+			<point error="1" time="0.0978000001051" value="0.0006" />
+			<point error="1" time="0.101400000043" value="0.0035" />
+			<point error="1" time="0.104400000069" value="0.0009" />
+			<point error="1" time="0.107600000221" value="0.0039" />
+			<point error="1" time="0.11129999999" value="0.0030" />
+			<point error="1" time="0.114899999928" value="0.0021" />
+			<point error="1" time="0.118400000036" value="0.0036" />
+			<point error="1" time="0.121900000144" value="0.0038" />
+			<point error="1" time="0.125500000082" value="0.0002" />
+			<point error="1" time="0.12900000019" value="0.0003" />
+			<point error="1" time="0.132500000298" value="0.0004" />
+			<point error="1" time="0.136100000236" value="0.0002" />
+			<point error="1" time="0.139200000092" value="0.0010" />
+			<point error="1" time="0.142299999949" value="0.0072" />
+			<point error="1" time="0.145800000057" value="0.0015" />
+			<point error="1" time="0.149300000165" value="0.0016" />
+			<point error="1" time="0.152900000103" value="0.0013" />
+			<point error="1" time="0.156400000211" value="0.0007" />
+			<point error="1" time="0.160000000149" value="0.0006" />
+			<point error="1" time="0.163500000257" value="0.0004" />
+			<point error="1" time="0.166999999899" value="0.0010" />
+			<point error="1" time="0.170600000303" value="0.0032" />
+			<point error="1" time="0.173900000285" value="0.0025" />
+			<point error="1" time="0.177000000142" value="0.0030" />
+			<point error="1" time="0.18050000025" value="0.0037" />
+			<point error="1" time="0.184100000188" value="0.0017" />
+			<point error="1" time="0.187600000296" value="0.0002" />
+			<point error="1" time="0.191099999938" value="0.0003" />
+			<point error="1" time="0.194699999876" value="0.0003" />
+			<point error="1" time="0.198199999984" value="0.0002" />
+			<point error="1" time="0.201900000218" value="0.0004" />
+			<point error="1" time="0.205400000326" value="0.0000" />
+		</data>
+	</curve>
 	<curve id="UID_0300001_PLC_004.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>Holman et al. 2007 (ApJ, 655, 1103)</reference>
@@ -316,220 +316,7 @@
 		<xaxis>HJD</xaxis>
 		<yaxis>Relative Flux</yaxis>
 		<xaxisunits>days</xaxisunits>
-		<yaxisunits>mag</yaxisunits>
-		<data mintime="2452761.77626">
-			<point error="1" time="0.0" value="0.00245" />
-			<point error="1" time="0.00218999991193" value="0.00245" />
-			<point error="1" time="0.0045399996452" value="0.00245" />
-			<point error="1" time="0.00717999972403" value="0.00245" />
-			<point error="1" time="0.00940999994054" value="0.00245" />
-			<point error="1" time="0.0116099999286" value="0.00243" />
-			<point error="1" time="0.0135399997234" value="0.00245" />
-			<point error="1" time="0.015569999814" value="0.00245" />
-			<point error="1" time="0.0173999997787" value="0.00245" />
-			<point error="1" time="0.0192499998957" value="0.00247" />
-			<point error="1" time="0.0211099996231" value="0.00245" />
-			<point error="1" time="0.022949999664" value="0.00245" />
-			<point error="1" time="0.0248300000094" value="0.00245" />
-			<point error="1" time="0.0364799997769" value="0.00236" />
-			<point error="1" time="0.0386099996977" value="0.00241" />
-			<point error="1" time="0.0411000000313" value="0.00245" />
-			<point error="1" time="0.0629699998535" value="0.00232" />
-			<point error="1" time="0.0650899996981" value="0.00234" />
-			<point error="1" time="0.0671500000171" value="0.00241" />
-			<point error="1" time="0.0691799996421" value="0.00249" />
-			<point error="1" time="0.0710499999113" value="0.00247" />
-			<point error="1" time="0.0789799997583" value="0.00249" />
-			<point error="1" time="0.0815699999221" value="0.00249" />
-			<point error="1" time="0.0834899996407" value="0.00213" />
-			<point error="1" time="0.0857799998485" value="0.00249" />
-			<point error="1" time="0.0879499996081" value="0.00247" />
-			<point error="1" time="0.0897699999623" value="0.00249" />
-			<point error="1" time="0.0918199997395" value="0.00250" />
-			<point error="1" time="0.0940099996515" value="0.00249" />
-			<point error="1" time="0.0962499999441" value="0.00250" />
-			<point error="1" time="0.0984299997799" value="0.00249" />
-			<point error="1" time="0.100600000005" value="0.00250" />
-			<point error="1" time="0.102779999841" value="0.00249" />
-			<point error="1" time="0.104969999753" value="0.00249" />
-			<point error="1" time="0.107139999978" value="0.00250" />
-			<point error="1" time="0.109319999814" value="0.00250" />
-			<point error="1" time="0.111610000022" value="0.00232" />
-			<point error="1" time="0.113789999858" value="0.00249" />
-			<point error="1" time="0.116119999904" value="0.00250" />
-			<point error="1" time="0.11829999974" value="0.00241" />
-			<point error="1" time="0.120529999956" value="0.00245" />
-			<point error="1" time="0.122860000003" value="0.00247" />
-			<point error="1" time="0.125039999839" value="0.00249" />
-			<point error="1" time="0.127209999599" value="0.00245" />
-			<point error="1" time="0.1293899999" value="0.00247" />
-			<point error="1" time="0.131569999736" value="0.00241" />
-			<point error="1" time="0.133739999961" value="0.00249" />
-			<point error="1" time="0.135919999797" value="0.00247" />
-			<point error="1" time="0.139839999843" value="0.00210" />
-			<point error="1" time="0.142049999908" value="0.00178" />
-			<point error="1" time="0.144279999658" value="0.00195" />
-			<point error="1" time="0.146449999884" value="0.00180" />
-			<point error="1" time="0.148670000024" value="0.00258" />
-			<point error="1" time="0.150859999936" value="0.00256" />
-			<point error="1" time="0.153500000015" value="0.00258" />
-		</data>
-	</curve>
-	<curve id="UID_0300001_PLC_005.tbl" type="2">
-		<type>Transit Light Curve</type>
-		<reference>Holman et al. 2007 (ApJ, 655, 1103)</reference>
-		<bibcodes>2007ApJ...655.1103H</bibcodes>
-		<observatory>Las Campanas Observatory, Chile</observatory>
-		<telescope>6.5m Magellan I (Walter Baade Telescope)</telescope>
-		<xaxis>HJD</xaxis>
-		<yaxis>Relative Flux</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>mag</yaxisunits>
-		<data mintime="2452761.77735">
-			<point error="1" time="0.0" value="0.00129" />
-			<point error="1" time="0.00233000004664" value="0.00132" />
-			<point error="1" time="0.00490000005811" value="0.00129" />
-			<point error="1" time="0.00718999980018" value="0.00132" />
-			<point error="1" time="0.00942000001669" value="0.00129" />
-			<point error="1" time="0.0115000000224" value="0.00092" />
-			<point error="1" time="0.0135099999607" value="0.00092" />
-			<point error="1" time="0.0153899998404" value="0.00092" />
-			<point error="1" time="0.0172399999574" value="0.00092" />
-			<point error="1" time="0.0190900000744" value="0.00094" />
-			<point error="1" time="0.0209300001152" value="0.00092" />
-			<point error="1" time="0.0227999999188" value="0.00092" />
-			<point error="1" time="0.024759999942" value="0.00092" />
-			<point error="1" time="0.0344699998386" value="0.00094" />
-			<point error="1" time="0.0365800000727" value="0.00092" />
-			<point error="1" time="0.0384399998002" value="0.00092" />
-			<point error="1" time="0.039090000093" value="0.00094" />
-			<point error="1" time="0.0610799998976" value="0.00094" />
-			<point error="1" time="0.0629699998535" value="0.00089" />
-			<point error="1" time="0.0651199999265" value="0.00092" />
-			<point error="1" time="0.0671600000933" value="0.00094" />
-			<point error="1" time="0.0710700000636" value="0.00139" />
-			<point error="1" time="0.0793900000863" value="0.00137" />
-			<point error="1" time="0.0814799997024" value="0.00119" />
-			<point error="1" time="0.0835799998604" value="0.00137" />
-			<point error="1" time="0.0857699997723" value="0.00134" />
-			<point error="1" time="0.0877799997106" value="0.00092" />
-			<point error="1" time="0.0896899998188" value="0.00119" />
-			<point error="1" time="0.0918299998157" value="0.00142" />
-			<point error="1" time="0.0940600000322" value="0.00137" />
-			<point error="1" time="0.0962499999441" value="0.00139" />
-			<point error="1" time="0.0984199997038" value="0.00137" />
-			<point error="1" time="0.100600000005" value="0.00142" />
-			<point error="1" time="0.102779999841" value="0.00137" />
-			<point error="1" time="0.104959999677" value="0.00137" />
-			<point error="1" time="0.107139999978" value="0.00137" />
-			<point error="1" time="0.109319999814" value="0.00137" />
-			<point error="1" time="0.111610000022" value="0.00132" />
-			<point error="1" time="0.113949999679" value="0.00137" />
-			<point error="1" time="0.116119999904" value="0.00134" />
-			<point error="1" time="0.11829999974" value="0.00134" />
-			<point error="1" time="0.120529999956" value="0.00134" />
-			<point error="1" time="0.122860000003" value="0.00142" />
-			<point error="1" time="0.125039999839" value="0.00134" />
-			<point error="1" time="0.127210000064" value="0.00137" />
-			<point error="1" time="0.1293899999" value="0.00137" />
-			<point error="1" time="0.131560000125" value="0.00132" />
-			<point error="1" time="0.133739999961" value="0.00139" />
-			<point error="1" time="0.135919999797" value="0.00139" />
-			<point error="1" time="0.137319999747" value="0.00127" />
-			<point error="1" time="0.13984999992" value="0.00107" />
-			<point error="1" time="0.142089999747" value="0.00117" />
-			<point error="1" time="0.144270000048" value="0.00109" />
-			<point error="1" time="0.146449999884" value="0.00127" />
-			<point error="1" time="0.1486800001" value="0.00139" />
-			<point error="1" time="0.150859999936" value="0.00137" />
-			<point error="1" time="0.153500000015" value="0.00127" />
-			<point error="1" time="0.155729999766" value="0.00144" />
-		</data>
-	</curve>
-	<curve id="UID_0300001_PLC_006.tbl" type="2">
-		<type>Transit Light Curve</type>
-		<reference>Holman et al. 2007 (ApJ, 655, 1103)</reference>
-		<bibcodes>2007ApJ...655.1103H</bibcodes>
-		<observatory>Las Campanas Observatory, Chile</observatory>
-		<telescope>6.5m Magellan I (Walter Baade Telescope)</telescope>
-		<xaxis>HJD</xaxis>
-		<yaxis>Relative Flux</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>mag</yaxisunits>
-		<data mintime="2452851.68436">
-			<point error="1" time="0.0" value="0.00089" />
-			<point error="1" time="0.00221000006422" value="0.00091" />
-			<point error="1" time="0.00438000028953" value="0.00093" />
-			<point error="1" time="0.00656000012532" value="0.00087" />
-			<point error="1" time="0.00873999996111" value="0.00096" />
-			<point error="1" time="0.0109100001864" value="0.00093" />
-			<point error="1" time="0.0132500003092" value="0.00089" />
-			<point error="1" time="0.015430000145" value="0.00091" />
-			<point error="1" time="0.0176000003703" value="0.00091" />
-			<point error="1" time="0.0197900002822" value="0.00089" />
-			<point error="1" time="0.021970000118" value="0.00091" />
-			<point error="1" time="0.024209999945" value="0.00087" />
-			<point error="1" time="0.0263900002465" value="0.00087" />
-			<point error="1" time="0.0285600000061" value="0.00089" />
-			<point error="1" time="0.0307400003076" value="0.00091" />
-			<point error="1" time="0.0329100000672" value="0.00091" />
-			<point error="1" time="0.0350900003687" value="0.00093" />
-			<point error="1" time="0.0372600001283" value="0.00093" />
-			<point error="1" time="0.0394399999641" value="0.00089" />
-			<point error="1" time="0.0416200002655" value="0.00089" />
-			<point error="1" time="0.0437900000252" value="0.00079" />
-			<point error="1" time="0.0460600000806" value="0.00093" />
-			<point error="1" time="0.0482400003821" value="0.00091" />
-			<point error="1" time="0.0504100001417" value="0.00102" />
-			<point error="1" time="0.0525899999775" value="0.00098" />
-			<point error="1" time="0.0547600002028" value="0.00091" />
-			<point error="1" time="0.0569400000386" value="0.00093" />
-			<point error="1" time="0.0591100002639" value="0.00091" />
-		</data>
-	</curve>
-	<curve id="UID_0300001_PLC_007.tbl" type="2">
-		<type>Transit Light Curve</type>
-		<reference>Holman et al. 2007 (ApJ, 655, 1103)</reference>
-		<bibcodes>2007ApJ...655.1103H</bibcodes>
-		<observatory>Las Campanas Observatory, Chile</observatory>
-		<telescope>6.5m Magellan I (Walter Baade Telescope)</telescope>
-		<xaxis>HJD</xaxis>
-		<yaxis>Relative Flux</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>mag</yaxisunits>
-		<data mintime="2452848.69118">
-			<point error="1" time="0.0" value="0.00185" />
-			<point error="1" time="0.00216999975964" value="0.00176" />
-			<point error="1" time="0.00435000006109" value="0.00184" />
-			<point error="1" time="0.00652999989688" value="0.00188" />
-			<point error="1" time="0.00870999973267" value="0.00188" />
-			<point error="1" time="0.0109500000253" value="0.00188" />
-			<point error="1" time="0.0131299998611" value="0.00194" />
-			<point error="1" time="0.0153000000864" value="0.00194" />
-			<point error="1" time="0.0174799999222" value="0.00191" />
-			<point error="1" time="0.0196400000714" value="0.00203" />
-			<point error="1" time="0.0218199999072" value="0.00206" />
-			<point error="1" time="0.023999999743" value="0.00203" />
-			<point error="1" time="0.0261699999683" value="0.00191" />
-			<point error="1" time="0.028349999804" value="0.00185" />
-			<point error="1" time="0.0305300001055" value="0.00191" />
-			<point error="1" time="0.0327099999413" value="0.00190" />
-			<point error="1" time="0.0348899997771" value="0.00187" />
-			<point error="1" time="0.0392399998382" value="0.00176" />
-			<point error="1" time="0.0413999999873" value="0.00182" />
-			<point error="1" time="0.0435799998231" value="0.00184" />
-		</data>
-	</curve>
-	<curve id="UID_0300001_PLC_008.tbl" type="2">
-		<type>Transit Light Curve</type>
-		<reference>Holman et al. 2007 (ApJ, 655, 1103)</reference>
-		<bibcodes>2007ApJ...655.1103H</bibcodes>
-		<observatory>Las Campanas Observatory, Chile</observatory>
-		<telescope>6.5m Magellan I (Walter Baade Telescope)</telescope>
-		<xaxis>HJD</xaxis>
-		<yaxis>Relative Flux</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>mag</yaxisunits>
+		<yaxisunits />
 		<data mintime="2453921.58279">
 			<point error="1" time="0.0" value="0.00248" />
 			<point error="1" time="0.00328999990597" value="0.00186" />
@@ -702,7 +489,7 @@
 			<point error="1" time="0.195060000289" value="0.00188" />
 		</data>
 	</curve>
-	<curve id="UID_0300001_PLC_009.tbl" type="2">
+	<curve id="UID_0300001_PLC_005.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>Holman et al. 2007 (ApJ, 655, 1103)</reference>
 		<bibcodes>2007ApJ...655.1103H</bibcodes>
@@ -711,7 +498,7 @@
 		<xaxis>HJD</xaxis>
 		<yaxis>Relative Flux</yaxis>
 		<xaxisunits>days</xaxisunits>
-		<yaxisunits>mag</yaxisunits>
+		<yaxisunits />
 		<data mintime="2453583.58158">
 			<point error="1" time="0.0" value="0.00120" />
 			<point error="1" time="0.000659999903291" value="0.00127" />
@@ -934,7 +721,7 @@
 			<point error="1" time="0.148330000229" value="0.00117" />
 		</data>
 	</curve>
-	<curve id="UID_0300001_PLC_010.tbl" type="2">
+	<curve id="UID_0300001_PLC_006.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>Holman et al. 2007 (ApJ, 655, 1103)</reference>
 		<bibcodes>2007ApJ...655.1103H</bibcodes>
@@ -943,7 +730,7 @@
 		<xaxis>HJD</xaxis>
 		<yaxis>Relative Flux</yaxis>
 		<xaxisunits>days</xaxisunits>
-		<yaxisunits>mag</yaxisunits>
+		<yaxisunits />
 		<data mintime="2452851.68325">
 			<point error="1" time="0.0" value="0.00190" />
 			<point error="1" time="0.00223000021651" value="0.00190" />
@@ -976,6 +763,219 @@
 			<point error="1" time="0.061310000252" value="0.00183" />
 		</data>
 	</curve>
+	<curve id="UID_0300001_PLC_007.tbl" type="2">
+		<type>Transit Light Curve</type>
+		<reference>Holman et al. 2007 (ApJ, 655, 1103)</reference>
+		<bibcodes>2007ApJ...655.1103H</bibcodes>
+		<observatory>Las Campanas Observatory, Chile</observatory>
+		<telescope>6.5m Magellan I (Walter Baade Telescope)</telescope>
+		<xaxis>HJD</xaxis>
+		<yaxis>Relative Flux</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits />
+		<data mintime="2452761.77626">
+			<point error="1" time="0.0" value="0.00245" />
+			<point error="1" time="0.00218999991193" value="0.00245" />
+			<point error="1" time="0.0045399996452" value="0.00245" />
+			<point error="1" time="0.00717999972403" value="0.00245" />
+			<point error="1" time="0.00940999994054" value="0.00245" />
+			<point error="1" time="0.0116099999286" value="0.00243" />
+			<point error="1" time="0.0135399997234" value="0.00245" />
+			<point error="1" time="0.015569999814" value="0.00245" />
+			<point error="1" time="0.0173999997787" value="0.00245" />
+			<point error="1" time="0.0192499998957" value="0.00247" />
+			<point error="1" time="0.0211099996231" value="0.00245" />
+			<point error="1" time="0.022949999664" value="0.00245" />
+			<point error="1" time="0.0248300000094" value="0.00245" />
+			<point error="1" time="0.0364799997769" value="0.00236" />
+			<point error="1" time="0.0386099996977" value="0.00241" />
+			<point error="1" time="0.0411000000313" value="0.00245" />
+			<point error="1" time="0.0629699998535" value="0.00232" />
+			<point error="1" time="0.0650899996981" value="0.00234" />
+			<point error="1" time="0.0671500000171" value="0.00241" />
+			<point error="1" time="0.0691799996421" value="0.00249" />
+			<point error="1" time="0.0710499999113" value="0.00247" />
+			<point error="1" time="0.0789799997583" value="0.00249" />
+			<point error="1" time="0.0815699999221" value="0.00249" />
+			<point error="1" time="0.0834899996407" value="0.00213" />
+			<point error="1" time="0.0857799998485" value="0.00249" />
+			<point error="1" time="0.0879499996081" value="0.00247" />
+			<point error="1" time="0.0897699999623" value="0.00249" />
+			<point error="1" time="0.0918199997395" value="0.00250" />
+			<point error="1" time="0.0940099996515" value="0.00249" />
+			<point error="1" time="0.0962499999441" value="0.00250" />
+			<point error="1" time="0.0984299997799" value="0.00249" />
+			<point error="1" time="0.100600000005" value="0.00250" />
+			<point error="1" time="0.102779999841" value="0.00249" />
+			<point error="1" time="0.104969999753" value="0.00249" />
+			<point error="1" time="0.107139999978" value="0.00250" />
+			<point error="1" time="0.109319999814" value="0.00250" />
+			<point error="1" time="0.111610000022" value="0.00232" />
+			<point error="1" time="0.113789999858" value="0.00249" />
+			<point error="1" time="0.116119999904" value="0.00250" />
+			<point error="1" time="0.11829999974" value="0.00241" />
+			<point error="1" time="0.120529999956" value="0.00245" />
+			<point error="1" time="0.122860000003" value="0.00247" />
+			<point error="1" time="0.125039999839" value="0.00249" />
+			<point error="1" time="0.127209999599" value="0.00245" />
+			<point error="1" time="0.1293899999" value="0.00247" />
+			<point error="1" time="0.131569999736" value="0.00241" />
+			<point error="1" time="0.133739999961" value="0.00249" />
+			<point error="1" time="0.135919999797" value="0.00247" />
+			<point error="1" time="0.139839999843" value="0.00210" />
+			<point error="1" time="0.142049999908" value="0.00178" />
+			<point error="1" time="0.144279999658" value="0.00195" />
+			<point error="1" time="0.146449999884" value="0.00180" />
+			<point error="1" time="0.148670000024" value="0.00258" />
+			<point error="1" time="0.150859999936" value="0.00256" />
+			<point error="1" time="0.153500000015" value="0.00258" />
+		</data>
+	</curve>
+	<curve id="UID_0300001_PLC_008.tbl" type="2">
+		<type>Transit Light Curve</type>
+		<reference>Holman et al. 2007 (ApJ, 655, 1103)</reference>
+		<bibcodes>2007ApJ...655.1103H</bibcodes>
+		<observatory>Las Campanas Observatory, Chile</observatory>
+		<telescope>6.5m Magellan I (Walter Baade Telescope)</telescope>
+		<xaxis>HJD</xaxis>
+		<yaxis>Relative Flux</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits />
+		<data mintime="2452848.69118">
+			<point error="1" time="0.0" value="0.00185" />
+			<point error="1" time="0.00216999975964" value="0.00176" />
+			<point error="1" time="0.00435000006109" value="0.00184" />
+			<point error="1" time="0.00652999989688" value="0.00188" />
+			<point error="1" time="0.00870999973267" value="0.00188" />
+			<point error="1" time="0.0109500000253" value="0.00188" />
+			<point error="1" time="0.0131299998611" value="0.00194" />
+			<point error="1" time="0.0153000000864" value="0.00194" />
+			<point error="1" time="0.0174799999222" value="0.00191" />
+			<point error="1" time="0.0196400000714" value="0.00203" />
+			<point error="1" time="0.0218199999072" value="0.00206" />
+			<point error="1" time="0.023999999743" value="0.00203" />
+			<point error="1" time="0.0261699999683" value="0.00191" />
+			<point error="1" time="0.028349999804" value="0.00185" />
+			<point error="1" time="0.0305300001055" value="0.00191" />
+			<point error="1" time="0.0327099999413" value="0.00190" />
+			<point error="1" time="0.0348899997771" value="0.00187" />
+			<point error="1" time="0.0392399998382" value="0.00176" />
+			<point error="1" time="0.0413999999873" value="0.00182" />
+			<point error="1" time="0.0435799998231" value="0.00184" />
+		</data>
+	</curve>
+	<curve id="UID_0300001_PLC_009.tbl" type="2">
+		<type>Transit Light Curve</type>
+		<reference>Holman et al. 2007 (ApJ, 655, 1103)</reference>
+		<bibcodes>2007ApJ...655.1103H</bibcodes>
+		<observatory>Las Campanas Observatory, Chile</observatory>
+		<telescope>6.5m Magellan I (Walter Baade Telescope)</telescope>
+		<xaxis>HJD</xaxis>
+		<yaxis>Relative Flux</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits />
+		<data mintime="2452851.68436">
+			<point error="1" time="0.0" value="0.00089" />
+			<point error="1" time="0.00221000006422" value="0.00091" />
+			<point error="1" time="0.00438000028953" value="0.00093" />
+			<point error="1" time="0.00656000012532" value="0.00087" />
+			<point error="1" time="0.00873999996111" value="0.00096" />
+			<point error="1" time="0.0109100001864" value="0.00093" />
+			<point error="1" time="0.0132500003092" value="0.00089" />
+			<point error="1" time="0.015430000145" value="0.00091" />
+			<point error="1" time="0.0176000003703" value="0.00091" />
+			<point error="1" time="0.0197900002822" value="0.00089" />
+			<point error="1" time="0.021970000118" value="0.00091" />
+			<point error="1" time="0.024209999945" value="0.00087" />
+			<point error="1" time="0.0263900002465" value="0.00087" />
+			<point error="1" time="0.0285600000061" value="0.00089" />
+			<point error="1" time="0.0307400003076" value="0.00091" />
+			<point error="1" time="0.0329100000672" value="0.00091" />
+			<point error="1" time="0.0350900003687" value="0.00093" />
+			<point error="1" time="0.0372600001283" value="0.00093" />
+			<point error="1" time="0.0394399999641" value="0.00089" />
+			<point error="1" time="0.0416200002655" value="0.00089" />
+			<point error="1" time="0.0437900000252" value="0.00079" />
+			<point error="1" time="0.0460600000806" value="0.00093" />
+			<point error="1" time="0.0482400003821" value="0.00091" />
+			<point error="1" time="0.0504100001417" value="0.00102" />
+			<point error="1" time="0.0525899999775" value="0.00098" />
+			<point error="1" time="0.0547600002028" value="0.00091" />
+			<point error="1" time="0.0569400000386" value="0.00093" />
+			<point error="1" time="0.0591100002639" value="0.00091" />
+		</data>
+	</curve>
+	<curve id="UID_0300001_PLC_010.tbl" type="2">
+		<type>Transit Light Curve</type>
+		<reference>Holman et al. 2007 (ApJ, 655, 1103)</reference>
+		<bibcodes>2007ApJ...655.1103H</bibcodes>
+		<observatory>Las Campanas Observatory, Chile</observatory>
+		<telescope>6.5m Magellan I (Walter Baade Telescope)</telescope>
+		<xaxis>HJD</xaxis>
+		<yaxis>Relative Flux</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits />
+		<data mintime="2452761.77735">
+			<point error="1" time="0.0" value="0.00129" />
+			<point error="1" time="0.00233000004664" value="0.00132" />
+			<point error="1" time="0.00490000005811" value="0.00129" />
+			<point error="1" time="0.00718999980018" value="0.00132" />
+			<point error="1" time="0.00942000001669" value="0.00129" />
+			<point error="1" time="0.0115000000224" value="0.00092" />
+			<point error="1" time="0.0135099999607" value="0.00092" />
+			<point error="1" time="0.0153899998404" value="0.00092" />
+			<point error="1" time="0.0172399999574" value="0.00092" />
+			<point error="1" time="0.0190900000744" value="0.00094" />
+			<point error="1" time="0.0209300001152" value="0.00092" />
+			<point error="1" time="0.0227999999188" value="0.00092" />
+			<point error="1" time="0.024759999942" value="0.00092" />
+			<point error="1" time="0.0344699998386" value="0.00094" />
+			<point error="1" time="0.0365800000727" value="0.00092" />
+			<point error="1" time="0.0384399998002" value="0.00092" />
+			<point error="1" time="0.039090000093" value="0.00094" />
+			<point error="1" time="0.0610799998976" value="0.00094" />
+			<point error="1" time="0.0629699998535" value="0.00089" />
+			<point error="1" time="0.0651199999265" value="0.00092" />
+			<point error="1" time="0.0671600000933" value="0.00094" />
+			<point error="1" time="0.0710700000636" value="0.00139" />
+			<point error="1" time="0.0793900000863" value="0.00137" />
+			<point error="1" time="0.0814799997024" value="0.00119" />
+			<point error="1" time="0.0835799998604" value="0.00137" />
+			<point error="1" time="0.0857699997723" value="0.00134" />
+			<point error="1" time="0.0877799997106" value="0.00092" />
+			<point error="1" time="0.0896899998188" value="0.00119" />
+			<point error="1" time="0.0918299998157" value="0.00142" />
+			<point error="1" time="0.0940600000322" value="0.00137" />
+			<point error="1" time="0.0962499999441" value="0.00139" />
+			<point error="1" time="0.0984199997038" value="0.00137" />
+			<point error="1" time="0.100600000005" value="0.00142" />
+			<point error="1" time="0.102779999841" value="0.00137" />
+			<point error="1" time="0.104959999677" value="0.00137" />
+			<point error="1" time="0.107139999978" value="0.00137" />
+			<point error="1" time="0.109319999814" value="0.00137" />
+			<point error="1" time="0.111610000022" value="0.00132" />
+			<point error="1" time="0.113949999679" value="0.00137" />
+			<point error="1" time="0.116119999904" value="0.00134" />
+			<point error="1" time="0.11829999974" value="0.00134" />
+			<point error="1" time="0.120529999956" value="0.00134" />
+			<point error="1" time="0.122860000003" value="0.00142" />
+			<point error="1" time="0.125039999839" value="0.00134" />
+			<point error="1" time="0.127210000064" value="0.00137" />
+			<point error="1" time="0.1293899999" value="0.00137" />
+			<point error="1" time="0.131560000125" value="0.00132" />
+			<point error="1" time="0.133739999961" value="0.00139" />
+			<point error="1" time="0.135919999797" value="0.00139" />
+			<point error="1" time="0.137319999747" value="0.00127" />
+			<point error="1" time="0.13984999992" value="0.00107" />
+			<point error="1" time="0.142089999747" value="0.00117" />
+			<point error="1" time="0.144270000048" value="0.00109" />
+			<point error="1" time="0.146449999884" value="0.00127" />
+			<point error="1" time="0.1486800001" value="0.00139" />
+			<point error="1" time="0.150859999936" value="0.00137" />
+			<point error="1" time="0.153500000015" value="0.00127" />
+			<point error="1" time="0.155729999766" value="0.00144" />
+		</data>
+	</curve>
 	<curve id="UID_0300001_PLC_011.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>Holman et al. 2007 (ApJ, 655, 1103)</reference>
@@ -985,7 +985,7 @@
 		<xaxis>HJD</xaxis>
 		<yaxis>Relative Flux</yaxis>
 		<xaxisunits>days</xaxisunits>
-		<yaxisunits>mag</yaxisunits>
+		<yaxisunits />
 		<data mintime="2452848.69226">
 			<point error="1" time="0.0" value="0.00052" />
 			<point error="1" time="0.00218999991193" value="0.00052" />
@@ -1021,7 +1021,87 @@
 		<xaxis>BJD</xaxis>
 		<yaxis>Relative Flux</yaxis>
 		<xaxisunits>days</xaxisunits>
-		<yaxisunits>mag</yaxisunits>
+		<yaxisunits />
+		<data mintime="2453890.66915">
+			<point error="1" time="0.0" value="0.000550588651" />
+			<point error="1" time="0.00105000007898" value="0.000548474025" />
+			<point error="1" time="0.0021100002341" value="0.000546048163" />
+			<point error="1" time="0.00316999992356" value="0.00055532268" />
+			<point error="1" time="0.00422000000253" value="0.000550822646" />
+			<point error="1" time="0.00528000015765" value="0.000551947742" />
+			<point error="1" time="0.00633000023663" value="0.000551197154" />
+			<point error="1" time="0.00737999984995" value="0.000552227953" />
+			<point error="1" time="0.0181499999017" value="0.000551152742" />
+			<point error="1" time="0.0191999999806" value="0.000561861962" />
+			<point error="1" time="0.0202600001357" value="0.000552741461" />
+			<point error="1" time="0.0213199998252" value="0.000556377228" />
+			<point error="1" time="0.0223699999042" value="0.000555283157" />
+			<point error="1" time="0.0234300000593" value="0.000545705145" />
+			<point error="1" time="0.0342500000261" value="0.000544739247" />
+			<point error="1" time="0.0353100001812" value="0.000545140065" />
+			<point error="1" time="0.0363699998707" value="0.000548324198" />
+			<point error="1" time="0.0374400001019" value="0.000546587806" />
+			<point error="1" time="0.038500000257" value="0.000545676914" />
+			<point error="1" time="0.0406300001778" value="0.000551774981" />
+			<point error="1" time="0.0416999999434" value="0.000548852375" />
+			<point error="1" time="0.0514899999835" value="0.000548630313" />
+			<point error="1" time="0.0525600002147" value="0.000545902876" />
+			<point error="1" time="0.0536199999042" value="0.000545634306" />
+			<point error="1" time="0.0546900001355" value="0.000552606594" />
+			<point error="1" time="0.0557499998249" value="0.000547713251" />
+			<point error="1" time="0.0578899998218" value="0.000544639479" />
+			<point error="1" time="0.058960000053" value="0.000556762796" />
+			<point error="1" time="0.0687899999321" value="0.000542341848" />
+			<point error="1" time="0.0698700002395" value="0.000544272421" />
+			<point error="1" time="0.0709400000051" value="0.000545703806" />
+			<point error="1" time="0.0720100002363" value="0.000543534523" />
+			<point error="1" time="0.0730699999258" value="0.000544651994" />
+			<point error="1" time="0.0741500002332" value="0.000541909889" />
+			<point error="1" time="0.0752199999988" value="0.000545859861" />
+			<point error="1" time="0.0762999998406" value="0.000545082963" />
+			<point error="1" time="0.0868100002408" value="0.000546109979" />
+			<point error="1" time="0.0878900000826" value="0.000544544542" />
+			<point error="1" time="0.0889699999243" value="0.000550826255" />
+			<point error="1" time="0.0900500002317" value="0.000544627081" />
+			<point error="1" time="0.0911199999973" value="0.000545019226" />
+			<point error="1" time="0.0921999998391" value="0.000548406795" />
+			<point error="1" time="0.0932700000703" value="0.000554401777" />
+			<point error="1" time="0.0943499999121" value="0.000544876326" />
+			<point error="1" time="0.104270000011" value="0.000541814079" />
+			<point error="1" time="0.105359999929" value="0.00054198748" />
+			<point error="1" time="0.106420000084" value="0.000543641043" />
+			<point error="1" time="0.107510000002" value="0.000545188319" />
+			<point error="1" time="0.10859999992" value="0.000544807175" />
+			<point error="1" time="0.109670000151" value="0.00054301694" />
+			<point error="1" time="0.110749999993" value="0.000544597278" />
+			<point error="1" time="0.11183999991" value="0.000544298382" />
+			<point error="1" time="0.121780000161" value="0.000545525807" />
+			<point error="1" time="0.123959999997" value="0.000545965799" />
+			<point error="1" time="0.125049999915" value="0.000542929163" />
+			<point error="1" time="0.126139999833" value="0.000542691676" />
+			<point error="1" time="0.12722000014" value="0.000546718074" />
+			<point error="1" time="0.128310000058" value="0.000546837575" />
+			<point error="1" time="0.129399999976" value="0.000551845238" />
+			<point error="1" time="0.139409999829" value="0.000545886345" />
+			<point error="1" time="0.140500000212" value="0.000545576273" />
+			<point error="1" time="0.141580000054" value="0.000545802992" />
+			<point error="1" time="0.142669999972" value="0.000544345472" />
+			<point error="1" time="0.14375999989" value="0.000547719479" />
+			<point error="1" time="0.144849999808" value="0.000547946838" />
+			<point error="1" time="0.145940000191" value="0.000545939896" />
+			<point error="1" time="0.147030000109" value="0.000550964673" />
+		</data>
+	</curve>
+	<curve id="UID_0300001_PLC_013.tbl" type="2">
+		<type>Transit Light Curve</type>
+		<reference>Pont et al. 2007 (A&amp;A, 465, 1069)</reference>
+		<bibcodes>2007A&amp;A...465.1069P</bibcodes>
+		<observatory />
+		<telescope>Very Large Telescope (VLT)</telescope>
+		<xaxis>BJD</xaxis>
+		<yaxis>Relative Flux</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits />
 		<data mintime="2453890.6617">
 			<point error="1" time="0.0" value="0.00070391316" />
 			<point error="1" time="0.00105000007898" value="0.000731838343" />
@@ -1101,86 +1181,6 @@
 			<point error="1" time="0.161129999906" value="0.000700967386" />
 			<point error="1" time="0.1622299999" value="0.000699021854" />
 			<point error="1" time="0.163319999818" value="0.000701413257" />
-		</data>
-	</curve>
-	<curve id="UID_0300001_PLC_013.tbl" type="2">
-		<type>Transit Light Curve</type>
-		<reference>Pont et al. 2007 (A&amp;A, 465, 1069)</reference>
-		<bibcodes>2007A&amp;A...465.1069P</bibcodes>
-		<observatory />
-		<telescope>Very Large Telescope (VLT)</telescope>
-		<xaxis>BJD</xaxis>
-		<yaxis>Relative Flux</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>mag</yaxisunits>
-		<data mintime="2453890.66915">
-			<point error="1" time="0.0" value="0.000550588651" />
-			<point error="1" time="0.00105000007898" value="0.000548474025" />
-			<point error="1" time="0.0021100002341" value="0.000546048163" />
-			<point error="1" time="0.00316999992356" value="0.00055532268" />
-			<point error="1" time="0.00422000000253" value="0.000550822646" />
-			<point error="1" time="0.00528000015765" value="0.000551947742" />
-			<point error="1" time="0.00633000023663" value="0.000551197154" />
-			<point error="1" time="0.00737999984995" value="0.000552227953" />
-			<point error="1" time="0.0181499999017" value="0.000551152742" />
-			<point error="1" time="0.0191999999806" value="0.000561861962" />
-			<point error="1" time="0.0202600001357" value="0.000552741461" />
-			<point error="1" time="0.0213199998252" value="0.000556377228" />
-			<point error="1" time="0.0223699999042" value="0.000555283157" />
-			<point error="1" time="0.0234300000593" value="0.000545705145" />
-			<point error="1" time="0.0342500000261" value="0.000544739247" />
-			<point error="1" time="0.0353100001812" value="0.000545140065" />
-			<point error="1" time="0.0363699998707" value="0.000548324198" />
-			<point error="1" time="0.0374400001019" value="0.000546587806" />
-			<point error="1" time="0.038500000257" value="0.000545676914" />
-			<point error="1" time="0.0406300001778" value="0.000551774981" />
-			<point error="1" time="0.0416999999434" value="0.000548852375" />
-			<point error="1" time="0.0514899999835" value="0.000548630313" />
-			<point error="1" time="0.0525600002147" value="0.000545902876" />
-			<point error="1" time="0.0536199999042" value="0.000545634306" />
-			<point error="1" time="0.0546900001355" value="0.000552606594" />
-			<point error="1" time="0.0557499998249" value="0.000547713251" />
-			<point error="1" time="0.0578899998218" value="0.000544639479" />
-			<point error="1" time="0.058960000053" value="0.000556762796" />
-			<point error="1" time="0.0687899999321" value="0.000542341848" />
-			<point error="1" time="0.0698700002395" value="0.000544272421" />
-			<point error="1" time="0.0709400000051" value="0.000545703806" />
-			<point error="1" time="0.0720100002363" value="0.000543534523" />
-			<point error="1" time="0.0730699999258" value="0.000544651994" />
-			<point error="1" time="0.0741500002332" value="0.000541909889" />
-			<point error="1" time="0.0752199999988" value="0.000545859861" />
-			<point error="1" time="0.0762999998406" value="0.000545082963" />
-			<point error="1" time="0.0868100002408" value="0.000546109979" />
-			<point error="1" time="0.0878900000826" value="0.000544544542" />
-			<point error="1" time="0.0889699999243" value="0.000550826255" />
-			<point error="1" time="0.0900500002317" value="0.000544627081" />
-			<point error="1" time="0.0911199999973" value="0.000545019226" />
-			<point error="1" time="0.0921999998391" value="0.000548406795" />
-			<point error="1" time="0.0932700000703" value="0.000554401777" />
-			<point error="1" time="0.0943499999121" value="0.000544876326" />
-			<point error="1" time="0.104270000011" value="0.000541814079" />
-			<point error="1" time="0.105359999929" value="0.00054198748" />
-			<point error="1" time="0.106420000084" value="0.000543641043" />
-			<point error="1" time="0.107510000002" value="0.000545188319" />
-			<point error="1" time="0.10859999992" value="0.000544807175" />
-			<point error="1" time="0.109670000151" value="0.00054301694" />
-			<point error="1" time="0.110749999993" value="0.000544597278" />
-			<point error="1" time="0.11183999991" value="0.000544298382" />
-			<point error="1" time="0.121780000161" value="0.000545525807" />
-			<point error="1" time="0.123959999997" value="0.000545965799" />
-			<point error="1" time="0.125049999915" value="0.000542929163" />
-			<point error="1" time="0.126139999833" value="0.000542691676" />
-			<point error="1" time="0.12722000014" value="0.000546718074" />
-			<point error="1" time="0.128310000058" value="0.000546837575" />
-			<point error="1" time="0.129399999976" value="0.000551845238" />
-			<point error="1" time="0.139409999829" value="0.000545886345" />
-			<point error="1" time="0.140500000212" value="0.000545576273" />
-			<point error="1" time="0.141580000054" value="0.000545802992" />
-			<point error="1" time="0.142669999972" value="0.000544345472" />
-			<point error="1" time="0.14375999989" value="0.000547719479" />
-			<point error="1" time="0.144849999808" value="0.000547946838" />
-			<point error="1" time="0.145940000191" value="0.000545939896" />
-			<point error="1" time="0.147030000109" value="0.000550964673" />
 		</data>
 	</curve>
 	<curve id="UID_0300001_PLC_014.tbl" type="2">

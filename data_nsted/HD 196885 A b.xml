@@ -3,6 +3,52 @@
 		<type>Radial Velocity Curve</type>
 		<reference>Correia et al. 2008 (A&amp;A, 479, 271)</reference>
 		<bibcodes>2008A&amp;A...479..271C</bibcodes>
+		<observatory>ESO La Silla, Chile</observatory>
+		<telescope>1.2m Euler Swiss telescope</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2451298.91898">
+			<point error="1" time="0.0" value="0.00640" />
+			<point error="1" time="7.98516899999" value="0.00739" />
+			<point error="1" time="67.8841260001" value="0.00549" />
+			<point error="1" time="99.795409" value="0.00589" />
+			<point error="1" time="160.682831" value="0.00655" />
+			<point error="1" time="181.636975" value="0.00652" />
+			<point error="1" time="191.60697" value="0.00816" />
+			<point error="1" time="390.962198" value="0.01040" />
+			<point error="1" time="488.758159" value="0.00593" />
+			<point error="1" time="511.682071" value="0.00486" />
+			<point error="1" time="537.624063" value="0.00581" />
+			<point error="1" time="545.594661" value="0.00493" />
+			<point error="1" time="750.989545" value="0.00965" />
+			<point error="1" time="752.922693" value="0.01008" />
+			<point error="1" time="773.876599" value="0.00568" />
+			<point error="1" time="782.905831" value="0.00568" />
+			<point error="1" time="794.833992" value="0.00578" />
+			<point error="1" time="800.844193" value="0.00950" />
+			<point error="1" time="805.781811" value="0.00639" />
+			<point error="1" time="807.784147" value="0.00759" />
+			<point error="1" time="844.797627" value="0.00531" />
+			<point error="1" time="862.706579" value="0.00667" />
+			<point error="1" time="900.633463" value="0.00641" />
+			<point error="1" time="918.58539" value="0.00647" />
+			<point error="1" time="924.59595" value="0.00754" />
+			<point error="1" time="1138.957431" value="0.00562" />
+			<point error="1" time="1161.841239" value="0.00734" />
+			<point error="1" time="1189.779013" value="0.00898" />
+			<point error="1" time="1199.791097" value="0.00458" />
+			<point error="1" time="1245.643461" value="0.00447" />
+			<point error="1" time="1251.624834" value="0.00484" />
+			<point error="1" time="1265.675896" value="0.00559" />
+			<point error="1" time="1293.636007" value="0.00660" />
+		</data>
+	</curve>
+	<curve id="UID_0101966_RVC_002.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Correia et al. 2008 (A&amp;A, 479, 271)</reference>
+		<bibcodes>2008A&amp;A...479..271C</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.0m</telescope>
 		<xaxis>JD</xaxis>
@@ -21,7 +67,7 @@
 			<point error="1" time="5512.861" value="0.39000" />
 		</data>
 	</curve>
-	<curve id="UID_0101966_RVC_002.tbl" type="4">
+	<curve id="UID_0101966_RVC_003.tbl" type="4">
 		<type>Radial Velocity Curve</type>
 		<reference>Correia et al. 2008 (A&amp;A, 479, 271)</reference>
 		<bibcodes>2008A&amp;A...479..271C</bibcodes>
@@ -101,52 +147,6 @@
 			<point error="1" time="2982.8986" value="0.01200" />
 			<point error="1" time="2986.8652" value="0.01000" />
 			<point error="1" time="3333.8262" value="0.01800" />
-		</data>
-	</curve>
-	<curve id="UID_0101966_RVC_003.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Correia et al. 2008 (A&amp;A, 479, 271)</reference>
-		<bibcodes>2008A&amp;A...479..271C</bibcodes>
-		<observatory>ESO La Silla, Chile</observatory>
-		<telescope>1.2m Euler Swiss telescope</telescope>
-		<xaxis>JD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>km/s</yaxisunits>
-		<data mintime="2451298.91898">
-			<point error="1" time="0.0" value="0.00640" />
-			<point error="1" time="7.98516899999" value="0.00739" />
-			<point error="1" time="67.8841260001" value="0.00549" />
-			<point error="1" time="99.795409" value="0.00589" />
-			<point error="1" time="160.682831" value="0.00655" />
-			<point error="1" time="181.636975" value="0.00652" />
-			<point error="1" time="191.60697" value="0.00816" />
-			<point error="1" time="390.962198" value="0.01040" />
-			<point error="1" time="488.758159" value="0.00593" />
-			<point error="1" time="511.682071" value="0.00486" />
-			<point error="1" time="537.624063" value="0.00581" />
-			<point error="1" time="545.594661" value="0.00493" />
-			<point error="1" time="750.989545" value="0.00965" />
-			<point error="1" time="752.922693" value="0.01008" />
-			<point error="1" time="773.876599" value="0.00568" />
-			<point error="1" time="782.905831" value="0.00568" />
-			<point error="1" time="794.833992" value="0.00578" />
-			<point error="1" time="800.844193" value="0.00950" />
-			<point error="1" time="805.781811" value="0.00639" />
-			<point error="1" time="807.784147" value="0.00759" />
-			<point error="1" time="844.797627" value="0.00531" />
-			<point error="1" time="862.706579" value="0.00667" />
-			<point error="1" time="900.633463" value="0.00641" />
-			<point error="1" time="918.58539" value="0.00647" />
-			<point error="1" time="924.59595" value="0.00754" />
-			<point error="1" time="1138.957431" value="0.00562" />
-			<point error="1" time="1161.841239" value="0.00734" />
-			<point error="1" time="1189.779013" value="0.00898" />
-			<point error="1" time="1199.791097" value="0.00458" />
-			<point error="1" time="1245.643461" value="0.00447" />
-			<point error="1" time="1251.624834" value="0.00484" />
-			<point error="1" time="1265.675896" value="0.00559" />
-			<point error="1" time="1293.636007" value="0.00660" />
 		</data>
 	</curve>
 	<curve id="UID_0101966_RVC_004.tbl" type="4">

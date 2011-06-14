@@ -3,70 +3,6 @@
 		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
-		<observatory>Lick Observatory, California</observatory>
-		<telescope>3.0m Shane and 0.6m CAT</telescope>
-		<xaxis>JD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>m/s</yaxisunits>
-		<data mintime="2450831.60838">
-			<point error="1" time="0.0" value="12." />
-			<point error="1" time="195.392673" value="10." />
-			<point error="1" time="323.064479" value="9.0" />
-			<point error="1" time="324.138078" value="8.7" />
-			<point error="1" time="375.057754" value="7.6" />
-			<point error="1" time="613.408298" value="7.7" />
-			<point error="1" time="614.387696" value="6.4" />
-			<point error="1" time="615.38956" value="7.6" />
-			<point error="1" time="667.181309" value="8.3" />
-			<point error="1" time="670.135623" value="9.9" />
-			<point error="1" time="702.163981" value="6.2" />
-			<point error="1" time="703.144062" value="8.1" />
-			<point error="1" time="704.105393" value="6.1" />
-			<point error="1" time="705.084178" value="7.2" />
-			<point error="1" time="708.125023" value="7.0" />
-			<point error="1" time="709.090914" value="6.2" />
-			<point error="1" time="750.028518" value="18." />
-			<point error="1" time="919.370868" value="5.6" />
-			<point error="1" time="921.374091" value="4.6" />
-			<point error="1" time="943.36433" value="4.1" />
-			<point error="1" time="944.393496" value="4.1" />
-			<point error="1" time="974.363078" value="10." />
-			<point error="1" time="1029.181782" value="6.6" />
-			<point error="1" time="1082.090115" value="5.9" />
-			<point error="1" time="1083.050367" value="3.8" />
-			<point error="1" time="1084.055296" value="3.8" />
-			<point error="1" time="1096.037662" value="5.2" />
-			<point error="1" time="1114.046923" value="5.0" />
-			<point error="1" time="1115.058467" value="4.1" />
-			<point error="1" time="1290.351921" value="6.4" />
-			<point error="1" time="1291.386875" value="7.5" />
-			<point error="1" time="1326.349479" value="6.5" />
-			<point error="1" time="1329.360683" value="7.1" />
-			<point error="1" time="1330.336088" value="6.5" />
-			<point error="1" time="1410.06618" value="5.8" />
-			<point error="1" time="1456.134595" value="14." />
-			<point error="1" time="1468.039744" value="3.7" />
-			<point error="1" time="1471.11053" value="8.1" />
-			<point error="1" time="1483.026439" value="13." />
-			<point error="1" time="1484.033251" value="8.7" />
-			<point error="1" time="1485.021653" value="11." />
-			<point error="1" time="1502.064514" value="7.0" />
-			<point error="1" time="1503.028437" value="7.7" />
-			<point error="1" time="1504.017176" value="5.6" />
-			<point error="1" time="1661.391322" value="4.4" />
-			<point error="1" time="1662.382645" value="3.6" />
-			<point error="1" time="1677.387673" value="4.0" />
-			<point error="1" time="1680.401342" value="5.4" />
-			<point error="1" time="1681.3821" value="4.0" />
-			<point error="1" time="1682.364432" value="4.1" />
-			<point error="1" time="2177.137893" value="6.7" />
-		</data>
-	</curve>
-	<curve id="UID_0009683_RVC_002.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
-		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
 		<xaxis>JD</xaxis>
@@ -131,6 +67,70 @@
 			<point error="1" time="1846.972048" value="2.7" />
 			<point error="1" time="2025.288345" value="3.1" />
 			<point error="1" time="2069.129652" value="2.8" />
+		</data>
+	</curve>
+	<curve id="UID_0009683_RVC_002.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
+		<bibcodes>2006ApJ...646..505B</bibcodes>
+		<observatory>Lick Observatory, California</observatory>
+		<telescope>3.0m Shane and 0.6m CAT</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2450831.60838">
+			<point error="1" time="0.0" value="12." />
+			<point error="1" time="195.392673" value="10." />
+			<point error="1" time="323.064479" value="9.0" />
+			<point error="1" time="324.138078" value="8.7" />
+			<point error="1" time="375.057754" value="7.6" />
+			<point error="1" time="613.408298" value="7.7" />
+			<point error="1" time="614.387696" value="6.4" />
+			<point error="1" time="615.38956" value="7.6" />
+			<point error="1" time="667.181309" value="8.3" />
+			<point error="1" time="670.135623" value="9.9" />
+			<point error="1" time="702.163981" value="6.2" />
+			<point error="1" time="703.144062" value="8.1" />
+			<point error="1" time="704.105393" value="6.1" />
+			<point error="1" time="705.084178" value="7.2" />
+			<point error="1" time="708.125023" value="7.0" />
+			<point error="1" time="709.090914" value="6.2" />
+			<point error="1" time="750.028518" value="18." />
+			<point error="1" time="919.370868" value="5.6" />
+			<point error="1" time="921.374091" value="4.6" />
+			<point error="1" time="943.36433" value="4.1" />
+			<point error="1" time="944.393496" value="4.1" />
+			<point error="1" time="974.363078" value="10." />
+			<point error="1" time="1029.181782" value="6.6" />
+			<point error="1" time="1082.090115" value="5.9" />
+			<point error="1" time="1083.050367" value="3.8" />
+			<point error="1" time="1084.055296" value="3.8" />
+			<point error="1" time="1096.037662" value="5.2" />
+			<point error="1" time="1114.046923" value="5.0" />
+			<point error="1" time="1115.058467" value="4.1" />
+			<point error="1" time="1290.351921" value="6.4" />
+			<point error="1" time="1291.386875" value="7.5" />
+			<point error="1" time="1326.349479" value="6.5" />
+			<point error="1" time="1329.360683" value="7.1" />
+			<point error="1" time="1330.336088" value="6.5" />
+			<point error="1" time="1410.06618" value="5.8" />
+			<point error="1" time="1456.134595" value="14." />
+			<point error="1" time="1468.039744" value="3.7" />
+			<point error="1" time="1471.11053" value="8.1" />
+			<point error="1" time="1483.026439" value="13." />
+			<point error="1" time="1484.033251" value="8.7" />
+			<point error="1" time="1485.021653" value="11." />
+			<point error="1" time="1502.064514" value="7.0" />
+			<point error="1" time="1503.028437" value="7.7" />
+			<point error="1" time="1504.017176" value="5.6" />
+			<point error="1" time="1661.391322" value="4.4" />
+			<point error="1" time="1662.382645" value="3.6" />
+			<point error="1" time="1677.387673" value="4.0" />
+			<point error="1" time="1680.401342" value="5.4" />
+			<point error="1" time="1681.3821" value="4.0" />
+			<point error="1" time="1682.364432" value="4.1" />
+			<point error="1" time="2177.137893" value="6.7" />
 		</data>
 	</curve>
 	<curve id="UID_0009683_RVC_003.tbl" type="4">
@@ -198,60 +198,6 @@
 		<type>Radial Velocity Curve</type>
 		<reference>Fischer et al. 2003 (ApJ, 586, 1394)</reference>
 		<bibcodes>2003ApJ...586.1394F</bibcodes>
-		<observatory>Lick Observatory, California</observatory>
-		<telescope>3.0m Shane and 0.6m CAT</telescope>
-		<xaxis>JD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>m/s</yaxisunits>
-		<data mintime="2450831.608">
-			<point error="1" time="0.0" value="11.95" />
-			<point error="1" time="195.393" value="10.03" />
-			<point error="1" time="323.065" value="8.87" />
-			<point error="1" time="324.138" value="8.64" />
-			<point error="1" time="375.058" value="7.65" />
-			<point error="1" time="613.409" value="7.65" />
-			<point error="1" time="614.388" value="6.38" />
-			<point error="1" time="615.39" value="7.70" />
-			<point error="1" time="667.182" value="8.32" />
-			<point error="1" time="670.136" value="9.89" />
-			<point error="1" time="702.164" value="6.21" />
-			<point error="1" time="703.144" value="8.10" />
-			<point error="1" time="704.106" value="6.19" />
-			<point error="1" time="705.085" value="7.17" />
-			<point error="1" time="708.125" value="6.86" />
-			<point error="1" time="709.091" value="6.40" />
-			<point error="1" time="750.029" value="17.48" />
-			<point error="1" time="919.371" value="5.73" />
-			<point error="1" time="921.375" value="4.66" />
-			<point error="1" time="943.365" value="4.17" />
-			<point error="1" time="944.394" value="4.13" />
-			<point error="1" time="974.363" value="10.11" />
-			<point error="1" time="1029.182" value="6.64" />
-			<point error="1" time="1082.09" value="5.93" />
-			<point error="1" time="1083.05" value="3.73" />
-			<point error="1" time="1084.055" value="3.81" />
-			<point error="1" time="1096.038" value="5.23" />
-			<point error="1" time="1114.047" value="4.96" />
-			<point error="1" time="1115.058" value="4.03" />
-			<point error="1" time="1290.352" value="6.40" />
-			<point error="1" time="1291.387" value="7.55" />
-			<point error="1" time="1326.35" value="6.57" />
-			<point error="1" time="1329.361" value="7.05" />
-			<point error="1" time="1330.336" value="6.48" />
-			<point error="1" time="1456.136" value="14.29" />
-			<point error="1" time="1471.112" value="8.04" />
-			<point error="1" time="1483.027" value="12.50" />
-			<point error="1" time="1484.033" value="8.68" />
-			<point error="1" time="1485.021" value="10.79" />
-			<point error="1" time="1502.065" value="6.88" />
-			<point error="1" time="1503.029" value="7.72" />
-		</data>
-	</curve>
-	<curve id="UID_0009683_RVC_006.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Fischer et al. 2003 (ApJ, 586, 1394)</reference>
-		<bibcodes>2003ApJ...586.1394F</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
 		<xaxis>JD</xaxis>
@@ -306,60 +252,61 @@
 			<point error="1" time="1366.121" value="3.62" />
 		</data>
 	</curve>
-	<curve id="UID_0009683_RVC_007.tbl" type="4">
+	<curve id="UID_0009683_RVC_006.tbl" type="4">
 		<type>Radial Velocity Curve</type>
-		<reference>Wright et al. 2009 (ApJ, 693, 1084)</reference>
-		<bibcodes>2009ApJ...693.1084W</bibcodes>
+		<reference>Fischer et al. 2003 (ApJ, 586, 1394)</reference>
+		<bibcodes>2003ApJ...586.1394F</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
 		<telescope>3.0m Shane and 0.6m CAT</telescope>
 		<xaxis>JD</xaxis>
 		<yaxis>Radial Velocity</yaxis>
 		<xaxisunits>days</xaxisunits>
 		<yaxisunits>m/s</yaxisunits>
-		<data mintime="2451155.74609">
-			<point error="1" time="0.0" value="7.3" />
-			<point error="1" time="50.9199219998" value="7.3" />
-			<point error="1" time="289.270508" value="6.9" />
-			<point error="1" time="290.25" value="5.7" />
-			<point error="1" time="291.251953" value="6.3" />
-			<point error="1" time="378.026367" value="5.4" />
-			<point error="1" time="379.967679" value="5.6" />
-			<point error="1" time="380.946289" value="6.4" />
-			<point error="1" time="383.987304" value="5.8" />
-			<point error="1" time="595.233398" value="5.3" />
-			<point error="1" time="597.236908" value="4.1" />
-			<point error="1" time="619.226654" value="3.4" />
-			<point error="1" time="620.257508" value="3.8" />
-			<point error="1" time="705.043945" value="5.9" />
-			<point error="1" time="757.952148" value="5.3" />
-			<point error="1" time="758.913195" value="3.2" />
-			<point error="1" time="759.91749" value="3.5" />
-			<point error="1" time="771.899948" value="5.2" />
-			<point error="1" time="789.909179" value="5.1" />
-			<point error="1" time="790.920293" value="3.8" />
-			<point error="1" time="966.213867" value="5.7" />
-			<point error="1" time="967.249023" value="6.6" />
-			<point error="1" time="1002.211914" value="5.8" />
-			<point error="1" time="1005.222656" value="6.1" />
-			<point error="1" time="1006.198374" value="5.4" />
-			<point error="1" time="1085.928711" value="4.8" />
-			<point error="1" time="1143.904068" value="3.2" />
-			<point error="1" time="1177.926758" value="5.8" />
-			<point error="1" time="1178.890625" value="6.1" />
-			<point error="1" time="1179.879883" value="6.1" />
-			<point error="1" time="1337.253955" value="4.2" />
-			<point error="1" time="1338.244871" value="3.9" />
-			<point error="1" time="1353.250529" value="3.5" />
-			<point error="1" time="1356.263672" value="4.0" />
-			<point error="1" time="1357.244407" value="3.4" />
-			<point error="1" time="1358.22517" value="3.4" />
-			<point error="1" time="1853.0" value="5.8" />
-			<point error="1" time="2233.9321" value="5.5" />
-			<point error="1" time="2235.8868" value="5.5" />
-			<point error="1" time="2944.017378" value="5.0" />
+		<data mintime="2450831.608">
+			<point error="1" time="0.0" value="11.95" />
+			<point error="1" time="195.393" value="10.03" />
+			<point error="1" time="323.065" value="8.87" />
+			<point error="1" time="324.138" value="8.64" />
+			<point error="1" time="375.058" value="7.65" />
+			<point error="1" time="613.409" value="7.65" />
+			<point error="1" time="614.388" value="6.38" />
+			<point error="1" time="615.39" value="7.70" />
+			<point error="1" time="667.182" value="8.32" />
+			<point error="1" time="670.136" value="9.89" />
+			<point error="1" time="702.164" value="6.21" />
+			<point error="1" time="703.144" value="8.10" />
+			<point error="1" time="704.106" value="6.19" />
+			<point error="1" time="705.085" value="7.17" />
+			<point error="1" time="708.125" value="6.86" />
+			<point error="1" time="709.091" value="6.40" />
+			<point error="1" time="750.029" value="17.48" />
+			<point error="1" time="919.371" value="5.73" />
+			<point error="1" time="921.375" value="4.66" />
+			<point error="1" time="943.365" value="4.17" />
+			<point error="1" time="944.394" value="4.13" />
+			<point error="1" time="974.363" value="10.11" />
+			<point error="1" time="1029.182" value="6.64" />
+			<point error="1" time="1082.09" value="5.93" />
+			<point error="1" time="1083.05" value="3.73" />
+			<point error="1" time="1084.055" value="3.81" />
+			<point error="1" time="1096.038" value="5.23" />
+			<point error="1" time="1114.047" value="4.96" />
+			<point error="1" time="1115.058" value="4.03" />
+			<point error="1" time="1290.352" value="6.40" />
+			<point error="1" time="1291.387" value="7.55" />
+			<point error="1" time="1326.35" value="6.57" />
+			<point error="1" time="1329.361" value="7.05" />
+			<point error="1" time="1330.336" value="6.48" />
+			<point error="1" time="1456.136" value="14.29" />
+			<point error="1" time="1471.112" value="8.04" />
+			<point error="1" time="1483.027" value="12.50" />
+			<point error="1" time="1484.033" value="8.68" />
+			<point error="1" time="1485.021" value="10.79" />
+			<point error="1" time="1502.065" value="6.88" />
+			<point error="1" time="1503.029" value="7.72" />
 		</data>
 	</curve>
-	<curve id="UID_0009683_RVC_008.tbl" type="4">
+	<curve id="UID_0009683_RVC_007.tbl" type="4">
 		<type>Radial Velocity Curve</type>
 		<reference>Wright et al. 2009 (ApJ, 693, 1084)</reference>
 		<bibcodes>2009ApJ...693.1084W</bibcodes>
@@ -436,6 +383,59 @@
 			<point error="1" time="3373.895682" value="1.8" />
 			<point error="1" time="3547.161632" value="1.5" />
 			<point error="1" time="3556.233426" value="1.8" />
+		</data>
+	</curve>
+	<curve id="UID_0009683_RVC_008.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Wright et al. 2009 (ApJ, 693, 1084)</reference>
+		<bibcodes>2009ApJ...693.1084W</bibcodes>
+		<observatory>Lick Observatory, California</observatory>
+		<telescope>3.0m Shane and 0.6m CAT</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2451155.74609">
+			<point error="1" time="0.0" value="7.3" />
+			<point error="1" time="50.9199219998" value="7.3" />
+			<point error="1" time="289.270508" value="6.9" />
+			<point error="1" time="290.25" value="5.7" />
+			<point error="1" time="291.251953" value="6.3" />
+			<point error="1" time="378.026367" value="5.4" />
+			<point error="1" time="379.967679" value="5.6" />
+			<point error="1" time="380.946289" value="6.4" />
+			<point error="1" time="383.987304" value="5.8" />
+			<point error="1" time="595.233398" value="5.3" />
+			<point error="1" time="597.236908" value="4.1" />
+			<point error="1" time="619.226654" value="3.4" />
+			<point error="1" time="620.257508" value="3.8" />
+			<point error="1" time="705.043945" value="5.9" />
+			<point error="1" time="757.952148" value="5.3" />
+			<point error="1" time="758.913195" value="3.2" />
+			<point error="1" time="759.91749" value="3.5" />
+			<point error="1" time="771.899948" value="5.2" />
+			<point error="1" time="789.909179" value="5.1" />
+			<point error="1" time="790.920293" value="3.8" />
+			<point error="1" time="966.213867" value="5.7" />
+			<point error="1" time="967.249023" value="6.6" />
+			<point error="1" time="1002.211914" value="5.8" />
+			<point error="1" time="1005.222656" value="6.1" />
+			<point error="1" time="1006.198374" value="5.4" />
+			<point error="1" time="1085.928711" value="4.8" />
+			<point error="1" time="1143.904068" value="3.2" />
+			<point error="1" time="1177.926758" value="5.8" />
+			<point error="1" time="1178.890625" value="6.1" />
+			<point error="1" time="1179.879883" value="6.1" />
+			<point error="1" time="1337.253955" value="4.2" />
+			<point error="1" time="1338.244871" value="3.9" />
+			<point error="1" time="1353.250529" value="3.5" />
+			<point error="1" time="1356.263672" value="4.0" />
+			<point error="1" time="1357.244407" value="3.4" />
+			<point error="1" time="1358.22517" value="3.4" />
+			<point error="1" time="1853.0" value="5.8" />
+			<point error="1" time="2233.9321" value="5.5" />
+			<point error="1" time="2235.8868" value="5.5" />
+			<point error="1" time="2944.017378" value="5.0" />
 		</data>
 	</curve>
 	<curve id="UID_0009683_PLC_001.tbl" type="2">

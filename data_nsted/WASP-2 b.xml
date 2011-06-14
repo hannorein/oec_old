@@ -30,7 +30,7 @@
 		<xaxis>HJD</xaxis>
 		<yaxis>Relative Flux</yaxis>
 		<xaxisunits>days</xaxisunits>
-		<yaxisunits>mag</yaxisunits>
+		<yaxisunits />
 		<data mintime="2454008.60531">
 			<point error="1" time="0.0" value="0.00159" />
 			<point error="1" time="0.000469999853522" value="0.00159" />
@@ -467,7 +467,7 @@
 		<observatory />
 		<telescope>SuperWASP Array</telescope>
 		<xaxis>HJD</xaxis>
-		<yaxis>Relative Flux</yaxis>
+		<yaxis>Relative Magnitude</yaxis>
 		<xaxisunits>days</xaxisunits>
 		<yaxisunits>mag</yaxisunits>
 		<data mintime="2453151.63194">

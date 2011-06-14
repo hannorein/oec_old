@@ -9,33 +9,6 @@
 		<yaxis>Radial Velocity</yaxis>
 		<xaxisunits>days</xaxisunits>
 		<yaxisunits>km/s</yaxisunits>
-		<data mintime="2454044.6274">
-			<point error="1" time="0.0" value="0.003" />
-			<point error="1" time="7.01370000001" value="0.004" />
-			<point error="1" time="8.96939999983" value="0.003" />
-			<point error="1" time="33.9734999998" value="0.004" />
-			<point error="1" time="34.8585000001" value="0.004" />
-			<point error="1" time="35.8297999999" value="0.004" />
-			<point error="1" time="36.8166" value="0.003" />
-			<point error="1" time="42.8470000001" value="0.004" />
-			<point error="1" time="43.9583999999" value="0.004" />
-			<point error="1" time="44.9863" value="0.004" />
-			<point error="1" time="97.8523999997" value="0.004" />
-			<point error="1" time="103.8333" value="0.004" />
-			<point error="1" time="106.7736" value="0.004" />
-			<point error="1" time="110.801" value="0.004" />
-		</data>
-	</curve>
-	<curve id="UID_0030057_RVC_002.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>da Silva et al. 2007 (A&amp;A, 473, 323)</reference>
-		<bibcodes>2007A&amp;A...473..323D</bibcodes>
-		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
-		<telescope>1.93m</telescope>
-		<xaxis>JD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>km/s</yaxisunits>
 		<data mintime="2453333.6255">
 			<point error="1" time="0.0" value="0.011" />
 			<point error="1" time="3.98020000011" value="0.012" />
@@ -59,6 +32,33 @@
 			<point error="1" time="505.6776" value="0.019" />
 			<point error="1" time="536.715" value="0.017" />
 			<point error="1" time="538.7201" value="0.020" />
+		</data>
+	</curve>
+	<curve id="UID_0030057_RVC_002.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>da Silva et al. 2007 (A&amp;A, 473, 323)</reference>
+		<bibcodes>2007A&amp;A...473..323D</bibcodes>
+		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
+		<telescope>1.93m</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2454044.6274">
+			<point error="1" time="0.0" value="0.003" />
+			<point error="1" time="7.01370000001" value="0.004" />
+			<point error="1" time="8.96939999983" value="0.003" />
+			<point error="1" time="33.9734999998" value="0.004" />
+			<point error="1" time="34.8585000001" value="0.004" />
+			<point error="1" time="35.8297999999" value="0.004" />
+			<point error="1" time="36.8166" value="0.003" />
+			<point error="1" time="42.8470000001" value="0.004" />
+			<point error="1" time="43.9583999999" value="0.004" />
+			<point error="1" time="44.9863" value="0.004" />
+			<point error="1" time="97.8523999997" value="0.004" />
+			<point error="1" time="103.8333" value="0.004" />
+			<point error="1" time="106.7736" value="0.004" />
+			<point error="1" time="110.801" value="0.004" />
 		</data>
 	</curve>
 	<curve id="UID_0030057_PLC_001.tbl" type="2">

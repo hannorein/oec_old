@@ -4,25 +4,6 @@
 		<reference>Eggenberger et al. 2006 (A&amp;A, 447, 1159)</reference>
 		<bibcodes>2006A&amp;A...447.1159E</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
-		<telescope>3.6m</telescope>
-		<xaxis>BJD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>km/s</yaxisunits>
-		<data mintime="2453232.50698">
-			<point error="1" time="0.0" value="0.001" />
-			<point error="1" time="5.02394999983" value="0.001" />
-			<point error="1" time="168.37235" value="0.001" />
-			<point error="1" time="179.38283" value="0.001" />
-			<point error="1" time="279.30267" value="0.001" />
-			<point error="1" time="288.20677" value="0.001" />
-		</data>
-	</curve>
-	<curve id="UID_0079242_RVC_002.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Eggenberger et al. 2006 (A&amp;A, 447, 1159)</reference>
-		<bibcodes>2006A&amp;A...447.1159E</bibcodes>
-		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>1.2m Euler Swiss telescope</telescope>
 		<xaxis>BJD</xaxis>
 		<yaxis>Radial Velocity</yaxis>
@@ -99,6 +80,25 @@
 			<point error="1" time="1811.03592" value="0.009" />
 			<point error="1" time="1857.98939" value="0.005" />
 			<point error="1" time="1888.07227" value="0.004" />
+		</data>
+	</curve>
+	<curve id="UID_0079242_RVC_002.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Eggenberger et al. 2006 (A&amp;A, 447, 1159)</reference>
+		<bibcodes>2006A&amp;A...447.1159E</bibcodes>
+		<observatory>ESO La Silla, Chile</observatory>
+		<telescope>3.6m</telescope>
+		<xaxis>BJD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2453232.50698">
+			<point error="1" time="0.0" value="0.001" />
+			<point error="1" time="5.02394999983" value="0.001" />
+			<point error="1" time="168.37235" value="0.001" />
+			<point error="1" time="179.38283" value="0.001" />
+			<point error="1" time="279.30267" value="0.001" />
+			<point error="1" time="288.20677" value="0.001" />
 		</data>
 	</curve>
 	<curve id="UID_0079242_PLC_001.tbl" type="2">

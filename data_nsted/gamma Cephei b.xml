@@ -88,60 +88,6 @@
 		<type>Radial Velocity Curve</type>
 		<reference>Griffin et al. 2002 (Obs, 122, 90)</reference>
 		<bibcodes>2002Obs...122...90G</bibcodes>
-		<observatory>Dominion Astrophysical Observatory (DAO), British Columbia</observatory>
-		<telescope>48 inch</telescope>
-		<xaxis>MJD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>km/s</yaxisunits>
-		<data mintime="2445369.13">
-			<point error="1" time="0.0" value="0.2" />
-			<point error="1" time="743.96" value="0.4" />
-			<point error="1" time="1816.98" value="0.1" />
-			<point error="1" time="6000.32" value="0.4" />
-			<point error="1" time="6200.94" value="0.4" />
-		</data>
-	</curve>
-	<curve id="UID_0116727_RVC_004.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Griffin et al. 2002 (Obs, 122, 90)</reference>
-		<bibcodes>2002Obs...122...90G</bibcodes>
-		<observatory>Erwin W. Fick Observatory, Ames, Iowa</observatory>
-		<telescope>0.6m</telescope>
-		<xaxis>MJD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>km/s</yaxisunits>
-		<data mintime="2443731.34">
-			<point error="1" time="0.0" value="0.7" />
-			<point error="1" time="24.9300000002" value="0.2" />
-			<point error="1" time="756.94" value="0.4" />
-		</data>
-	</curve>
-	<curve id="UID_0116727_RVC_005.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Griffin et al. 2002 (Obs, 122, 90)</reference>
-		<bibcodes>2002Obs...122...90G</bibcodes>
-		<observatory>Lick Observatory, California</observatory>
-		<telescope>Observations made at Lick Observatory (1896 - 1921)</telescope>
-		<xaxis>MJD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>km/s</yaxisunits>
-		<data mintime="2413875.21">
-			<point error="1" time="0.0" value="0.5" />
-			<point error="1" time="0.990000000224" value="0.3" />
-			<point error="1" time="652.23" value="1.4" />
-			<point error="1" time="663.19" value="0.5" />
-			<point error="1" time="3549.31" value="1.6" />
-			<point error="1" time="9022.24" value="0.3" />
-			<point error="1" time="9069.14" value="0.6" />
-		</data>
-	</curve>
-	<curve id="UID_0116727_RVC_006.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Griffin et al. 2002 (Obs, 122, 90)</reference>
-		<bibcodes>2002Obs...122...90G</bibcodes>
 		<observatory>Observatoire de Haute Provence (OHP), France</observatory>
 		<telescope>1.93m</telescope>
 		<xaxis>MJD</xaxis>
@@ -180,6 +126,60 @@
 			<point error="1" time="4335.02" value="0.1" />
 		</data>
 	</curve>
+	<curve id="UID_0116727_RVC_004.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Griffin et al. 2002 (Obs, 122, 90)</reference>
+		<bibcodes>2002Obs...122...90G</bibcodes>
+		<observatory>Dominion Astrophysical Observatory (DAO), British Columbia</observatory>
+		<telescope>48 inch</telescope>
+		<xaxis>MJD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2445369.13">
+			<point error="1" time="0.0" value="0.2" />
+			<point error="1" time="743.96" value="0.4" />
+			<point error="1" time="1816.98" value="0.1" />
+			<point error="1" time="6000.32" value="0.4" />
+			<point error="1" time="6200.94" value="0.4" />
+		</data>
+	</curve>
+	<curve id="UID_0116727_RVC_005.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Griffin et al. 2002 (Obs, 122, 90)</reference>
+		<bibcodes>2002Obs...122...90G</bibcodes>
+		<observatory>Erwin W. Fick Observatory, Ames, Iowa</observatory>
+		<telescope>0.6m</telescope>
+		<xaxis>MJD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2443731.34">
+			<point error="1" time="0.0" value="0.7" />
+			<point error="1" time="24.9300000002" value="0.2" />
+			<point error="1" time="756.94" value="0.4" />
+		</data>
+	</curve>
+	<curve id="UID_0116727_RVC_006.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Griffin et al. 2002 (Obs, 122, 90)</reference>
+		<bibcodes>2002Obs...122...90G</bibcodes>
+		<observatory>Lick Observatory, California</observatory>
+		<telescope>Observations made at Lick Observatory (1896 - 1921)</telescope>
+		<xaxis>MJD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2413875.21">
+			<point error="1" time="0.0" value="0.5" />
+			<point error="1" time="0.990000000224" value="0.3" />
+			<point error="1" time="652.23" value="1.4" />
+			<point error="1" time="663.19" value="0.5" />
+			<point error="1" time="3549.31" value="1.6" />
+			<point error="1" time="9022.24" value="0.3" />
+			<point error="1" time="9069.14" value="0.6" />
+		</data>
+	</curve>
 	<curve id="UID_0116727_RVC_007.tbl" type="4">
 		<type>Radial Velocity Curve</type>
 		<reference>Griffin et al. 2002 (Obs, 122, 90)</reference>
@@ -205,6 +205,62 @@
 		</data>
 	</curve>
 	<curve id="UID_0116727_RVC_008.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Hatzes et al. 2003 (ApJ, 599, 1383)</reference>
+		<bibcodes>2003ApJ...599.1383H</bibcodes>
+		<observatory>McDonald Observatory, Texas</observatory>
+		<telescope>2.7m Harlan J. Smith (HJS) telescope</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2447368.9657">
+			<point error="1" time="0.0" value="19.0" />
+			<point error="1" time="0.964300000109" value="19.0" />
+			<point error="1" time="0.968899999745" value="19.0" />
+			<point error="1" time="36.9681000002" value="19.0" />
+			<point error="1" time="61.7453000001" value="19.0" />
+			<point error="1" time="61.7483999999" value="19.0" />
+			<point error="1" time="90.7911999999" value="19.0" />
+			<point error="1" time="91.7902000002" value="19.0" />
+			<point error="1" time="126.7882" value="19.0" />
+			<point error="1" time="126.794" value="19.0" />
+			<point error="1" time="127.7389" value="19.0" />
+			<point error="1" time="147.7008" value="19.0" />
+			<point error="1" time="148.693" value="19.0" />
+			<point error="1" time="182.64" value="19.0" />
+			<point error="1" time="182.6444" value="19.0" />
+			<point error="1" time="213.6083" value="19.0" />
+			<point error="1" time="328.0028" value="19.0" />
+			<point error="1" time="393.9746" value="19.0" />
+			<point error="1" time="416.9629" value="19.0" />
+			<point error="1" time="416.9662" value="19.0" />
+			<point error="1" time="417.8519" value="19.0" />
+			<point error="1" time="417.8553" value="19.0" />
+			<point error="1" time="444.7842" value="19.0" />
+			<point error="1" time="479.7146" value="19.0" />
+			<point error="1" time="510.6934" value="19.0" />
+			<point error="1" time="511.7455" value="19.0" />
+			<point error="1" time="526.6578" value="19.0" />
+			<point error="1" time="776.9324" value="19.0" />
+			<point error="1" time="776.9382" value="19.0" />
+			<point error="1" time="777.856" value="19.0" />
+			<point error="1" time="807.88" value="19.0" />
+			<point error="1" time="807.8856" value="19.0" />
+			<point error="1" time="829.9004" value="19.0" />
+			<point error="1" time="858.7471" value="19.0" />
+			<point error="1" time="1154.8535" value="19.0" />
+			<point error="1" time="1154.8584" value="19.0" />
+			<point error="1" time="1485.9409" value="19.0" />
+			<point error="1" time="1534.886" value="19.0" />
+			<point error="1" time="1891.8244" value="19.0" />
+			<point error="1" time="1891.8289" value="19.0" />
+			<point error="1" time="2280.7711" value="19.0" />
+			<point error="1" time="2280.7733" value="19.0" />
+			<point error="1" time="2280.7754" value="19.0" />
+		</data>
+	</curve>
+	<curve id="UID_0116727_RVC_009.tbl" type="4">
 		<type>Radial Velocity Curve</type>
 		<reference>Hatzes et al. 2003 (ApJ, 599, 1383)</reference>
 		<bibcodes>2003ApJ...599.1383H</bibcodes>
@@ -264,62 +320,6 @@
 			<point error="1" time="2523.0299" value="16.33" />
 			<point error="1" time="2590.9312" value="14.58" />
 			<point error="1" time="2656.7353" value="12.11" />
-		</data>
-	</curve>
-	<curve id="UID_0116727_RVC_009.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Hatzes et al. 2003 (ApJ, 599, 1383)</reference>
-		<bibcodes>2003ApJ...599.1383H</bibcodes>
-		<observatory>McDonald Observatory, Texas</observatory>
-		<telescope>2.7m Harlan J. Smith (HJS) telescope</telescope>
-		<xaxis>JD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>m/s</yaxisunits>
-		<data mintime="2447368.9657">
-			<point error="1" time="0.0" value="19.0" />
-			<point error="1" time="0.964300000109" value="19.0" />
-			<point error="1" time="0.968899999745" value="19.0" />
-			<point error="1" time="36.9681000002" value="19.0" />
-			<point error="1" time="61.7453000001" value="19.0" />
-			<point error="1" time="61.7483999999" value="19.0" />
-			<point error="1" time="90.7911999999" value="19.0" />
-			<point error="1" time="91.7902000002" value="19.0" />
-			<point error="1" time="126.7882" value="19.0" />
-			<point error="1" time="126.794" value="19.0" />
-			<point error="1" time="127.7389" value="19.0" />
-			<point error="1" time="147.7008" value="19.0" />
-			<point error="1" time="148.693" value="19.0" />
-			<point error="1" time="182.64" value="19.0" />
-			<point error="1" time="182.6444" value="19.0" />
-			<point error="1" time="213.6083" value="19.0" />
-			<point error="1" time="328.0028" value="19.0" />
-			<point error="1" time="393.9746" value="19.0" />
-			<point error="1" time="416.9629" value="19.0" />
-			<point error="1" time="416.9662" value="19.0" />
-			<point error="1" time="417.8519" value="19.0" />
-			<point error="1" time="417.8553" value="19.0" />
-			<point error="1" time="444.7842" value="19.0" />
-			<point error="1" time="479.7146" value="19.0" />
-			<point error="1" time="510.6934" value="19.0" />
-			<point error="1" time="511.7455" value="19.0" />
-			<point error="1" time="526.6578" value="19.0" />
-			<point error="1" time="776.9324" value="19.0" />
-			<point error="1" time="776.9382" value="19.0" />
-			<point error="1" time="777.856" value="19.0" />
-			<point error="1" time="807.88" value="19.0" />
-			<point error="1" time="807.8856" value="19.0" />
-			<point error="1" time="829.9004" value="19.0" />
-			<point error="1" time="858.7471" value="19.0" />
-			<point error="1" time="1154.8535" value="19.0" />
-			<point error="1" time="1154.8584" value="19.0" />
-			<point error="1" time="1485.9409" value="19.0" />
-			<point error="1" time="1534.886" value="19.0" />
-			<point error="1" time="1891.8244" value="19.0" />
-			<point error="1" time="1891.8289" value="19.0" />
-			<point error="1" time="2280.7711" value="19.0" />
-			<point error="1" time="2280.7733" value="19.0" />
-			<point error="1" time="2280.7754" value="19.0" />
 		</data>
 	</curve>
 	<curve id="UID_0116727_RVC_010.tbl" type="4">

@@ -50,7 +50,7 @@
 		<xaxis>HJD</xaxis>
 		<yaxis>Relative Flux</yaxis>
 		<xaxisunits>days</xaxisunits>
-		<yaxisunits>mag</yaxisunits>
+		<yaxisunits />
 		<data mintime="2453470.47279">
 			<point error="1" time="0.0" value="0.00380780976076" />
 			<point error="1" time="0.000620000064373" value="0.00380780976076" />
@@ -2084,7 +2084,7 @@
 		<xaxis>HJD</xaxis>
 		<yaxis>Relative Flux</yaxis>
 		<xaxisunits>days</xaxisunits>
-		<yaxisunits>mag</yaxisunits>
+		<yaxisunits />
 		<data mintime="2453799.64113">
 			<point error="1" time="0.0" value="0.00344" />
 			<point error="1" time="0.00142000010237" value="0.00354" />
@@ -2376,7 +2376,7 @@
 		<xaxis>HJD</xaxis>
 		<yaxis>Relative Flux</yaxis>
 		<xaxisunits>days</xaxisunits>
-		<yaxisunits>mag</yaxisunits>
+		<yaxisunits />
 		<data mintime="2453787.63734">
 			<point error="1" time="0.0" value="0.00158" />
 			<point error="1" time="0.00119000021368" value="0.00152" />

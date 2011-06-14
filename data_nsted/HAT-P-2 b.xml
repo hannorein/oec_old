@@ -3,32 +3,6 @@
 		<type>Radial Velocity Curve</type>
 		<reference>Bakos et al. 2007 (ApJ, 670, 826)</reference>
 		<bibcodes>2007ApJ...670..826B</bibcodes>
-		<observatory>Mauna Kea, Hawaii</observatory>
-		<telescope>10m Keck I</telescope>
-		<xaxis>BJD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>m/s</yaxisunits>
-		<data mintime="2453981.7775">
-			<point error="1" time="0.0" value="8.4" />
-			<point error="1" time="1.09420000017" value="8.5" />
-			<point error="1" time="2.03729999997" value="8.8" />
-			<point error="1" time="3.11750000017" value="8.6" />
-			<point error="1" time="41.9140000003" value="9.9" />
-			<point error="1" time="205.2207" value="5.5" />
-			<point error="1" time="205.3266" value="5.7" />
-			<point error="1" time="205.3824" value="5.3" />
-			<point error="1" time="206.2394" value="5.3" />
-			<point error="1" time="206.3821" value="5.5" />
-			<point error="1" time="207.2329" value="5.7" />
-			<point error="1" time="207.3114" value="6.2" />
-			<point error="1" time="207.3802" value="6.1" />
-		</data>
-	</curve>
-	<curve id="UID_0080076_RVC_002.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Bakos et al. 2007 (ApJ, 670, 826)</reference>
-		<bibcodes>2007ApJ...670..826B</bibcodes>
 		<observatory>Fred L. Whipple Observatory (FLWO), Mt. Hopkins, Arizona</observatory>
 		<telescope>1.5m Tillinghast</telescope>
 		<xaxis>BJD</xaxis>
@@ -89,6 +63,32 @@
 			<point error="1" time="380.8959" value="550." />
 			<point error="1" time="381.8912" value="650." />
 			<point error="1" time="383.8424" value="580." />
+		</data>
+	</curve>
+	<curve id="UID_0080076_RVC_002.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Bakos et al. 2007 (ApJ, 670, 826)</reference>
+		<bibcodes>2007ApJ...670..826B</bibcodes>
+		<observatory>Mauna Kea, Hawaii</observatory>
+		<telescope>10m Keck I</telescope>
+		<xaxis>BJD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2453981.7775">
+			<point error="1" time="0.0" value="8.4" />
+			<point error="1" time="1.09420000017" value="8.5" />
+			<point error="1" time="2.03729999997" value="8.8" />
+			<point error="1" time="3.11750000017" value="8.6" />
+			<point error="1" time="41.9140000003" value="9.9" />
+			<point error="1" time="205.2207" value="5.5" />
+			<point error="1" time="205.3266" value="5.7" />
+			<point error="1" time="205.3824" value="5.3" />
+			<point error="1" time="206.2394" value="5.3" />
+			<point error="1" time="206.3821" value="5.5" />
+			<point error="1" time="207.2329" value="5.7" />
+			<point error="1" time="207.3114" value="6.2" />
+			<point error="1" time="207.3802" value="6.1" />
 		</data>
 	</curve>
 	<curve id="UID_0080076_RVC_003.tbl" type="4">

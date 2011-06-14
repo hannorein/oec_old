@@ -3,6 +3,29 @@
 		<type>Radial Velocity Curve</type>
 		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
 		<bibcodes>2006ApJ...646..505B</bibcodes>
+		<observatory>Mauna Kea, Hawaii</observatory>
+		<telescope>10m Keck I</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2451226.74669">
+			<point error="1" time="0.0" value="3.2" />
+			<point error="1" time="0.994433000218" value="3.3" />
+			<point error="1" time="1.97182899993" value="3.5" />
+			<point error="1" time="870.359097" value="4.0" />
+			<point error="1" time="961.227106" value="4.4" />
+			<point error="1" time="1288.338356" value="3.9" />
+			<point error="1" time="1346.075602" value="4.3" />
+			<point error="1" time="1607.339085" value="4.1" />
+			<point error="1" time="1762.992326" value="4.2" />
+			<point error="1" time="2013.205162" value="4.4" />
+		</data>
+	</curve>
+	<curve id="UID_0006643_RVC_002.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
+		<bibcodes>2006ApJ...646..505B</bibcodes>
 		<observatory>Lick Observatory, California</observatory>
 		<telescope>3.0m Shane and 0.6m CAT</telescope>
 		<xaxis>JD</xaxis>
@@ -26,29 +49,6 @@
 			<point error="1" time="1130.945231" value="11." />
 			<point error="1" time="1132.947083" value="11." />
 			<point error="1" time="1133.956643" value="11." />
-		</data>
-	</curve>
-	<curve id="UID_0006643_RVC_002.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
-		<bibcodes>2006ApJ...646..505B</bibcodes>
-		<observatory>Mauna Kea, Hawaii</observatory>
-		<telescope>10m Keck I</telescope>
-		<xaxis>JD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>m/s</yaxisunits>
-		<data mintime="2451226.74669">
-			<point error="1" time="0.0" value="3.2" />
-			<point error="1" time="0.994433000218" value="3.3" />
-			<point error="1" time="1.97182899993" value="3.5" />
-			<point error="1" time="870.359097" value="4.0" />
-			<point error="1" time="961.227106" value="4.4" />
-			<point error="1" time="1288.338356" value="3.9" />
-			<point error="1" time="1346.075602" value="4.3" />
-			<point error="1" time="1607.339085" value="4.1" />
-			<point error="1" time="1762.992326" value="4.2" />
-			<point error="1" time="2013.205162" value="4.4" />
 		</data>
 	</curve>
 	<curve id="UID_0006643_RVC_003.tbl" type="4">
@@ -110,35 +110,6 @@
 		<reference>Wittenmyer et al. 2009 (ApJS, 182, 97)</reference>
 		<bibcodes>2009ApJS..182...97W</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
-		<telescope>2.7m Harlan J. Smith (HJS) telescope</telescope>
-		<xaxis>JD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>m/s</yaxisunits>
-		<data mintime="2452116.95398">
-			<point error="1" time="0.0" value="9.6" />
-			<point error="1" time="25.0086399997" value="8.0" />
-			<point error="1" time="102.9436" value="10.0" />
-			<point error="1" time="132.74783" value="9.6" />
-			<point error="1" time="214.65932" value="7.7" />
-			<point error="1" time="376.9546" value="9.7" />
-			<point error="1" time="423.96159" value="8.9" />
-			<point error="1" time="541.67389" value="9.3" />
-			<point error="1" time="815.88485" value="8.9" />
-			<point error="1" time="898.75911" value="9.2" />
-			<point error="1" time="1447.99578" value="10.8" />
-			<point error="1" time="1515.97074" value="8.6" />
-			<point error="1" time="1518.95571" value="8.4" />
-			<point error="1" time="1574.80286" value="10.4" />
-			<point error="1" time="1853.97496" value="13.5" />
-			<point error="1" time="1901.91744" value="9.9" />
-		</data>
-	</curve>
-	<curve id="UID_0006643_RVC_005.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Wittenmyer et al. 2009 (ApJS, 182, 97)</reference>
-		<bibcodes>2009ApJS..182...97W</bibcodes>
-		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>9.2m Hobby Eberly Telescope (HET)</telescope>
 		<xaxis>JD</xaxis>
 		<yaxis>Radial Velocity</yaxis>
@@ -189,6 +160,35 @@
 			<point error="1" time="803.03102" value="8.8" />
 			<point error="1" time="817.99847" value="10.8" />
 			<point error="1" time="832.73073" value="9.3" />
+		</data>
+	</curve>
+	<curve id="UID_0006643_RVC_005.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Wittenmyer et al. 2009 (ApJS, 182, 97)</reference>
+		<bibcodes>2009ApJS..182...97W</bibcodes>
+		<observatory>McDonald Observatory, Texas</observatory>
+		<telescope>2.7m Harlan J. Smith (HJS) telescope</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2452116.95398">
+			<point error="1" time="0.0" value="9.6" />
+			<point error="1" time="25.0086399997" value="8.0" />
+			<point error="1" time="102.9436" value="10.0" />
+			<point error="1" time="132.74783" value="9.6" />
+			<point error="1" time="214.65932" value="7.7" />
+			<point error="1" time="376.9546" value="9.7" />
+			<point error="1" time="423.96159" value="8.9" />
+			<point error="1" time="541.67389" value="9.3" />
+			<point error="1" time="815.88485" value="8.9" />
+			<point error="1" time="898.75911" value="9.2" />
+			<point error="1" time="1447.99578" value="10.8" />
+			<point error="1" time="1515.97074" value="8.6" />
+			<point error="1" time="1518.95571" value="8.4" />
+			<point error="1" time="1574.80286" value="10.4" />
+			<point error="1" time="1853.97496" value="13.5" />
+			<point error="1" time="1901.91744" value="9.9" />
 		</data>
 	</curve>
 	<curve id="UID_0006643_PLC_001.tbl" type="2">

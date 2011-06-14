@@ -55,6 +55,47 @@
 		<reference>Endl et al. 2006 (AJ, 131, 3131)</reference>
 		<bibcodes>2006AJ....131.3131E</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
+		<telescope>9.2m Hobby Eberly Telescope (HET)</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2453628.96521">
+			<point error="1" time="0.0" value="3.95" />
+			<point error="1" time="4.95806000009" value="4.80" />
+			<point error="1" time="34.8904200001" value="3.59" />
+			<point error="1" time="46.8688099999" value="3.63" />
+			<point error="1" time="50.84773" value="3.63" />
+			<point error="1" time="53.8448799998" value="3.79" />
+			<point error="1" time="54.8294500001" value="3.64" />
+			<point error="1" time="56.8434600001" value="4.02" />
+			<point error="1" time="72.7952100001" value="4.43" />
+			<point error="1" time="77.7771299998" value="4.34" />
+			<point error="1" time="79.80168" value="3.90" />
+			<point error="1" time="81.9847399998" value="3.57" />
+			<point error="1" time="84.0026699998" value="4.98" />
+			<point error="1" time="84.0100199999" value="5.54" />
+			<point error="1" time="90.9635299998" value="4.44" />
+			<point error="1" time="92.7513799998" value="4.23" />
+			<point error="1" time="94.7185" value="4.73" />
+			<point error="1" time="96.9718399998" value="4.03" />
+			<point error="1" time="98.9645699998" value="4.18" />
+			<point error="1" time="102.71841" value="3.93" />
+			<point error="1" time="105.69829" value="4.58" />
+			<point error="1" time="109.68452" value="4.31" />
+			<point error="1" time="120.88801" value="4.27" />
+			<point error="1" time="124.88553" value="4.45" />
+			<point error="1" time="125.66157" value="4.33" />
+			<point error="1" time="129.64424" value="4.76" />
+			<point error="1" time="136.84527" value="4.76" />
+			<point error="1" time="142.62806" value="5.62" />
+		</data>
+	</curve>
+	<curve id="UID_0030860_RVC_003.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Endl et al. 2006 (AJ, 131, 3131)</reference>
+		<bibcodes>2006AJ....131.3131E</bibcodes>
+		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>2.7m Harlan J. Smith (HJS) telescope</telescope>
 		<xaxis>JD</xaxis>
 		<yaxis>Radial Velocity</yaxis>
@@ -106,47 +147,6 @@
 			<point error="1" time="1883.0452" value="9.04" />
 			<point error="1" time="1884.01882" value="8.37" />
 			<point error="1" time="1885.98003" value="9.34" />
-		</data>
-	</curve>
-	<curve id="UID_0030860_RVC_003.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Endl et al. 2006 (AJ, 131, 3131)</reference>
-		<bibcodes>2006AJ....131.3131E</bibcodes>
-		<observatory>McDonald Observatory, Texas</observatory>
-		<telescope>9.2m Hobby Eberly Telescope (HET)</telescope>
-		<xaxis>JD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>m/s</yaxisunits>
-		<data mintime="2453628.96521">
-			<point error="1" time="0.0" value="3.95" />
-			<point error="1" time="4.95806000009" value="4.80" />
-			<point error="1" time="34.8904200001" value="3.59" />
-			<point error="1" time="46.8688099999" value="3.63" />
-			<point error="1" time="50.84773" value="3.63" />
-			<point error="1" time="53.8448799998" value="3.79" />
-			<point error="1" time="54.8294500001" value="3.64" />
-			<point error="1" time="56.8434600001" value="4.02" />
-			<point error="1" time="72.7952100001" value="4.43" />
-			<point error="1" time="77.7771299998" value="4.34" />
-			<point error="1" time="79.80168" value="3.90" />
-			<point error="1" time="81.9847399998" value="3.57" />
-			<point error="1" time="84.0026699998" value="4.98" />
-			<point error="1" time="84.0100199999" value="5.54" />
-			<point error="1" time="90.9635299998" value="4.44" />
-			<point error="1" time="92.7513799998" value="4.23" />
-			<point error="1" time="94.7185" value="4.73" />
-			<point error="1" time="96.9718399998" value="4.03" />
-			<point error="1" time="98.9645699998" value="4.18" />
-			<point error="1" time="102.71841" value="3.93" />
-			<point error="1" time="105.69829" value="4.58" />
-			<point error="1" time="109.68452" value="4.31" />
-			<point error="1" time="120.88801" value="4.27" />
-			<point error="1" time="124.88553" value="4.45" />
-			<point error="1" time="125.66157" value="4.33" />
-			<point error="1" time="129.64424" value="4.76" />
-			<point error="1" time="136.84527" value="4.76" />
-			<point error="1" time="142.62806" value="5.62" />
 		</data>
 	</curve>
 	<curve id="UID_0030860_RVC_004.tbl" type="4">

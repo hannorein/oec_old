@@ -4,25 +4,6 @@
 		<reference>Maxted et al. 2010 (arXiv, 1004, 1514)</reference>
 		<bibcodes>2010arXiv1004.1514M</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
-		<telescope>3.6m</telescope>
-		<xaxis>BJD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>km/s</yaxisunits>
-		<data mintime="2454743.7527">
-			<point error="1" time="0.0" value="0.0029" />
-			<point error="1" time="3.01560000004" value="0.0026" />
-			<point error="1" time="6.01230000006" value="0.0024" />
-			<point error="1" time="6.92639999976" value="0.0029" />
-			<point error="1" time="10.9729999998" value="0.0025" />
-			<point error="1" time="12.0030999999" value="0.0032" />
-		</data>
-	</curve>
-	<curve id="UID_0300105_RVC_002.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Maxted et al. 2010 (arXiv, 1004, 1514)</reference>
-		<bibcodes>2010arXiv1004.1514M</bibcodes>
-		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>1.2m Euler Swiss telescope</telescope>
 		<xaxis>BJD</xaxis>
 		<yaxis>Radial Velocity</yaxis>
@@ -66,6 +47,25 @@
 			<point error="1" time="481.759" value="0.011" />
 			<point error="1" time="484.8008" value="0.010" />
 			<point error="1" time="485.8127" value="0.011" />
+		</data>
+	</curve>
+	<curve id="UID_0300105_RVC_002.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Maxted et al. 2010 (arXiv, 1004, 1514)</reference>
+		<bibcodes>2010arXiv1004.1514M</bibcodes>
+		<observatory>ESO La Silla, Chile</observatory>
+		<telescope>3.6m</telescope>
+		<xaxis>BJD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2454743.7527">
+			<point error="1" time="0.0" value="0.0029" />
+			<point error="1" time="3.01560000004" value="0.0026" />
+			<point error="1" time="6.01230000006" value="0.0024" />
+			<point error="1" time="6.92639999976" value="0.0029" />
+			<point error="1" time="10.9729999998" value="0.0025" />
+			<point error="1" time="12.0030999999" value="0.0032" />
 		</data>
 	</curve>
 </planet>

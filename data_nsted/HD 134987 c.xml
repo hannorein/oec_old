@@ -143,6 +143,82 @@
 		<type>Radial Velocity Curve</type>
 		<reference>Jones et al. 2009 (arXiv, 0912, 2716)</reference>
 		<bibcodes>2009arXiv0912.2716J</bibcodes>
+		<observatory>Siding Spring Observatory, Australia</observatory>
+		<telescope>3.9m Anglo-Australian Telescope (AAT)</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2450917.2282">
+			<point error="1" time="0.0" value="2.0" />
+			<point error="1" time="296.0493" value="1.9" />
+			<point error="1" time="358.8193" value="2.1" />
+			<point error="1" time="465.7291" value="1.8" />
+			<point error="1" time="496.6531" value="1.0" />
+			<point error="1" time="713.0395" value="1.7" />
+			<point error="1" time="765.8327" value="2.0" />
+			<point error="1" time="788.8678" value="2.5" />
+			<point error="1" time="800.7282" value="1.8" />
+			<point error="1" time="825.7058" value="1.6" />
+			<point error="1" time="1066.9872" value="2.0" />
+			<point error="1" time="1143.7435" value="1.6" />
+			<point error="1" time="1174.7112" value="1.3" />
+			<point error="1" time="1207.6645" value="1.0" />
+			<point error="1" time="1207.8128" value="1.3" />
+			<point error="1" time="1208.6608" value="1.1" />
+			<point error="1" time="1208.7565" value="1.2" />
+			<point error="1" time="1209.6909" value="1.6" />
+			<point error="1" time="1269.6502" value="1.7" />
+			<point error="1" time="1272.635" value="1.3" />
+			<point error="1" time="1443.0097" value="1.6" />
+			<point error="1" time="1469.8779" value="1.5" />
+			<point error="1" time="1470.925" value="1.3" />
+			<point error="1" time="1538.7595" value="1.7" />
+			<point error="1" time="1559.7442" value="1.4" />
+			<point error="1" time="1738.0231" value="1.6" />
+			<point error="1" time="1829.922" value="1.3" />
+			<point error="1" time="1867.8598" value="1.5" />
+			<point error="1" time="1943.6682" value="1.4" />
+			<point error="1" time="2125.0235" value="1.3" />
+			<point error="1" time="2298.7107" value="1.0" />
+			<point error="1" time="2567.831" value="1.2" />
+			<point error="1" time="2590.9454" value="1.4" />
+			<point error="1" time="2603.8502" value="1.6" />
+			<point error="1" time="3026.692" value="0.9" />
+			<point error="1" time="3029.7047" value="0.8" />
+			<point error="1" time="3222.0296" value="1.2" />
+			<point error="1" time="3308.8703" value="1.9" />
+			<point error="1" time="3451.6626" value="1.1" />
+			<point error="1" time="3626.0567" value="1.1" />
+			<point error="1" time="3981.9901" value="1.2" />
+			<point error="1" time="3983.0012" value="0.8" />
+			<point error="1" time="3991.0075" value="1.5" />
+			<point error="1" time="4100.7425" value="1.4" />
+			<point error="1" time="4102.7858" value="1.1" />
+			<point error="1" time="4103.7134" value="1.0" />
+			<point error="1" time="4104.716" value="1.2" />
+			<point error="1" time="4106.7119" value="1.0" />
+			<point error="1" time="4112.701" value="1.1" />
+			<point error="1" time="4113.6609" value="0.9" />
+			<point error="1" time="4114.7749" value="0.9" />
+			<point error="1" time="4115.71" value="1.0" />
+			<point error="1" time="4119.6923" value="1.2" />
+			<point error="1" time="4127.7589" value="1.2" />
+			<point error="1" time="4128.7849" value="0.7" />
+			<point error="1" time="4129.7133" value="0.9" />
+			<point error="1" time="4130.6667" value="0.8" />
+			<point error="1" time="4131.7506" value="0.7" />
+			<point error="1" time="4137.6531" value="0.9" />
+			<point error="1" time="4138.7075" value="0.5" />
+			<point error="1" time="4187.6464" value="1.4" />
+			<point error="1" time="4193.6481" value="1.0" />
+			<point error="1" time="4194.6497" value="1.4" />
+		</data>
+	</curve>
+	<curve id="UID_0074500_RVC_005.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Jones et al. 2009 (arXiv, 0912, 2716)</reference>
+		<bibcodes>2009arXiv0912.2716J</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
 		<xaxis>JD</xaxis>
@@ -225,82 +301,6 @@
 			<point error="1" time="4359.0683" value="1.3" />
 			<point error="1" time="4441.9286" value="1.4" />
 			<point error="1" time="4773.0414" value="0.8" />
-		</data>
-	</curve>
-	<curve id="UID_0074500_RVC_005.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Jones et al. 2009 (arXiv, 0912, 2716)</reference>
-		<bibcodes>2009arXiv0912.2716J</bibcodes>
-		<observatory>Siding Spring Observatory, Australia</observatory>
-		<telescope>3.9m Anglo-Australian Telescope (AAT)</telescope>
-		<xaxis>JD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>m/s</yaxisunits>
-		<data mintime="2450917.2282">
-			<point error="1" time="0.0" value="2.0" />
-			<point error="1" time="296.0493" value="1.9" />
-			<point error="1" time="358.8193" value="2.1" />
-			<point error="1" time="465.7291" value="1.8" />
-			<point error="1" time="496.6531" value="1.0" />
-			<point error="1" time="713.0395" value="1.7" />
-			<point error="1" time="765.8327" value="2.0" />
-			<point error="1" time="788.8678" value="2.5" />
-			<point error="1" time="800.7282" value="1.8" />
-			<point error="1" time="825.7058" value="1.6" />
-			<point error="1" time="1066.9872" value="2.0" />
-			<point error="1" time="1143.7435" value="1.6" />
-			<point error="1" time="1174.7112" value="1.3" />
-			<point error="1" time="1207.6645" value="1.0" />
-			<point error="1" time="1207.8128" value="1.3" />
-			<point error="1" time="1208.6608" value="1.1" />
-			<point error="1" time="1208.7565" value="1.2" />
-			<point error="1" time="1209.6909" value="1.6" />
-			<point error="1" time="1269.6502" value="1.7" />
-			<point error="1" time="1272.635" value="1.3" />
-			<point error="1" time="1443.0097" value="1.6" />
-			<point error="1" time="1469.8779" value="1.5" />
-			<point error="1" time="1470.925" value="1.3" />
-			<point error="1" time="1538.7595" value="1.7" />
-			<point error="1" time="1559.7442" value="1.4" />
-			<point error="1" time="1738.0231" value="1.6" />
-			<point error="1" time="1829.922" value="1.3" />
-			<point error="1" time="1867.8598" value="1.5" />
-			<point error="1" time="1943.6682" value="1.4" />
-			<point error="1" time="2125.0235" value="1.3" />
-			<point error="1" time="2298.7107" value="1.0" />
-			<point error="1" time="2567.831" value="1.2" />
-			<point error="1" time="2590.9454" value="1.4" />
-			<point error="1" time="2603.8502" value="1.6" />
-			<point error="1" time="3026.692" value="0.9" />
-			<point error="1" time="3029.7047" value="0.8" />
-			<point error="1" time="3222.0296" value="1.2" />
-			<point error="1" time="3308.8703" value="1.9" />
-			<point error="1" time="3451.6626" value="1.1" />
-			<point error="1" time="3626.0567" value="1.1" />
-			<point error="1" time="3981.9901" value="1.2" />
-			<point error="1" time="3983.0012" value="0.8" />
-			<point error="1" time="3991.0075" value="1.5" />
-			<point error="1" time="4100.7425" value="1.4" />
-			<point error="1" time="4102.7858" value="1.1" />
-			<point error="1" time="4103.7134" value="1.0" />
-			<point error="1" time="4104.716" value="1.2" />
-			<point error="1" time="4106.7119" value="1.0" />
-			<point error="1" time="4112.701" value="1.1" />
-			<point error="1" time="4113.6609" value="0.9" />
-			<point error="1" time="4114.7749" value="0.9" />
-			<point error="1" time="4115.71" value="1.0" />
-			<point error="1" time="4119.6923" value="1.2" />
-			<point error="1" time="4127.7589" value="1.2" />
-			<point error="1" time="4128.7849" value="0.7" />
-			<point error="1" time="4129.7133" value="0.9" />
-			<point error="1" time="4130.6667" value="0.8" />
-			<point error="1" time="4131.7506" value="0.7" />
-			<point error="1" time="4137.6531" value="0.9" />
-			<point error="1" time="4138.7075" value="0.5" />
-			<point error="1" time="4187.6464" value="1.4" />
-			<point error="1" time="4193.6481" value="1.0" />
-			<point error="1" time="4194.6497" value="1.4" />
 		</data>
 	</curve>
 	<curve id="UID_0074500_RVC_006.tbl" type="4">

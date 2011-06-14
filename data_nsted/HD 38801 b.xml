@@ -4,6 +4,29 @@
 		<reference>Harakawa et al. 2010 (ApJ, 715, 550)</reference>
 		<bibcodes>2010ApJ...715..550H</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
+		<telescope>10m Keck I</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2453982.1185">
+			<point error="1" time="0.0" value="0.9" />
+			<point error="1" time="0.993699999992" value="0.9" />
+			<point error="1" time="1.99030000018" value="0.9" />
+			<point error="1" time="148.771" value="1.2" />
+			<point error="1" time="156.7987" value="1.2" />
+			<point error="1" time="362.0" value="0.8" />
+			<point error="1" time="415.9624" value="0.9" />
+			<point error="1" time="445.8422" value="1.1" />
+			<point error="1" time="510.618" value="1.0" />
+			<point error="1" time="856.8571" value="1.2" />
+		</data>
+	</curve>
+	<curve id="UID_0027384_RVC_002.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Harakawa et al. 2010 (ApJ, 715, 550)</reference>
+		<bibcodes>2010ApJ...715..550H</bibcodes>
+		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>8.2m Subaru</telescope>
 		<xaxis>JD</xaxis>
 		<yaxis>Radial Velocity</yaxis>
@@ -21,29 +44,6 @@
 			<point error="1" time="828.6827" value="3.5" />
 			<point error="1" time="1048.9505" value="4.1" />
 			<point error="1" time="1091.9386" value="3.9" />
-		</data>
-	</curve>
-	<curve id="UID_0027384_RVC_002.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Harakawa et al. 2010 (ApJ, 715, 550)</reference>
-		<bibcodes>2010ApJ...715..550H</bibcodes>
-		<observatory>Mauna Kea, Hawaii</observatory>
-		<telescope>10m Keck I</telescope>
-		<xaxis>JD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>km/s</yaxisunits>
-		<data mintime="2453982.1185">
-			<point error="1" time="0.0" value="0.9" />
-			<point error="1" time="0.993699999992" value="0.9" />
-			<point error="1" time="1.99030000018" value="0.9" />
-			<point error="1" time="148.771" value="1.2" />
-			<point error="1" time="156.7987" value="1.2" />
-			<point error="1" time="362.0" value="0.8" />
-			<point error="1" time="415.9624" value="0.9" />
-			<point error="1" time="445.8422" value="1.1" />
-			<point error="1" time="510.618" value="1.0" />
-			<point error="1" time="856.8571" value="1.2" />
 		</data>
 	</curve>
 	<curve id="UID_0027384_PLC_001.tbl" type="2">

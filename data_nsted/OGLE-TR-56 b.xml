@@ -66,7 +66,7 @@
 		<xaxis>BJD</xaxis>
 		<yaxis>Relative Flux</yaxis>
 		<xaxisunits>days</xaxisunits>
-		<yaxisunits>mag</yaxisunits>
+		<yaxisunits />
 		<data mintime="2453936.56101">
 			<point error="1" time="0.0" value="0.0009" />
 			<point error="1" time="0.00103995017707" value="0.0009" />
@@ -146,7 +146,7 @@
 		<xaxis>BJD</xaxis>
 		<yaxis>Relative Flux</yaxis>
 		<xaxisunits>days</xaxisunits>
-		<yaxisunits>mag</yaxisunits>
+		<yaxisunits />
 		<data mintime="2453936.55388">
 			<point error="1" time="0.0" value="0.0009" />
 			<point error="1" time="0.000889949966222" value="0.0009" />

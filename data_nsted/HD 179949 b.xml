@@ -117,22 +117,6 @@
 		<type>Radial Velocity Curve</type>
 		<reference>Tinney et al. 2001 (ApJ, 551, 507)</reference>
 		<bibcodes>2001ApJ...551..507T</bibcodes>
-		<observatory>Mauna Kea, Hawaii</observatory>
-		<telescope>10m Keck I</telescope>
-		<xaxis>JD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>m/s</yaxisunits>
-		<data mintime="2451792.751">
-			<point error="1" time="0.0" value="2.6" />
-			<point error="1" time="1.04699999979" value="2.5" />
-			<point error="1" time="3.05199999968" value="2.5" />
-		</data>
-	</curve>
-	<curve id="UID_0094645_RVC_004.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Tinney et al. 2001 (ApJ, 551, 507)</reference>
-		<bibcodes>2001ApJ...551..507T</bibcodes>
 		<observatory>Siding Spring Observatory, Australia</observatory>
 		<telescope>3.9m Anglo-Australian Telescope (AAT)</telescope>
 		<xaxis>JD</xaxis>
@@ -160,6 +144,22 @@
 			<point error="1" time="708.001" value="6.7" />
 			<point error="1" time="709.005" value="8.2" />
 			<point error="1" time="735.032" value="10.3" />
+		</data>
+	</curve>
+	<curve id="UID_0094645_RVC_004.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Tinney et al. 2001 (ApJ, 551, 507)</reference>
+		<bibcodes>2001ApJ...551..507T</bibcodes>
+		<observatory>Mauna Kea, Hawaii</observatory>
+		<telescope>10m Keck I</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2451792.751">
+			<point error="1" time="0.0" value="2.6" />
+			<point error="1" time="1.04699999979" value="2.5" />
+			<point error="1" time="3.05199999968" value="2.5" />
 		</data>
 	</curve>
 	<curve id="UID_0094645_RVC_005.tbl" type="4">

@@ -44,25 +44,6 @@
 		<type>Radial Velocity Curve</type>
 		<reference>Vogt et al. 2002 (ApJ, 568, 352)</reference>
 		<bibcodes>2002ApJ...568..352V</bibcodes>
-		<observatory>Lick Observatory, California</observatory>
-		<telescope>3.0m Shane and 0.6m CAT</telescope>
-		<xaxis>JD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>m/s</yaxisunits>
-		<data mintime="2450913.9219">
-			<point error="1" time="0.0" value="8.0" />
-			<point error="1" time="0.910000000149" value="8.8" />
-			<point error="1" time="1.84970000014" value="7.5" />
-			<point error="1" time="13.8675000002" value="8.8" />
-			<point error="1" time="31.8873999999" value="8.5" />
-			<point error="1" time="32.8615000001" value="10.8" />
-		</data>
-	</curve>
-	<curve id="UID_0040687_RVC_003.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Vogt et al. 2002 (ApJ, 568, 352)</reference>
-		<bibcodes>2002ApJ...568..352V</bibcodes>
 		<observatory>Mauna Kea, Hawaii</observatory>
 		<telescope>10m Keck I</telescope>
 		<xaxis>JD</xaxis>
@@ -83,6 +64,25 @@
 			<point error="1" time="455.8455" value="4.5" />
 			<point error="1" time="510.7262" value="3.8" />
 			<point error="1" time="512.7451" value="3.8" />
+		</data>
+	</curve>
+	<curve id="UID_0040687_RVC_003.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Vogt et al. 2002 (ApJ, 568, 352)</reference>
+		<bibcodes>2002ApJ...568..352V</bibcodes>
+		<observatory>Lick Observatory, California</observatory>
+		<telescope>3.0m Shane and 0.6m CAT</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2450913.9219">
+			<point error="1" time="0.0" value="8.0" />
+			<point error="1" time="0.910000000149" value="8.8" />
+			<point error="1" time="1.84970000014" value="7.5" />
+			<point error="1" time="13.8675000002" value="8.8" />
+			<point error="1" time="31.8873999999" value="8.5" />
+			<point error="1" time="32.8615000001" value="10.8" />
 		</data>
 	</curve>
 	<curve id="UID_0040687_PLC_001.tbl" type="2">

@@ -165,54 +165,6 @@
 		<reference>Wittenmyer et al. 2007 (ApJ, 654, 625)</reference>
 		<bibcodes>2007ApJ...654..625W</bibcodes>
 		<observatory>McDonald Observatory, Texas</observatory>
-		<telescope>2.7m Harlan J. Smith (HJS) telescope</telescope>
-		<xaxis>BJD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>m/s</yaxisunits>
-		<data mintime="2451010.62898">
-			<point error="1" time="0.0" value="6.4" />
-			<point error="1" time="202.34576" value="5.5" />
-			<point error="1" time="230.18352" value="6.2" />
-			<point error="1" time="264.16095" value="5.4" />
-			<point error="1" time="316.0766" value="6.2" />
-			<point error="1" time="494.33098" value="6.0" />
-			<point error="1" time="519.3908" value="6.9" />
-			<point error="1" time="545.32074" value="5.8" />
-			<point error="1" time="645.11125" value="5.8" />
-			<point error="1" time="676.12258" value="6.5" />
-			<point error="1" time="739.9752" value="6.6" />
-			<point error="1" time="850.38997" value="6.9" />
-			<point error="1" time="907.30188" value="7.1" />
-			<point error="1" time="977.22629" value="8.5" />
-			<point error="1" time="994.20337" value="6.0" />
-			<point error="1" time="1029.15038" value="7.5" />
-			<point error="1" time="1105.97656" value="7.6" />
-			<point error="1" time="1238.37112" value="7.6" />
-			<point error="1" time="1293.2634" value="5.5" />
-			<point error="1" time="1295.21859" value="6.1" />
-			<point error="1" time="1317.23387" value="16.6" />
-			<point error="1" time="1343.23051" value="7.7" />
-			<point error="1" time="1651.32501" value="5.4" />
-			<point error="1" time="2007.30797" value="7.5" />
-			<point error="1" time="2059.13788" value="6.4" />
-			<point error="1" time="2681.40345" value="8.1" />
-			<point error="1" time="2738.26249" value="6.0" />
-			<point error="1" time="2777.283" value="6.3" />
-			<point error="1" time="2777.283" value="6.3" />
-			<point error="1" time="2795.25858" value="5.6" />
-			<point error="1" time="2795.25858" value="5.6" />
-			<point error="1" time="2799.17879" value="6.1" />
-			<point error="1" time="2799.17879" value="6.1" />
-			<point error="1" time="2851.11499" value="6.1" />
-			<point error="1" time="2898.99079" value="7.0" />
-		</data>
-	</curve>
-	<curve id="UID_0053721_RVC_004.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Wittenmyer et al. 2007 (ApJ, 654, 625)</reference>
-		<bibcodes>2007ApJ...654..625W</bibcodes>
-		<observatory>McDonald Observatory, Texas</observatory>
 		<telescope>9.2m Hobby Eberly Telescope (HET)</telescope>
 		<xaxis>BJD</xaxis>
 		<yaxis>Radial Velocity</yaxis>
@@ -419,6 +371,54 @@
 			<point error="1" time="580.66428" value="1.5" />
 			<point error="1" time="587.64729" value="1.5" />
 			<point error="1" time="587.64868" value="1.5" />
+		</data>
+	</curve>
+	<curve id="UID_0053721_RVC_004.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Wittenmyer et al. 2007 (ApJ, 654, 625)</reference>
+		<bibcodes>2007ApJ...654..625W</bibcodes>
+		<observatory>McDonald Observatory, Texas</observatory>
+		<telescope>2.7m Harlan J. Smith (HJS) telescope</telescope>
+		<xaxis>BJD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2451010.62898">
+			<point error="1" time="0.0" value="6.4" />
+			<point error="1" time="202.34576" value="5.5" />
+			<point error="1" time="230.18352" value="6.2" />
+			<point error="1" time="264.16095" value="5.4" />
+			<point error="1" time="316.0766" value="6.2" />
+			<point error="1" time="494.33098" value="6.0" />
+			<point error="1" time="519.3908" value="6.9" />
+			<point error="1" time="545.32074" value="5.8" />
+			<point error="1" time="645.11125" value="5.8" />
+			<point error="1" time="676.12258" value="6.5" />
+			<point error="1" time="739.9752" value="6.6" />
+			<point error="1" time="850.38997" value="6.9" />
+			<point error="1" time="907.30188" value="7.1" />
+			<point error="1" time="977.22629" value="8.5" />
+			<point error="1" time="994.20337" value="6.0" />
+			<point error="1" time="1029.15038" value="7.5" />
+			<point error="1" time="1105.97656" value="7.6" />
+			<point error="1" time="1238.37112" value="7.6" />
+			<point error="1" time="1293.2634" value="5.5" />
+			<point error="1" time="1295.21859" value="6.1" />
+			<point error="1" time="1317.23387" value="16.6" />
+			<point error="1" time="1343.23051" value="7.7" />
+			<point error="1" time="1651.32501" value="5.4" />
+			<point error="1" time="2007.30797" value="7.5" />
+			<point error="1" time="2059.13788" value="6.4" />
+			<point error="1" time="2681.40345" value="8.1" />
+			<point error="1" time="2738.26249" value="6.0" />
+			<point error="1" time="2777.283" value="6.3" />
+			<point error="1" time="2777.283" value="6.3" />
+			<point error="1" time="2795.25858" value="5.6" />
+			<point error="1" time="2795.25858" value="5.6" />
+			<point error="1" time="2799.17879" value="6.1" />
+			<point error="1" time="2799.17879" value="6.1" />
+			<point error="1" time="2851.11499" value="6.1" />
+			<point error="1" time="2898.99079" value="7.0" />
 		</data>
 	</curve>
 	<curve id="UID_0053721_RVC_005.tbl" type="4">

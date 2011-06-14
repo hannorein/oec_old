@@ -3,25 +3,6 @@
 		<type>Radial Velocity Curve</type>
 		<reference>Buchhave et al. 2010 (arXiv, 1005, 2009)</reference>
 		<bibcodes>2010arXiv1005.2009B</bibcodes>
-		<observatory>Mauna Kea, Hawaii</observatory>
-		<telescope>10m Keck I</telescope>
-		<xaxis>BJD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>m/s</yaxisunits>
-		<data mintime="2455017.09285">
-			<point error="1" time="0.0" value="2.3" />
-			<point error="1" time="2.00127999997" value="2.6" />
-			<point error="1" time="90.0035999999" value="2.4" />
-			<point error="1" time="91.88674" value="2.6" />
-			<point error="1" time="95.0307" value="2.8" />
-			<point error="1" time="117.92896" value="2.5" />
-		</data>
-	</curve>
-	<curve id="UID_0300112_RVC_002.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Buchhave et al. 2010 (arXiv, 1005, 2009)</reference>
-		<bibcodes>2010arXiv1005.2009B</bibcodes>
 		<observatory>La Palma, Spain</observatory>
 		<telescope>2.5m Nordic Optical Telescope (NOT)</telescope>
 		<xaxis>BJD</xaxis>
@@ -38,7 +19,7 @@
 			<point error="1" time="6.07236999972" value="5.7" />
 		</data>
 	</curve>
-	<curve id="UID_0300112_RVC_003.tbl" type="4">
+	<curve id="UID_0300112_RVC_002.tbl" type="4">
 		<type>Radial Velocity Curve</type>
 		<reference>Buchhave et al. 2010 (arXiv, 1005, 2009)</reference>
 		<bibcodes>2010arXiv1005.2009B</bibcodes>
@@ -63,6 +44,25 @@
 			<point error="1" time="16.8979400001" value="7.9" />
 			<point error="1" time="17.8597299997" value="5.9" />
 			<point error="1" time="18.8900299999" value="5.2" />
+		</data>
+	</curve>
+	<curve id="UID_0300112_RVC_003.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Buchhave et al. 2010 (arXiv, 1005, 2009)</reference>
+		<bibcodes>2010arXiv1005.2009B</bibcodes>
+		<observatory>Mauna Kea, Hawaii</observatory>
+		<telescope>10m Keck I</telescope>
+		<xaxis>BJD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2455017.09285">
+			<point error="1" time="0.0" value="2.3" />
+			<point error="1" time="2.00127999997" value="2.6" />
+			<point error="1" time="90.0035999999" value="2.4" />
+			<point error="1" time="91.88674" value="2.6" />
+			<point error="1" time="95.0307" value="2.8" />
+			<point error="1" time="117.92896" value="2.5" />
 		</data>
 	</curve>
 </planet>

@@ -268,6 +268,59 @@
 		<reference>Pepe et al. 2007 (A&amp;A, 462, 769)</reference>
 		<bibcodes>2007A&amp;A...462..769P</bibcodes>
 		<observatory>ESO La Silla, Chile</observatory>
+		<telescope>1.2m Euler Swiss telescope</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2451298.86282">
+			<point error="1" time="0.0" value="0.0036" />
+			<point error="1" time="1.02457999997" value="0.0038" />
+			<point error="1" time="456.73553" value="0.0113" />
+			<point error="1" time="675.03824" value="0.0036" />
+			<point error="1" time="677.017288" value="0.0037" />
+			<point error="1" time="837.806828" value="0.0037" />
+			<point error="1" time="841.774502" value="0.0038" />
+			<point error="1" time="843.799951" value="0.0037" />
+			<point error="1" time="844.762539" value="0.0037" />
+			<point error="1" time="845.779082" value="0.0037" />
+			<point error="1" time="846.708303" value="0.0036" />
+			<point error="1" time="851.75024" value="0.0036" />
+			<point error="1" time="865.661191" value="0.0036" />
+			<point error="1" time="869.671365" value="0.0033" />
+			<point error="1" time="870.659508" value="0.0037" />
+			<point error="1" time="872.675398" value="0.0039" />
+			<point error="1" time="873.696512" value="0.0035" />
+			<point error="1" time="874.67005" value="0.0033" />
+			<point error="1" time="878.68756" value="0.0037" />
+			<point error="1" time="879.68973" value="0.0042" />
+			<point error="1" time="881.690472" value="0.0033" />
+			<point error="1" time="1137.842733" value="0.0035" />
+			<point error="1" time="1417.052984" value="0.0036" />
+			<point error="1" time="1838.96301" value="0.0035" />
+			<point error="1" time="1873.869432" value="0.0035" />
+			<point error="1" time="1938.871764" value="0.0057" />
+			<point error="1" time="1939.681934" value="0.0036" />
+			<point error="1" time="1940.712052" value="0.0031" />
+			<point error="1" time="1940.722074" value="0.0031" />
+			<point error="1" time="2149.049494" value="0.0031" />
+			<point error="1" time="2331.663247" value="0.0032" />
+			<point error="1" time="2333.629349" value="0.0033" />
+			<point error="1" time="2334.61792" value="0.0034" />
+			<point error="1" time="2336.646251" value="0.0046" />
+			<point error="1" time="2339.747336" value="0.0034" />
+			<point error="1" time="2340.647142" value="0.0034" />
+			<point error="1" time="2342.649816" value="0.0036" />
+			<point error="1" time="2344.673438" value="0.0042" />
+			<point error="1" time="2345.652625" value="0.0033" />
+			<point error="1" time="2483.026782" value="0.0033" />
+		</data>
+	</curve>
+	<curve id="UID_0086796_RVC_006.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Pepe et al. 2007 (A&amp;A, 462, 769)</reference>
+		<bibcodes>2007A&amp;A...462..769P</bibcodes>
+		<observatory>ESO La Silla, Chile</observatory>
 		<telescope>3.6m</telescope>
 		<xaxis>JD</xaxis>
 		<yaxis>Radial Velocity</yaxis>
@@ -360,59 +413,6 @@
 			<point error="1" time="959.27836" value="0.00086" />
 			<point error="1" time="963.29832" value="0.00085" />
 			<point error="1" time="980.2443" value="0.00087" />
-		</data>
-	</curve>
-	<curve id="UID_0086796_RVC_006.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Pepe et al. 2007 (A&amp;A, 462, 769)</reference>
-		<bibcodes>2007A&amp;A...462..769P</bibcodes>
-		<observatory>ESO La Silla, Chile</observatory>
-		<telescope>1.2m Euler Swiss telescope</telescope>
-		<xaxis>JD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>km/s</yaxisunits>
-		<data mintime="2451298.86282">
-			<point error="1" time="0.0" value="0.0036" />
-			<point error="1" time="1.02457999997" value="0.0038" />
-			<point error="1" time="456.73553" value="0.0113" />
-			<point error="1" time="675.03824" value="0.0036" />
-			<point error="1" time="677.017288" value="0.0037" />
-			<point error="1" time="837.806828" value="0.0037" />
-			<point error="1" time="841.774502" value="0.0038" />
-			<point error="1" time="843.799951" value="0.0037" />
-			<point error="1" time="844.762539" value="0.0037" />
-			<point error="1" time="845.779082" value="0.0037" />
-			<point error="1" time="846.708303" value="0.0036" />
-			<point error="1" time="851.75024" value="0.0036" />
-			<point error="1" time="865.661191" value="0.0036" />
-			<point error="1" time="869.671365" value="0.0033" />
-			<point error="1" time="870.659508" value="0.0037" />
-			<point error="1" time="872.675398" value="0.0039" />
-			<point error="1" time="873.696512" value="0.0035" />
-			<point error="1" time="874.67005" value="0.0033" />
-			<point error="1" time="878.68756" value="0.0037" />
-			<point error="1" time="879.68973" value="0.0042" />
-			<point error="1" time="881.690472" value="0.0033" />
-			<point error="1" time="1137.842733" value="0.0035" />
-			<point error="1" time="1417.052984" value="0.0036" />
-			<point error="1" time="1838.96301" value="0.0035" />
-			<point error="1" time="1873.869432" value="0.0035" />
-			<point error="1" time="1938.871764" value="0.0057" />
-			<point error="1" time="1939.681934" value="0.0036" />
-			<point error="1" time="1940.712052" value="0.0031" />
-			<point error="1" time="1940.722074" value="0.0031" />
-			<point error="1" time="2149.049494" value="0.0031" />
-			<point error="1" time="2331.663247" value="0.0032" />
-			<point error="1" time="2333.629349" value="0.0033" />
-			<point error="1" time="2334.61792" value="0.0034" />
-			<point error="1" time="2336.646251" value="0.0046" />
-			<point error="1" time="2339.747336" value="0.0034" />
-			<point error="1" time="2340.647142" value="0.0034" />
-			<point error="1" time="2342.649816" value="0.0036" />
-			<point error="1" time="2344.673438" value="0.0042" />
-			<point error="1" time="2345.652625" value="0.0033" />
-			<point error="1" time="2483.026782" value="0.0033" />
 		</data>
 	</curve>
 	<curve id="UID_0086796_PLC_001.tbl" type="2">
