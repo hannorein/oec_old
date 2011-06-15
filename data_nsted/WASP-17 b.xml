@@ -1,4 +1,74 @@
 <planet id="WASP-17">
+	<curve id="UID_0300091_RVC_001.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Anderson et al. 2010 (ApJ, 709, 159)</reference>
+		<bibcodes>2010ApJ...709..159A</bibcodes>
+		<observatory>ESO La Silla, Chile</observatory>
+		<telescope>1.2m Euler Swiss Telescope</telescope>
+		<xaxis>BJD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2454329.6037">
+			<point error="1" time="0.0" value="0.0428" />
+			<point error="1" time="30.8826000001" value="0.0444" />
+			<point error="1" time="32.8943000003" value="0.0407" />
+			<point error="1" time="34.8843" value="0.0432" />
+			<point error="1" time="37.8846" value="0.0343" />
+			<point error="1" time="229.2802" value="0.0311" />
+			<point error="1" time="230.1671" value="0.0325" />
+			<point error="1" time="231.1277" value="0.0295" />
+			<point error="1" time="259.1762" value="0.0289" />
+			<point error="1" time="262.1741" value="0.0340" />
+			<point error="1" time="293.088" value="0.0351" />
+			<point error="1" time="295.033" value="0.0367" />
+			<point error="1" time="322.0158" value="0.0319" />
+			<point error="1" time="329.9209" value="0.0405" />
+			<point error="1" time="335.0388" value="0.0353" />
+			<point error="1" time="336.0556" value="0.0377" />
+			<point error="1" time="352.9787" value="0.0309" />
+			<point error="1" time="355.0227" value="0.0357" />
+			<point error="1" time="355.9108" value="0.0307" />
+			<point error="1" time="361.0145" value="0.0350" />
+			<point error="1" time="362.004" value="0.0406" />
+			<point error="1" time="610.242" value="0.0349" />
+			<point error="1" time="611.1309" value="0.0309" />
+			<point error="1" time="612.2483" value="0.0290" />
+			<point error="1" time="613.0922" value="0.0227" />
+			<point error="1" time="613.271" value="0.0291" />
+			<point error="1" time="614.0618" value="0.0253" />
+			<point error="1" time="614.2835" value="0.0268" />
+			<point error="1" time="615.0821" value="0.0250" />
+			<point error="1" time="615.2652" value="0.0249" />
+			<point error="1" time="616.0932" value="0.0252" />
+			<point error="1" time="616.224" value="0.0263" />
+			<point error="1" time="617.1252" value="0.0251" />
+			<point error="1" time="617.3032" value="0.0256" />
+			<point error="1" time="618.0521" value="0.0261" />
+			<point error="1" time="618.2657" value="0.0251" />
+			<point error="1" time="619.0378" value="0.0251" />
+			<point error="1" time="619.2799" value="0.0254" />
+			<point error="1" time="620.2609" value="0.0279" />
+			<point error="1" time="622.0624" value="0.0250" />
+			<point error="1" time="622.2682" value="0.0271" />
+		</data>
+	</curve>
+	<curve id="UID_0300091_RVC_002.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Anderson et al. 2010 (ApJ, 709, 159)</reference>
+		<bibcodes>2010ApJ...709..159A</bibcodes>
+		<observatory>ESO La Silla, Chile</observatory>
+		<telescope>3.6m</telescope>
+		<xaxis>BJD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2454564.8195">
+			<point error="1" time="0.0" value="0.0108" />
+			<point error="1" time="1.05359999975" value="0.0092" />
+			<point error="1" time="3.03209999995" value="0.0105" />
+		</data>
+	</curve>
 	<curve id="UID_0300091_PLC_001.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>Anderson et al. 2010 (ApJ, 709, 159)</reference>
