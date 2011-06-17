@@ -2151,7 +2151,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>11/06/08</lastupdate>
+		<lastupdate>11/06/14</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -2177,8 +2177,8 @@
 			<mass>1.04</mass>
 			<radius>1.59</radius>
 			<metallicity />
-			<rightascension />
-			<declination />
+			<rightascension>18 34 47</rightascension>
+			<declination>-6 36 44</declination>
 			<angulardistance>5e-05</angulardistance>
 			<distance>920</distance>
 			<magV>15.46</magV>
@@ -2215,8 +2215,8 @@
 			<mass>0.95</mass>
 			<radius>1.03</radius>
 			<metallicity>-0.1</metallicity>
-			<rightascension>06 32 41</rightascension>
-			<declination>-00 01 54</declination>
+			<rightascension />
+			<declination />
 			<angulardistance>3.4e-05</angulardistance>
 			<distance>870</distance>
 			<magV>14.99</magV>
@@ -2229,7 +2229,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/06/14</lastupdate>
 		<description />
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -2267,7 +2267,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/06/14</lastupdate>
 		<description />
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -2332,8 +2332,8 @@
 			<mass>1.14</mass>
 			<radius>0.92</radius>
 			<metallicity>0.14</metallicity>
-			<rightascension>06 30 53</rightascension>
-			<declination>00 13 37</declination>
+			<rightascension />
+			<declination />
 			<angulardistance>7.3e-05</angulardistance>
 			<distance>1230</distance>
 			<magV>14.66</magV>
@@ -2346,7 +2346,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/06/14</lastupdate>
 		<description />
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -2384,7 +2384,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/06/14</lastupdate>
 		<description />
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -2408,8 +2408,8 @@
 			<mass>1.098</mass>
 			<radius>0.86</radius>
 			<metallicity>-0.05</metallicity>
-			<rightascension>18 39 08</rightascension>
-			<declination>+04 21 28</declination>
+			<rightascension />
+			<declination />
 			<angulardistance />
 			<distance />
 			<magV>15.63</magV>
@@ -2422,7 +2422,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/06/14</lastupdate>
 		<description />
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -5378,7 +5378,7 @@
 			<mass>1.218</mass>
 			<radius>1.36</radius>
 			<metallicity>0.15</metallicity>
-			<rightascension>08 06 09</rightascension>
+			<rightascension>18 06 09</rightascension>
 			<declination>+26 25 36</declination>
 			<angulardistance>0.000155</angulardistance>
 			<distance>354</distance>
@@ -20063,6 +20063,44 @@
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>KOI-423 b</id_exoplaneteu>
+		<name>KOI-423 b</name>
+		<id>KOI-423 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>18</mass>
+			<radius>1.22</radius>
+			<orbit>
+				<period>21.0874</period>
+				<semimajoraxis>0.155</semimajoraxis>
+				<eccentricity>0.121</eccentricity>
+				<inclination>88.83</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F7IV</spectraltype>
+			<mass>1.1</mass>
+			<radius>1.39</radius>
+			<metallicity>-0.29</metallicity>
+			<rightascension>19 47 50</rightascension>
+			<declination>+46 02 04</declination>
+			<angulardistance>0.000129</angulardistance>
+			<distance>1200</distance>
+			<magV>14.3</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/06/17</lastupdate>
+		<description>This planet was confirmed by SPOHIE measurements (Bouchy et al. 2011).</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>KOI-428 b</id_exoplaneteu>
 		<name>KOI-428 b</name>
 		<id>KOI-428 b</id>
@@ -20291,7 +20329,7 @@
 		<discoveryyear>2010</discoveryyear>
 		<lastupdate>11/06/14</lastupdate>
 		<description />
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -22301,7 +22339,7 @@
 			<mass>0.86</mass>
 			<radius>1.484</radius>
 			<orbit>
-				<period>2.5199449</period>
+				<period>2.5199464</period>
 				<semimajoraxis>0.0382</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
 				<inclination>88.65</inclination>
@@ -22324,7 +22362,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2006</discoveryyear>
-		<lastupdate>10/11/29</lastupdate>
+		<lastupdate>11/06/15</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -22741,7 +22779,7 @@
 			<mass>0.847</mass>
 			<radius>1.079</radius>
 			<orbit>
-				<period>2.1522254</period>
+				<period>2.15222144</period>
 				<semimajoraxis>0.03138</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
 				<inclination>84.73</inclination>
@@ -22764,7 +22802,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2006</discoveryyear>
-		<lastupdate>10/11/29</lastupdate>
+		<lastupdate>11/06/15</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -23271,7 +23309,7 @@
 			<radius>0.93</radius>
 			<metallicity>-0.02</metallicity>
 			<rightascension>11 01 36</rightascension>
-			<declination>23 51 38</declination>
+			<declination>-23 51 38</declination>
 			<angulardistance>0.000437</angulardistance>
 			<distance>120</distance>
 			<magV>10.4</magV>
