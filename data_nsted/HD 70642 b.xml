@@ -1,4 +1,79 @@
 <planet id="HD 70642">
+	<curve id="UID_0040952_RVC_001.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
+		<bibcodes>2006ApJ...646..505B</bibcodes>
+		<observatory>Siding Spring Observatory, Australia</observatory>
+		<telescope>3.9m Anglo-Australian Telescope (AAT)</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2450830.10819">
+			<point error="1" time="0.0" value="3.6" />
+			<point error="1" time="327.118114" value="4.5" />
+			<point error="1" time="382.996875" value="3.9" />
+			<point error="1" time="405.976852" value="4.4" />
+			<point error="1" time="799.901331" value="3.2" />
+			<point error="1" time="887.772801" value="3.9" />
+			<point error="1" time="1090.026632" value="3.9" />
+			<point error="1" time="1153.860533" value="5.0" />
+			<point error="1" time="1178.91279" value="4.4" />
+			<point error="1" time="1230.766169" value="3.6" />
+			<point error="1" time="1590.799005" value="2.8" />
+			<point error="1" time="1594.789954" value="2.9" />
+			<point error="1" time="1625.733278" value="2.6" />
+			<point error="1" time="1762.115183" value="2.9" />
+			<point error="1" time="1765.117603" value="3.3" />
+			<point error="1" time="1879.96449" value="2.3" />
+			<point error="1" time="1914.848947" value="2.8" />
+			<point error="1" time="1917.807023" value="2.6" />
+			<point error="1" time="1919.866129" value="1.9" />
+			<point error="1" time="1921.831036" value="2.1" />
+			<point error="1" time="1955.799909" value="2.1" />
+			<point error="1" time="2174.074023" value="2.5" />
+			<point error="1" time="2177.033922" value="2.6" />
+			<point error="1" time="2215.085695" value="4.7" />
+			<point error="1" time="2571.005264" value="2.7" />
+			<point error="1" time="2656.819289" value="2.4" />
+			<point error="1" time="2679.807867" value="2.7" />
+			<point error="1" time="2689.783216" value="2.1" />
+		</data>
+	</curve>
+	<curve id="UID_0040952_RVC_002.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Carter et al. 2003 (ApJ, 593, L43)</reference>
+		<bibcodes>2003ApJ...593L..43C</bibcodes>
+		<observatory>Siding Spring Observatory, Australia</observatory>
+		<telescope>3.9m Anglo-Australian Telescope (AAT)</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2450830.1082">
+			<point error="1" time="0.0" value="4.2" />
+			<point error="1" time="327.1181" value="4.4" />
+			<point error="1" time="382.9969" value="4.3" />
+			<point error="1" time="405.9768" value="5.2" />
+			<point error="1" time="799.9013" value="3.6" />
+			<point error="1" time="887.7728" value="3.9" />
+			<point error="1" time="1090.0266" value="4.8" />
+			<point error="1" time="1153.8605" value="5.8" />
+			<point error="1" time="1178.9128" value="4.6" />
+			<point error="1" time="1230.7662" value="3.4" />
+			<point error="1" time="1590.799" value="3.1" />
+			<point error="1" time="1594.7899" value="3.1" />
+			<point error="1" time="1625.7334" value="2.8" />
+			<point error="1" time="1762.1147" value="2.9" />
+			<point error="1" time="1765.1173" value="3.4" />
+			<point error="1" time="1879.9618" value="3.0" />
+			<point error="1" time="1914.8489" value="3.1" />
+			<point error="1" time="1917.8073" value="2.7" />
+			<point error="1" time="1919.8673" value="2.2" />
+			<point error="1" time="1921.8302" value="2.4" />
+			<point error="1" time="1955.8" value="2.4" />
+		</data>
+	</curve>
 	<curve id="UID_0040952_PLC_001.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>The Hipparcos and Tycho Catalogues, Vol 1, Pt 2.5, Hipparcos Epoch Photometry Annex (and Extension), pp 215 ff, http://www.rssd.esa.int/SA/HIPPARCOS/docs/vol1_all.pdf</reference>
