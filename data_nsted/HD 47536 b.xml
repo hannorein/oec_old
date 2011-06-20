@@ -1,4 +1,55 @@
 <planet id="HD 47536">
+	<curve id="UID_0031688_RVC_001.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Setiawan et al. 2003 (A&amp;A, 398, L19)</reference>
+		<bibcodes>2003A&amp;A...398L..19S</bibcodes>
+		<observatory>ESO La Silla, Chile</observatory>
+		<telescope>1.52m</telescope>
+		<xaxis>HJD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2451498.85813">
+			<point error="1" time="0.0" value="33.35" />
+			<point error="1" time="0.98610999994" value="24.39" />
+			<point error="1" time="1.96585999988" value="28.20" />
+			<point error="1" time="2.98387999972" value="33.34" />
+			<point error="1" time="4.94594000001" value="24.68" />
+			<point error="1" time="5.87326999987" value="30.79" />
+			<point error="1" time="326.96187" value="32.88" />
+			<point error="1" time="327.93893" value="31.97" />
+			<point error="1" time="334.83205" value="38.11" />
+			<point error="1" time="349.87968" value="29.70" />
+			<point error="1" time="351.01259" value="31.38" />
+			<point error="1" time="351.96219" value="30.45" />
+			<point error="1" time="354.97523" value="32.96" />
+			<point error="1" time="392.89299" value="25.92" />
+			<point error="1" time="393.87039" value="29.38" />
+			<point error="1" time="394.87432" value="28.29" />
+			<point error="1" time="395.8751" value="43.76" />
+			<point error="1" time="422.8713" value="28.95" />
+			<point error="1" time="440.82371" value="33.18" />
+			<point error="1" time="442.82476" value="47.47" />
+			<point error="1" time="467.77254" value="43.54" />
+			<point error="1" time="468.75615" value="48.67" />
+			<point error="1" time="483.75186" value="45.08" />
+			<point error="1" time="484.7536" value="63.90" />
+			<point error="1" time="535.66045" value="42.04" />
+			<point error="1" time="636.06311" value="38.13" />
+			<point error="1" time="637.06294" value="28.45" />
+			<point error="1" time="645.06099" value="25.81" />
+			<point error="1" time="646.05677" value="23.91" />
+			<point error="1" time="663.97598" value="21.53" />
+			<point error="1" time="707.96572" value="26.63" />
+			<point error="1" time="751.87497" value="22.88" />
+			<point error="1" time="759.95021" value="26.70" />
+			<point error="1" time="762.92114" value="24.94" />
+			<point error="1" time="765.88778" value="27.79" />
+			<point error="1" time="798.80284" value="27.74" />
+			<point error="1" time="821.79475" value="31.40" />
+			<point error="1" time="822.72092" value="42.41" />
+		</data>
+	</curve>
 	<curve id="UID_0031688_PLC_001.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>The Hipparcos and Tycho Catalogues, Vol 1, Pt 2.5, Hipparcos Epoch Photometry Annex (and Extension), pp 215 ff, http://www.rssd.esa.int/SA/HIPPARCOS/docs/vol1_all.pdf</reference>

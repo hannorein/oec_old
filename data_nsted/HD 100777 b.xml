@@ -1,46 +1,4 @@
 <planet id="HD 100777">
-	<curve id="UID_0056572_RVC_001.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Naef et al. 2007 (A&amp;A, 470, 721)</reference>
-		<bibcodes>2007A&amp;A...470..721N</bibcodes>
-		<observatory>ESO La Silla, Chile</observatory>
-		<telescope>3.6m</telescope>
-		<xaxis>BJD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>km/s</yaxisunits>
-		<data mintime="2453063.7383">
-			<point error="1" time="0.0" value="0.0016" />
-			<point error="1" time="314.1357" value="0.0015" />
-			<point error="1" time="341.0243" value="0.0014" />
-			<point error="1" time="344.0078" value="0.0014" />
-			<point error="1" time="345.0036" value="0.0016" />
-			<point error="1" time="346.0508" value="0.0015" />
-			<point error="1" time="404.8643" value="0.0016" />
-			<point error="1" time="406.922" value="0.0021" />
-			<point error="1" time="420.932" value="0.0013" />
-			<point error="1" time="425.8565" value="0.0022" />
-			<point error="1" time="448.8288" value="0.0017" />
-			<point error="1" time="452.8456" value="0.0014" />
-			<point error="1" time="454.8579" value="0.0021" />
-			<point error="1" time="456.8395" value="0.0022" />
-			<point error="1" time="479.8215" value="0.0013" />
-			<point error="1" time="486.7906" value="0.0016" />
-			<point error="1" time="509.7306" value="0.0014" />
-			<point error="1" time="515.7322" value="0.0022" />
-			<point error="1" time="661.1234" value="0.0012" />
-			<point error="1" time="699.0786" value="0.0013" />
-			<point error="1" time="702.0262" value="0.0016" />
-			<point error="1" time="718.1511" value="0.0016" />
-			<point error="1" time="726.0347" value="0.0018" />
-			<point error="1" time="798.8817" value="0.0015" />
-			<point error="1" time="802.8654" value="0.0014" />
-			<point error="1" time="807.8887" value="0.0015" />
-			<point error="1" time="819.8206" value="0.0014" />
-			<point error="1" time="854.7596" value="0.0017" />
-			<point error="1" time="856.7727" value="0.0023" />
-		</data>
-	</curve>
 	<curve id="UID_0056572_PLC_001.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>The Hipparcos and Tycho Catalogues, Vol 1, Pt 2.5, Hipparcos Epoch Photometry Annex (and Extension), pp 215 ff, http://www.rssd.esa.int/SA/HIPPARCOS/docs/vol1_all.pdf</reference>
