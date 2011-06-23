@@ -1,4 +1,96 @@
 <planet id="HD 208487">
+	<curve id="UID_0108375_RVC_001.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Butler et al. 2006 (ApJ, 646, 505)</reference>
+		<bibcodes>2006ApJ...646..505B</bibcodes>
+		<observatory>Siding Spring Observatory, Australia</observatory>
+		<telescope>3.9m Anglo-Australian Telescope (AAT)</telescope>
+		<xaxis>JD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2451034.17836">
+			<point error="1" time="0.0" value="5.8" />
+			<point error="1" time="378.917425" value="5.9" />
+			<point error="1" time="649.107582" value="6.1" />
+			<point error="1" time="709.025082" value="7.0" />
+			<point error="1" time="732.943403" value="5.2" />
+			<point error="1" time="794.758345" value="8.1" />
+			<point error="1" time="1028.106135" value="5.3" />
+			<point error="1" time="1058.007686" value="5.8" />
+			<point error="1" time="1095.911679" value="5.8" />
+			<point error="1" time="1116.882512" value="5.9" />
+			<point error="1" time="1117.815498" value="5.4" />
+			<point error="1" time="1118.796239" value="4.8" />
+			<point error="1" time="1119.877014" value="6.7" />
+			<point error="1" time="1152.758739" value="4.5" />
+			<point error="1" time="1153.834977" value="4.5" />
+			<point error="1" time="1154.896392" value="3.9" />
+			<point error="1" time="1155.781227" value="4.9" />
+			<point error="1" time="1354.129144" value="5.0" />
+			<point error="1" time="1442.984908" value="5.9" />
+			<point error="1" time="1564.767385" value="5.9" />
+			<point error="1" time="1750.089137" value="3.6" />
+			<point error="1" time="1824.963105" value="4.9" />
+			<point error="1" time="1908.890263" value="5.0" />
+			<point error="1" time="1912.817072" value="5.4" />
+			<point error="1" time="2180.012218" value="4.8" />
+			<point error="1" time="2181.006909" value="3.8" />
+			<point error="1" time="2182.044379" value="3.7" />
+			<point error="1" time="2209.070359" value="5.8" />
+			<point error="1" time="2209.967745" value="4.6" />
+			<point error="1" time="2210.962003" value="5.5" />
+			<point error="1" time="2211.757061" value="5.7" />
+			<point error="1" time="2247.832153" value="12." />
+			<point error="1" time="2455.098333" value="3.9" />
+			<point error="1" time="2539.001813" value="5.6" />
+			<point error="1" time="2630.806936" value="4.0" />
+		</data>
+	</curve>
+	<curve id="UID_0108375_RVC_002.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Tinney et al. 2005 (ApJ, 623, 1171)</reference>
+		<bibcodes>2005ApJ...623.1171T</bibcodes>
+		<observatory>Mauna Kea, Hawaii</observatory>
+		<telescope>3.9m Anglo-Australian Telescope (AAT)</telescope>
+		<xaxis>BJD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2451034.1784">
+			<point error="1" time="0.0" value="5.9" />
+			<point error="1" time="378.9175" value="6.3" />
+			<point error="1" time="649.1075" value="6.4" />
+			<point error="1" time="709.025" value="7.3" />
+			<point error="1" time="732.9434" value="5.3" />
+			<point error="1" time="794.7583" value="8.5" />
+			<point error="1" time="912.817" value="5.6" />
+			<point error="1" time="1028.1061" value="5.1" />
+			<point error="1" time="1058.0076" value="6.0" />
+			<point error="1" time="1095.9116" value="5.8" />
+			<point error="1" time="1116.8825" value="6.0" />
+			<point error="1" time="1117.8155" value="5.4" />
+			<point error="1" time="1118.7962" value="4.6" />
+			<point error="1" time="1119.877" value="6.8" />
+			<point error="1" time="1152.7587" value="4.5" />
+			<point error="1" time="1153.8349" value="4.6" />
+			<point error="1" time="1154.8968" value="3.9" />
+			<point error="1" time="1155.7812" value="5.0" />
+			<point error="1" time="1354.1291" value="5.1" />
+			<point error="1" time="1442.9849" value="6.2" />
+			<point error="1" time="1564.7673" value="5.8" />
+			<point error="1" time="1750.0887" value="3.6" />
+			<point error="1" time="1824.9638" value="4.9" />
+			<point error="1" time="1908.8906" value="5.2" />
+			<point error="1" time="2180.012" value="4.8" />
+			<point error="1" time="2181.0057" value="3.9" />
+			<point error="1" time="2182.0441" value="3.7" />
+			<point error="1" time="2209.0703" value="6.0" />
+			<point error="1" time="2209.9672" value="4.6" />
+			<point error="1" time="2210.962" value="5.4" />
+			<point error="1" time="2211.757" value="5.9" />
+		</data>
+	</curve>
 	<curve id="UID_0108375_PLC_001.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>The Hipparcos and Tycho Catalogues, Vol 1, Pt 2.5, Hipparcos Epoch Photometry Annex (and Extension), pp 215 ff, http://www.rssd.esa.int/SA/HIPPARCOS/docs/vol1_all.pdf</reference>
