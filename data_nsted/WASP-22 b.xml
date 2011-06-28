@@ -1,1 +1,71 @@
-<planet id="WASP-22" nsted="0" />
+<planet id="WASP-22">
+	<curve id="UID_0300105_RVC_001.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Maxted et al. 2010 (arXiv, 1004, 1514)</reference>
+		<bibcodes>2010arXiv1004.1514M</bibcodes>
+		<observatory>ESO La Silla, Chile</observatory>
+		<telescope>1.2m Euler Swiss telescope</telescope>
+		<xaxis>BJD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2454704.8563">
+			<point error="1" time="0.0" value="0.013" />
+			<point error="1" time="2.01979999989" value="0.026" />
+			<point error="1" time="3.98540000012" value="0.011" />
+			<point error="1" time="4.90620000008" value="0.019" />
+			<point error="1" time="5.91339999996" value="0.024" />
+			<point error="1" time="11.0279999999" value="0.018" />
+			<point error="1" time="11.9893999998" value="0.041" />
+			<point error="1" time="12.9230999998" value="0.041" />
+			<point error="1" time="15.8956999998" value="0.017" />
+			<point error="1" time="16.9621000001" value="0.019" />
+			<point error="1" time="17.9669999997" value="0.012" />
+			<point error="1" time="19.8803999997" value="0.017" />
+			<point error="1" time="21.9545" value="0.012" />
+			<point error="1" time="25.0060000001" value="0.013" />
+			<point error="1" time="27.0094999997" value="0.012" />
+			<point error="1" time="35.9000999997" value="0.020" />
+			<point error="1" time="129.7084" value="0.018" />
+			<point error="1" time="131.7144" value="0.017" />
+			<point error="1" time="148.775" value="0.014" />
+			<point error="1" time="149.7759" value="0.013" />
+			<point error="1" time="150.7528" value="0.012" />
+			<point error="1" time="155.6841" value="0.013" />
+			<point error="1" time="157.7026" value="0.015" />
+			<point error="1" time="160.7065" value="0.014" />
+			<point error="1" time="174.6693" value="0.017" />
+			<point error="1" time="175.6839" value="0.021" />
+			<point error="1" time="177.6679" value="0.021" />
+			<point error="1" time="180.6644" value="0.016" />
+			<point error="1" time="181.688" value="0.017" />
+			<point error="1" time="391.0195" value="0.013" />
+			<point error="1" time="396.003" value="0.015" />
+			<point error="1" time="421.9372" value="0.015" />
+			<point error="1" time="423.8852" value="0.016" />
+			<point error="1" time="480.8055" value="0.011" />
+			<point error="1" time="481.759" value="0.011" />
+			<point error="1" time="484.8008" value="0.010" />
+			<point error="1" time="485.8127" value="0.011" />
+		</data>
+	</curve>
+	<curve id="UID_0300105_RVC_002.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Maxted et al. 2010 (arXiv, 1004, 1514)</reference>
+		<bibcodes>2010arXiv1004.1514M</bibcodes>
+		<observatory>ESO La Silla, Chile</observatory>
+		<telescope>3.6m</telescope>
+		<xaxis>BJD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>km/s</yaxisunits>
+		<data mintime="2454743.7527">
+			<point error="1" time="0.0" value="0.0029" />
+			<point error="1" time="3.01560000004" value="0.0026" />
+			<point error="1" time="6.01230000006" value="0.0024" />
+			<point error="1" time="6.92639999976" value="0.0029" />
+			<point error="1" time="10.9729999998" value="0.0025" />
+			<point error="1" time="12.0030999999" value="0.0032" />
+		</data>
+	</curve>
+</planet>
