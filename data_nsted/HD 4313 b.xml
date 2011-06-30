@@ -1,45 +1,4 @@
 <planet id="HD 4313">
-	<curve id="UID_0003574_RVC_001.tbl" type="4">
-		<type>Radial Velocity Curve</type>
-		<reference>Johnson et al. 2010 (PASP, 122, 701)</reference>
-		<bibcodes>2010PASP..122..701J</bibcodes>
-		<observatory>Mauna Kea, Hawaii</observatory>
-		<telescope>10m Keck I</telescope>
-		<xaxis>JD</xaxis>
-		<yaxis>Radial Velocity</yaxis>
-		<xaxisunits>days</xaxisunits>
-		<yaxisunits>m/s</yaxisunits>
-		<data mintime="2454339.932">
-			<point error="1" time="0.0" value="1.57" />
-			<point error="1" time="59.9100000001" value="1.59" />
-			<point error="1" time="116.874" value="1.61" />
-			<point error="1" time="335.074" value="1.71" />
-			<point error="1" time="349.072" value="1.60" />
-			<point error="1" time="378.013" value="1.53" />
-			<point error="1" time="382.963" value="1.60" />
-			<point error="1" time="439.922" value="1.70" />
-			<point error="1" time="450.957" value="1.64" />
-			<point error="1" time="465.875" value="1.54" />
-			<point error="1" time="498.836" value="1.61" />
-			<point error="1" time="506.813" value="1.69" />
-			<point error="1" time="527.822" value="3.56" />
-			<point error="1" time="647.186" value="1.69" />
-			<point error="1" time="675.117" value="1.54" />
-			<point error="1" time="676.149" value="1.41" />
-			<point error="1" time="687.157" value="1.61" />
-			<point error="1" time="709.106" value="1.56" />
-			<point error="1" time="736.159" value="1.60" />
-			<point error="1" time="741.159" value="1.55" />
-			<point error="1" time="744.211" value="1.60" />
-			<point error="1" time="770.023" value="1.63" />
-			<point error="1" time="794.043" value="1.60" />
-			<point error="1" time="829.928" value="1.57" />
-			<point error="1" time="847.923" value="1.55" />
-			<point error="1" time="858.839" value="1.55" />
-			<point error="1" time="889.79" value="1.43" />
-			<point error="1" time="910.781" value="1.50" />
-		</data>
-	</curve>
 	<curve id="UID_0003574_PLC_001.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>The Hipparcos and Tycho Catalogues, Vol 1, Pt 2.5, Hipparcos Epoch Photometry Annex (and Extension), pp 215 ff, http://www.rssd.esa.int/SA/HIPPARCOS/docs/vol1_all.pdf</reference>
