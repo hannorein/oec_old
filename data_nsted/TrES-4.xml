@@ -1,4 +1,65 @@
 <planet id="TrES-4">
+	<curve id="UID_0300043_RVC_001.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Mandushev et al. 2007 (ApJ, 667, 195L)</reference>
+		<bibcodes>2007ApJ...667L.195M</bibcodes>
+		<observatory>Mauna Kea, Hawaii</observatory>
+		<telescope>10m Keck I</telescope>
+		<xaxis>HJD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2454187.07793">
+			<point error="1" time="0.0" value="11.8" />
+			<point error="1" time="1.0332899997" value="9.4" />
+			<point error="1" time="1.94837999996" value="11.6" />
+			<point error="1" time="2.07126999972" value="10.3" />
+		</data>
+	</curve>
+	<curve id="UID_0300043_RVC_002.tbl" type="4">
+		<type>Radial Velocity Curve</type>
+		<reference>Narita et al. 2010 (arXiv, 1003, 2268)</reference>
+		<bibcodes>2010arXiv1003.2268N</bibcodes>
+		<observatory>Mauna Kea, Hawaii</observatory>
+		<telescope>8.2m Subaru</telescope>
+		<xaxis>HJD</xaxis>
+		<yaxis>Radial Velocity</yaxis>
+		<xaxisunits>days</xaxisunits>
+		<yaxisunits>m/s</yaxisunits>
+		<data mintime="2454294.7715">
+			<point error="1" time="0.0" value="18.6" />
+			<point error="1" time="0.0186000000685" value="16.2" />
+			<point error="1" time="0.0276000001468" value="16.7" />
+			<point error="1" time="0.036600000225" value="15.8" />
+			<point error="1" time="0.0456000003032" value="16.3" />
+			<point error="1" time="0.0546000003815" value="17.8" />
+			<point error="1" time="0.063599999994" value="15.4" />
+			<point error="1" time="0.0726000000723" value="16.1" />
+			<point error="1" time="0.0816000001505" value="16.6" />
+			<point error="1" time="0.0906000002287" value="13.7" />
+			<point error="1" time="0.099600000307" value="14.6" />
+			<point error="1" time="0.108600000385" value="13.8" />
+			<point error="1" time="0.117599999998" value="12.8" />
+			<point error="1" time="0.126600000076" value="14.5" />
+			<point error="1" time="0.135600000154" value="15.2" />
+			<point error="1" time="0.144600000232" value="14.6" />
+			<point error="1" time="0.153700000141" value="12.2" />
+			<point error="1" time="0.162700000219" value="13.0" />
+			<point error="1" time="0.171700000297" value="11.9" />
+			<point error="1" time="0.180700000376" value="14.0" />
+			<point error="1" time="0.257400000002" value="14.2" />
+			<point error="1" time="0.26640000008" value="13.1" />
+			<point error="1" time="0.284400000237" value="13.6" />
+			<point error="1" time="22.9719000002" value="15.8" />
+			<point error="1" time="23.1838000002" value="19.6" />
+			<point error="1" time="240.3295" value="19.3" />
+			<point error="1" time="240.351" value="17.3" />
+			<point error="1" time="240.3725" value="18.0" />
+			<point error="1" time="322.03" value="18.8" />
+			<point error="1" time="322.0447" value="19.6" />
+			<point error="1" time="322.0594" value="20.3" />
+		</data>
+	</curve>
 	<curve id="UID_0300043_PLC_001.tbl" type="2">
 		<type>Transit Light Curve</type>
 		<reference>Pollacco et al. 2006 (PASP, 118, 1407)</reference>
