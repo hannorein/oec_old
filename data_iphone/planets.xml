@@ -6384,23 +6384,23 @@
 		<name>TYC 6100-01491-1 b</name>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.16</mass>
+			<mass>0.186</mass>
 			<radius />
 			<orbit>
-				<period>55.8</period>
-				<semimajoraxis />
-				<eccentricity />
+				<period>55.806</period>
+				<semimajoraxis>0.2643</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
 				<inclination />
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K2V</spectraltype>
-			<mass>0.79</mass>
+			<mass>0.791</mass>
 			<radius />
 			<metallicity>-0.06</metallicity>
 			<rightascension>11 59 10</rightascension>
 			<declination>-20 21 14</declination>
-			<angulardistance />
+			<angulardistance>0.012707</angulardistance>
 			<distance>20.8</distance>
 			<magV>7.93</magV>
 			<magI />
@@ -6410,7 +6410,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>10/12/15</lastupdate>
+		<lastupdate>11/07/05</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -7684,23 +7684,23 @@
 		<name>TYC 7809-02461-1 b</name>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.045</mass>
+			<mass>0.042</mass>
 			<radius />
 			<orbit>
-				<period>9.67</period>
-				<semimajoraxis />
-				<eccentricity />
+				<period>9.6737</period>
+				<semimajoraxis>0.0809</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
 				<inclination />
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K4V</spectraltype>
-			<mass>0.76</mass>
+			<mass>0.756</mass>
 			<radius />
 			<metallicity>0.02</metallicity>
 			<rightascension>14 21 23</rightascension>
 			<declination>-40 23 38</declination>
-			<angulardistance />
+			<angulardistance>0.002953</angulardistance>
 			<distance>27.4</distance>
 			<magV>9.03</magV>
 			<magI />
@@ -7710,7 +7710,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>10/12/15</lastupdate>
+		<lastupdate>11/07/05</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -16135,23 +16135,23 @@
 		<name>TYC 8553-02637-1 b</name>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.69</mass>
+			<mass>0.64</mass>
 			<radius />
 			<orbit>
-				<period>356</period>
-				<semimajoraxis />
-				<eccentricity />
+				<period>358</period>
+				<semimajoraxis>0.949</semimajoraxis>
+				<eccentricity>0.24</eccentricity>
 				<inclination />
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G9V</spectraltype>
-			<mass>0.86</mass>
+			<mass>0.865</mass>
 			<radius />
 			<metallicity>-0.16</metallicity>
 			<rightascension>07 47 50</rightascension>
 			<declination>-54 15 51</declination>
-			<angulardistance />
+			<angulardistance>0.02911</angulardistance>
 			<distance>32.6</distance>
 			<magV>8.1</magV>
 			<magI />
@@ -16161,7 +16161,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>10/12/06</lastupdate>
+		<lastupdate>11/07/05</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -18771,12 +18771,12 @@
 		<name>TYC 8278-02962-1 b</name>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>5</mass>
+			<mass>9</mass>
 			<radius />
 			<orbit>
-				<period>3000</period>
-				<semimajoraxis />
-				<eccentricity />
+				<period>10000</period>
+				<semimajoraxis>10</semimajoraxis>
+				<eccentricity>0.6</eccentricity>
 				<inclination />
 			</orbit>
 		</properties>
@@ -18787,9 +18787,9 @@
 			<metallicity />
 			<rightascension>14 29 19</rightascension>
 			<declination>-46 27 50</declination>
-			<angulardistance />
+			<angulardistance>0.416667</angulardistance>
 			<distance>24</distance>
-			<magV>10.4</magV>
+			<magV>10.36</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -18797,7 +18797,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>10/12/15</lastupdate>
+		<lastupdate>11/07/05</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
