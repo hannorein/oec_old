@@ -8435,6 +8435,44 @@
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 137388 b</id_exoplaneteu>
+		<name>HD 137388 b</name>
+		<id>HD 137388 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.223</mass>
+			<radius />
+			<orbit>
+				<period>330</period>
+				<semimajoraxis>0.89</semimajoraxis>
+				<eccentricity>0.36</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0/K1V</spectraltype>
+			<mass>0.86</mass>
+			<radius>0.82</radius>
+			<metallicity>0.18</metallicity>
+			<rightascension>15 35 40</rightascension>
+			<declination>-80 12 17</declination>
+			<angulardistance>0.023421</angulardistance>
+			<distance>38</distance>
+			<magV>8.71</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/02</lastupdate>
+		<description>HD 137388 b was found with the Euopean High Accuracy Radial velocity Planet Searcher (HARPS) which can reach sub-meter-per-second precision. The planet orbits a K type star.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 13931 b</id_exoplaneteu>
 		<name>HD 13931 b</name>
 		<id>HD 13931 b</id>
@@ -12214,6 +12252,51 @@
 		<lastupdate>09/08/12</lastupdate>
 		<description />
 		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 204941 b</id_exoplaneteu>
+		<name>HD 204941 b</name>
+		<id>HD 204941 b</id>
+		<name>HIP 106353 b</name>
+		<name>WDS J21324-2058A b</name>
+		<name>TYC 6373-00214-1 b</name>
+		<name>SD-21 6035 b</name>
+		<name>BD-21 6035 b</name>
+		<name>SAO 190421 b</name>
+		<name>2MASS J21322353-2057264 b</name>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.266</mass>
+			<radius />
+			<orbit>
+				<period>1733</period>
+				<semimajoraxis>2.56</semimajoraxis>
+				<eccentricity>0.37</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.74</mass>
+			<radius>0.72</radius>
+			<metallicity>-0.19</metallicity>
+			<rightascension>21 32 24</rightascension>
+			<declination>-20 57 27</declination>
+			<angulardistance>0.094815</angulardistance>
+			<distance>27</distance>
+			<magV>8.45</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/02</lastupdate>
+		<description>HD 204941 b was found with the Euopean High Accuracy Radial velocity Planet Searcher (HARPS) which can reach sub-meter-per-second precision. The host star shows evidence for long-term solar-like magnetic cycles.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -16671,6 +16754,49 @@
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 7199 b</id_exoplaneteu>
+		<name>HD 7199 b</name>
+		<id>HD 7199 b</id>
+		<name>HIP 5529 b</name>
+		<name>TYC 8855-00128-1 b</name>
+		<name>CPD-66 88 b</name>
+		<name>SAO 248334 b</name>
+		<name>2MASS J01104719-6611171 b</name>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.29</mass>
+			<radius />
+			<orbit>
+				<period>615</period>
+				<semimajoraxis>1.36</semimajoraxis>
+				<eccentricity>0.19</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>KOIV/V</spectraltype>
+			<mass>0.89</mass>
+			<radius>0.96</radius>
+			<metallicity>0.28</metallicity>
+			<rightascension>01 10 47</rightascension>
+			<declination>-66 11 17</declination>
+			<angulardistance>0.037778</angulardistance>
+			<distance>36</distance>
+			<magV>8.06</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/02</lastupdate>
+		<description>HD 7199 b was found with the Euopean High Accuracy Radial velocity Planet Searcher (HARPS) which can reach sub-meter-per-second precision. The host star shows evidence for long-term solar-like magnetic cycles.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 72659 b</id_exoplaneteu>
 		<name>HD 72659 b</name>
 		<id>HD 72659 b</id>
@@ -17015,6 +17141,94 @@
 		<lastupdate>10/12/21</lastupdate>
 		<description />
 		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 7449 b</id_exoplaneteu>
+		<name>HD 7449 b</name>
+		<id>HD 7449 b</id>
+		<name>HIP 5806 b</name>
+		<name>TYC 4683-00883-1 b</name>
+		<name>SD-05 215 b</name>
+		<name>BD-05 215 b</name>
+		<name>SAO 129195 b</name>
+		<name>2MASS J01142933-0502504 b</name>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.11</mass>
+			<radius />
+			<orbit>
+				<period>1275</period>
+				<semimajoraxis>2.3</semimajoraxis>
+				<eccentricity>0.82</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8V</spectraltype>
+			<mass>1.05</mass>
+			<radius>1.01</radius>
+			<metallicity>-0.11</metallicity>
+			<rightascension>01 14 29</rightascension>
+			<declination>-05 02 51</declination>
+			<angulardistance>0.058974</angulardistance>
+			<distance>39</distance>
+			<magV>7.5</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/02</lastupdate>
+		<description>HD 7449 b was found with the Euopean High Accuracy Radial velocity Planet Searcher (HARPS) which can reach sub-meter-per-second precision. The planetary system contains at least one other planet, HD 7449 c. The host star shows signs of short-term activity due to magnetic features on the stellar surface.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 7449 c</id_exoplaneteu>
+		<name>HD 7449 c</name>
+		<id>HD 7449 c</id>
+		<name>HIP 5806 c</name>
+		<name>TYC 4683-00883-1 c</name>
+		<name>SD-05 215 c</name>
+		<name>BD-05 215 c</name>
+		<name>SAO 129195 c</name>
+		<name>2MASS J01142933-0502504 c</name>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>2</mass>
+			<radius />
+			<orbit>
+				<period>4046</period>
+				<semimajoraxis>4.96</semimajoraxis>
+				<eccentricity>0.53</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8V</spectraltype>
+			<mass>1.05</mass>
+			<radius>1.01</radius>
+			<metallicity>-0.11</metallicity>
+			<rightascension>01 14 29</rightascension>
+			<declination>-05 02 51</declination>
+			<angulardistance>0.127179</angulardistance>
+			<distance>39</distance>
+			<magV>7.5</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/02</lastupdate>
+		<description>HD 7449 c was found with the Euopean High Accuracy Radial velocity Planet Searcher (HARPS) which can reach sub-meter-per-second precision. The planetary system contains at least one other planet, HD 7449 b. The host star shows signs of short-term activity due to magnetic features on the stellar surface.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -19871,7 +20085,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/08/02</lastupdate>
 		<description>Kepler-15b is a planet discovered by NASA's Kepler mission and confirmed by the Hobby-Eberly Telescope. The density of the planet is high, suggesting an enrichment in heavy elements.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -19909,7 +20123,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/08/02</lastupdate>
 		<description>Kepler-17b is a planet on a short orbit around a solar mass star. One year on this planet equals 1.5 days on Earth. Star spots on the host star constrain the eccentricity and obliquity of the planet.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -20228,6 +20442,44 @@
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2010</discoveryyear>
 		<lastupdate>10/11/23</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-196 b</id_exoplaneteu>
+		<name>KOI-196 b</name>
+		<id>KOI-196 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.49</mass>
+			<radius>0.841</radius>
+			<orbit>
+				<period>1.855558</period>
+				<semimajoraxis>0.029</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>88.3</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2V</spectraltype>
+			<mass>0.94</mass>
+			<radius>0.966</radius>
+			<metallicity>-0.09</metallicity>
+			<rightascension>19 38 03</rightascension>
+			<declination>+45 58 54</declination>
+			<angulardistance>4e-05</angulardistance>
+			<distance>730</distance>
+			<magV>14.5</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/02</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
