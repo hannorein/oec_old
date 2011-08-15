@@ -8515,7 +8515,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/08/02</lastupdate>
 		<description>HD 137388 b was found with the European High Accuracy Radial velocity Planet Searcher (HARPS) which can reach sub-meter-per-second precision. The planet orbits a K type star.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -12387,7 +12387,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/08/02</lastupdate>
 		<description>HD 204941 b was found with the European High Accuracy Radial velocity Planet Searcher (HARPS) which can reach sub-meter-per-second precision. The host star shows evidence for long-term solar-like magnetic cycles.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -16883,7 +16883,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/08/02</lastupdate>
 		<description>HD 7199 b was found with the European High Accuracy Radial velocity Planet Searcher (HARPS) which can reach sub-meter-per-second precision. The host star shows evidence for long-term solar-like magnetic cycles.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -17275,7 +17275,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/08/02</lastupdate>
 		<description>HD 7449 b was found with the European High Accuracy Radial velocity Planet Searcher (HARPS) which can reach sub-meter-per-second precision. The planetary system contains at least one other planet, HD 7449 c. The host star shows signs of short-term activity due to magnetic features on the stellar surface.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -17319,7 +17319,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/08/02</lastupdate>
 		<description>HD 7449 c was found with the European High Accuracy Radial velocity Planet Searcher (HARPS) which can reach sub-meter-per-second precision. The planetary system contains at least one other planet, HD 7449 b. The host star shows signs of short-term activity due to magnetic features on the stellar surface.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -20572,7 +20572,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/08/03</lastupdate>
 		<description>KOI-196 b is transiting its host star and was tagged as a planet candidate by the Kepler spacecraft. Astronomers then used the SOPHIE spectrograph at the Observatoire de Haute-Provence in France to confirm the planet. The day side temperature on the planet is almost 1700 degree Celsius.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -24390,6 +24390,46 @@
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2007</discoveryyear>
 		<lastupdate>10/11/29</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-50 b</id_exoplaneteu>
+		<name>WASP-50 b</name>
+		<id>WASP-50 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.47</mass>
+			<radius>1.15</radius>
+			<orbit>
+				<period>1.955096</period>
+				<semimajoraxis>0.02945</semimajoraxis>
+				<eccentricity>0.009</eccentricity>
+				<inclination>84.74</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G9</spectraltype>
+			<mass>0.89</mass>
+			<radius>0.84</radius>
+			<metallicity>-0.12</metallicity>
+			<rightascension>02 54 45</rightascension>
+			<declination>-10 53 53</declination>
+			<angulardistance />
+			<distance>230</distance>
+			<magV>11.6</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK>10</magK>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/15</lastupdate>
+		<description>WASP-50 b is a Hot Jupiter transiting a solar type star in the southern constellation Eridanus.</description>
+		<new>1</new>
 		<description />
 		<new>0</new>
 		<image />
