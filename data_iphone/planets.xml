@@ -11812,6 +11812,86 @@
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 192310 b</id_exoplaneteu>
+		<name>HD 192310 b</name>
+		<id>HD 192310 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.05316</mass>
+			<radius />
+			<orbit>
+				<period>74.72</period>
+				<semimajoraxis>0.32</semimajoraxis>
+				<eccentricity>0.13</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K3V</spectraltype>
+			<mass>0.80</mass>
+			<radius />
+			<metallicity>-0.04</metallicity>
+			<rightascension>20 15 17</rightascension>
+			<declination>-27 01 58</declination>
+			<angulardistance />
+			<distance>8.82</distance>
+			<magV>5.73</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/18</lastupdate>
+		<description>The planetary system around the star HD 192310 consists of two Neptune-mass planets. </description>
+		<new>1</new>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 192310 c</id_exoplaneteu>
+		<name>HD 192310 c</name>
+		<id>HD 192310 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.0754</mass>
+			<radius />
+			<orbit>
+				<period>525.8</period>
+				<semimajoraxis>1.18</semimajoraxis>
+				<eccentricity>0.32</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K3V</spectraltype>
+			<mass>0.80</mass>
+			<radius />
+			<metallicity>-0.04</metallicity>
+			<rightascension>20 15 17</rightascension>
+			<declination>-27 01 58</declination>
+			<angulardistance />
+			<distance>8.82</distance>
+			<magV>5.73</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/18</lastupdate>
+		<description>The planetary system around the star HD 192310 consists of two Neptune-mass planets. The outer planet HD 192310 c is at the outer edge of the habitable zone.</description>
+		<new>1</new>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 192699 b</id_exoplaneteu>
 		<name>HD 192699 b</name>
 		<id>HD 192699 b</id>
@@ -12519,6 +12599,126 @@
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2006</discoveryyear>
 		<lastupdate>08/10/10</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 20794 b</id_exoplaneteu>
+		<name>HD 20794 b</name>
+		<id>HD 20794 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.0084933</mass>
+			<radius />
+			<orbit>
+				<period>18.315</period>
+				<semimajoraxis>0.1207</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8V</spectraltype>
+			<mass>0.70</mass>
+			<radius />
+			<metallicity>-0.40</metallicity>
+			<rightascension>03 19 55</rightascension>
+			<declination>-43 30 10</declination>
+			<angulardistance />
+			<distance>6.06</distance>
+			<magV>4.26</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/18</lastupdate>
+		<description>The planetary system around the star HD 20794 consists of three super-Earths. </description>
+		<new>1</new>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 20794 c</id_exoplaneteu>
+		<name>HD 20794 c</name>
+		<id>HD 20794 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.00754968</mass>
+			<radius />
+			<orbit>
+				<period>40.114</period>
+				<semimajoraxis>0.2036</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8V</spectraltype>
+			<mass>0.70</mass>
+			<radius />
+			<metallicity>-0.40</metallicity>
+			<rightascension>03 19 55</rightascension>
+			<declination>-43 30 10</declination>
+			<angulardistance />
+			<distance>6.06</distance>
+			<magV>4.26</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/18</lastupdate>
+		<description>The planetary system around the star HD 20794 consists of three super-Earths. The planet HD 20794 c is the smallest planet signature detected so far (0.56 m/s) and might need further data to be confirmed.</description>
+		<new>1</new>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 20794 d</id_exoplaneteu>
+		<name>HD 20794 d</name>
+		<id>HD 20794 d</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.015099</mass>
+			<radius />
+			<orbit>
+				<period>90.309</period>
+				<semimajoraxis>0.3499</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8V</spectraltype>
+			<mass>0.70</mass>
+			<radius />
+			<metallicity>-0.40</metallicity>
+			<rightascension>03 19 55</rightascension>
+			<declination>-43 30 10</declination>
+			<angulardistance />
+			<distance>6.06</distance>
+			<magV>4.26</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/18</lastupdate>
+		<description>The planetary system around the star HD 20794 consists of three super-Earths. </description>
+		<new>1</new>
 		<description />
 		<new>0</new>
 		<image />
@@ -17853,6 +18053,46 @@
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2009</discoveryyear>
 		<lastupdate>10/10/06</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 85512 b</id_exoplaneteu>
+		<name>HD 85512 b</name>
+		<id>HD 85512 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.011</mass>
+			<radius />
+			<orbit>
+				<period>58.43</period>
+				<semimajoraxis>0.26</semimajoraxis>
+				<eccentricity>0.11</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K5V</spectraltype>
+			<mass>0.69</mass>
+			<radius />
+			<metallicity>-0.33</metallicity>
+			<rightascension>09 51 07</rightascension>
+			<declination>-43 30 10</declination>
+			<angulardistance />
+			<distance>11.15</distance>
+			<magV>7.67</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/18</lastupdate>
+		<description>The planet HD 85512 b could be potentially habitable if the planet exhibits more than 50 percent cloud coverage (Kaltenegger et al 2011). </description>
+		<new>1</new>
 		<description />
 		<new>0</new>
 		<image />
@@ -24429,7 +24669,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/08/15</lastupdate>
 		<description>WASP-50 b is a Hot Jupiter transiting a solar type star in the southern constellation Eridanus.</description>
-		<new>1</new>
+		<new>0</new>
 		<description />
 		<new>0</new>
 		<image />
