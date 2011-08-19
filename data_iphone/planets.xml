@@ -2286,6 +2286,7 @@
 		<id_exoplaneteu>CoRoT-19 b</id_exoplaneteu>
 		<name>CoRoT-19 b</name>
 		<id>CoRoT-19 b</id>
+		<name>2MASS J06280805-0010144 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.11</mass>
@@ -4471,6 +4472,7 @@
 		<name>2MASS J19505021+4804508 b</name>
 		<name>Kepler-3 b</name>
 		<name>KIC 10748390 b</name>
+		<name>KOI-3 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.081</mass>
@@ -5714,6 +5716,7 @@
 		<name>BD+47 2846 b</name>
 		<name>KIC 10666592 b</name>
 		<name>Kepler-2 b</name>
+		<name>KOI-2 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.8</mass>
@@ -20323,6 +20326,7 @@
 		<name>KIC 10264660 b</name>
 		<name>TYC 3546-00413-1 b</name>
 		<name>2MASS J19105011+4719589 b</name>
+		<name>KOI-98 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>8.4</mass>
@@ -20361,6 +20365,9 @@
 		<id_exoplaneteu>Kepler-15 b</id_exoplaneteu>
 		<name>Kepler-15 b</name>
 		<id>Kepler-15 b</id>
+		<name>2MASS J19444814+4908244 b</name>
+		<name>KOI-128 b</name>
+		<name>KIC 11359879 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.66</mass>
@@ -20399,6 +20406,9 @@
 		<id_exoplaneteu>Kepler-17 b</id_exoplaneteu>
 		<name>Kepler-17 b</name>
 		<id>Kepler-17 b</id>
+		<name>2MASS J19533486+4748540 b</name>
+		<name>KOI-203 b</name>
+		<name>KIC 10619192 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>2.45</mass>
@@ -20439,6 +20449,7 @@
 		<id>Kepler-4 b</id>
 		<name>2MASS J19022767+5008087 b</name>
 		<name>KIC 11853905 b</name>
+		<name>KOI-7 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.077</mass>
@@ -20479,6 +20490,7 @@
 		<id>Kepler-5 b</id>
 		<name>2MASS J19573768+4402061 b</name>
 		<name>KIC 8191672 b</name>
+		<name>KOI-18 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>2.114</mass>
@@ -20519,6 +20531,7 @@
 		<id>Kepler-6 b</id>
 		<name>2MASS J19472094+4814238 b</name>
 		<name>KIC 10874614 b</name>
+		<name>KOI-17 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.669</mass>
@@ -20559,6 +20572,7 @@
 		<id>Kepler-7 b</id>
 		<name>2MASS J19141956+4105233 b</name>
 		<name>KIC 5780885 b</name>
+		<name>KOI-97 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.433</mass>
@@ -20599,6 +20613,7 @@
 		<id>Kepler-8 b</id>
 		<name>2MASS J18450914+4227038 b</name>
 		<name>KIC 6922244 b</name>
+		<name>KOI-10 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.603</mass>
@@ -20639,6 +20654,7 @@
 		<id>Kepler-9 b</id>
 		<name>2MASS J19021775+3824032 b</name>
 		<name>KIC 3323887 b</name>
+		<name>KOI-377 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.252</mass>
@@ -20679,6 +20695,7 @@
 		<id>Kepler-9 c</id>
 		<name>2MASS J19021775+3824032 c</name>
 		<name>KIC 3323887 c</name>
+		<name>KOI-377 c</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.171</mass>
@@ -20719,6 +20736,7 @@
 		<id>Kepler-9 d</id>
 		<name>2MASS J19021775+3824032 d</name>
 		<name>KIC 3323887 d</name>
+		<name>KOI-377 d</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.022</mass>
@@ -20757,6 +20775,8 @@
 		<id_exoplaneteu>KOI-196 b</id_exoplaneteu>
 		<name>KOI-196 b</name>
 		<id>KOI-196 b</id>
+		<name>2MASS J19380317+4558539 b</name>
+		<name>KIC 9410930 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.49</mass>
@@ -22673,6 +22693,7 @@
 		<name>2MASS J19071403+4918590</name>
 		<name>KIC 11446443</name>
 		<name>Kepler-1</name>
+		<name>KOI-1</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.253</mass>
