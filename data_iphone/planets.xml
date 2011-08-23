@@ -4001,7 +4001,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/08/18</lastupdate>
 		<description>The planetary system around the star HD 192310 consists of two Neptune-mass planets and is located in the constellation of Capricornus. The outer planet Gliese 785 c is at the outer edge of the habitable zone.</description>
-		<new>1</new>
+		<new>0</new>
 		<description />
 		<new>0</new>
 		<image />
@@ -6351,6 +6351,46 @@
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 102329 b</id_exoplaneteu>
+		<name>HD 102329 b</name>
+		<id>HD 102329 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>5.9</mass>
+			<radius />
+			<orbit>
+				<period>778.1</period>
+				<semimajoraxis>2.01</semimajoraxis>
+				<eccentricity>0.211</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A</spectraltype>
+			<mass>1.95</mass>
+			<radius>6.3</radius>
+			<metallicity>2.01</metallicity>
+			<rightascension>11 46 46</rightascension>
+			<declination>+03 28 27</declination>
+			<angulardistance />
+			<distance>158</distance>
+			<magV>8.04</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/23</lastupdate>
+		<description>The star HD 102329 hosts a Jupiter-like planet. I was discovered as part of a Doppler survey at the Keck Observatory.</description>
+		<new>1</new>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 102365 b</id_exoplaneteu>
 		<name>HD 102365 b</name>
 		<id>HD 102365 b</id>
@@ -6619,6 +6659,46 @@
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 106270 b</id_exoplaneteu>
+		<name>HD 106270 b</name>
+		<id>HD 106270 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>11.0</mass>
+			<radius />
+			<orbit>
+				<period>2890</period>
+				<semimajoraxis>4.3</semimajoraxis>
+				<eccentricity>0.402</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A</spectraltype>
+			<mass>1.32</mass>
+			<radius>2.5</radius>
+			<metallicity>0.08</metallicity>
+			<rightascension>12 13 37</rightascension>
+			<declination>-09 30 47</declination>
+			<angulardistance />
+			<distance>84.9</distance>
+			<magV>7.73</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/23</lastupdate>
+		<description>The star HD 106270 hosts a Jupiter-like planet. I was discovered as part of a Doppler survey at the Keck Observatory.</description>
+		<new>1</new>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 10647 b</id_exoplaneteu>
 		<name>HD 10647 b</name>
 		<id>HD 10647 b</id>
@@ -6794,6 +6874,46 @@
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2002</discoveryyear>
 		<lastupdate>09/10/06</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 108863 b</id_exoplaneteu>
+		<name>HD 108863 b</name>
+		<id>HD 108863 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>2.6</mass>
+			<radius />
+			<orbit>
+				<period>443.4</period>
+				<semimajoraxis>1.40</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A</spectraltype>
+			<mass>1.85</mass>
+			<radius>5.6</radius>
+			<metallicity>0.20</metallicity>
+			<rightascension>12 30 19</rightascension>
+			<declination>+21 56 54</declination>
+			<angulardistance />
+			<distance>139</distance>
+			<magV>7.89</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/23</lastupdate>
+		<description>The star HD 108863 hosts a Jupiter-like planet. I was discovered as part of a Doppler survey at the Keck Observatory.</description>
+		<new>1</new>
 		<description />
 		<new>0</new>
 		<image />
@@ -7416,6 +7536,46 @@
 		<discoveryyear>2009</discoveryyear>
 		<lastupdate>09/02/24</lastupdate>
 		<description>The star HD 11506 is a yellow dwarf star in the constellation Cetus. The star hosts two planets. The inner planer was discovered by using Bayesian analysis (Tuomi et al 2009).</description>
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 116029 b</id_exoplaneteu>
+		<name>HD 116029 b</name>
+		<id>HD 116029 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>2.1</mass>
+			<radius />
+			<orbit>
+				<period>670.2</period>
+				<semimajoraxis>1.73</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A</spectraltype>
+			<mass>1.58</mass>
+			<radius>4.6</radius>
+			<metallicity>0.18</metallicity>
+			<rightascension>13 20 39</rightascension>
+			<declination>+24 38 55</declination>
+			<angulardistance />
+			<distance>123</distance>
+			<magV>8.04</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/23</lastupdate>
+		<description>The star HD 116029 hosts a Jupiter-like planet. I was discovered as part of a Doppler survey at the Keck Observatory.</description>
+		<new>1</new>
+		<description />
 		<new>0</new>
 		<image />
 		<imagedescription />
@@ -8270,6 +8430,46 @@
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 131496 b</id_exoplaneteu>
+		<name>HD 131496 b</name>
+		<id>HD 131496 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>2.2</mass>
+			<radius />
+			<orbit>
+				<period>883</period>
+				<semimajoraxis>2.09</semimajoraxis>
+				<eccentricity>0.163</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A</spectraltype>
+			<mass>1.61</mass>
+			<radius>4.3</radius>
+			<metallicity>0.25</metallicity>
+			<rightascension>14 53 23</rightascension>
+			<declination>+18 14 07</declination>
+			<angulardistance />
+			<distance>110</distance>
+			<magV>7.96</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/23</lastupdate>
+		<description>The star HD 131496 hosts a Jupiter-like planet. I was discovered as part of a Doppler survey at the Keck Observatory.</description>
+		<new>1</new>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 13189 b</id_exoplaneteu>
 		<name>HD 13189 b</name>
 		<id>HD 13189 b</id>
@@ -8801,6 +9001,46 @@
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2005</discoveryyear>
 		<lastupdate>11/01/11</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 142245 b</id_exoplaneteu>
+		<name>HD 142245 b</name>
+		<id>HD 142245 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.9</mass>
+			<radius />
+			<orbit>
+				<period>1299</period>
+				<semimajoraxis>2.77</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A</spectraltype>
+			<mass>1.69</mass>
+			<radius>5.2</radius>
+			<metallicity>0.23</metallicity>
+			<rightascension>15 52 56</rightascension>
+			<declination>+15 25 50</declination>
+			<angulardistance />
+			<distance>109</distance>
+			<magV>7.63</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/23</lastupdate>
+		<description>The star HD 142245 hosts a Jupiter-like planet. I was discovered as part of a Doppler survey at the Keck Observatory.</description>
+		<new>1</new>
 		<description />
 		<new>0</new>
 		<image />
@@ -9339,6 +9579,46 @@
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 1502 b</id_exoplaneteu>
+		<name>HD 1502 b</name>
+		<id>HD 1502 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>3.1</mass>
+			<radius />
+			<orbit>
+				<period>431.8</period>
+				<semimajoraxis>1.31</semimajoraxis>
+				<eccentricity>0.101</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A</spectraltype>
+			<mass>1.61</mass>
+			<radius>4.5</radius>
+			<metallicity>0.09</metallicity>
+			<rightascension>00 19 17</rightascension>
+			<declination>+14 03 17</declination>
+			<angulardistance />
+			<distance>159</distance>
+			<magV>8.52</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/23</lastupdate>
+		<description>The star HD 1502 hosts a Jupiter-like planet. I was discovered as part of a Doppler survey at the Keck Observatory.</description>
+		<new>1</new>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 152079 b</id_exoplaneteu>
 		<name>HD 152079 b</name>
 		<id>HD 152079 b</id>
@@ -9377,6 +9657,46 @@
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
 		<lastupdate>10/01/26</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 152581 b</id_exoplaneteu>
+		<name>HD 152581 b</name>
+		<id>HD 152581 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.5</mass>
+			<radius />
+			<orbit>
+				<period>689</period>
+				<semimajoraxis>1.48</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A</spectraltype>
+			<mass>0.927</mass>
+			<radius>2.8</radius>
+			<metallicity>-0.46</metallicity>
+			<rightascension>16 53 43</rightascension>
+			<declination>+11 58 25</declination>
+			<angulardistance />
+			<distance>186</distance>
+			<magV>8.54</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/23</lastupdate>
+		<description>The star HD 152581 hosts a Jupiter-like planet. I was discovered as part of a Doppler survey at the Keck Observatory.</description>
+		<new>1</new>
 		<description />
 		<new>0</new>
 		<image />
@@ -9727,6 +10047,46 @@
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
 		<lastupdate>10/05/24</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 158038 b</id_exoplaneteu>
+		<name>HD 158038 b</name>
+		<id>HD 158038 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.8</mass>
+			<radius />
+			<orbit>
+				<period>521</period>
+				<semimajoraxis>1.48</semimajoraxis>
+				<eccentricity>0.291</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A</spectraltype>
+			<mass>1.65</mass>
+			<radius>4.8</radius>
+			<metallicity>0.28</metallicity>
+			<rightascension>17 25 45</rightascension>
+			<declination>+27 18 12</declination>
+			<angulardistance />
+			<distance>103</distance>
+			<magV>7.64</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/23</lastupdate>
+		<description>The star HD 158038 hosts a Jupiter-like planet. I was discovered as part of a Doppler survey at the Keck Observatory.</description>
+		<new>1</new>
 		<description />
 		<new>0</new>
 		<image />
@@ -11555,6 +11915,46 @@
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 18742 b</id_exoplaneteu>
+		<name>HD 18742 b</name>
+		<id>HD 18742 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>2.7</mass>
+			<radius />
+			<orbit>
+				<period>772</period>
+				<semimajoraxis>1.92</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A</spectraltype>
+			<mass>1.60</mass>
+			<radius>4.9</radius>
+			<metallicity>-0.04</metallicity>
+			<rightascension>03 00 07</rightascension>
+			<declination>+20 49 12</declination>
+			<angulardistance />
+			<distance>135</distance>
+			<magV>7.97</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/23</lastupdate>
+		<description>The star HD 18742 hosts a Jupiter-like planet. I was discovered as part of a Doppler survey at the Keck Observatory.</description>
+		<new>1</new>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 188015 b</id_exoplaneteu>
 		<name>HD 188015 b</name>
 		<id>HD 188015 b</id>
@@ -12616,7 +13016,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/08/18</lastupdate>
 		<description>The planetary system around the star HD 20794 consists of three super-Earths. </description>
-		<new>1</new>
+		<new>0</new>
 		<description />
 		<new>0</new>
 		<image />
@@ -12656,7 +13056,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/08/18</lastupdate>
 		<description>The planetary system around the star HD 20794 consists of three super-Earths. The planet HD 20794 c is the smallest planet signature detected so far (0.56 m/s) and might need further data to be confirmed.</description>
-		<new>1</new>
+		<new>0</new>
 		<description />
 		<new>0</new>
 		<image />
@@ -12696,7 +13096,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/08/18</lastupdate>
 		<description>The planetary system around the star HD 20794 consists of three super-Earths. </description>
-		<new>1</new>
+		<new>0</new>
 		<description />
 		<new>0</new>
 		<image />
@@ -14162,6 +14562,46 @@
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 28678 b</id_exoplaneteu>
+		<name>HD 28678 b</name>
+		<id>HD 28678 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.7</mass>
+			<radius />
+			<orbit>
+				<period>387.1</period>
+				<semimajoraxis>1.24</semimajoraxis>
+				<eccentricity>0.168</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A</spectraltype>
+			<mass>1.74</mass>
+			<radius>6.2</radius>
+			<metallicity>-0.11</metallicity>
+			<rightascension>04 31 28</rightascension>
+			<declination>+04 34 48</declination>
+			<angulardistance />
+			<distance>227</distance>
+			<magV>8.54</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/23</lastupdate>
+		<description>The star HD 28678 hosts a Jupiter-like planet. I was discovered as part of a Doppler survey at the Keck Observatory.</description>
+		<new>1</new>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 290327 b</id_exoplaneteu>
 		<name>HD 290327 b</name>
 		<id>HD 290327 b</id>
@@ -14294,6 +14734,46 @@
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 30856 b</id_exoplaneteu>
+		<name>HD 30856 b</name>
+		<id>HD 30856 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.8</mass>
+			<radius />
+			<orbit>
+				<period>912</period>
+				<semimajoraxis>2.00</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A</spectraltype>
+			<mass>1.35</mass>
+			<radius>4.2</radius>
+			<metallicity>-0.06</metallicity>
+			<rightascension>04 50 14</rightascension>
+			<declination>-24 21 36</declination>
+			<angulardistance />
+			<distance>118</distance>
+			<magV>8.07</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/23</lastupdate>
+		<description>The star HD 30856 hosts a Jupiter-like planet. I was discovered as part of a Doppler survey at the Keck Observatory.</description>
+		<new>1</new>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 31253 b</id_exoplaneteu>
 		<name>HD 31253 b</name>
 		<id>HD 31253 b</id>
@@ -14419,6 +14899,46 @@
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2004</discoveryyear>
 		<lastupdate>10/12/29</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 33142 b</id_exoplaneteu>
+		<name>HD 33142 b</name>
+		<id>HD 33142 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.3</mass>
+			<radius />
+			<orbit>
+				<period>326.6</period>
+				<semimajoraxis>1.06</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A</spectraltype>
+			<mass>1.48</mass>
+			<radius>4.2</radius>
+			<metallicity>0.05</metallicity>
+			<rightascension>05 07 40</rightascension>
+			<declination>-13 58 12</declination>
+			<angulardistance />
+			<distance>126</distance>
+			<magV>8.13</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/23</lastupdate>
+		<description>The star HD 33142 hosts a Jupiter-like planet. I was discovered as part of a Doppler survey at the Keck Observatory.</description>
+		<new>1</new>
 		<description />
 		<new>0</new>
 		<image />
@@ -16299,6 +16819,46 @@
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 5891 b</id_exoplaneteu>
+		<name>HD 5891 b</name>
+		<id>HD 5891 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>7.6</mass>
+			<radius />
+			<orbit>
+				<period>177.11</period>
+				<semimajoraxis>0.76</semimajoraxis>
+				<eccentricity>0.066</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A</spectraltype>
+			<mass>1.91</mass>
+			<radius>8.7</radius>
+			<metallicity>-0.02</metallicity>
+			<rightascension>01 00 59 </rightascension>
+			<declination>+20 17 56</declination>
+			<angulardistance />
+			<distance>251</distance>
+			<magV>8.25</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/23</lastupdate>
+		<description>The star HD 5891 hosts a Jupiter-like planet. I was discovered as part of a Doppler survey at the Keck Observatory.</description>
+		<new>1</new>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 59686 b</id_exoplaneteu>
 		<name>HD 59686 b</name>
 		<id>HD 59686 b</id>
@@ -17815,6 +18375,46 @@
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 82886 b</id_exoplaneteu>
+		<name>HD 82886 b</name>
+		<id>HD 82886 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.3</mass>
+			<radius />
+			<orbit>
+				<period>705</period>
+				<semimajoraxis>1.65</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A</spectraltype>
+			<mass>1.06</mass>
+			<radius>4.8</radius>
+			<metallicity>-0.31</metallicity>
+			<rightascension>09 35 45</rightascension>
+			<declination>+09 32 43</declination>
+			<angulardistance />
+			<distance>125</distance>
+			<magV>7.78</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/23</lastupdate>
+		<description>The star HD 82886 hosts a Jupiter-like planet. I was discovered as part of a Doppler survey at the Keck Observatory.</description>
+		<new>1</new>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 82943 b</id_exoplaneteu>
 		<name>HD 82943 b</name>
 		<id>HD 82943 b</id>
@@ -18070,7 +18670,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/08/18</lastupdate>
 		<description>The planet HD 85512 b could be potentially habitable if the planet exhibits more than 50 percent cloud coverage (Kaltenegger et al 2011). </description>
-		<new>1</new>
+		<new>0</new>
 		<description />
 		<new>0</new>
 		<image />
@@ -18779,6 +19379,46 @@
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 96063 b</id_exoplaneteu>
+		<name>HD 96063 b</name>
+		<id>HD 96063 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.9</mass>
+			<radius />
+			<orbit>
+				<period>361.1</period>
+				<semimajoraxis>0.99</semimajoraxis>
+				<eccentricity>0.</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A</spectraltype>
+			<mass>1.02</mass>
+			<radius>4.5</radius>
+			<metallicity>-0.30</metallicity>
+			<rightascension>11 04 44</rightascension>
+			<declination>-02 13 35</declination>
+			<angulardistance />
+			<distance>158</distance>
+			<magV>8.37</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/23</lastupdate>
+		<description>The star HD 96063 hosts a Jupiter-like planet. I was discovered as part of a Doppler survey at the Keck Observatory.</description>
+		<new>1</new>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 96167 b</id_exoplaneteu>
 		<name>HD 96167 b</name>
 		<id>HD 96167 b</id>
@@ -18861,6 +19501,46 @@
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
 		<lastupdate>10/11/03</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 98219 b</id_exoplaneteu>
+		<name>HD 98219 b</name>
+		<id>HD 98219 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.8</mass>
+			<radius />
+			<orbit>
+				<period>436.9</period>
+				<semimajoraxis>1.23</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A</spectraltype>
+			<mass>1.30</mass>
+			<radius>4.5</radius>
+			<metallicity>-0.02</metallicity>
+			<rightascension>11 17 47</rightascension>
+			<declination>-23 58 31</declination>
+			<angulardistance />
+			<distance>134</distance>
+			<magV>8.21</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/23</lastupdate>
+		<description>The star HD 98219 hosts a Jupiter-like planet. I was discovered as part of a Doppler survey at the Keck Observatory.</description>
+		<new>1</new>
 		<description />
 		<new>0</new>
 		<image />
@@ -19000,6 +19680,46 @@
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2010</discoveryyear>
 		<lastupdate>10/11/19</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 99706 b</id_exoplaneteu>
+		<name>HD 99706 b</name>
+		<id>HD 99706 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.4</mass>
+			<radius />
+			<orbit>
+				<period>868</period>
+				<semimajoraxis>2.14</semimajoraxis>
+				<eccentricity>0.365</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A</spectraltype>
+			<mass>1.72</mass>
+			<radius>5.4</radius>
+			<metallicity>0.14</metallicity>
+			<rightascension>11 28 30</rightascension>
+			<declination>+43 58 00</declination>
+			<angulardistance />
+			<distance>129</distance>
+			<magV>7.81</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/23</lastupdate>
+		<description>The star HD 99706 hosts a Jupiter-like planet. I was discovered as part of a Doppler survey at the Keck Observatory.</description>
+		<new>1</new>
 		<description />
 		<new>0</new>
 		<image />
