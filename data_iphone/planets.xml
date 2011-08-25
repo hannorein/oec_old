@@ -1845,6 +1845,44 @@
 		<imagedescription>This image shows the planet Beta Pictoris b. It has been optained with NACO on VLT. The star has been masked out to enable the viewer to see clearly the planet. Credit: ESO.</imagedescription>
 	</planet>
 	<planet>
+		<id_exoplaneteu>CD-35 2722 b</id_exoplaneteu>
+		<name>CD-35 2722 b</name>
+		<id>CD-35 2722 b</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>31</mass>
+			<radius />
+			<orbit>
+				<period />
+				<semimajoraxis>67</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M1V</spectraltype>
+			<mass>0.4</mass>
+			<radius />
+			<metallicity>0.04</metallicity>
+			<rightascension />
+			<declination />
+			<angulardistance>3.14554</angulardistance>
+			<distance>21.3</distance>
+			<magV>10.98</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/02/23</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>CFBDS 1458 b</id_exoplaneteu>
 		<name>CFBDS 1458 b</name>
 		<id>CFBDS 1458 b</id>
@@ -23108,7 +23146,7 @@
 		<discoveryyear>1994</discoveryyear>
 		<lastupdate>11/08/25</lastupdate>
 		<new>1</new>
-		<description>The 5.7ms pulsar PSR J1719-1438 shows timing variations on a 2.17 hour timescale. These can be explained with a Jovian planet. However, because of the planet's short distance to the star, its density has to be more then 20 times that of Jupiter. The planet is most likely a remnant of a binary star which avoided complete destruction. The chemical composition, pressure and dimensions of the planet indicate that it is crystallized, i.e. diamond (Bailes et al 2011).  </description>
+		<description>The 5.7ms pulsar PSR J1719-1438 shows timing variations on a 2.17 hour timescale. These can be explained with a Jovian planet. However, because of the planet's short distance to the star, its density has to be more then 20 times that of Jupiter. The planet is most likely a remnant of a binary star which avoided complete destruction. The chemical composition, pressure and dimensions of the planet indicate that it is crystallized, or in other words, a very big diamond (Bailes et al 2011).  </description>
 		<image />
 		<imagedescription />
 		<description />
