@@ -2424,7 +2424,7 @@
 			<declination />
 			<angulardistance />
 			<distance />
-			<magV />
+			<magV>16</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -2447,21 +2447,21 @@
 			<mass>2.8</mass>
 			<radius>1.05</radius>
 			<orbit>
-				<period>3.632421</period>
-				<semimajoraxis>0.04326</semimajoraxis>
+				<period>3.6314</period>
+				<semimajoraxis>0.0477</semimajoraxis>
 				<eccentricity>0.16</eccentricity>
-				<inclination>85.8</inclination>
+				<inclination>85.7</inclination>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>F9/G0V</spectraltype>
-			<mass>1.098</mass>
-			<radius>0.86</radius>
-			<metallicity>-0.05</metallicity>
+			<spectraltype>G0V</spectraltype>
+			<mass>1.14</mass>
+			<radius>1.61</radius>
+			<metallicity>0.05</metallicity>
 			<rightascension />
 			<declination />
-			<angulardistance />
-			<distance />
+			<angulardistance>8e-05</angulardistance>
+			<distance>600</distance>
 			<magV>15.63</magV>
 			<magI />
 			<magH />
@@ -2470,7 +2470,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/06/28</lastupdate>
+		<lastupdate>11/09/02</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -12264,6 +12264,102 @@
 		<multiplicity>1</multiplicity>
 		<discoveryyear>1999</discoveryyear>
 		<lastupdate>10/12/16</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 192310 b</id_exoplaneteu>
+		<name>HD 192310 b</name>
+		<id>HD 192310 b</id>
+		<name>HIP 99825 b</name>
+		<name>TYC 6914-01943-1 b</name>
+		<name>IRAS 20122-2711 b</name>
+		<name>HR 7722 b</name>
+		<name>CD-27 14659 b</name>
+		<name>CPD-27 6972 b</name>
+		<name>SAO 189065 b</name>
+		<name>GJ 785 b</name>
+		<name>2MASS J20151734-2701585 b</name>
+		<name>LHS 488 b</name>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.053</mass>
+			<radius />
+			<orbit>
+				<period>74.72</period>
+				<semimajoraxis>0.32</semimajoraxis>
+				<eccentricity>0.13</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K3V</spectraltype>
+			<mass>0.8</mass>
+			<radius />
+			<metallicity>-0.04</metallicity>
+			<rightascension>20 15 17</rightascension>
+			<declination>-27 01 59</declination>
+			<angulardistance>0.036281</angulardistance>
+			<distance>8.82</distance>
+			<magV>5.73</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/09/02</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 192310 c</id_exoplaneteu>
+		<name>HD 192310 c</name>
+		<id>HD 192310 c</id>
+		<name>HIP 99825 c</name>
+		<name>TYC 6914-01943-1 c</name>
+		<name>IRAS 20122-2711 c</name>
+		<name>HR 7722 c</name>
+		<name>CD-27 14659 c</name>
+		<name>CPD-27 6972 c</name>
+		<name>SAO 189065 c</name>
+		<name>GJ 785 c</name>
+		<name>2MASS J20151734-2701585 c</name>
+		<name>LHS 488 c</name>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.075</mass>
+			<radius />
+			<orbit>
+				<period>525.8</period>
+				<semimajoraxis>1.18</semimajoraxis>
+				<eccentricity>0.32</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K3V</spectraltype>
+			<mass>0.8</mass>
+			<radius />
+			<metallicity>-0.04</metallicity>
+			<rightascension>20 15 17</rightascension>
+			<declination>-27 01 59</declination>
+			<angulardistance>0.133787</angulardistance>
+			<distance>8.82</distance>
+			<magV>5.73</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/09/03</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
