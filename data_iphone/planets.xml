@@ -11086,7 +11086,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/09/15</lastupdate>
 		<description>HD 163607 is a metal-rich G star with two planets. The inner planet has the largest eccentricity of any known planet in a muli-planet system.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -11129,7 +11129,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/09/15</lastupdate>
 		<description>HD 163607 is a metal-rich G star with two planets. The inner planet has the largest eccentricity of any known planet in a muli-planet system.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -11221,7 +11221,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/09/15</lastupdate>
 		<description>HD 164509 is a metal rich G5V star with at least one planet. A linear trend in the RV residuals suggest the existance of an additional planet.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -22446,7 +22446,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/09/15</lastupdate>
 		<description>The star HIP 57274 is a K dwarf. It hosts one Super-Earth and two sub-Jupiter mass gas giants. The observations were made with the Keck Observatory on Hawaii. </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -22488,7 +22488,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/09/15</lastupdate>
 		<description>The star HIP 57274 is a K dwarf. It hosts one Super-Earth and two sub-Jupiter mass gas giants. The observations were made with the Keck Observatory on Hawaii. </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -22530,7 +22530,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/09/15</lastupdate>
 		<description>The star HIP 57274 is a K dwarf. It hosts one Super-Earth and two sub-Jupiter mass gas giants. The observations were made with the Keck Observatory on Hawaii. </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -23635,6 +23635,44 @@
 		<lastupdate>11/08/02</lastupdate>
 		<description>Kepler-15b is a planet discovered by NASA's Kepler mission and confirmed by the Hobby-Eberly Telescope. The density of the planet is high, suggesting an enrichment in heavy elements.</description>
 		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-16 (AB) b</id_exoplaneteu>
+		<name>Kepler-16 (AB) b</name>
+		<id>Kepler-16 (AB) b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.333</mass>
+			<radius>0.7538</radius>
+			<orbit>
+				<period>228.776</period>
+				<semimajoraxis>0.7048</semimajoraxis>
+				<eccentricity>0.0069</eccentricity>
+				<inclination>90.0322</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K</spectraltype>
+			<mass>0.89225</mass>
+			<radius>0.65</radius>
+			<metallicity>-0.3</metallicity>
+			<rightascension>19 16 18</rightascension>
+			<declination>+51 45 27</declination>
+			<angulardistance />
+			<distance />
+			<magV>12</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/09/15</lastupdate>
+		<description>This planet is circum-binary planet, orbiting a binary made of two stars. The visualizations below are therefore not accurate. The masses of the stars are 0.20255 and 0.6897 solar masses. The  orbit of the binary stars and the planet are perfectly alligned within half a degree. This suggests that the planet formed in a circumbinary disc. </description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 	</planet>
