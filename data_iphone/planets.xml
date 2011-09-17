@@ -563,8 +563,8 @@
 			<metallicity>-0.25</metallicity>
 			<rightascension>08 40 13</rightascension>
 			<declination>+64 19 41</declination>
-			<angulardistance>0.013945</angulardistance>
-			<distance>62.39</distance>
+			<angulardistance>0.011083</angulardistance>
+			<distance>78.5</distance>
 			<magV>5.79</magV>
 			<magI />
 			<magH />
@@ -850,8 +850,8 @@
 			<metallicity>0.31</metallicity>
 			<rightascension>08 52 37</rightascension>
 			<declination>+28 20 02</declination>
-			<angulardistance>0.008817</angulardistance>
-			<distance>13.02</distance>
+			<angulardistance>0.009303</angulardistance>
+			<distance>12.34</distance>
 			<magV>5.95</magV>
 			<magI />
 			<magH />
@@ -900,8 +900,8 @@
 			<metallicity>0.31</metallicity>
 			<rightascension>08 52 37</rightascension>
 			<declination>+28 20 02</declination>
-			<angulardistance>0.018456</angulardistance>
-			<distance>13.02</distance>
+			<angulardistance>0.019473</angulardistance>
+			<distance>12.34</distance>
 			<magV>5.95</magV>
 			<magI />
 			<magH />
@@ -950,8 +950,8 @@
 			<metallicity>0.31</metallicity>
 			<rightascension>08 52 37</rightascension>
 			<declination>+28 20 02</declination>
-			<angulardistance>0.442396</angulardistance>
-			<distance>13.02</distance>
+			<angulardistance>0.466775</angulardistance>
+			<distance>12.34</distance>
 			<magV>5.95</magV>
 			<magI />
 			<magH />
@@ -1000,8 +1000,8 @@
 			<metallicity>0.31</metallicity>
 			<rightascension>08 52 37</rightascension>
 			<declination>+28 20 02</declination>
-			<angulardistance>0.001198</angulardistance>
-			<distance>13.02</distance>
+			<angulardistance>0.001264</angulardistance>
+			<distance>12.34</distance>
 			<magV>5.95</magV>
 			<magI />
 			<magH />
@@ -1050,8 +1050,8 @@
 			<metallicity>0.31</metallicity>
 			<rightascension>08 52 37</rightascension>
 			<declination>+28 20 02</declination>
-			<angulardistance>0.059985</angulardistance>
-			<distance>13.02</distance>
+			<angulardistance>0.06329</angulardistance>
+			<distance>12.34</distance>
 			<magV>5.95</magV>
 			<magI />
 			<magH />
@@ -1614,8 +1614,8 @@
 			<metallicity>0.5</metallicity>
 			<rightascension>10 58 28</rightascension>
 			<declination>-10 46 13</declination>
-			<angulardistance />
-			<distance />
+			<angulardistance>0.000697</angulardistance>
+			<distance>66</distance>
 			<magV>10.08</magV>
 			<magI />
 			<magH />
@@ -3144,7 +3144,7 @@
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K2 V</spectraltype>
+			<spectraltype>K1III-IV</spectraltype>
 			<mass>1.4</mass>
 			<radius>4.9</radius>
 			<metallicity>0.18</metallicity>
@@ -7526,8 +7526,8 @@
 			<metallicity>0.33</metallicity>
 			<rightascension>13 12 43</rightascension>
 			<declination>-02 15 54</declination>
-			<angulardistance>0.054545</angulardistance>
-			<distance>22</distance>
+			<angulardistance>0.058824</angulardistance>
+			<distance>20.4</distance>
 			<magV>7.57</magV>
 			<magI />
 			<magH />
@@ -12051,8 +12051,8 @@
 			<metallicity />
 			<rightascension>18 57 02</rightascension>
 			<declination>+32 54 05</declination>
-			<angulardistance>0.110069</angulardistance>
-			<distance>15.99</distance>
+			<angulardistance>0.117412</angulardistance>
+			<distance>14.99</distance>
 			<magV>5.22</magV>
 			<magI />
 			<magH />
@@ -17131,8 +17131,8 @@
 			<metallicity>0.27</metallicity>
 			<rightascension>05 46 34</rightascension>
 			<declination>+01 10 05</declination>
-			<angulardistance>0.003275</angulardistance>
-			<distance>40</distance>
+			<angulardistance>0.003335</angulardistance>
+			<distance>39.28</distance>
 			<magV>5.94</magV>
 			<magI />
 			<magH />
@@ -17176,8 +17176,8 @@
 			<metallicity>0.27</metallicity>
 			<rightascension>05 46 34</rightascension>
 			<declination>+01 10 05</declination>
-			<angulardistance>0.092375</angulardistance>
-			<distance>40</distance>
+			<angulardistance>0.094068</angulardistance>
+			<distance>39.28</distance>
 			<magV>5.94</magV>
 			<magI />
 			<magH />
@@ -17316,8 +17316,8 @@
 			<metallicity>0.09</metallicity>
 			<rightascension>05 37 09</rightascension>
 			<declination>-80 28 08</declination>
-			<angulardistance>0.159611</angulardistance>
-			<distance>20.55</distance>
+			<angulardistance>0.179039</angulardistance>
+			<distance>18.32</distance>
 			<magV>5.67</magV>
 			<magI />
 			<magH />
@@ -21521,7 +21521,7 @@
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K0 D</spectraltype>
+			<spectraltype>K0 IV</spectraltype>
 			<mass>1.58</mass>
 			<radius>4.9</radius>
 			<metallicity>0.05</metallicity>
@@ -22791,8 +22791,8 @@
 			<metallicity>0.25</metallicity>
 			<rightascension>02 42 31</rightascension>
 			<declination>-50 48 12</declination>
-			<angulardistance>0.059677</angulardistance>
-			<distance>15.5</distance>
+			<angulardistance>0.053873</angulardistance>
+			<distance>17.17</distance>
 			<magV>5.4</magV>
 			<magI />
 			<magH />
@@ -26128,8 +26128,8 @@
 			<metallicity>0.28</metallicity>
 			<rightascension>13 47 17</rightascension>
 			<declination>+17 27 22</declination>
-			<angulardistance>0.003067</angulardistance>
-			<distance>15</distance>
+			<angulardistance>0.002949</angulardistance>
+			<distance>15.6</distance>
 			<magV>4.5</magV>
 			<magI />
 			<magH />
