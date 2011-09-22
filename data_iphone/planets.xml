@@ -3060,7 +3060,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>08/11/14</lastupdate>
+		<lastupdate>11/09/22</lastupdate>
 		<description>Formalhaut is one of the brightest stars in the night sky and located in the constellation Piscis Austrinus. It is a young star with a debris disk. A planet is orbiting the star within the debris disk. Images from the Hubble space telescope clearly show the orbital motion over several years. </description>
 		<new>0</new>
 		<image>Formalhaut b</image>
@@ -24116,6 +24116,82 @@
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2010</discoveryyear>
 		<lastupdate>10/11/23</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>KIC 10905746 b</id_exoplaneteu>
+		<name>KIC 10905746 b</name>
+		<id>KIC 10905746 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.237</radius>
+			<orbit>
+				<period>9.8844</period>
+				<semimajoraxis>0.0751</semimajoraxis>
+				<eccentricity />
+				<inclination>88.42</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.578</mass>
+			<radius>0.548</radius>
+			<metallicity>-0.23</metallicity>
+			<rightascension>18 54 31</rightascension>
+			<declination>+48 23 28</declination>
+			<angulardistance />
+			<distance />
+			<magV>13</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/09/22</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>KIC 6185331 b</id_exoplaneteu>
+		<name>KIC 6185331 b</name>
+		<id>KIC 6185331 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.72</radius>
+			<orbit>
+				<period>49.76971</period>
+				<semimajoraxis>0.2672</semimajoraxis>
+				<eccentricity />
+				<inclination>89.2</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.027</mass>
+			<radius>1.27</radius>
+			<metallicity>0.11</metallicity>
+			<rightascension>18 57 06</rightascension>
+			<declination>+41 32 06</declination>
+			<angulardistance />
+			<distance />
+			<magV>15</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/09/22</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
