@@ -1507,6 +1507,44 @@
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>BD +48 738 b</id_exoplaneteu>
+		<name>BD +48 738 b</name>
+		<id>BD +48 738 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.91</mass>
+			<radius />
+			<orbit>
+				<period>292.6</period>
+				<semimajoraxis>1</semimajoraxis>
+				<eccentricity>0.2</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0III</spectraltype>
+			<mass>0.74</mass>
+			<radius>11</radius>
+			<metallicity>-0.2</metallicity>
+			<rightascension>02 42 50</rightascension>
+			<declination>+49 35 13</declination>
+			<angulardistance />
+			<distance />
+			<magV>9.14</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/10/11</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>BD-082823 b</id_exoplaneteu>
 		<name>BD-082823 b</name>
 		<id>BD-082823 b</id>
@@ -15912,6 +15950,50 @@
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 240237 b</id_exoplaneteu>
+		<name>HD 240237 b</name>
+		<id>HD 240237 b</id>
+		<name>HIP 114840 b</name>
+		<name>TYC 4006-00019-1 b</name>
+		<name>IRAS 23134+5746 b</name>
+		<name>BD+57 2714 b</name>
+		<name>SAO 35269 b</name>
+		<name>2MASS J23154222+5802358 b</name>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>5.3</mass>
+			<radius />
+			<orbit>
+				<period>745.7</period>
+				<semimajoraxis>1.9</semimajoraxis>
+				<eccentricity>0.4</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K2III</spectraltype>
+			<mass>1.69</mass>
+			<radius>32</radius>
+			<metallicity>-0.26</metallicity>
+			<rightascension>23 15 42</rightascension>
+			<declination>+58 02 36</declination>
+			<angulardistance>0.001267</angulardistance>
+			<distance>1500</distance>
+			<magV>8.19</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>11/10/11</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 25171 b</id_exoplaneteu>
 		<name>HD 25171 b</name>
 		<id>HD 25171 b</id>
@@ -21667,6 +21749,50 @@
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 96127 b</id_exoplaneteu>
+		<name>HD 96127 b</name>
+		<id>HD 96127 b</id>
+		<name>HIP 54232 b</name>
+		<name>TYC 3012-00667-1 b</name>
+		<name>IRAS 11029+4434 b</name>
+		<name>BD+45 1892 b</name>
+		<name>SAO 43608 b</name>
+		<name>2MASS J11054595+4418054 b</name>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>4</mass>
+			<radius />
+			<orbit>
+				<period>647.3</period>
+				<semimajoraxis>1.4</semimajoraxis>
+				<eccentricity>0.3</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K2III</spectraltype>
+			<mass>0.91</mass>
+			<radius>35</radius>
+			<metallicity>-0.24</metallicity>
+			<rightascension>11 05 46</rightascension>
+			<declination>+44 18 06</declination>
+			<angulardistance>0.002593</angulardistance>
+			<distance>540</distance>
+			<magV>7.43</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/10/11</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 96167 b</id_exoplaneteu>
 		<name>HD 96167 b</name>
 		<id>HD 96167 b</id>
@@ -24332,7 +24458,7 @@
 			<mass />
 			<radius>0.952</radius>
 			<metallicity>0.18</metallicity>
-			<rightascension>9 00 58</rightascension>
+			<rightascension>19 00 58</rightascension>
 			<declination>+46 40 06</declination>
 			<angulardistance />
 			<distance />
