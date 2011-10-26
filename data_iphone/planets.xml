@@ -23784,14 +23784,14 @@
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
-			<mass>1.061</mass>
-			<radius>1.019</radius>
-			<metallicity>0.3</metallicity>
+			<spectraltype>G2V</spectraltype>
+			<mass>1.16</mass>
+			<radius>1.05</radius>
+			<metallicity>0.26</metallicity>
 			<rightascension>19 53 35</rightascension>
 			<declination>+47 48 54</declination>
-			<angulardistance />
-			<distance />
+			<angulardistance>3.2e-05</angulardistance>
+			<distance>800</distance>
 			<magV>14</magV>
 			<magI />
 			<magH />
@@ -23800,7 +23800,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/08/02</lastupdate>
+		<lastupdate>11/10/26</lastupdate>
 		<description>Kepler-17b is a planet on a short orbit around a solar mass star. One year on this planet equals 1.5 days on Earth. Star spots on the host star constrain the eccentricity and obliquity of the planet.</description>
 		<new>0</new>
 		<image />
@@ -24368,24 +24368,24 @@
 		<id>KOI-135 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>3.2</mass>
+			<mass>3.23</mass>
 			<radius>1.2</radius>
 			<orbit>
-				<period>3.024102</period>
-				<semimajoraxis>0.042</semimajoraxis>
-				<eccentricity />
-				<inclination />
+				<period>3.024095</period>
+				<semimajoraxis>0.0449</semimajoraxis>
+				<eccentricity>0.025</eccentricity>
+				<inclination>84.35</inclination>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
-			<mass />
-			<radius>0.952</radius>
-			<metallicity>0.18</metallicity>
+			<spectraltype>G0V/G0IV</spectraltype>
+			<mass>1.32</mass>
+			<radius>1.2</radius>
+			<metallicity>0.33</metallicity>
 			<rightascension>19 00 58</rightascension>
 			<declination>+46 40 06</declination>
-			<angulardistance />
-			<distance />
+			<angulardistance>2.3e-05</angulardistance>
+			<distance>1950</distance>
 			<magV>14</magV>
 			<magI />
 			<magH />
@@ -24394,7 +24394,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/10/08</lastupdate>
+		<lastupdate>11/10/26</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -24446,24 +24446,24 @@
 		<id>KOI-204 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>1</mass>
-			<radius>1.2</radius>
+			<mass>1.02</mass>
+			<radius>1.24</radius>
 			<orbit>
-				<period>3.246737</period>
-				<semimajoraxis>0.043</semimajoraxis>
-				<eccentricity />
-				<inclination />
+				<period>3.24674</period>
+				<semimajoraxis>0.0455</semimajoraxis>
+				<eccentricity>0.021</eccentricity>
+				<inclination>83.78</inclination>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
-			<mass />
-			<radius>0.953</radius>
-			<metallicity>-0.1</metallicity>
+			<spectraltype>G2IV</spectraltype>
+			<mass>1.19</mass>
+			<radius>1.52</radius>
+			<metallicity>0.26</metallicity>
 			<rightascension>20 00 25</rightascension>
 			<declination>+45 45 44</declination>
-			<angulardistance />
-			<distance />
+			<angulardistance>2e-05</angulardistance>
+			<distance>2250</distance>
 			<magV>15</magV>
 			<magI />
 			<magH />
@@ -24472,7 +24472,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/10/08</lastupdate>
+		<lastupdate>11/10/26</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -28179,25 +28179,25 @@
 		<id>WASP-36 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>2.4</mass>
-			<radius>1.4</radius>
+			<mass>2.279</mass>
+			<radius>1.269</radius>
 			<orbit>
-				<period>1.5</period>
-				<semimajoraxis />
-				<eccentricity />
-				<inclination />
+				<period>1.5373653</period>
+				<semimajoraxis>0.02624</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>83.65</inclination>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
-			<mass />
-			<radius />
-			<metallicity />
-			<rightascension />
-			<declination />
-			<angulardistance />
-			<distance />
-			<magV />
+			<spectraltype>G2</spectraltype>
+			<mass>1.02</mass>
+			<radius>0.943</radius>
+			<metallicity>-0.31</metallicity>
+			<rightascension>08 45 19</rightascension>
+			<declination>-08 01 37</declination>
+			<angulardistance>5.8e-05</angulardistance>
+			<distance>450</distance>
+			<magV>12.7</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -28205,7 +28205,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>10/12/06</lastupdate>
+		<lastupdate>11/10/25</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
