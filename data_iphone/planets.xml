@@ -10778,6 +10778,49 @@
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 156279 b</id_exoplaneteu>
+		<name>HD 156279 b</name>
+		<id>HD 156279 b</id>
+		<name>HIP 84171 b</name>
+		<name>TYC 4202-00656-1 b</name>
+		<name>BD+63 1335 b</name>
+		<name>SAO 17390 b</name>
+		<name>2MASS J17122319+6321074 b</name>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>9.71</mass>
+			<radius />
+			<orbit>
+				<period>131.05</period>
+				<semimajoraxis>0.495</semimajoraxis>
+				<eccentricity>0.708</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0</spectraltype>
+			<mass>0.93</mass>
+			<radius />
+			<metallicity>0.14</metallicity>
+			<rightascension>17 12 23</rightascension>
+			<declination>+63 21 08</declination>
+			<angulardistance>0.013525</angulardistance>
+			<distance>36.6</distance>
+			<magV>8.08</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/11/04</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 156411 b</id_exoplaneteu>
 		<name>HD 156411 b</name>
 		<id>HD 156411 b</id>
@@ -15705,25 +15748,25 @@
 		<name>2MASS J03404953+3149345 b</name>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>14.2</mass>
+			<mass>13.65</mass>
 			<radius />
 			<orbit>
-				<period>528.1</period>
-				<semimajoraxis>1.18</semimajoraxis>
-				<eccentricity>0.822</eccentricity>
+				<period>528.07</period>
+				<semimajoraxis>1.167</semimajoraxis>
+				<eccentricity>0.8191</eccentricity>
 				<inclination />
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K0V</spectraltype>
-			<mass>0.78</mass>
+			<mass>0.75</mass>
 			<radius />
-			<metallicity />
-			<rightascension>03 40 59</rightascension>
+			<metallicity>-0.37</metallicity>
+			<rightascension>03 40 50</rightascension>
 			<declination>+31 49 35</declination>
-			<angulardistance>0.037119</angulardistance>
+			<angulardistance>0.03671</angulardistance>
 			<distance>31.79</distance>
-			<magV>8.78</magV>
+			<magV>8.77</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -15731,7 +15774,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/02/28</lastupdate>
+		<lastupdate>11/11/04</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
