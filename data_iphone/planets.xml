@@ -3491,34 +3491,77 @@
 		<name>LHS 2037 b</name>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>1.2</mass>
+			<mass>1.8</mass>
 			<radius />
 			<orbit>
-				<period>692.9</period>
-				<semimajoraxis>0.95</semimajoraxis>
-				<eccentricity>0.193</eccentricity>
-				<inclination />
+				<period>691.78</period>
+				<semimajoraxis>1.15</semimajoraxis>
+				<eccentricity>0.11</eccentricity>
+				<inclination>45</inclination>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M3.5</spectraltype>
-			<mass>0.24</mass>
+			<mass>0.42</mass>
 			<radius />
-			<metallicity>-0.23</metallicity>
+			<metallicity>0.36</metallicity>
 			<rightascension>08 40 59</rightascension>
 			<declination>-23 27 23</declination>
-			<angulardistance>0.103599</angulardistance>
-			<distance>9.17</distance>
+			<angulardistance>0.076159</angulardistance>
+			<distance>15.1</distance>
 			<magV>12</magV>
 			<magI />
 			<magH>5.9</magH>
 			<magJ>6.41</magJ>
 			<magK>5.59</magK>
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>2</multiplicity>
 		<discoveryyear>2007</discoveryyear>
-		<lastupdate>07/07/06</lastupdate>
+		<lastupdate>11/11/14</lastupdate>
 		<description>The star Gliese 317 is a red dwarf in the constellation Pyxis. So far only one planet is confirmed. There might be a second planet in the system, locked in a 4:1 mean motion resonance.</description>
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>GJ 317 c</id_exoplaneteu>
+		<name>Gliese 317 c</name>
+		<name>GJ 317 c</name>
+		<name>Gj 317 c</name>
+		<name>Gl 317 c</name>
+		<id>Gliese 317 c</id>
+		<name>2MASS J08405923-2327232 c</name>
+		<name>LHS 2037 c</name>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>2</mass>
+			<radius />
+			<orbit>
+				<period>10000</period>
+				<semimajoraxis>30</semimajoraxis>
+				<eccentricity>0.81</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M3.5</spectraltype>
+			<mass>0.42</mass>
+			<radius />
+			<metallicity>0.36</metallicity>
+			<rightascension>08 40 59</rightascension>
+			<declination>-23 27 23</declination>
+			<angulardistance>1.986755</angulardistance>
+			<distance>15.1</distance>
+			<magV>12</magV>
+			<magI />
+			<magH>5.9</magH>
+			<magJ>6.41</magJ>
+			<magK>5.59</magK>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2007</discoveryyear>
+		<lastupdate>11/11/14</lastupdate>
+		<description />
 		<new>0</new>
 		<image />
 		<imagedescription />
@@ -17601,15 +17644,6 @@
 		<id_exoplaneteu>HD 39194 c</id_exoplaneteu>
 		<name>HD 39194 c</name>
 		<id>HD 39194 c</id>
-		<name>HIP 27080 c</name>
-		<name>TYC 9167-00835-1 c</name>
-		<name>CD-70 340 c</name>
-		<name>CPD-70 447 c</name>
-		<name>SAO 256232 c</name>
-		<name>GJ 217.2 c</name>
-		<name>GJ 9191 c</name>
-		<name>2MASS J05443201-7008391 c</name>
-		<name>LHS 210 c</name>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>0.0187</mass>
