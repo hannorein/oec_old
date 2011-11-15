@@ -407,9 +407,9 @@
 		<imagedescription />
 	</planet>
 	<planet>
-		<id_exoplaneteu>2M J044144 b</id_exoplaneteu>
-		<name>2M J044144 b</name>
-		<id>2M J044144 b</id>
+		<id_exoplaneteu>2M 044144 b</id_exoplaneteu>
+		<name>2M 044144 b</name>
+		<id>2M 044144 b</id>
 		<name>2MASS J04414489+2301513 b</name>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
@@ -440,10 +440,124 @@
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
 		<lastupdate>10/04/06</lastupdate>
-		<description>It is not clear if the companian is a planet or a brown dwarf.</description>
+		<description />
 		<new>0</new>
-		<image>2M J044144</image>
-		<imagedescription>These images show the brown dwarf 2MASS J044144. The right picture has been enhanced so that the planetary companion is now clearly visible on the lower left. Credit: NASA, ESA, and K. Todorov and K. Luhman (Penn State University).</imagedescription>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>2M 0746+20 b</id_exoplaneteu>
+		<name>2M 0746+20 b</name>
+		<id>2M 0746+20 b</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>30</mass>
+			<radius>0.97</radius>
+			<orbit>
+				<period>4640</period>
+				<semimajoraxis>237.3</semimajoraxis>
+				<eccentricity>0.487</eccentricity>
+				<inclination>138.2</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.12</mass>
+			<radius>0.99</radius>
+			<metallicity />
+			<rightascension>07 46 43</rightascension>
+			<declination>+20 00 32</declination>
+			<angulardistance>19.434889</angulardistance>
+			<distance>12.21</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>11/11/14</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>2M 2140+16 b</id_exoplaneteu>
+		<name>2M 2140+16 b</name>
+		<id>2M 2140+16 b</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>20</mass>
+			<radius>0.92</radius>
+			<orbit>
+				<period>7340</period>
+				<semimajoraxis>141</semimajoraxis>
+				<eccentricity>0.26</eccentricity>
+				<inclination>46.2</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.08</mass>
+			<radius>1.13</radius>
+			<metallicity />
+			<rightascension>21 40 29</rightascension>
+			<declination>+16 25 18</declination>
+			<angulardistance>5.64</angulardistance>
+			<distance>25</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>11/11/14</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>2M 2206-20 b</id_exoplaneteu>
+		<name>2M 2206-20 b</name>
+		<id>2M 2206-20 b</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>30</mass>
+			<radius>1.3</radius>
+			<orbit>
+				<period>8686</period>
+				<semimajoraxis>168</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>44.3</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.13</mass>
+			<radius>1.27</radius>
+			<metallicity />
+			<rightascension>22 06 23</rightascension>
+			<declination>-20 47 06</declination>
+			<angulardistance>6.299213</angulardistance>
+			<distance>26.67</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>11/11/14</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
 	</planet>
 	<planet>
 		<id_exoplaneteu>2M1207 b</id_exoplaneteu>
@@ -17644,6 +17758,15 @@
 		<id_exoplaneteu>HD 39194 c</id_exoplaneteu>
 		<name>HD 39194 c</name>
 		<id>HD 39194 c</id>
+		<name>HIP 27080 c</name>
+		<name>TYC 9167-00835-1 c</name>
+		<name>CD-70 340 c</name>
+		<name>CPD-70 447 c</name>
+		<name>SAO 256232 c</name>
+		<name>GJ 217.2 c</name>
+		<name>GJ 9191 c</name>
+		<name>2MASS J05443201-7008391 c</name>
+		<name>LHS 210 c</name>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>0.0187</mass>
@@ -24504,6 +24627,9 @@
 		<id_exoplaneteu>KOI-135 b</id_exoplaneteu>
 		<name>KOI-135 b</name>
 		<id>KOI-135 b</id>
+		<name>GSC 03541-00075 b</name>
+		<name>KIC 9818381 b</name>
+		<name>2MASS J19005780+4640057 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>3.23</mass>
@@ -24582,6 +24708,8 @@
 		<id_exoplaneteu>KOI-204 b</id_exoplaneteu>
 		<name>KOI-204 b</name>
 		<id>KOI-204 b</id>
+		<name>2MASS J20002456+4545437 b</name>
+		<name>KIC 9305831 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.02</mass>
@@ -26472,6 +26600,8 @@
 		<id_exoplaneteu>Qatar-2 b</id_exoplaneteu>
 		<name>Qatar-2 b</name>
 		<id>Qatar-2 b</id>
+		<name>GSC 04974-00112 b</name>
+		<name>2MASS J13503740-0648145 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>2.487</mass>
