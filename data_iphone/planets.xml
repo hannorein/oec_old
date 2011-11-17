@@ -6119,6 +6119,51 @@
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 100655 b</id_exoplaneteu>
+		<name>HD 100655 b</name>
+		<id>HD 100655 b</id>
+		<name>HIP 56508 b</name>
+		<name>TYC 1440-02597-1 b</name>
+		<name>IRAS 11324+2043 b</name>
+		<name>HR 4459 b</name>
+		<name>BD+21 2331 b</name>
+		<name>SAO 81886 b</name>
+		<name>2MASS J11350375+2026295 b</name>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.7</mass>
+			<radius />
+			<orbit>
+				<period>157.57</period>
+				<semimajoraxis>0.76</semimajoraxis>
+				<eccentricity>0.085</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G9III</spectraltype>
+			<mass>2.4</mass>
+			<radius>9.3</radius>
+			<metallicity>0.15</metallicity>
+			<rightascension>11 35 04</rightascension>
+			<declination>+20 26 30</declination>
+			<angulardistance>0.00623</angulardistance>
+			<distance>122</distance>
+			<magV>6.45</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/11/17</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 100777 b</id_exoplaneteu>
 		<name>HD 100777 b</name>
 		<id>HD 100777 b</id>
@@ -23867,6 +23912,7 @@
 		<name>GSC 03549-00844 b</name>
 		<name>KOI-20 b</name>
 		<name>2MASS J19045842+5002253 b</name>
+		<name>KIC 11804465 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.431</mass>
@@ -24067,6 +24113,9 @@
 		<id_exoplaneteu>Kepler-18 b</id_exoplaneteu>
 		<name>Kepler-18 b</name>
 		<id>Kepler-18 b</id>
+		<name>GSC 03149-02089 b</name>
+		<name>KIC 8644288 b</name>
+		<name>2MASS J19521906+4444467 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.0217</mass>
@@ -24105,6 +24154,9 @@
 		<id_exoplaneteu>Kepler-18 c</id_exoplaneteu>
 		<name>Kepler-18 c</name>
 		<id>Kepler-18 c</id>
+		<name>GSC 03149-02089 c</name>
+		<name>KIC 8644288 c</name>
+		<name>2MASS J19521906+4444467 c</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.054</mass>
@@ -24143,6 +24195,9 @@
 		<id_exoplaneteu>Kepler-18 d</id_exoplaneteu>
 		<name>Kepler-18 d</name>
 		<id>Kepler-18 d</id>
+		<name>GSC 03149-02089 d</name>
+		<name>KIC 8644288 d</name>
+		<name>2MASS J19521906+4444467 d</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.052</mass>
@@ -24185,6 +24240,7 @@
 		<name>GSC 03134-01549 b</name>
 		<name>KOI-84 b</name>
 		<name>2MASS J19214099+3751064 b</name>
+		<name>KIC 2571238 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.064</mass>
