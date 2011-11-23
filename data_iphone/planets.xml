@@ -3737,12 +3737,12 @@
 		<name>LHS 2429 b</name>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.019</mass>
+			<mass>0.0202</mass>
 			<radius />
 			<orbit>
-				<period>7</period>
-				<semimajoraxis />
-				<eccentricity />
+				<period>7.36</period>
+				<semimajoraxis>0.06</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
 				<inclination />
 			</orbit>
 		</properties>
@@ -3753,7 +3753,7 @@
 			<metallicity />
 			<rightascension>11 35 27</rightascension>
 			<declination>-32 32 24</declination>
-			<angulardistance />
+			<angulardistance>0.006637</angulardistance>
 			<distance>9.04</distance>
 			<magV>9.79</magV>
 			<magI />
@@ -3763,7 +3763,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>10/12/06</lastupdate>
+		<lastupdate>11/11/23</lastupdate>
 		<description>The star Gliese 433 is a red dwarf in the constellation Hydro.</description>
 		<new>0</new>
 		<image />
@@ -4061,12 +4061,12 @@
 		<name>LHS 443 b</name>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.018</mass>
+			<mass>0.019</mass>
 			<radius />
 			<orbit>
-				<period>7</period>
-				<semimajoraxis />
-				<eccentricity />
+				<period>7.2</period>
+				<semimajoraxis>0.05</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
 				<inclination />
 			</orbit>
 		</properties>
@@ -4077,7 +4077,7 @@
 			<metallicity />
 			<rightascension>17 18 59</rightascension>
 			<declination>-34 59 48</declination>
-			<angulardistance />
+			<angulardistance>0.007174</angulardistance>
 			<distance>6.97</distance>
 			<magV>10.22</magV>
 			<magI />
@@ -4085,10 +4085,54 @@
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>2</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>10/12/06</lastupdate>
+		<lastupdate>11/11/23</lastupdate>
 		<description>Gliese 667 C is a member of a triple star system in the constellation Scorpius.</description>
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>GJ 667C c</id_exoplaneteu>
+		<name>Gliese 667C c</name>
+		<name>GJ 667C c</name>
+		<name>Gj 667C c</name>
+		<name>Gl 667C c</name>
+		<id>Gliese 667C c</id>
+		<name>WDS J17190-3459C c</name>
+		<name>2MASS J17185868-3459483 c</name>
+		<name>LHS 443 c</name>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.012</mass>
+			<radius />
+			<orbit>
+				<period>21.8</period>
+				<semimajoraxis>0.28</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M1.5</spectraltype>
+			<mass />
+			<radius />
+			<metallicity />
+			<rightascension>17 18 59</rightascension>
+			<declination>-34 59 48</declination>
+			<angulardistance>0.040172</angulardistance>
+			<distance>6.97</distance>
+			<magV>10.22</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/11/23</lastupdate>
+		<description />
 		<new>0</new>
 		<image />
 		<imagedescription />
@@ -4156,12 +4200,12 @@
 		<name>2MASS J17301119-5138132 b</name>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>4.9</mass>
+			<mass>4</mass>
 			<radius />
 			<orbit>
-				<period>1056.8</period>
-				<semimajoraxis>1.82</semimajoraxis>
-				<eccentricity>0.326</eccentricity>
+				<period>989</period>
+				<semimajoraxis>1.61</semimajoraxis>
+				<eccentricity>0.29</eccentricity>
 				<inclination />
 			</orbit>
 		</properties>
@@ -4172,7 +4216,7 @@
 			<metallicity>0.18</metallicity>
 			<rightascension>17 30 11</rightascension>
 			<declination>-51 38 13</declination>
-			<angulardistance>0.110638</angulardistance>
+			<angulardistance>0.097872</angulardistance>
 			<distance>16.45</distance>
 			<magV>9.59</magV>
 			<magI />
@@ -4182,7 +4226,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>10/12/07</lastupdate>
+		<lastupdate>11/11/23</lastupdate>
 		<description>Gliese 676 is a binary star system in the constellation Ara. Because of the low mass host star, the planet Gliese 676A b takes 1000 days to complete an orbit at a semi-major axis of only 1.6 astronomical units.</description>
 		<new>0</new>
 		<image />
@@ -4358,12 +4402,12 @@
 		<name>LHS 517 b</name>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.82</mass>
+			<mass>0.99</mass>
 			<radius />
 			<orbit>
-				<period>1890</period>
+				<period>1852</period>
 				<semimajoraxis>2.35</semimajoraxis>
-				<eccentricity>0.06</eccentricity>
+				<eccentricity>0.04</eccentricity>
 				<inclination />
 			</orbit>
 		</properties>
@@ -4384,7 +4428,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2006</discoveryyear>
-		<lastupdate>06/10/09</lastupdate>
+		<lastupdate>11/11/23</lastupdate>
 		<description>The star Gliese 849 is a red dwarf in the constellation of Aquarius.</description>
 		<new>0</new>
 		<image />
@@ -6159,7 +6203,7 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/11/17</lastupdate>
 		<description>HD 100655b is a planetary companion to a star which is more than twice as massive as our Sun. Even though the planet is heavier than Jupiter, it is the lowest-mass planet known around giant stars with more than 1.9 solar masses.  </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -22554,8 +22598,8 @@
 			<radius />
 			<orbit>
 				<period>57.435</period>
-				<semimajoraxis>0.25</semimajoraxis>
-				<eccentricity>0.166</eccentricity>
+				<semimajoraxis>0.13</semimajoraxis>
+				<eccentricity>0.16</eccentricity>
 				<inclination />
 			</orbit>
 		</properties>
@@ -22566,7 +22610,7 @@
 			<metallicity>-0.07</metallicity>
 			<rightascension>02 46 43</rightascension>
 			<declination>-23 05 12</declination>
-			<angulardistance>0.01087</angulardistance>
+			<angulardistance>0.005652</angulardistance>
 			<distance>23</distance>
 			<magV>10.31</magV>
 			<magI />
@@ -22576,7 +22620,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>10/12/07</lastupdate>
+		<lastupdate>11/11/23</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -24271,6 +24315,44 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/09/09</lastupdate>
 		<description>Sinusoidal transit timing variations have been detected in this system. An additional planet might be present.</description>
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-21 b</id_exoplaneteu>
+		<name>Kepler-21 b</name>
+		<id>Kepler-21 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.033</mass>
+			<radius>0.1459</radius>
+			<orbit>
+				<period>2.785755</period>
+				<semimajoraxis>0.042507</semimajoraxis>
+				<eccentricity />
+				<inclination>82.58</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F6IV</spectraltype>
+			<mass>1.34</mass>
+			<radius>1.86</radius>
+			<metallicity />
+			<rightascension>19 09 27</rightascension>
+			<declination>+38 42 50</declination>
+			<angulardistance>0.000386</angulardistance>
+			<distance>110</distance>
+			<magV>8.27</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/11/23</lastupdate>
+		<description />
 		<new>0</new>
 		<image />
 		<imagedescription />
