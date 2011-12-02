@@ -23500,6 +23500,82 @@
 		<imagedescription>This image shows three planets orbiting the star HR 8799. It was optained with the Keck II telescope on Hawaii. Credit: C. Marois et al., NRC Canada.</imagedescription>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HU Aqr(AB) b</id_exoplaneteu>
+		<name>HU Aqr(AB) b</name>
+		<id>HU Aqr(AB) b</id>
+		<discoverymethod>timing</discoverymethod>
+		<properties>
+			<mass>5.4</mass>
+			<radius />
+			<orbit>
+				<period>2359</period>
+				<semimajoraxis>3.45</semimajoraxis>
+				<eccentricity>0.075</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>Catac. var.</spectraltype>
+			<mass>1</mass>
+			<radius />
+			<metallicity />
+			<rightascension>21 07 58</rightascension>
+			<declination>-05 17 41</declination>
+			<angulardistance />
+			<distance />
+			<magV>15</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2009</discoveryyear>
+		<lastupdate>11/12/02</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HU Aqr(AB) c</id_exoplaneteu>
+		<name>HU Aqr(AB) c</name>
+		<id>HU Aqr(AB) c</id>
+		<discoverymethod>timing</discoverymethod>
+		<properties>
+			<mass>5.9</mass>
+			<radius />
+			<orbit>
+				<period>5646</period>
+				<semimajoraxis>6.18</semimajoraxis>
+				<eccentricity>0.29</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>Catac. var.</spectraltype>
+			<mass>1</mass>
+			<radius />
+			<metallicity />
+			<rightascension>21 07 58</rightascension>
+			<declination>-05 17 41</declination>
+			<angulardistance />
+			<distance />
+			<magV>15</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/12/02</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>HW Vir b</id_exoplaneteu>
 		<name>HW Vir b</name>
 		<id>HW Vir b</id>
@@ -24881,6 +24957,44 @@
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/10/26</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-254 b</id_exoplaneteu>
+		<name>KOI-254 b</name>
+		<id>KOI-254 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.505</mass>
+			<radius>0.96</radius>
+			<orbit>
+				<period>2.455239</period>
+				<semimajoraxis>0.027</semimajoraxis>
+				<eccentricity>0.11</eccentricity>
+				<inclination>87</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M</spectraltype>
+			<mass>0.59</mass>
+			<radius>0.55</radius>
+			<metallicity>0.13</metallicity>
+			<rightascension>19 31 30</rightascension>
+			<declination>+41 03 51</declination>
+			<angulardistance>8.1e-05</angulardistance>
+			<distance>333</distance>
+			<magV>16.88</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/12/02</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
