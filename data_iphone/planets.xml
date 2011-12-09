@@ -1798,9 +1798,6 @@
 		<id_exoplaneteu>CoRoT-1 b</id_exoplaneteu>
 		<name>CoRoT-1 b</name>
 		<id>CoRoT-1 b</id>
-		<name>CoRoT-Exo-1 b</name>
-		<name>2MASS J06481917-0306077 b</name>
-		<name>CoRoTID 102890318 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.03</mass>
@@ -21551,10 +21548,14 @@
 Scientists do not yet know if the planet has a predominantly rocky, gaseous or liquid composition. It's possible that the world would have clouds in its atmosphere, as depicted here in the artist's interpretation.
 	
 Credit: NASA/Ames/JPL-Caltech</imagedescription>
-		<description>Kepler-22b is a planet orbiting the Kepler target star KIC10593626 and has been discovered with the Kepler spacecraft. It is orbiting a solar type star and its period is close to 300 days. This puts it in the habitable zone with an equilibrium temperature of minus 11 degrees Celsius (plus 11 degrees Fahrenheit). If the planet has an atmosphere similar to that of Earth then the surface temperature is 22 degrees Celsius (71 degrees Fahrenheit). Kepler-22b is the smallest radius planet known to orbit in the habitable zone of any star other than the Sun.</description>
+		<description>The planet Kepler-22b has been discovered with the Kepler spacecraft. It is orbiting the solar type Kepler target star KIC10593626. This puts it in the habitable zone with an equilibrium temperature of minus 11 degrees Celsius (plus 11 degrees Fahrenheit). If the planet has an atmosphere similar to that of Earth then the surface temperature is 22 degrees Celsius (71 degrees Fahrenheit). Kepler-22b is the smallest radius planet known to orbit in the habitable zone of any star other than the Sun.</description>
 		<new>1</new>
-		<image />
-		<imagedescription />
+		<image>Kepler22b</image>
+		<imagedescription>This is an artist's conception illustrating the exoplanet Kepler-22b. The planet lies in the habitable zone of a Sun-like star KIC10593626. The habitable zone around a star is usually defined to be the zone in which liquid water, a requirement for life on Earth, could persist. 
+	
+Scientists do not yet know if the planet has a predominantly rocky, gaseous or liquid composition. It's possible that the world would have clouds in its atmosphere, as depicted here in the artist's interpretation.
+	
+Credit: NASA/Ames/JPL-Caltech</imagedescription>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Kepler-4 b</id_exoplaneteu>
@@ -22165,6 +22166,8 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<id_exoplaneteu>KOI-428 b</id_exoplaneteu>
 		<name>KOI-428 b</name>
 		<id>KOI-428 b</id>
+		<name>KIC 10418224 b</name>
+		<name>2MASS J19471528+4731357 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>2.2</mass>
@@ -24329,6 +24332,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<id_exoplaneteu>TrES-3</id_exoplaneteu>
 		<name>TrES-3</name>
 		<id>TrES-3</id>
+		<name>2MASS J17520702+3732461</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.91</mass>
@@ -25230,6 +25234,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<id_exoplaneteu>WASP-21 b</id_exoplaneteu>
 		<name>WASP-21 b</name>
 		<id>WASP-21 b</id>
+		<name>2MASS J23095825+1823459 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.3</mass>
