@@ -21468,6 +21468,14 @@
 		<id_exoplaneteu>Kepler-21 b</id_exoplaneteu>
 		<name>Kepler-21 b</name>
 		<id>Kepler-21 b</id>
+		<name>HIP 94112 b</name>
+		<name>TYC 3120-00963-1 b</name>
+		<name>HD 179070 b</name>
+		<name>BD+38 3455 b</name>
+		<name>SAO 67891 b</name>
+		<name>2MASS J19092683+3842505 b</name>
+		<name>KIC 3632418 b</name>
+		<name>KOI-975 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.033</mass>
@@ -23033,6 +23041,44 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2010</discoveryyear>
 		<lastupdate>11/01/05</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>NY Vir b</id_exoplaneteu>
+		<name>NY Vir b</name>
+		<id>NY Vir b</id>
+		<discoverymethod>timing</discoverymethod>
+		<properties>
+			<mass>2.3</mass>
+			<radius />
+			<orbit>
+				<period>2900</period>
+				<semimajoraxis>3.3</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>B D</spectraltype>
+			<mass>0.6</mass>
+			<radius />
+			<metallicity />
+			<rightascension>13 38 48</rightascension>
+			<declination>-02 01 49</declination>
+			<angulardistance />
+			<distance />
+			<magV>13.3</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/12/20</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -25347,8 +25393,6 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<id_exoplaneteu>WASP-24 b</id_exoplaneteu>
 		<name>WASP-24 b</name>
 		<id>WASP-24 b</id>
-		<name>2MASS J15085174+0220358 b</name>
-		<name>TYC 0339-00329-1 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.032</mass>
