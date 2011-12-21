@@ -2121,6 +2121,7 @@
 		<id_exoplaneteu>CoRoT-18 b</id_exoplaneteu>
 		<name>CoRoT-18 b</name>
 		<id>CoRoT-18 b</id>
+		<name>2MASS J06324137-0001537 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>3.47</mass>
@@ -21464,6 +21465,201 @@
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>Kepler-20 b</id_exoplaneteu>
+		<name>Kepler-20 b</name>
+		<id>Kepler-20 b</id>
+		<name>2MASS J19104752+4220194 b</name>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.027</mass>
+			<radius>0.17</radius>
+			<orbit>
+				<period>3.6961219</period>
+				<semimajoraxis>0.04537</semimajoraxis>
+				<eccentricity>0.32</eccentricity>
+				<inclination>86.5</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8</spectraltype>
+			<mass>0.912</mass>
+			<radius>0.944</radius>
+			<metallicity>0.02</metallicity>
+			<rightascension>19 10 48</rightascension>
+			<declination>+42 20 19</declination>
+			<angulardistance>0.000156</angulardistance>
+			<distance>290</distance>
+			<magV>12.5</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/12/21</lastupdate>
+		<description>The Kepler-20 system hosts at least five transiting exo-planets. Kepler-20 b has a period of only 3.7 days. Because it is about twice as big as the Earth, it is classified as a super-Earth or sub-Neptune. Kepler-20 b's composition is ambiguous. It could be a terrestrial planet with a rocky surface or it could have a significant gas envelope.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-20 c</id_exoplaneteu>
+		<name>Kepler-20 c</name>
+		<id>Kepler-20 c</id>
+		<name>2MASS J19104752+4220194 c</name>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.051</mass>
+			<radius>0.27</radius>
+			<orbit>
+				<period>10.854092</period>
+				<semimajoraxis>0.093</semimajoraxis>
+				<eccentricity>0.4</eccentricity>
+				<inclination>88.39</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8</spectraltype>
+			<mass>0.912</mass>
+			<radius>0.944</radius>
+			<metallicity>0.02</metallicity>
+			<rightascension>19 10 48</rightascension>
+			<declination>+42 20 19</declination>
+			<angulardistance>0.000321</angulardistance>
+			<distance>290</distance>
+			<magV>12.5</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/12/21</lastupdate>
+		<description>The Kepler-20 system hosts at least five transiting exo-planets. Kepler-20 c has a low mean density whicch means it cannot be composed of rocky and iron material alone but must have a gas envelope.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-20 d</id_exoplaneteu>
+		<name>Kepler-20 d</name>
+		<id>Kepler-20 d</id>
+		<name>2MASS J19104752+4220194 d</name>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.06</mass>
+			<radius>0.25</radius>
+			<orbit>
+				<period>77.61185</period>
+				<semimajoraxis>0.3453</semimajoraxis>
+				<eccentricity>0.6</eccentricity>
+				<inclination>89.57</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8</spectraltype>
+			<mass>0.912</mass>
+			<radius>0.944</radius>
+			<metallicity>0.02</metallicity>
+			<rightascension>19 10 48</rightascension>
+			<declination>+42 20 19</declination>
+			<angulardistance>0.001191</angulardistance>
+			<distance>290</distance>
+			<magV>12.5</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/12/21</lastupdate>
+		<description>The Kepler-20 system hosts at least five transiting exo-planets. Kepler-20 d has a low mean density and cannot be composed of rocky and iron material alone. The planet has an equilibtrium temperature of 95C (205F).</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-20 e</id_exoplaneteu>
+		<name>Kepler-20 e</name>
+		<id>Kepler-20 e</id>
+		<name>2MASS J19104752+4220194 e</name>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.0097</mass>
+			<radius>0.87</radius>
+			<orbit>
+				<period>6.098493</period>
+				<semimajoraxis>0.0507</semimajoraxis>
+				<eccentricity />
+				<inclination>87.5</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8</spectraltype>
+			<mass>0.912</mass>
+			<radius>0.944</radius>
+			<metallicity>0.02</metallicity>
+			<rightascension>19 10 48</rightascension>
+			<declination>+42 20 19</declination>
+			<angulardistance>0.000175</angulardistance>
+			<distance>290</distance>
+			<magV>12.5</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/12/21</lastupdate>
+		<description>The Kepler-20 system hosts at least 5 transiting exo-planets. Kepler-20 e is most likely a rocky planet made of iron and silicates. It has approximately the size of Venus and is the first discovery of a sub-Earth size planet by the Kepler team. It is not habitable because the planet is on an orbit very close to its host star and the equilibrium temperature is more than 1000 Kelvin (726C, 1340F). </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-20 f</id_exoplaneteu>
+		<name>Kepler-20 f</name>
+		<id>Kepler-20 f</id>
+		<name>2MASS J19104752+4220194 f</name>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.045</mass>
+			<radius>0.09</radius>
+			<orbit>
+				<period>19.57706</period>
+				<semimajoraxis>0.11</semimajoraxis>
+				<eccentricity />
+				<inclination>88.68</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8</spectraltype>
+			<mass>0.912</mass>
+			<radius>0.944</radius>
+			<metallicity>0.02</metallicity>
+			<rightascension>19 10 48</rightascension>
+			<declination>+42 20 19</declination>
+			<angulardistance>0.000379</angulardistance>
+			<distance>290</distance>
+			<magV>12.5</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/12/21</lastupdate>
+		<description>The Kepler-20 system hosts at least 5 transiting exo-planets. Kepler-20 f is orbiting the star every 20 days and has a size similar to that of Earth. It is too close to the star to be habitable. However, it could have developed a thick water vapour atmosphere. </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-21 b</id_exoplaneteu>
 		<name>Kepler-21 b</name>
 		<id>Kepler-21 b</id>
@@ -21728,6 +21924,9 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<id_exoplaneteu>Kepler-8 b</id_exoplaneteu>
 		<name>Kepler-8 b</name>
 		<id>Kepler-8 b</id>
+		<name>2MASS J18450914+4227038 b</name>
+		<name>KIC 6922244 b</name>
+		<name>KOI-10 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.603</mass>
@@ -27338,9 +27537,6 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<id_exoplaneteu>XO-1 b</id_exoplaneteu>
 		<name>XO-1 b</name>
 		<id>XO-1 b</id>
-		<name>BD+28 2507 b</name>
-		<name>2MASS J16021184+2810105 b</name>
-		<name>TYC 2041-01657-1 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.9</mass>
