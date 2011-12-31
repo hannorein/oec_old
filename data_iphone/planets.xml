@@ -5202,45 +5202,6 @@
 		<imagedescription />
 	</planet>
 	<planet>
-		<id_exoplaneteu>HAT-P-30 b</id_exoplaneteu>
-		<name>HAT-P-30 b</name>
-		<id>HAT-P-30 b</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>0.711</mass>
-			<radius>1.340</radius>
-			<orbit>
-				<period>2.810595</period>
-				<semimajoraxis>0.0419</semimajoraxis>
-				<eccentricity>0.035</eccentricity>
-				<inclination>83.6</inclination>
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>F</spectraltype>
-			<mass>1.242</mass>
-			<radius>1.215</radius>
-			<metallicity>0.27</metallicity>
-			<rightascension>08 15 48</rightascension>
-			<declination>+05 50 12</declination>
-			<angulardistance />
-			<distance>193</distance>
-			<magV>3.98</magV>
-			<magI />
-			<magH />
-			<magJ />
-			<magK>2.77</magK>
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/03/22</lastupdate>
-		<description />
-		<description />
-		<new>0</new>
-		<image />
-		<imagedescription />
-	</planet>
-	<planet>
 		<id_exoplaneteu>HAT-P-30/WASP-51 b</id_exoplaneteu>
 		<name>HAT-P-30</name>
 		<name>WASP-51 b</name>
@@ -21504,7 +21465,7 @@
 		<image />
 		<imagedescription />
 		<description>The Kepler-20 system hosts at least five transiting exo-planets. Kepler-20 b has a period of only 3.7 days. Because it is about twice as big as the Earth, it is classified as a super-Earth or sub-Neptune. Kepler-20 b's composition is ambiguous. It could be a terrestrial planet with a rocky surface or it could have a significant gas envelope.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -21548,7 +21509,7 @@
 		<image />
 		<imagedescription />
 		<description>The Kepler-20 system hosts at least five transiting exo-planets. Kepler-20 c has a low mean density which means it cannot be composed of rocky and iron material alone but must have a gas envelope.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -21592,7 +21553,7 @@
 		<image />
 		<imagedescription />
 		<description>The Kepler-20 system hosts at least five transiting exo-planets. Kepler-20 d has a low mean density and cannot be composed of rocky and iron material alone. The planet has an equilibtrium temperature of 95C (205F).</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -21636,7 +21597,7 @@
 		<image />
 		<imagedescription />
 		<description>The Kepler-20 system hosts at least 5 transiting exo-planets. Kepler-20 e is most likely a rocky planet made of iron and silicates. It has approximately the size of Venus and is the first discovery of a sub-Earth size planet by the Kepler team. It is not habitable because the planet is on an orbit very close to its host star and the equilibrium temperature is more as high as 1000 Kelvin (726C, 1340F). </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -21680,7 +21641,7 @@
 		<image />
 		<imagedescription />
 		<description>The Kepler-20 system hosts at least 5 transiting exo-planets. Kepler-20 f is orbiting the star every 20 days and has a size similar to that of Earth. It is too close to the star to be habitable. However, it could have developed a thick water vapour atmosphere. </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -22459,8 +22420,8 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/12/22</lastupdate>
-		<description />
-		<new>0</new>
+		<description>The planet KOI-55 b is orbiting a former red-giant star. It probably survived deep immersion in the red-giant envelope. When the star ran out of hydrogen after about 10 billion years, it swelled dramatically. Our own sun will also undergo this phase and expand all the way to the Earth's orbit. The planet that we see today in the KOI-55 system might just be the dense corse of an evaporated giant planet which survived the dead of its sun. Although the planet was discovered with the Kepler spacecraft, it does not transit. The planet is inferred because of the brightness pulsations.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -22497,8 +22458,8 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/12/22</lastupdate>
-		<description />
-		<new>0</new>
+		<description>The planet KOI-55 c is orbiting a former red-giant star. It probably survived deep immersion in the red-giant envelope. When the star ran out of hydrogen after about 10 billion years, it swelled dramatically. Our own sun will also undergo this phase and expand all the way to the Earth's orbit. The planet that we see today in the KOI-55 system might just be the dense corse of an evaporated giant planet which survived the dead of its sun. Although the planet was discovered with the Kepler spacecraft, it does not transit. The planet is inferred because of the brightness pulsations.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -24160,15 +24121,16 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>PSR 1719-14 b</id_exoplaneteu>
 		<name>PSR 1719-14 b</name>
+		<name>PSR J1719-1438 b</name>
 		<id>PSR 1719-14 b</id>
 		<discoverymethod>timing</discoverymethod>
 		<properties>
-			<mass>1</mass>
-			<radius>0.4</radius>
+			<mass>1.20</mass>
+			<radius>0.41</radius>
 			<orbit>
-				<period>0.090706293</period>
-				<semimajoraxis>0.0004</semimajoraxis>
-				<eccentricity>0.06</eccentricity>
+				<period>0.0904</period>
+				<semimajoraxis>0.00442</semimajoraxis>
+				<eccentricity>0</eccentricity>
 				<inclination />
 			</orbit>
 		</properties>
@@ -24189,7 +24151,11 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/08/31</lastupdate>
+		<lastupdate>11/08/25</lastupdate>
+		<new>0</new>
+		<description>The 5.7ms pulsar PSR J1719-14 shows timing variations on a 2.17 hour timescale. These can be explained with a Jovian planet. However, because of the planet's short distance to the star, its density has to be more then 20 times that of Jupiter. The planet is most likely a remnant of a binary star which avoided complete destruction. The chemical composition, pressure and dimensions of the planet indicate that it is crystallized, or in other words, a very big diamond (Bailes et al 2011).  </description>
+		<image />
+		<imagedescription />
 		<description />
 		<new>0</new>
 		<image />
@@ -24228,48 +24194,6 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>1994</discoveryyear>
 		<lastupdate>10/12/23</lastupdate>
-		<description />
-		<new>0</new>
-		<image />
-		<imagedescription />
-	</planet>
-	<planet>
-		<id_exoplaneteu>PSR J1719-1438 b</id_exoplaneteu>
-		<name>PSR J1719-1438 b</name>
-		<id>PSR J1719-1438 b</id>
-		<discoverymethod>timing</discoverymethod>
-		<properties>
-			<mass>1.20</mass>
-			<radius>0.41</radius>
-			<orbit>
-				<period>0.0904</period>
-				<semimajoraxis>0.00442</semimajoraxis>
-				<eccentricity>0</eccentricity>
-				<inclination />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype />
-			<mass>1.4</mass>
-			<radius />
-			<metallicity />
-			<rightascension>17 19 10</rightascension>
-			<declination>-14 38 01</declination>
-			<angulardistance />
-			<distance>1200</distance>
-			<magV />
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/08/25</lastupdate>
-		<new>0</new>
-		<description>The 5.7ms pulsar PSR J1719-1438 shows timing variations on a 2.17 hour timescale. These can be explained with a Jovian planet. However, because of the planet's short distance to the star, its density has to be more then 20 times that of Jupiter. The planet is most likely a remnant of a binary star which avoided complete destruction. The chemical composition, pressure and dimensions of the planet indicate that it is crystallized, or in other words, a very big diamond (Bailes et al 2011).  </description>
-		<image />
-		<imagedescription />
 		<description />
 		<new>0</new>
 		<image />
