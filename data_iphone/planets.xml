@@ -1921,9 +1921,6 @@
 		<id_exoplaneteu>CoRoT-12 b</id_exoplaneteu>
 		<name>CoRoT-12 b</name>
 		<id>CoRoT-12 b</id>
-		<name>CoRoT-Exo-12 b</name>
-		<name>2MASS J06430376-0117471 b</name>
-		<name>CoRoTID 102671819 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.917</mass>
@@ -1962,6 +1959,9 @@
 		<id_exoplaneteu>CoRoT-13 b</id_exoplaneteu>
 		<name>CoRoT-13 b</name>
 		<id>CoRoT-13 b</id>
+		<name>CoRoT-Exo-13 b</name>
+		<name>2MASS J06505307-0505112 b</name>
+		<name>CoRoTID 110839339 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.308</mass>
@@ -4443,6 +4443,8 @@
 		<id_exoplaneteu>HAT-P-14 b</id_exoplaneteu>
 		<name>HAT-P-14 b</name>
 		<id>HAT-P-14 b</id>
+		<name>2MASS J17202788+3814317 b</name>
+		<name>TYC 3086-00152-1 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>2.2</mass>
