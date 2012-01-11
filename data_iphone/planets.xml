@@ -5396,7 +5396,7 @@
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/04</lastupdate>
 		<description>HAT-P-34 b is a transiting planet that has been discovered by the HATNet collaboration. HATNet is a ground-based survey using standard telephoto lenses such as the Canon 11cm diameter f/1.8L. </description>
-		<new>1</new>
+		<new>0</new>
 		<description />
 		<new>0</new>
 		<image />
@@ -5437,7 +5437,7 @@
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/04</lastupdate>
 		<description>HAT-P-35 b is a transiting planet that has been discovered by the HATNet collaboration. HATNet is a ground-based survey using standard telephoto lenses such as the Canon 11cm diameter f/1.8L. </description>
-		<new>1</new>
+		<new>0</new>
 		<description />
 		<new>0</new>
 		<image />
@@ -5478,7 +5478,7 @@
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/04</lastupdate>
 		<description>HAT-P-36 b is a transiting planet that has been discovered by the HATNet collaboration. HATNet is a ground-based survey using standard telephoto lenses such as the Canon 11cm diameter f/1.8L. </description>
-		<new>1</new>
+		<new>0</new>
 		<description />
 		<new>0</new>
 		<image />
@@ -5519,7 +5519,7 @@
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/04</lastupdate>
 		<description>HAT-P-37 b is a transiting planet that has been discovered by the HATNet collaboration. HATNet is a ground-based survey using standard telephoto lenses such as the Canon 11cm diameter f/1.8L. </description>
-		<new>1</new>
+		<new>0</new>
 		<description />
 		<new>0</new>
 		<image />
@@ -21904,6 +21904,94 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 Scientists do not yet know if the planet has a predominantly rocky, gaseous or liquid composition. It's possible that the world would have clouds in its atmosphere, as depicted here in the artist's interpretation.
 	
 Credit: NASA/Ames/JPL-Caltech</imagedescription>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-34 b</id_exoplaneteu>
+		<name>Kepler-34 b</name>
+		<id>Kepler-34 b</id>
+		<name>KIC 8572936 b</name>
+		<name>Kepler-34 (AB) b</name>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.22</mass>
+			<radius>0.764</radius>
+			<orbit>
+				<period>288.822</period>
+				<semimajoraxis>1.0896</semimajoraxis>
+				<eccentricity>0.182</eccentricity>
+				<inclination>90.355</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>2.06</mass>
+			<radius />
+			<metallicity />
+			<rightascension>19 45 45</rightascension>
+			<declination>+44 38 30</declination>
+			<angulardistance />
+			<distance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/01/11</lastupdate>
+		<description>Kepler-34 b is a planet orbiting two Sun-like stars which are in a binary. The Kepler team estimates that approximately 1% of all close binary stars have planets. This yields a galactic population of at least several million.</description>
+		<new>1</new>
+		<image>Kepler34b</image>
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-35 b</id_exoplaneteu>
+		<name>Kepler-35 b</name>
+		<id>Kepler-35 b</id>
+		<name>KIC 9837578 b</name>
+		<name>Kepler-35 (AB) b</name>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.127</mass>
+			<radius>0.728</radius>
+			<orbit>
+				<period>131.458</period>
+				<semimajoraxis>0.60347</semimajoraxis>
+				<eccentricity>0.042</eccentricity>
+				<inclination>90.76</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.68</mass>
+			<radius />
+			<metallicity />
+			<rightascension>19 37 59</rightascension>
+			<declination>+46 41 23</declination>
+			<angulardistance />
+			<distance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/01/11</lastupdate>
+		<description>Kepler-35 b is a planet orbiting two sub solar-mass stars which are in a binary. The Kepler team estimates that approximately 1% of all close binary stars have planets. This yields a galactic population of at least several million.</description>
+		<new>1</new>
+		<image>Kepler35b</image>
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
 	</planet>
 	<planet>
 		<id_exoplaneteu>Kepler-4 b</id_exoplaneteu>
