@@ -919,12 +919,12 @@
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.027</mass>
-			<radius>0.19</radius>
+			<radius>0.194</radius>
 			<orbit>
-				<period>0.73654</period>
+				<period>0.7365449</period>
 				<semimajoraxis>0.0156</semimajoraxis>
 				<eccentricity>0.057</eccentricity>
-				<inclination>83.4</inclination>
+				<inclination>81</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -944,7 +944,7 @@
 		</star>
 		<multiplicity>5</multiplicity>
 		<discoveryyear>2004</discoveryyear>
-		<lastupdate>11/06/07</lastupdate>
+		<lastupdate>12/01/12</lastupdate>
 		<description>55 Cancri is a binary system in the constellation Cancer. 55 Cnc b and c are in a near 1:3 resonance. A dynamical analysis shows that the system has to be almost coplanar in order to be stable for the age the system.</description>
 		<new>0</new>
 		<image />
@@ -2082,7 +2082,6 @@
 		<id_exoplaneteu>CoRoT-17 b</id_exoplaneteu>
 		<name>CoRoT-17 b</name>
 		<id>CoRoT-17 b</id>
-		<name>2MASS J18344782-0636440 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>2.45</mass>
@@ -21951,6 +21950,44 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>Kepler-34(AB) b</id_exoplaneteu>
+		<name>Kepler-34(AB) b</name>
+		<id>Kepler-34(AB) b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.22</mass>
+			<radius>0.764</radius>
+			<orbit>
+				<period>288.822</period>
+				<semimajoraxis>1.0896</semimajoraxis>
+				<eccentricity>0.182</eccentricity>
+				<inclination>90.355</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G</spectraltype>
+			<mass>2.0687</mass>
+			<radius>1.1</radius>
+			<metallicity>-0.07</metallicity>
+			<rightascension>19 45 45</rightascension>
+			<declination>+44 38 30</declination>
+			<angulardistance>0.000727</angulardistance>
+			<distance>1499</distance>
+			<magV>15</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/01/12</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-35 b</id_exoplaneteu>
 		<name>Kepler-35 b</name>
 		<id>Kepler-35 b</id>
@@ -21991,6 +22028,44 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<imagedescription>This is an artists conception of the planet Kepler-35 b orbiting a binary star. 
 	
 Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-35(AB) b</id_exoplaneteu>
+		<name>Kepler-35(AB) b</name>
+		<id>Kepler-35(AB) b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.127</mass>
+			<radius>0.728</radius>
+			<orbit>
+				<period>131.458</period>
+				<semimajoraxis>0.60347</semimajoraxis>
+				<eccentricity>0.042</eccentricity>
+				<inclination>90.4238</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G</spectraltype>
+			<mass>1.6971</mass>
+			<radius>1</radius>
+			<metallicity>-0.34</metallicity>
+			<rightascension>19 37 59</rightascension>
+			<declination>+46 41 24</declination>
+			<angulardistance>0.000367</angulardistance>
+			<distance>1645</distance>
+			<magV>16</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/01/12</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -22246,6 +22321,9 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<id_exoplaneteu>Kepler-9 c</id_exoplaneteu>
 		<name>Kepler-9 c</name>
 		<id>Kepler-9 c</id>
+		<name>2MASS J19021775+3824032 c</name>
+		<name>KIC 3323887 c</name>
+		<name>KOI-377 c</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.171</mass>
@@ -25022,8 +25100,6 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>TrES-4</id_exoplaneteu>
 		<name>TrES-4</name>
 		<id>TrES-4</id>
-		<name>TYC 2620-00648-1</name>
-		<name>2MASS J17531304+3712426</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.917</mass>
