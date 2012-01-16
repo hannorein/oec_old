@@ -1798,6 +1798,9 @@
 		<id_exoplaneteu>CoRoT-1 b</id_exoplaneteu>
 		<name>CoRoT-1 b</name>
 		<id>CoRoT-1 b</id>
+		<name>CoRoT-Exo-1 b</name>
+		<name>2MASS J06481917-0306077 b</name>
+		<name>CoRoTID 102890318 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.03</mass>
@@ -2437,6 +2440,8 @@
 		<id_exoplaneteu>CoRoT-5 b</id_exoplaneteu>
 		<name>CoRoT-5 b</name>
 		<id>CoRoT-5 b</id>
+		<name>CoRoT-Exo-5 b</name>
+		<name>CoRoTID 102764809 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.467</mass>
@@ -4560,8 +4565,6 @@
 		<id_exoplaneteu>HAT-P-17 b</id_exoplaneteu>
 		<name>HAT-P-17 b</name>
 		<id>HAT-P-17 b</id>
-		<name>TYC 2717-00417-1 b</name>
-		<name>2MASS J21380873+3029193 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.53</mass>
@@ -23236,6 +23239,7 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>MOA-2008-BLG-310-L b</id_exoplaneteu>
 		<name>MOA-2008-BLG-310-L b</name>
 		<id>MOA-2008-BLG-310-L b</id>
+		<name>MOA 2008-BLG-310L b</name>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
 			<mass>0.23</mass>
@@ -26154,8 +26158,6 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>WASP-26 b</id_exoplaneteu>
 		<name>WASP-26 b</name>
 		<id>WASP-26 b</id>
-		<name>TYC 5839-00876-1 b</name>
-		<name>2MASS J00182469-1516022 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.028</mass>
@@ -27447,7 +27449,6 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>WASP-6 b</id_exoplaneteu>
 		<name>WASP-6 b</name>
 		<id>WASP-6 b</id>
-		<name>2MASS J23123773-2240261 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.503</mass>
