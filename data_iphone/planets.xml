@@ -1921,9 +1921,6 @@
 		<id_exoplaneteu>CoRoT-12 b</id_exoplaneteu>
 		<name>CoRoT-12 b</name>
 		<id>CoRoT-12 b</id>
-		<name>CoRoT-Exo-12 b</name>
-		<name>2MASS J06430376-0117471 b</name>
-		<name>CoRoTID 102671819 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.917</mass>
@@ -4565,6 +4562,8 @@
 		<id_exoplaneteu>HAT-P-17 b</id_exoplaneteu>
 		<name>HAT-P-17 b</name>
 		<id>HAT-P-17 b</id>
+		<name>TYC 2717-00417-1 b</name>
+		<name>2MASS J21380873+3029193 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.53</mass>
@@ -21305,9 +21304,6 @@
 		<id_exoplaneteu>Kepler-15 b</id_exoplaneteu>
 		<name>Kepler-15 b</name>
 		<id>Kepler-15 b</id>
-		<name>2MASS J19444814+4908244 b</name>
-		<name>KOI-128 b</name>
-		<name>KIC 11359879 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.66</mass>
@@ -22559,8 +22555,6 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<id_exoplaneteu>KOI-204 b</id_exoplaneteu>
 		<name>KOI-204 b</name>
 		<id>KOI-204 b</id>
-		<name>2MASS J20002456+4545437 b</name>
-		<name>KIC 9305831 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.02</mass>
@@ -22719,7 +22713,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<id_exoplaneteu>KOI-55 b</id_exoplaneteu>
 		<name>KOI-55 b</name>
 		<id>KOI-55 b</id>
-		<discoverymethod>timing</discoverymethod>
+		<discoverymethod>imaging</discoverymethod>
 		<properties>
 			<mass>0.014</mass>
 			<radius>0.068</radius>
@@ -22747,7 +22741,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/12/22</lastupdate>
+		<lastupdate>12/01/16</lastupdate>
 		<description>The planet KOI-55 b is orbiting a former red-giant star. It probably survived deep immersion in the red-giant's envelope. When the star ran out of hydrogen after about 10 billion years, it swelled dramatically. Our own sun will also undergo this phase and expand as far as the Earth's orbit. The planet that we see today in the KOI-55 system might just be the dense core of an evaporated giant planet which survived the death of its sun. The planet was discovered with the Kepler spacecraft but is not transiting. It is inferred from brightness pulsations.</description>
 		<new>0</new>
 		<image />
@@ -22757,7 +22751,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<id_exoplaneteu>KOI-55 c</id_exoplaneteu>
 		<name>KOI-55 c</name>
 		<id>KOI-55 c</id>
-		<discoverymethod>timing</discoverymethod>
+		<discoverymethod>imaging</discoverymethod>
 		<properties>
 			<mass>0.0021</mass>
 			<radius>0.078</radius>
@@ -22785,7 +22779,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/12/22</lastupdate>
+		<lastupdate>12/01/16</lastupdate>
 		<description>The planet KOI-55 c is orbiting a former red-giant star. It probably survived deep immersion in the red-giant's envelope. When the star ran out of hydrogen after about 10 billion years, it swelled dramatically. Our own sun will also undergo this phase and expand as far as the Earth's orbit. The planet that we see today in the KOI-55 system might just be the dense core of an evaporated giant planet which survived the death of its sun. The planet was discovered with the Kepler spacecraft but is not transiting. It is inferred from brightness pulsations.</description>
 		<new>0</new>
 		<image />
@@ -25060,7 +25054,6 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>TrES-3</id_exoplaneteu>
 		<name>TrES-3</name>
 		<id>TrES-3</id>
-		<name>2MASS J17520702+3732461</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.91</mass>
@@ -25139,6 +25132,7 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>TrES-5</id_exoplaneteu>
 		<name>TrES-5</name>
 		<id>TrES-5</id>
+		<name>2MASS J20205324+5926556</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.778</mass>
@@ -26158,6 +26152,8 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>WASP-26 b</id_exoplaneteu>
 		<name>WASP-26 b</name>
 		<id>WASP-26 b</id>
+		<name>TYC 5839-00876-1 b</name>
+		<name>2MASS J00182469-1516022 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.028</mass>
@@ -27449,6 +27445,7 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>WASP-6 b</id_exoplaneteu>
 		<name>WASP-6 b</name>
 		<id>WASP-6 b</id>
+		<name>2MASS J23123773-2240261 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.503</mass>
