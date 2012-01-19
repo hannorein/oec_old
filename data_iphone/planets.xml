@@ -5206,8 +5206,6 @@
 		<name>HAT-P-30</name>
 		<name>WASP-51 b</name>
 		<id>HAT-P-30</id>
-		<name>WASP-51</name>
-		<name>2MASS J08154797+0550121</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.711</mass>
@@ -15538,12 +15536,12 @@
 		<id>HD 37605 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>2.84</mass>
+			<mass>2.813</mass>
 			<radius />
 			<orbit>
-				<period>55.23</period>
-				<semimajoraxis>0.26</semimajoraxis>
-				<eccentricity>0.737</eccentricity>
+				<period>55.01307</period>
+				<semimajoraxis>0.2837</semimajoraxis>
+				<eccentricity>0.6767</eccentricity>
 				<inclination />
 			</orbit>
 		</properties>
@@ -15554,7 +15552,7 @@
 			<metallicity>0.39</metallicity>
 			<rightascension>05 40 01</rightascension>
 			<declination>+06 03 38</declination>
-			<angulardistance>0.006061</angulardistance>
+			<angulardistance>0.006613</angulardistance>
 			<distance>42.9</distance>
 			<magV>8.69</magV>
 			<magI />
@@ -15562,9 +15560,47 @@
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>2</multiplicity>
 		<discoveryyear>2004</discoveryyear>
-		<lastupdate>11/01/01</lastupdate>
+		<lastupdate>12/01/19</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 37605 c</id_exoplaneteu>
+		<name>HD 37605 c</name>
+		<id>HD 37605 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>3.379</mass>
+			<radius />
+			<orbit>
+				<period>2720</period>
+				<semimajoraxis>3.821</semimajoraxis>
+				<eccentricity>0.013</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0V</spectraltype>
+			<mass>0.8</mass>
+			<radius />
+			<metallicity>0.39</metallicity>
+			<rightascension>05 40 01</rightascension>
+			<declination>+06 03 38</declination>
+			<angulardistance>0.089068</angulardistance>
+			<distance>42.9</distance>
+			<magV>8.69</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/01/19</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -25141,7 +25177,6 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>TrES-5</id_exoplaneteu>
 		<name>TrES-5</name>
 		<id>TrES-5</id>
-		<name>2MASS J20205324+5926556</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.778</mass>
@@ -26003,8 +26038,6 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>WASP-22 b</id_exoplaneteu>
 		<name>WASP-22 b</name>
 		<id>WASP-22 b</id>
-		<name>TYC 6446-00326-1 b</name>
-		<name>2MASS J03311633-2349109 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.588</mass>
