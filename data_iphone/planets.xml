@@ -4446,8 +4446,6 @@
 		<id_exoplaneteu>HAT-P-14 b</id_exoplaneteu>
 		<name>HAT-P-14 b</name>
 		<id>HAT-P-14 b</id>
-		<name>2MASS J17202788+3814317 b</name>
-		<name>TYC 3086-00152-1 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>2.2</mass>
@@ -5572,6 +5570,8 @@
 		<id_exoplaneteu>HAT-P-5 b</id_exoplaneteu>
 		<name>HAT-P-5 b</name>
 		<id>HAT-P-5 b</id>
+		<name>2MASS J18173731+3637170 b</name>
+		<name>TYC 2634-01087-1 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.06</mass>
@@ -23242,7 +23242,6 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>MOA-2009-BLG-266L b</id_exoplaneteu>
 		<name>MOA-2009-BLG-266L b</name>
 		<id>MOA-2009-BLG-266L b</id>
-		<name>MOA 2009-BLG-266L b</name>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
 			<mass>0.0327</mass>
@@ -24741,6 +24740,44 @@ Image credit: NASA/JPL-Caltech
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
 		<lastupdate>11/08/11</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>RR Cae b</id_exoplaneteu>
+		<name>RR Cae b</name>
+		<id>RR Cae b</id>
+		<discoverymethod>timing</discoverymethod>
+		<properties>
+			<mass>4.2</mass>
+			<radius />
+			<orbit>
+				<period>4350</period>
+				<semimajoraxis>5.3</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>DAZ8+dM</spectraltype>
+			<mass>0.622</mass>
+			<radius />
+			<metallicity />
+			<rightascension>04 21 06</rightascension>
+			<declination>-48 39 07</declination>
+			<angulardistance />
+			<distance />
+			<magV>14.4</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/01/23</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
