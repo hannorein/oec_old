@@ -397,7 +397,7 @@
 		<star>
 			<spectraltype />
 			<mass>0.12</mass>
-			<radius>0.99</radius>
+			<radius>0.089</radius>
 			<metallicity />
 			<rightascension>07 46 43</rightascension>
 			<declination>+20 00 32</declination>
@@ -435,7 +435,7 @@
 		<star>
 			<spectraltype />
 			<mass>0.08</mass>
-			<radius>1.13</radius>
+			<radius>0.1</radius>
 			<metallicity />
 			<rightascension>21 40 29</rightascension>
 			<declination>+16 25 18</declination>
@@ -473,7 +473,7 @@
 		<star>
 			<spectraltype />
 			<mass>0.13</mass>
-			<radius>1.27</radius>
+			<radius>0.11</radius>
 			<metallicity />
 			<rightascension>22 06 23</rightascension>
 			<declination>-20 47 06</declination>
@@ -4446,6 +4446,8 @@
 		<id_exoplaneteu>HAT-P-14 b</id_exoplaneteu>
 		<name>HAT-P-14 b</name>
 		<id>HAT-P-14 b</id>
+		<name>2MASS J17202788+3814317 b</name>
+		<name>TYC 3086-00152-1 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>2.2</mass>
@@ -23242,6 +23244,7 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>MOA-2009-BLG-266L b</id_exoplaneteu>
 		<name>MOA-2009-BLG-266L b</name>
 		<id>MOA-2009-BLG-266L b</id>
+		<name>MOA 2009-BLG-266L b</name>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
 			<mass>0.0327</mass>
@@ -23347,6 +23350,44 @@ Image credit: NASA/JPL-Caltech
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/02/04</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>MOA-2011-BLG-293L b</id_exoplaneteu>
+		<name>MOA-2011-BLG-293L b</name>
+		<id>MOA-2011-BLG-293L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>2.4</mass>
+			<radius />
+			<orbit>
+				<period />
+				<semimajoraxis>1</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.44</mass>
+			<radius />
+			<metallicity />
+			<rightascension>17 55 39</rightascension>
+			<declination>-28 28 37</declination>
+			<angulardistance>0.00014</angulardistance>
+			<distance>7150</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/01/23</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -26160,8 +26201,6 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>WASP-26 b</id_exoplaneteu>
 		<name>WASP-26 b</name>
 		<id>WASP-26 b</id>
-		<name>TYC 5839-00876-1 b</name>
-		<name>2MASS J00182469-1516022 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.028</mass>
