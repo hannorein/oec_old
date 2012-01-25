@@ -2082,7 +2082,6 @@
 		<id_exoplaneteu>CoRoT-17 b</id_exoplaneteu>
 		<name>CoRoT-17 b</name>
 		<id>CoRoT-17 b</id>
-		<name>2MASS J18344782-0636440 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>2.45</mass>
@@ -5521,6 +5520,44 @@
 		<lastupdate>12/01/04</lastupdate>
 		<description>HAT-P-37 b is a transiting planet that has been discovered by the HATNet collaboration. HATNet is a ground-based survey using standard telephoto lenses such as the Canon 11cm diameter f/1.8L. </description>
 		<new>0</new>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HAT-P-38 b</id_exoplaneteu>
+		<name>HAT-P-38 b</name>
+		<id>HAT-P-38 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.267</mass>
+			<radius>0.825</radius>
+			<orbit>
+				<period>4.640382</period>
+				<semimajoraxis>0.0523</semimajoraxis>
+				<eccentricity>0.067</eccentricity>
+				<inclination>88.3</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G</spectraltype>
+			<mass>0.886</mass>
+			<radius>0.923</radius>
+			<metallicity>0.06</metallicity>
+			<rightascension />
+			<declination />
+			<angulardistance>0.00021</angulardistance>
+			<distance>249</distance>
+			<magV>12.56</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/01/25</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -25141,8 +25178,6 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>TrES-4</id_exoplaneteu>
 		<name>TrES-4</name>
 		<id>TrES-4</id>
-		<name>TYC 2620-00648-1</name>
-		<name>2MASS J17531304+3712426</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.917</mass>
@@ -25927,7 +25962,6 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>WASP-2 b</id_exoplaneteu>
 		<name>WASP-2 b</name>
 		<id>WASP-2 b</id>
-		<name>2MASS J20305413+0625463 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.847</mass>
@@ -26201,6 +26235,8 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>WASP-26 b</id_exoplaneteu>
 		<name>WASP-26 b</name>
 		<id>WASP-26 b</id>
+		<name>TYC 5839-00876-1 b</name>
+		<name>2MASS J00182469-1516022 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.028</mass>
@@ -28109,8 +28145,6 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>XO-2 b</id_exoplaneteu>
 		<name>XO-2 b</name>
 		<id>XO-2 b</id>
-		<name>2MASS J07480647+5013328 b</name>
-		<name>TYC 3413-00005-1 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.62</mass>
