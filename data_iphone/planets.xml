@@ -21981,6 +21981,1146 @@ Scientists do not yet know if the planet has a predominantly rocky, gaseous or l
 Credit: NASA/Ames/JPL-Caltech</imagedescription>
 	</planet>
 	<planet>
+		<id_exoplaneteu>Kepler-23 b</id_exoplaneteu>
+		<name>Kepler-23 b</name>
+		<name>KOI 168.01</name>
+		<id>Kepler-23 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.8</mass>
+			<radius>0.1731475</radius>
+			<orbit>
+				<period>7.1073</period>
+				<semimajoraxis>0.075</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.11</mass>
+			<radius>1.52</radius>
+			<metallicity>-0.09</metallicity>
+			<rightascension>19 36 53</rightascension>
+			<declination>+49 28 45</declination>
+			<angulardistance />
+			<distance>1018</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-23 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet and should be considered an upper limit. </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-23 c</id_exoplaneteu>
+		<name>Kepler-23 c</name>
+		<name>KOI 168.02</name>
+		<id>Kepler-23 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.8</mass>
+			<radius>0.2916169</radius>
+			<orbit>
+				<period>10.7421</period>
+				<semimajoraxis>0.099</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.11</mass>
+			<radius>1.52</radius>
+			<metallicity>-0.09</metallicity>
+			<rightascension>19 36 53</rightascension>
+			<declination>+49 28 45</declination>
+			<angulardistance />
+			<distance>1018</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-23 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet and should be considered an upper limit. </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-24 b</id_exoplaneteu>
+		<name>Kepler-24 b</name>
+		<name>KOI 1102.02</name>
+		<id>Kepler-24 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.6</mass>
+			<radius>0.21871271</radius>
+			<orbit>
+				<period>8.1453</period>
+				<semimajoraxis>0.08</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.03</mass>
+			<radius>1.07</radius>
+			<metallicity>-0.24</metallicity>
+			<rightascension>19 21 39</rightascension>
+			<declination>+38 20 37</declination>
+			<angulardistance />
+			<distance>1224</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>11/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-24 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-24 c</id_exoplaneteu>
+		<name>Kepler-24 c</name>
+		<name>KOI 1102.01</name>
+		<id>Kepler-24 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.6</mass>
+			<radius>0.25516482</radius>
+			<orbit>
+				<period>12.333</period>
+				<semimajoraxis>0.106</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.03</mass>
+			<radius>1.07</radius>
+			<metallicity>-0.24</metallicity>
+			<rightascension>19 21 39</rightascension>
+			<declination>+38 20 37</declination>
+			<angulardistance />
+			<distance>1224</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>11/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-24 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-25 b</id_exoplaneteu>
+		<name>Kepler-25 b</name>
+		<name>KIC 3231341 b</name>
+		<name>KOI 244.01</name>
+		<id>Kepler-25 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>12.7</mass>
+			<radius>0.2369387</radius>
+			<orbit>
+				<period>6.238</period>
+				<semimajoraxis>0.068</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.22</mass>
+			<radius>1.36</radius>
+			<metallicity />
+			<rightascension>19 21 39</rightascension>
+			<declination>+38 20 37</declination>
+			<angulardistance />
+			<distance>191</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>11/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-25 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-25 c</id_exoplaneteu>
+		<name>Kepler-25 c</name>
+		<name>KIC 3231341 c</name>
+		<name>KOI 244.02</name>
+		<id>Kepler-25 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>4.16</mass>
+			<radius>0.410086</radius>
+			<orbit>
+				<period>12.72</period>
+				<semimajoraxis>0.110</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.22</mass>
+			<radius>1.36</radius>
+			<metallicity />
+			<rightascension>19 21 39</rightascension>
+			<declination>+38 20 37</declination>
+			<angulardistance />
+			<distance>191</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>11/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-25 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-26 b</id_exoplaneteu>
+		<name>Kepler-26 b</name>
+		<name>KOI 250.01</name>
+		<name>KIC 9757613 b</name>
+		<id>Kepler-26 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.380</mass>
+			<radius>0.32806</radius>
+			<orbit>
+				<period>12.28</period>
+				<semimajoraxis>0.085</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.65</mass>
+			<radius>0.59</radius>
+			<metallicity>-0.21</metallicity>
+			<rightascension>18 59 45</rightascension>
+			<declination>+46 33 59</declination>
+			<angulardistance />
+			<distance>421.28</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>11/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-26 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-26 c</id_exoplaneteu>
+		<name>Kepler-26 c</name>
+		<name>KOI 250.02</name>
+		<name>KIC 9757613 c</name>
+		<id>Kepler-26 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.375</mass>
+			<radius>0.32806</radius>
+			<orbit>
+				<period>17.25</period>
+				<semimajoraxis>0.107</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.65</mass>
+			<radius>0.59</radius>
+			<metallicity>-0.21</metallicity>
+			<rightascension>18 59 45</rightascension>
+			<declination>+46 33 59</declination>
+			<angulardistance />
+			<distance>421.28</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>11/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-26 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-27 b</id_exoplaneteu>
+		<name>Kepler-27 b</name>
+		<name>KOI 841.01</name>
+		<name>KIC 5792202 b</name>
+		<id>Kepler-27 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>9.11</mass>
+			<radius>0.364521</radius>
+			<orbit>
+				<period>15.33</period>
+				<semimajoraxis>0.118</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.65</mass>
+			<radius>59</radius>
+			<metallicity>0.41</metallicity>
+			<rightascension>19 28 56</rightascension>
+			<declination>+41 05 09</declination>
+			<angulardistance />
+			<distance>991.22</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>11/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-27 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-27 c</id_exoplaneteu>
+		<name>Kepler-27 c</name>
+		<name>KOI 841.02</name>
+		<name>KIC 5792202 c</name>
+		<id>Kepler-27 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>13.8</mass>
+			<radius>0.44653</radius>
+			<orbit>
+				<period>31.33</period>
+				<semimajoraxis>0.191</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.65</mass>
+			<radius>59</radius>
+			<metallicity>0.41</metallicity>
+			<rightascension>19 28 56</rightascension>
+			<declination>+41 05 09</declination>
+			<angulardistance />
+			<distance>991.22</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>11/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-27 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-28 b</id_exoplaneteu>
+		<name>Kepler-28 b</name>
+		<name>KOI-870.01</name>
+		<name>KIC 6949607 b</name>
+		<id>Kepler-28 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.51</mass>
+			<radius>0.32806906</radius>
+			<orbit>
+				<period>5.91</period>
+				<semimajoraxis>0.062</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.75</mass>
+			<radius>0.70</radius>
+			<metallicity>0.34</metallicity>
+			<rightascension>19 28 32</rightascension>
+			<declination>+42 25 45</declination>
+			<angulardistance />
+			<distance>772.8</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>11/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-28 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-28 c</id_exoplaneteu>
+		<name>Kepler-28 c</name>
+		<name>KOI-870.02</name>
+		<name>KIC 6949607 c</name>
+		<id>Kepler-28 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.36</mass>
+			<radius>0.30984</radius>
+			<orbit>
+				<period>8.98</period>
+				<semimajoraxis>0.081</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.75</mass>
+			<radius>0.70</radius>
+			<metallicity>0.34</metallicity>
+			<rightascension>19 28 32</rightascension>
+			<declination>+42 25 45</declination>
+			<angulardistance />
+			<distance>772.8</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>11/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-28 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-29 b</id_exoplaneteu>
+		<name>Kepler-29 b</name>
+		<name>KOI 738.01</name>
+		<name>KIC 10358759 b</name>
+		<id>Kepler-29 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.4</mass>
+			<radius>0.328069</radius>
+			<orbit>
+				<period>10.33</period>
+				<semimajoraxis>0.09</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.0</mass>
+			<radius>0.96</radius>
+			<metallicity />
+			<rightascension>19 53 24</rightascension>
+			<declination>+47 29 28</declination>
+			<angulardistance />
+			<distance>1246</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>11/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-29 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-29 c</id_exoplaneteu>
+		<name>Kepler-29 c</name>
+		<name>KOI 738.02</name>
+		<name>KIC 10358759 c</name>
+		<id>Kepler-29 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.3</mass>
+			<radius>0.26427</radius>
+			<orbit>
+				<period>13.2907</period>
+				<semimajoraxis>0.11</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.0</mass>
+			<radius>0.96</radius>
+			<metallicity />
+			<rightascension>19 53 24</rightascension>
+			<declination>+47 29 28</declination>
+			<angulardistance />
+			<distance>1246</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>11/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-29 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-30 b</id_exoplaneteu>
+		<name>Kepler-30 b</name>
+		<name>KOI 806.01</name>
+		<name>KIC 3832474 b</name>
+		<id>Kepler-30 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.2</mass>
+			<radius>0.33718</radius>
+			<orbit>
+				<period>29.329</period>
+				<semimajoraxis>0.18</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.99</mass>
+			<radius>0.95</radius>
+			<metallicity>0.18</metallicity>
+			<rightascension>19 01 08</rightascension>
+			<declination>+38 56 50</declination>
+			<angulardistance />
+			<distance>924.9</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>11/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-30 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-30 c</id_exoplaneteu>
+		<name>Kepler-30 c</name>
+		<name>KOI 806.02</name>
+		<name>KIC 3832474 c</name>
+		<id>Kepler-30 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>9.1</mass>
+			<radius>1.31227</radius>
+			<orbit>
+				<period>60.32</period>
+				<semimajoraxis>0.30</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.99</mass>
+			<radius>0.95</radius>
+			<metallicity>0.18</metallicity>
+			<rightascension>19 01 08</rightascension>
+			<declination>+38 56 50</declination>
+			<angulardistance />
+			<distance>924.9</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>11/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-30 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-30 d</id_exoplaneteu>
+		<name>Kepler-30 d</name>
+		<name>KOI 806.03</name>
+		<name>KIC 3832474 d</name>
+		<id>Kepler-30 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>17</mass>
+			<radius>0.97509415</radius>
+			<orbit>
+				<period>143.21</period>
+				<semimajoraxis>0.5</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.99</mass>
+			<radius>0.95</radius>
+			<metallicity>0.18</metallicity>
+			<rightascension>19 01 08</rightascension>
+			<declination>+38 56 50</declination>
+			<angulardistance />
+			<distance>924.9</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>11/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-30 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-31 b</id_exoplaneteu>
+		<name>Kepler-31 b</name>
+		<name>KOI 935.01</name>
+		<name>KIC 9347899 b</name>
+		<id>Kepler-31 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.118469</radius>
+			<orbit>
+				<period>9.61</period>
+				<semimajoraxis>0.09</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.21</mass>
+			<radius>1.22</radius>
+			<metallicity />
+			<rightascension>19 36 05</rightascension>
+			<declination>+45 51 11</declination>
+			<angulardistance />
+			<distance>1113</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>11/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-31 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. There are at least two other unconfirmed planets in the system. </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-31 c</id_exoplaneteu>
+		<name>Kepler-31 c</name>
+		<name>KOI 935.02</name>
+		<name>KIC 9347899 c</name>
+		<id>Kepler-31 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.391860</radius>
+			<orbit>
+				<period>20.86</period>
+				<semimajoraxis>0.16</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.21</mass>
+			<radius>1.22</radius>
+			<metallicity />
+			<rightascension>19 36 05</rightascension>
+			<declination>+45 51 11</declination>
+			<angulardistance />
+			<distance>1113</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>11/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-31 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. There are at least two other unconfirmed planets in the system. </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-32 b</id_exoplaneteu>
+		<name>Kepler-32 b</name>
+		<name>KOI 952.01</name>
+		<name>KIC 9787239 b</name>
+		<id>Kepler-32 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.136695</radius>
+			<orbit>
+				<period>0.7429</period>
+				<semimajoraxis>0.013</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.58</mass>
+			<radius>0.53</radius>
+			<metallicity />
+			<rightascension>19 51 22</rightascension>
+			<declination>+46 34 27</declination>
+			<angulardistance />
+			<distance>399</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>11/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-32 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. There are at least three other unconfirmed planets in the system. </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-32 c</id_exoplaneteu>
+		<name>Kepler-32 c</name>
+		<name>KOI 952.02</name>
+		<name>KIC 9787239 c</name>
+		<id>Kepler-32 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.24605179</radius>
+			<orbit>
+				<period>2.8960</period>
+				<semimajoraxis>0.033</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.58</mass>
+			<radius>0.53</radius>
+			<metallicity />
+			<rightascension>19 51 22</rightascension>
+			<declination>+46 34 27</declination>
+			<angulardistance />
+			<distance>399</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>11/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-32 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. There are at least three other unconfirmed planets in the system. </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-33 b</id_exoplaneteu>
+		<name>Kepler-33 b</name>
+		<name>KOI 707.01</name>
+		<name>KIC 9458613 b</name>
+		<id>Kepler-33 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.158566</radius>
+			<orbit>
+				<period>5.66</period>
+				<semimajoraxis>0.0677</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.291</mass>
+			<radius>1.82</radius>
+			<metallicity />
+			<rightascension>19 16 18</rightascension>
+			<declination>+46 00 18</declination>
+			<angulardistance />
+			<distance>917.8</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>11/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. The closely packed system Kepler-33 was validated by multiplicity (Lissauer et al. 2012). However, the mass of the planets is not known yet.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-33 c</id_exoplaneteu>
+		<name>Kepler-33 c</name>
+		<name>KOI 707.02</name>
+		<name>KIC 9458613 c</name>
+		<id>Kepler-33 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.2916</radius>
+			<orbit>
+				<period>13.17</period>
+				<semimajoraxis>0.1189</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.291</mass>
+			<radius>1.82</radius>
+			<metallicity />
+			<rightascension>19 16 18</rightascension>
+			<declination>+46 00 18</declination>
+			<angulardistance />
+			<distance>917.8</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>11/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. The closely packed system Kepler-33 was validated by multiplicity (Lissauer et al. 2012). However, the mass of the planets is not known yet.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-33 d</id_exoplaneteu>
+		<name>Kepler-33 d</name>
+		<name>KOI 707.03</name>
+		<name>KIC 9458613 d</name>
+		<id>Kepler-33 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.487547</radius>
+			<orbit>
+				<period>21.77</period>
+				<semimajoraxis>0.166</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.291</mass>
+			<radius>1.82</radius>
+			<metallicity />
+			<rightascension>19 16 18</rightascension>
+			<declination>+46 00 18</declination>
+			<angulardistance />
+			<distance>917.8</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>11/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. The closely packed system Kepler-33 was validated by multiplicity (Lissauer et al. 2012). However, the mass of the planets is not known yet.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-33 e</id_exoplaneteu>
+		<name>Kepler-33 e</name>
+		<name>KOI 707.04</name>
+		<name>KIC 9458613 e</name>
+		<id>Kepler-33 e</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.366343</radius>
+			<orbit>
+				<period>31.78</period>
+				<semimajoraxis>0.2138</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.291</mass>
+			<radius>1.82</radius>
+			<metallicity />
+			<rightascension>19 16 18</rightascension>
+			<declination>+46 00 18</declination>
+			<angulardistance />
+			<distance>917.8</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>11/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. The closely packed system Kepler-33 was validated by multiplicity (Lissauer et al. 2012). However, the mass of the planets is not known yet.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-33 f</id_exoplaneteu>
+		<name>Kepler-33 f</name>
+		<name>KOI 707.05</name>
+		<name>KIC 9458613 f</name>
+		<id>Kepler-33 f</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.406441</radius>
+			<orbit>
+				<period>105.5763</period>
+				<semimajoraxis>0.2535</semimajoraxis>
+				<eccentricity />
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.291</mass>
+			<radius>1.82</radius>
+			<metallicity />
+			<rightascension>19 16 18</rightascension>
+			<declination>+46 00 18</declination>
+			<angulardistance />
+			<distance>917.8</distance>
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>11/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. The closely packed system Kepler-33 was validated by multiplicity (Lissauer et al. 2012). However, the mass of the planets is not known yet.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-34(AB) b</id_exoplaneteu>
 		<name>Kepler-34(AB) b</name>
 		<id>Kepler-34(AB) b</id>
