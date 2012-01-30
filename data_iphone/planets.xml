@@ -4605,8 +4605,6 @@
 		<id_exoplaneteu>HAT-P-17 c</id_exoplaneteu>
 		<name>HAT-P-17 c</name>
 		<id>HAT-P-17 c</id>
-		<name>TYC 2717-00417-1 c</name>
-		<name>2MASS J21380873+3029193 c</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.4</mass>
@@ -21587,9 +21585,6 @@
 		<id_exoplaneteu>Kepler-18 d</id_exoplaneteu>
 		<name>Kepler-18 d</name>
 		<id>Kepler-18 d</id>
-		<name>GSC 03149-02089 d</name>
-		<name>KIC 8644288 d</name>
-		<name>2MASS J19521906+4444467 d</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.052</mass>
@@ -26280,6 +26275,7 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>TrES-3</id_exoplaneteu>
 		<name>TrES-3</name>
 		<id>TrES-3</id>
+		<name>2MASS J17520702+3732461</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.91</mass>
@@ -27220,6 +27216,8 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>WASP-22 b</id_exoplaneteu>
 		<name>WASP-22 b</name>
 		<id>WASP-22 b</id>
+		<name>TYC 6446-00326-1 b</name>
+		<name>2MASS J03311633-2349109 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.588</mass>
@@ -29245,6 +29243,9 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>XO-1 b</id_exoplaneteu>
 		<name>XO-1 b</name>
 		<id>XO-1 b</id>
+		<name>BD+28 2507 b</name>
+		<name>2MASS J16021184+2810105 b</name>
+		<name>TYC 2041-01657-1 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.9</mass>
