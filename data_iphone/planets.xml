@@ -4525,8 +4525,6 @@
 		<id_exoplaneteu>HAT-P-16 b</id_exoplaneteu>
 		<name>HAT-P-16 b</name>
 		<id>HAT-P-16 b</id>
-		<name>TYC 2792-01700-1 b</name>
-		<name>2MASS J00381756+4227470 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>4.193</mass>
@@ -4605,6 +4603,8 @@
 		<id_exoplaneteu>HAT-P-17 c</id_exoplaneteu>
 		<name>HAT-P-17 c</name>
 		<id>HAT-P-17 c</id>
+		<name>TYC 2717-00417-1 c</name>
+		<name>2MASS J21380873+3029193 c</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.4</mass>
@@ -5688,12 +5688,6 @@
 		<id_exoplaneteu>HAT-P-7 b</id_exoplaneteu>
 		<name>HAT-P-7 b</name>
 		<id>HAT-P-7 b</id>
-		<name>2MASS J19285935+4758102 b</name>
-		<name>TYC 3547-01402-1 b</name>
-		<name>BD+47 2846 b</name>
-		<name>KIC 10666592 b</name>
-		<name>Kepler-2 b</name>
-		<name>KOI-2 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.8</mass>
@@ -21585,6 +21579,9 @@
 		<id_exoplaneteu>Kepler-18 d</id_exoplaneteu>
 		<name>Kepler-18 d</name>
 		<id>Kepler-18 d</id>
+		<name>GSC 03149-02089 d</name>
+		<name>KIC 8644288 d</name>
+		<name>2MASS J19521906+4444467 d</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.052</mass>
