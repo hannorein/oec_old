@@ -12489,6 +12489,44 @@
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 197037 b</id_exoplaneteu>
+		<name>HD 197037 b</name>
+		<id>HD 197037 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.79</mass>
+			<radius />
+			<orbit>
+				<period>1035.7</period>
+				<semimajoraxis>2.07</semimajoraxis>
+				<eccentricity>0.22</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F7V</spectraltype>
+			<mass>1.11</mass>
+			<radius />
+			<metallicity>-0.2</metallicity>
+			<rightascension>20 39 33</rightascension>
+			<declination>+42 14 55</declination>
+			<angulardistance>0.062727</angulardistance>
+			<distance>33</distance>
+			<magV>6.81</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/02/04</lastupdate>
+		<description>This planet was found by looking at 113 radial velocity data points which have been obtained over the last 10 years with a 2.7m telescope. </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 19994 b</id_exoplaneteu>
 		<name>HD 19994 b</name>
 		<id>HD 19994 b</id>
@@ -14201,6 +14239,44 @@
 		<lastupdate>11/09/13</lastupdate>
 		<description />
 		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 220773 b</id_exoplaneteu>
+		<name>HD 220773 b</name>
+		<id>HD 220773 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.45</mass>
+			<radius />
+			<orbit>
+				<period>3724.7</period>
+				<semimajoraxis>4.94</semimajoraxis>
+				<eccentricity>0.51</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F9</spectraltype>
+			<mass>1.16</mass>
+			<radius />
+			<metallicity>0.09</metallicity>
+			<rightascension>23 26 27</rightascension>
+			<declination>+08 38 38</declination>
+			<angulardistance>0.100816</angulardistance>
+			<distance>49</distance>
+			<magV>7.09</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/02/04</lastupdate>
+		<description>The Jovian planet HD 220773b is orbiting an F9-type star. It has a predicted displacement of 0.242mas and might be an interesting target for astrometry.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -18471,6 +18547,44 @@
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 79498 b</id_exoplaneteu>
+		<name>HD 79498 b</name>
+		<id>HD 79498 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.34</mass>
+			<radius />
+			<orbit>
+				<period>1966</period>
+				<semimajoraxis>3.13</semimajoraxis>
+				<eccentricity>0.59</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G5</spectraltype>
+			<mass>1.06</mass>
+			<radius />
+			<metallicity>0.24</metallicity>
+			<rightascension>09 15 09</rightascension>
+			<declination>+23 22 32</declination>
+			<angulardistance>0.063878</angulardistance>
+			<distance>49</distance>
+			<magV>8.03</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/02/04</lastupdate>
+		<description>The planet HD 79498 b was found with 65 radial velocity observations over 7 years with the 2.7m Harlan J. Smith telescope. </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 80606 b</id_exoplaneteu>
 		<name>HD 80606 b</name>
 		<id>HD 80606 b</id>
@@ -22027,7 +22141,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-23 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet and should be considered an upper limit. </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -22070,7 +22184,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-23 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet and should be considered an upper limit. </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -22113,7 +22227,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-24 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -22156,7 +22270,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-24 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -22200,7 +22314,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-25 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -22244,7 +22358,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-25 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -22288,7 +22402,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-26 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -22332,7 +22446,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-26 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -22376,7 +22490,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-27 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -22420,7 +22534,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-27 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -22464,7 +22578,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-28 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -22508,7 +22622,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-28 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -22552,7 +22666,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-29 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -22596,7 +22710,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-29 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -22640,7 +22754,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-30 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet and is just an upper limit. </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -22684,7 +22798,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-30 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -22728,7 +22842,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-30 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet and is just an upper limit. </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -22772,7 +22886,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-31 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet and is just an upper limit. There are at least two other unconfirmed planets in the system. </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -22816,7 +22930,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-31 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet and is just an upper limit. There are at least two other unconfirmed planets in the system. </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -22860,7 +22974,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-32 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet and is just an upper limit. There are at least three other unconfirmed planets in the system. </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -22904,7 +23018,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-32 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet and is just an upper limit. There are at least three other unconfirmed planets in the system. </description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -22948,7 +23062,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. The closely packed system Kepler-33 was validated by multiplicity (Lissauer et al. 2012). However, the mass of the planets is not known yet.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -22992,7 +23106,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. The closely packed system Kepler-33 was validated by multiplicity (Lissauer et al. 2012). However, the mass of the planets is not known yet.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -23036,7 +23150,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. The closely packed system Kepler-33 was validated by multiplicity (Lissauer et al. 2012). However, the mass of the planets is not known yet.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -23080,7 +23194,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. The closely packed system Kepler-33 was validated by multiplicity (Lissauer et al. 2012). However, the mass of the planets is not known yet.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -23124,7 +23238,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. The closely packed system Kepler-33 was validated by multiplicity (Lissauer et al. 2012). However, the mass of the planets is not known yet.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
