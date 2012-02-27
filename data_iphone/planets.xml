@@ -4375,8 +4375,6 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<id_exoplaneteu>HAT-P-13 b</id_exoplaneteu>
 		<name>HAT-P-13 b</name>
 		<id>HAT-P-13 b</id>
-		<name>TYC 3416-00543-1 b</name>
-		<name>2MASS J08393180+4721073 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.85</mass>
@@ -4415,6 +4413,8 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<id_exoplaneteu>HAT-P-13 c</id_exoplaneteu>
 		<name>HAT-P-13 c</name>
 		<id>HAT-P-13 c</id>
+		<name>TYC 3416-00543-1 c</name>
+		<name>2MASS J08393180+4721073 c</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>14.5</mass>
@@ -5741,6 +5741,8 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<id_exoplaneteu>HAT-P-8 b</id_exoplaneteu>
 		<name>HAT-P-8 b</name>
 		<id>HAT-P-8 b</id>
+		<name>2MASS J22520985+3526495 b</name>
+		<name>TYC 2757-1152-1 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.34</mass>
@@ -23501,6 +23503,9 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<id_exoplaneteu>Kepler-8 b</id_exoplaneteu>
 		<name>Kepler-8 b</name>
 		<id>Kepler-8 b</id>
+		<name>2MASS J18450914+4227038 b</name>
+		<name>KIC 6922244 b</name>
+		<name>KOI-10 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.603</mass>
@@ -23781,9 +23786,6 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<id_exoplaneteu>KOI-135 b</id_exoplaneteu>
 		<name>KOI-135 b</name>
 		<id>KOI-135 b</id>
-		<name>GSC 03541-00075 b</name>
-		<name>KIC 9818381 b</name>
-		<name>2MASS J19005780+4640057 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>3.23</mass>
@@ -26203,6 +26205,7 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>SWEEPS-04</id_exoplaneteu>
 		<name>SWEEPS-04</name>
 		<id>SWEEPS-04</id>
+		<name>SWEEPS-4</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>3.8</mass>
@@ -26822,8 +26825,6 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>WASP-1 b</id_exoplaneteu>
 		<name>WASP-1 b</name>
 		<id>WASP-1 b</id>
-		<name>TYC 2265-00107-1 b</name>
-		<name>2MASS J00204007+3159239 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.86</mass>
@@ -27224,6 +27225,7 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>WASP-19 b</id_exoplaneteu>
 		<name>WASP-19 b</name>
 		<id>WASP-19 b</id>
+		<name>2MASS J09534008-4539330 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.168</mass>
