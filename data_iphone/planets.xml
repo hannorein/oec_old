@@ -497,6 +497,7 @@
 		<id_exoplaneteu>2M1207 b</id_exoplaneteu>
 		<name>2M1207 b</name>
 		<id>2M1207 b</id>
+		<name>2MASS J12073346-3932539 b</name>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
 			<mass>4</mass>
@@ -20116,6 +20117,82 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>HIP 11952 b</id_exoplaneteu>
+		<name>HIP 11952 b</name>
+		<id>HIP 11952 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>2.93</mass>
+			<radius />
+			<orbit>
+				<period>290</period>
+				<semimajoraxis>0.81</semimajoraxis>
+				<eccentricity>0.27</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F2V</spectraltype>
+			<mass>0.83</mass>
+			<radius>1.6</radius>
+			<metallicity>-1.9</metallicity>
+			<rightascension>02 34 11</rightascension>
+			<declination>-12 23 03</declination>
+			<angulardistance>0.007297</angulardistance>
+			<distance>111</distance>
+			<magV>9.78</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/03/16</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HIP 11952 c</id_exoplaneteu>
+		<name>HIP 11952 c</name>
+		<id>HIP 11952 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.78</mass>
+			<radius />
+			<orbit>
+				<period>6.95</period>
+				<semimajoraxis>0.07</semimajoraxis>
+				<eccentricity>0.35</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F2V</spectraltype>
+			<mass>0.83</mass>
+			<radius>1.6</radius>
+			<metallicity>-1.9</metallicity>
+			<rightascension>02 34 11</rightascension>
+			<declination>-12 23 03</declination>
+			<angulardistance>0.000631</angulardistance>
+			<distance>111</distance>
+			<magV>9.78</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/03/16</lastupdate>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>HIP 12961 b</id_exoplaneteu>
 		<name>HIP 12961 b</name>
 		<id>HIP 12961 b</id>
@@ -26442,6 +26519,8 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>TrES-4</id_exoplaneteu>
 		<name>TrES-4</name>
 		<id>TrES-4</id>
+		<name>TYC 2620-00648-1</name>
+		<name>2MASS J17531304+3712426</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.917</mass>
@@ -27500,8 +27579,6 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>WASP-26 b</id_exoplaneteu>
 		<name>WASP-26 b</name>
 		<id>WASP-26 b</id>
-		<name>TYC 5839-00876-1 b</name>
-		<name>2MASS J00182469-1516022 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.028</mass>
