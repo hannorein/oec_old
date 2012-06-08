@@ -1962,9 +1962,6 @@
 		<id_exoplaneteu>CoRoT-13 b</id_exoplaneteu>
 		<name>CoRoT-13 b</name>
 		<id>CoRoT-13 b</id>
-		<name>CoRoT-Exo-13 b</name>
-		<name>2MASS J06505307-0505112 b</name>
-		<name>CoRoTID 110839339 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.308</mass>
@@ -4408,8 +4405,6 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<id_exoplaneteu>HAT-P-14 b</id_exoplaneteu>
 		<name>HAT-P-14 b</name>
 		<id>HAT-P-14 b</id>
-		<name>2MASS J17202788+3814317 b</name>
-		<name>TYC 3086-00152-1 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>2.2</mass>
@@ -5769,6 +5764,44 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<lastupdate>11/05/20</lastupdate>
 		<description />
 		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-1 b</id_exoplaneteu>
+		<name>HATS-1 b</name>
+		<id>HATS-1 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.855</mass>
+			<radius>1.302</radius>
+			<orbit>
+				<period>3.446459</period>
+				<semimajoraxis>0.0444</semimajoraxis>
+				<eccentricity>0.12</eccentricity>
+				<inclination>85.6</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.986</mass>
+			<radius>1.038</radius>
+			<metallicity>-0.06</metallicity>
+			<rightascension>11 42 06</rightascension>
+			<declination>-23 21 17</declination>
+			<angulardistance>0.000147</angulardistance>
+			<distance>303</distance>
+			<magV>12.05</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/06/08</lastupdate>
+		<description>HATS-1 b is the first planet discovery of HATSouth, a global network of autonomous wide-field telescopes. </description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -24118,7 +24151,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/06/05</lastupdate>
 		<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE spectrograph in France.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -24156,7 +24189,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/06/05</lastupdate>
 		<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE spectrograph in France.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -24234,7 +24267,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/06/05</lastupdate>
 		<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE spectrograph in France.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -24469,7 +24502,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/06/05</lastupdate>
 		<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE spectrograph in France.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 	</planet>
@@ -25165,8 +25198,8 @@ Image credit: NASA/JPL-Caltech
 			<metallicity />
 			<rightascension>18 06 07</rightascension>
 			<declination>-31 27 16</declination>
-			<angulardistance>0.869565</angulardistance>
-			<distance>2.3</distance>
+			<angulardistance>0.00087</angulardistance>
+			<distance>2300</distance>
 			<magV />
 			<magI />
 			<magH />
@@ -26956,6 +26989,8 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>TrES-4</id_exoplaneteu>
 		<name>TrES-4</name>
 		<id>TrES-4</id>
+		<name>TYC 2620-00648-1</name>
+		<name>2MASS J17531304+3712426</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.917</mass>
@@ -29799,6 +29834,82 @@ Image credit: NASA/JPL-Caltech
 		<lastupdate>11/09/13</lastupdate>
 		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
 		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-78 b</id_exoplaneteu>
+		<name>WASP-78 b</name>
+		<id>WASP-78 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.16</mass>
+			<radius>1.75</radius>
+			<orbit>
+				<period>2.17517656</period>
+				<semimajoraxis>0.0415</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>89</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8</spectraltype>
+			<mass>2.02</mass>
+			<radius>2.31</radius>
+			<metallicity>-0.35</metallicity>
+			<rightascension>04 15 02</rightascension>
+			<declination>-22 06 59</declination>
+			<angulardistance>7.5e-05</angulardistance>
+			<distance>550</distance>
+			<magV>12</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/06/07</lastupdate>
+		<description>WASP-78b is a highly bloated Jupiter-mass exoplanet. It is orbiting an F-type star and was discovered analyzed using WASP, TRAPPIST and CORALIE data. It is one of the hottest known exoplanet with an equilibtrium temperatur of 2350 degrees Kelvin. </description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-79 b</id_exoplaneteu>
+		<name>WASP-79 b</name>
+		<id>WASP-79 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.89</mass>
+			<radius>1.7</radius>
+			<orbit>
+				<period>2.17517632</period>
+				<semimajoraxis>0.0362</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>83.2</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F3</spectraltype>
+			<mass>1.56</mass>
+			<radius>1.64</radius>
+			<metallicity>0.03</metallicity>
+			<rightascension>04 25 29</rightascension>
+			<declination>-30 36 02</declination>
+			<angulardistance>0.000151</angulardistance>
+			<distance>240</distance>
+			<magV>10.1</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/06/07</lastupdate>
+		<description>WASP-79b is a highly bloated Jupiter-mass exoplanet. It is orbiting an F-type star and was discovered analyzed using WASP, TRAPPIST and CORALIE data. WASP-79b is about twice as big as Jupiter, but its mass is smaller than that of Jupiter. </description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 	</planet>
