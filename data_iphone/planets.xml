@@ -1885,13 +1885,13 @@
 		<name>CoRoTID 105833549 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>2.33</mass>
-			<radius>1.43</radius>
+			<mass>2.49</mass>
+			<radius>1.39</radius>
 			<orbit>
-				<period>2.99433</period>
-				<semimajoraxis>0.0436</semimajoraxis>
+				<period>2.994325</period>
+				<semimajoraxis>0.04351</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
-				<inclination>83.17</inclination>
+				<inclination>81.41</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -1911,7 +1911,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>12/04/05</lastupdate>
+		<lastupdate>12/07/02</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -1921,9 +1921,6 @@
 		<id_exoplaneteu>CoRoT-12 b</id_exoplaneteu>
 		<name>CoRoT-12 b</name>
 		<id>CoRoT-12 b</id>
-		<name>CoRoT-Exo-12 b</name>
-		<name>2MASS J06430376-0117471 b</name>
-		<name>CoRoTID 102671819 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.917</mass>
@@ -3691,47 +3688,6 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<imagedescription />
 	</planet>
 	<planet>
-		<id_exoplaneteu>GJ 676A b</id_exoplaneteu>
-		<name>Gliese 676A b</name>
-		<name>GJ 676A b</name>
-		<name>Gj 676A b</name>
-		<name>Gl 676A b</name>
-		<id>Gliese 676A b</id>
-		<discoverymethod>RV</discoverymethod>
-		<properties>
-			<mass>4</mass>
-			<radius />
-			<orbit>
-				<period>989</period>
-				<semimajoraxis>1.61</semimajoraxis>
-				<eccentricity>0.29</eccentricity>
-				<inclination />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>M0V</spectraltype>
-			<mass>0.71</mass>
-			<radius />
-			<metallicity>0.18</metallicity>
-			<rightascension>17 30 11</rightascension>
-			<declination>-51 38 13</declination>
-			<angulardistance>0.097872</angulardistance>
-			<distance>16.45</distance>
-			<magV>9.59</magV>
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2009</discoveryyear>
-		<lastupdate>11/11/23</lastupdate>
-		<description>Gliese 676 is a binary star system in the constellation Ara. Because of the low mass host star, the planet Gliese 676A b takes 1000 days to complete an orbit at a semi-major axis of only 1.6 astronomical units.</description>
-		<new>0</new>
-		<image />
-		<imagedescription />
-	</planet>
-	<planet>
 		<id_exoplaneteu>HD 192310 b</id_exoplaneteu>
 		<name>Gliese 785 b</name>
 		<name>GJ 785 b</name>
@@ -4487,8 +4443,6 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<id_exoplaneteu>HAT-P-16 b</id_exoplaneteu>
 		<name>HAT-P-16 b</name>
 		<id>HAT-P-16 b</id>
-		<name>TYC 2792-01700-1 b</name>
-		<name>2MASS J00381756+4227470 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>4.193</mass>
@@ -4685,6 +4639,12 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<id_exoplaneteu>HAT-P-2 b</id_exoplaneteu>
 		<name>HAT-P-2 b</name>
 		<id>HAT-P-2 b</id>
+		<name>HIP 80076 b</name>
+		<name>TYC 3065-01195-1 b</name>
+		<name>HD 147506 b</name>
+		<name>BD+41 2693 b</name>
+		<name>SAO 46035 b</name>
+		<name>2MASS J16203635+4102531 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>8.74</mass>
@@ -4713,7 +4673,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2007</discoveryyear>
-		<lastupdate>11/02/14</lastupdate>
+		<lastupdate>12/07/05</lastupdate>
 		<description>The star HAT-P-2 is located in the constellation Hercules and is between 2 and 3 billion years old.</description>
 		<new>0</new>
 		<image />
@@ -4914,7 +4874,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>10/12/11</lastupdate>
+		<lastupdate>12/07/05</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -5272,7 +5232,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/06/08</lastupdate>
+		<lastupdate>12/07/05</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -5636,7 +5596,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2007</discoveryyear>
-		<lastupdate>11/11/28</lastupdate>
+		<lastupdate>12/07/05</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -5680,7 +5640,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>09/08/13</lastupdate>
+		<lastupdate>12/07/05</lastupdate>
 		<description>The star HAT-P-7 is located in the constellation Cygnus and in the field of view of the Kepler spacecraft. Meassurements of the Rossiter-McLaughlin effect suggest that this planet is in a retrograde orbit. Retrograde orbits are difficult to explain with standard disk migration. Planet-planet scattering or the Kozei effect are able to produce retrograde orbits.</description>
 		<new>0</new>
 		<image />
@@ -5770,6 +5730,8 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<id_exoplaneteu>HATS-1 b</id_exoplaneteu>
 		<name>HATS-1 b</name>
 		<id>HATS-1 b</id>
+		<name>2MASS J11420608-2321174 b</name>
+		<name>GSC 6652-186 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.855</mass>
@@ -9610,7 +9572,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2005</discoveryyear>
-		<lastupdate>11/08/11</lastupdate>
+		<lastupdate>12/07/05</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -13538,7 +13500,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>1999</discoveryyear>
-		<lastupdate>12/05/30</lastupdate>
+		<lastupdate>12/07/05</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -18723,6 +18685,46 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 77338 b</id_exoplaneteu>
+		<name>HD 77338 b</name>
+		<id>HD 77338 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.0487583</mass>
+			<radius />
+			<orbit>
+				<period>5.7361</period>
+				<semimajoraxis>0.0611</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0V</spectraltype>
+			<mass>0.93</mass>
+			<radius>0.88</radius>
+			<metallicity>0.35</metallicity>
+			<rightascension>09 01 12</rightascension>
+			<declination>-25 31 37</declination>
+			<angulardistance />
+			<distance>40.75</distance>
+			<magV>8.63</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/07/05</lastupdate>
+		<description>The planet HD77338 is a Hot Uranus orbiting a super metal-rich K0V star. It was discovered by the Calan-Hertfordshire Extrasolar Planet Search.</description>
+		<new>1</new>
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 7924 b</id_exoplaneteu>
 		<name>HD 7924 b</name>
 		<id>HD 7924 b</id>
@@ -21320,6 +21322,13 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<id_exoplaneteu>KELT-2A b</id_exoplaneteu>
 		<name>KELT-2A b</name>
 		<id>KELT-2A b</id>
+		<name>HIP 29301 b</name>
+		<name>WDS J06107+3057A b</name>
+		<name>TYC 2420-00899-1 b</name>
+		<name>HD 42176 b</name>
+		<name>BD+30 1138 b</name>
+		<name>SAO 58830 b</name>
+		<name>2MASS J06103935+3057258 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.486</mass>
@@ -21961,9 +21970,6 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<id_exoplaneteu>Kepler-18 d</id_exoplaneteu>
 		<name>Kepler-18 d</name>
 		<id>Kepler-18 d</id>
-		<name>GSC 03149-02089 d</name>
-		<name>KIC 8644288 d</name>
-		<name>2MASS J19521906+4444467 d</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.052</mass>
@@ -23625,7 +23631,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/06/22</lastupdate>
 		<description>The Kepler-36 system consists of a pair of planets which are twenty times more closely spaced than any adjacent pair of planets in the Solar System. Their densities differ significantly. Kepler-36 b is most likely a super-Earth, whereas Kepler-36 c might resemble Neptune.</description>
-		<new>1</new>
+		<new>0</new>
 		<image>Kepler36</image>
 		<imagedescription>This artist's conceptions shows Kepler-36 c as seen from the surface of the neighboring planet Kepler-36 b. 
 	
@@ -23672,7 +23678,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/06/22</lastupdate>
 		<description>The Kepler-36 system consists of a pair of planets which are twenty times more closely spaced than any adjacent pair of planets in the Solar System. Their densities differ significantly. Kepler-36 b is most likely a super-Earth, whereas Kepler-36 c might resemble Neptune.</description>
-		<new>1</new>
+		<new>0</new>
 		<image>Kepler36</image>
 		<imagedescription>This artist's conceptions shows Kepler-36 c as seen from the surface of the neighboring planet Kepler-36 b. 
 	
@@ -23881,7 +23887,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>10/11/12</lastupdate>
+		<lastupdate>12/07/05</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -25273,6 +25279,7 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>MOA-2010-BLG-477L b</id_exoplaneteu>
 		<name>MOA-2010-BLG-477L b</name>
 		<id>MOA-2010-BLG-477L b</id>
+		<name>MOA 2010-BLG-477L b</name>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
 			<mass>1.5</mass>
@@ -26886,13 +26893,13 @@ Image credit: NASA/JPL-Caltech
 		<id>tau Boo b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>3.9</mass>
+			<mass>5.95</mass>
 			<radius />
 			<orbit>
 				<period>3.3135</period>
 				<semimajoraxis>0.046</semimajoraxis>
-				<eccentricity>0.018</eccentricity>
-				<inclination />
+				<eccentricity>0.023</eccentricity>
+				<inclination>44.5</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -26912,7 +26919,7 @@ Image credit: NASA/JPL-Caltech
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>1996</discoveryyear>
-		<lastupdate>09/04/10</lastupdate>
+		<lastupdate>12/07/05</lastupdate>
 		<description>The planet Tau Bootis b was one of the first exoplanets to be discovered back in 1996. In 2012, astronomers have detected the faint glow that is emitted from the planet, reliably probing the structure of the atmosphere of Tau Bootis b and deducing its mass accurately for the first time. </description>
 		<new>0</new>
 		<image>tauboo</image>
@@ -27577,7 +27584,7 @@ Image credit: NASA/JPL-Caltech
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>11/03/26</lastupdate>
+		<lastupdate>12/07/05</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -27737,7 +27744,7 @@ Image credit: NASA/JPL-Caltech
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>12/03/23</lastupdate>
+		<lastupdate>12/07/05</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -27821,7 +27828,7 @@ Image credit: NASA/JPL-Caltech
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>10/11/29</lastupdate>
+		<lastupdate>12/07/05</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -27860,7 +27867,7 @@ Image credit: NASA/JPL-Caltech
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>11/01/18</lastupdate>
+		<lastupdate>12/07/05</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -28175,7 +28182,7 @@ Image credit: NASA/JPL-Caltech
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>11/07/01</lastupdate>
+		<lastupdate>12/07/05</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -28334,7 +28341,7 @@ Image credit: NASA/JPL-Caltech
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>12/03/23</lastupdate>
+		<lastupdate>12/07/05</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -29936,6 +29943,9 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>WASP-78 b</id_exoplaneteu>
 		<name>WASP-78 b</name>
 		<id>WASP-78 b</id>
+		<name>2MASS J04150149-2206591 b</name>
+		<name>TYC 5889-271-1 b</name>
+		<name>GSC 05889-00271 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.16</mass>
@@ -29974,6 +29984,11 @@ Image credit: NASA/JPL-Caltech
 		<id_exoplaneteu>WASP-79 b</id_exoplaneteu>
 		<name>WASP-79 b</name>
 		<id>WASP-79 b</id>
+		<name>2MASS J04252901-3036016 b</name>
+		<name>TYC 7038-834-1 b</name>
+		<name>CD-30 1812 b</name>
+		<name>SAO 195000 b</name>
+		<name>GSC 7038-834 b</name>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.89</mass>
