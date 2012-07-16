@@ -3651,7 +3651,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>12/07/16</lastupdate>
+		<lastupdate>12/07/15</lastupdate>
 		<description>Gliese 667 C is a member of a triple star system in the constellation Scorpius. The star hosts at least two planets. The outer planet, Gliese 667 Cc, is right in the middle of the habitable zone. It receives only 10 percent less stellar energy than the Earth receives from the Sun.</description>
 		<new>0</new>
 		<image />
@@ -3694,7 +3694,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>12/07/16</lastupdate>
+		<lastupdate>12/07/15</lastupdate>
 		<description>Gliese 667 C is a member of a triple star system in the constellation Scorpius. According to a study by Delfosse and collaborators from the Joseph Fourier University in Grenoble the planet Gliese 667 Cc is right in the middle of the habitable zone. It receives only 10 percent less stellar energy than the Earth receives from the Sun.</description>
 		<new>0</new>
 		<image />
@@ -5572,7 +5572,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/07/16</lastupdate>
-		<description>HAT-P-39 b is an highly inflated hot Jupiter. It has been discovered by the HATNet collaboration.</description>
+		<description>HAT-P-39 b is a highly inflated hot Jupiter. It has been discovered by the HATNet collaboration.</description>
 		<new>1</new>
 		<description />
 		<new>0</new>
@@ -5655,7 +5655,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/07/16</lastupdate>
-		<description>HAT-P-40 b is an highly inflated hot Jupiter. It has been discovered by the HATNet collaboration.</description>
+		<description>HAT-P-40 b is a highly inflated hot Jupiter. It has been discovered by the HATNet collaboration.</description>
 		<new>1</new>
 		<description />
 		<new>0</new>
@@ -5663,31 +5663,31 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<imagedescription />
 	</planet>
 	<planet>
-		<id_exoplaneteu>HAT-P-40 b</id_exoplaneteu>
-		<name>HAT-P-40 b</name>
-		<name>2MASS 22220308+4527265</name>
-		<id>HAT-P-40 b</id>
+		<id_exoplaneteu>HAT-P-41 b</id_exoplaneteu>
+		<name>HAT-P-41 b</name>
+		<name>2MASS 19491743+0440207</name>
+		<id>HAT-P-41 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.615</mass>
-			<radius>1.730</radius>
+			<mass>0.800</mass>
+			<radius>1.685</radius>
 			<orbit>
-				<period>4.457243</period>
-				<semimajoraxis>0.0608</semimajoraxis>
+				<period>2.69404</period>
+				<semimajoraxis>0.0426</semimajoraxis>
 				<eccentricity>0</eccentricity>
-				<inclination>88.3</inclination>
+				<inclination>87.7</inclination>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>1.512</mass>
-			<radius>2.206</radius>
-			<metallicity>0.22</metallicity>
-			<rightascension>22 22 03</rightascension>
-			<declination>+45 27 27</declination>
+			<mass>1.418</mass>
+			<radius>1.683</radius>
+			<metallicity>0.21</metallicity>
+			<rightascension>19 49 17</rightascension>
+			<declination>+04 40 20</declination>
 			<angulardistance />
-			<distance>501</distance>
-			<magV>11.699</magV>
+			<distance>344</distance>
+			<magV>11.087</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -5696,7 +5696,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/07/16</lastupdate>
-		<description>HAT-P-40 b is an highly inflated hot Jupiter. It has been discovered by the HATNet collaboration.</description>
+		<description>HAT-P-41 b is a highly inflated hot Jupiter. It has been discovered by the HATNet collaboration.</description>
 		<new>1</new>
 		<description />
 		<new>0</new>
@@ -13487,7 +13487,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/07/13</lastupdate>
 		<description>The planetary system HD 207832 was discovered with radial velocity measurements from Keck/HIRES. It consists of two gas giants. Additional small mass planets might exists interior to planet b, according to a stability analysis.</description>
-		<new>1</new>
+		<new>0</new>
 		<description />
 		<new>0</new>
 		<image />
@@ -13527,7 +13527,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/07/13</lastupdate>
 		<description>The planetary system HD 207832 was discovered with radial velocity measurements from Keck/HIRES. It consists of two gas giants. Additional small mass planets might exists interior to planet b, according to a stability analysis.</description>
-		<new>1</new>
+		<new>0</new>
 		<description />
 		<new>0</new>
 		<image />
