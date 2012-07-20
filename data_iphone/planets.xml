@@ -3284,7 +3284,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/07/16</lastupdate>
 		<description>The planet Gliese 3470 b is a transiting Hot Uranus orbiting a nearby M-dwarf. The planet was originally seen in HARPS radial velocity data and then confirmed to be a transiting planet.</description>
-		<new>1</new>
+		<new>0</new>
 		<description />
 		<new>0</new>
 		<image />
@@ -3405,10 +3405,60 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>2</multiplicity>
 		<discoveryyear>2004</discoveryyear>
-		<lastupdate>10/10/11</lastupdate>
+		<lastupdate>12/07/20</lastupdate>
 		<description>The star Gliese 436 is located in the constellation Leo. Due to tidal forces the planet Gliese 436b is expected to circularise on short timescales. It might be perturbed by an additional planet in the system.</description>
+		<new>0</new>
+		<image />
+		<imagedescription />
+		<description>The star Gliese 436 is located in the constellation Leo. Due to tidal forces the planet Gliese 436b is expected to circularise on short timescales. It might be perturbed by an additional planet in the system.</description>
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
+		<id_exoplaneteu>GJ 436 c</id_exoplaneteu>
+		<name>Gliese 436 c</name>
+		<name>GJ 436 c</name>
+		<name>Gj 436 c</name>
+		<name>Gl 436 c</name>
+		<name>UCF-1.01</name>
+		<id>Gliese 436 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.0008807961</mass>
+			<radius>0.06014599</radius>
+			<orbit>
+				<period>1.3658</period>
+				<semimajoraxis>0.0185</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>85.1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M2.5</spectraltype>
+			<mass>0.452</mass>
+			<radius>0.464</radius>
+			<metallicity>-0.32</metallicity>
+			<rightascension>11 42 11</rightascension>
+			<declination>+26 42 23</declination>
+			<angulardistance>0.00283</angulardistance>
+			<distance>10.2</distance>
+			<magV>10.68</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/07/20</lastupdate>
+		<description>The star Gliese 436 is located in the constellation Leo. While observing the already known planet Gliese 436 b, astronomers have discovered an additional transiting planet Gliese 436 c (also known as UCF-1.01) with the Spitzer Space Telescope. There might be even more planets in the system.</description>
+		<new>1</new>
+		<image>ucf101</image>
+		<imagedescription> </imagedescription>
+		<description />
 		<new>0</new>
 		<image />
 		<imagedescription />
@@ -5573,7 +5623,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/07/16</lastupdate>
 		<description>HAT-P-39 b is a highly inflated hot Jupiter. It has been discovered by the HATNet collaboration. These planets might be inflated because some of the stellar irradiation is somehow transported into the planetary interior. Excess energy could also be injected into the interior by tides if the planet was initially on an eccentric orbit. </description>
-		<new>1</new>
+		<new>0</new>
 		<description />
 		<new>0</new>
 		<image />
@@ -5656,7 +5706,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/07/16</lastupdate>
 		<description>HAT-P-40 b is a highly inflated hot Jupiter. It has been discovered by the HATNet collaboration.</description>
-		<new>1</new>
+		<new>0</new>
 		<description />
 		<new>0</new>
 		<image />
@@ -5697,7 +5747,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/07/16</lastupdate>
 		<description>HAT-P-41 b is a highly inflated hot Jupiter. The planet is less massive than Jupiter but has a much larger radius. It has been discovered by the HATNet collaboration.</description>
-		<new>1</new>
+		<new>0</new>
 		<description />
 		<new>0</new>
 		<image />
