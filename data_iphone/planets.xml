@@ -6845,18 +6845,18 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<id>HD 106515A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>10.5</mass>
+			<mass>9.33</mass>
 			<radius />
 			<orbit>
-				<period>3630</period>
-				<semimajoraxis />
-				<eccentricity>0.6</eccentricity>
+				<period>3667</period>
+				<semimajoraxis>4.43</semimajoraxis>
+				<eccentricity>0.57</eccentricity>
 				<inclination />
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G5</spectraltype>
-			<mass />
+			<mass>0.91</mass>
 			<radius />
 			<metallicity />
 			<rightascension>12 15 07</rightascension>
@@ -6871,7 +6871,11 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/09/13</lastupdate>
+		<lastupdate>12/08/21</lastupdate>
+		<description>HD 106515A is part of a binary system. It also shows signs of a planetary companion. The star system is 4 to 8 billion years old.</description>
+		<new>0</new>
+		<image />
+		<imagedescription />
 		<description />
 		<new>0</new>
 		<image />
@@ -24003,6 +24007,52 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<imagedescription />
 	</planet>
 	<planet>
+		<id_exoplaneteu>Kepler-38(AB) b</id_exoplaneteu>
+		<name>Kepler-38(AB) b</name>
+		<id>Kepler-38(AB) b</id>
+		<name>KIC 6762829</name>
+		<name>KOI-1740</name>
+		<name>2MASS J19071928+4216451</name>
+		<name>Kepler-38 b</name>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.764</radius>
+			<orbit>
+				<period>288.822</period>
+				<semimajoraxis>1.0896</semimajoraxis>
+				<eccentricity>0.182</eccentricity>
+				<inclination>90.355</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.18</mass>
+			<radius />
+			<metallicity />
+			<rightascension>19 07 19</rightascension>
+			<declination>+42 16 45</declination>
+			<angulardistance />
+			<distance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/08/21</lastupdate>
+		<description>Kepler-38(AB) b is a Neptune-sized planet orbiting a binary star (therefore the name with AB). The stellar mass quoted here is the sum of the two stellar components.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<description />
+		<new>0</new>
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-4 b</id_exoplaneteu>
 		<name>Kepler-4 b</name>
 		<id>Kepler-4 b</id>
@@ -24080,7 +24130,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 4.78 days for 2.8412 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -24125,7 +24175,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 9.67 days for 3.5027 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -24170,7 +24220,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 7.20 days for 2.9766 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -24215,7 +24265,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 10.91 days for 2.8577 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -24301,7 +24351,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 7.81 days for 4.2439 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -24346,7 +24396,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 9.38 days for 2.6022 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -24391,7 +24441,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 45.16 days for 5.7799 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -24436,7 +24486,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 85.31 days for 2.7849 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -24481,7 +24531,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 7.88 days for 2.4223 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -24526,7 +24576,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 16.39 days for 3.1252 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -24571,7 +24621,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 18.65 days for 4.4815 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -24616,7 +24666,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 38.56 days for 5.0162 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -24661,7 +24711,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 8.01 days for 3.4129 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -24706,7 +24756,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 12.07 days for 4.9738 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -24751,7 +24801,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 27.95 days for 3.4932 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -24796,7 +24846,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 42.15 days for 5.0617 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -24841,7 +24891,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 10.50 days for 13.5401 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -24886,7 +24936,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 21.41 days for 11.0797 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -24931,7 +24981,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 5.73 days for 1.1185 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -24976,7 +25026,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 11.61 days for 1.7074 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -25021,7 +25071,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 10.22 days for 4.3967 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -25066,7 +25116,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 15.57 days for 5.1013 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -25111,7 +25161,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 11.87 days for 5.977 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -25156,7 +25206,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 17.98 days for 4.1249 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -25242,7 +25292,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 7.13 days for 4.1519 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -25287,7 +25337,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 8.92 days for 4.4059 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
@@ -25332,7 +25382,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 11.90 days for 2.9856 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<description />
