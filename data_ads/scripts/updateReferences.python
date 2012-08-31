@@ -1,0 +1,98 @@
+#!/usr/bin/python
+from xml.etree import ElementTree
+
+import os, glob, subprocess, threading, time
+
+
+def indent(elem, level=0):
+    i = "\n" + level*"\t"
+    if len(elem):
+        if not elem.text or not elem.text.strip():
+            elem.text = i + "\t"
+        if not elem.tail or not elem.tail.strip():
+            elem.tail = i
+        for elem in elem:
+            indent(elem, level+1)
+        if not elem.tail or not elem.tail.strip():
+            elem.tail = i
+    else:
+        if level and (not elem.tail or not elem.tail.strip()):
+            elem.tail = i
+
+
+## delete all previous planet files
+for filename in glob.glob("../*.xml"):
+	print "deleting "+filename
+	os.remove(filename)
+
+## import ads data
+def findpub(filename): 
+	try:
+		with open(filename, 'rt') as f:
+			tree = ElementTree.parse(f)
+	except:
+		print "Cannot parse file" + filename
+		return
+	id = tree.find('.//id')
+	names = tree.findall('.//name')
+	namesl = ''
+	namess = ''
+	for node in names:
+		namesl = namesl + ", " + node.text 
+		if node.text[-2:-1]==" ":
+			namess = namess + ", " + node.text[0:-2] 
+		else:
+			namess = namess + ", " + node.text 
+
+	namesl = namesl[2:]	
+	namess = namess[2:]	
+
+
+	
+	root = ElementTree.Element("planet")
+	tree = ElementTree.ElementTree(root)
+
+	# create new bibliography data
+	bibliography = ElementTree.SubElement(root,"bibliography")
+	# get bibliography data from ads using the adsquery.pl script	
+	print "Getting ADS Data for "+namesl
+	process = subprocess.Popen(['perl ./adsquery.pl object=\"'+namesl+'\"'], shell=True, stdout=subprocess.PIPE)
+	ref = process.communicate()[0].decode('ascii',errors='ignore').split("\n")
+	linesperref = 7
+	for i in range(len(ref)/linesperref):
+		reference = ElementTree.SubElement(bibliography,"paper")
+		ElementTree.SubElement(reference,"bibcode").text	= ref[i*linesperref+0] 
+		ElementTree.SubElement(reference,"title").text		= ref[i*linesperref+1] 
+		ElementTree.SubElement(reference,"authors").text	= ref[i*linesperref+2] 
+		ElementTree.SubElement(reference,"journal").text	= ref[i*linesperref+3] 
+		ElementTree.SubElement(reference,"date").text		= ref[i*linesperref+4] 
+		ElementTree.SubElement(reference,"url").text		= ref[i*linesperref+5] 
+	
+	# create new bibliography data
+	bibliography = ElementTree.SubElement(root,"bibliographystar")
+	# get bibliography data from ads using the adsquery.pl script	
+	print "Getting ADS Data for "+namess
+	process = subprocess.Popen(['perl ./adsquery.pl object=\"'+namess+'\"'], shell=True, stdout=subprocess.PIPE)
+	ref = process.communicate()[0].decode('ascii',errors='ignore').split("\n")
+	linesperref = 7
+	for i in range(len(ref)/linesperref):
+		reference = ElementTree.SubElement(bibliography,"paper")
+		ElementTree.SubElement(reference,"bibcode").text	= ref[i*linesperref+0] 
+		ElementTree.SubElement(reference,"title").text		= ref[i*linesperref+1] 
+		ElementTree.SubElement(reference,"authors").text	= ref[i*linesperref+2] 
+		ElementTree.SubElement(reference,"journal").text	= ref[i*linesperref+3] 
+		ElementTree.SubElement(reference,"date").text		= ref[i*linesperref+4] 
+		ElementTree.SubElement(reference,"url").text		= ref[i*linesperref+5] 
+	indent(root)
+
+	tree.write("../"+id.text+".xml")
+
+
+for filename in glob.glob("../../data/*.xml"):
+	while threading.activeCount()>30:
+		    time.sleep(1)
+	print "starting thread for "+ filename
+	thread = threading.Thread(target=findpub,kwargs={"filename":filename})
+	thread.start()
+
+
