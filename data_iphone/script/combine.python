@@ -73,6 +73,11 @@ for filename in glob.glob("../../data_solarsystem/*.xml"):
 	planet = open(filename, 'rt')
 	root.append(ElementTree.parse(planet).getroot())
 
+## import data
+for filename in glob.glob("../../data_controversial/*.xml"):
+	planet = open(filename, 'rt')
+	root.append(ElementTree.parse(planet).getroot())
+
 
 # wrap it in an ElementTree instance, and save as XML
 indent(root)
