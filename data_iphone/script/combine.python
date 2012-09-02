@@ -103,3 +103,56 @@ indent(root)
 tree.write("../stats2.xml")
 
 
+#########################################
+####NEW DATABASE FORMAT WITH KEPLER######
+#########################################
+root = ElementTree.Element("planets")
+tree = ElementTree.ElementTree(root)
+
+numpl = 0
+## import data
+for filename in glob.glob("../../data/*.xml"):
+	numpl +=1
+	planet = open(filename, 'rt')
+	root.append(ElementTree.parse(planet).getroot())
+	
+## import data
+for filename in glob.glob("../../data_solarsystem/*.xml"):
+	planet = open(filename, 'rt')
+	root.append(ElementTree.parse(planet).getroot())
+
+## import data
+for filename in glob.glob("../../data_controversial/*.xml"):
+	planet = open(filename, 'rt')
+	root.append(ElementTree.parse(planet).getroot())
+## import data
+for filename in glob.glob("../../data_kepler/*.xml"):
+	planet = open(filename, 'rt')
+	root.append(ElementTree.parse(planet).getroot())
+
+
+# wrap it in an ElementTree instance, and save as XML
+indent(root)
+tree.write("../planets2_withkepler.xml")
+f = open("../planets2_withkepler.xml", 'rt') 
+content = f.read()
+f.close()
+f = gzip.open('../planets2_withkepler.xml.gz', 'wb')
+f.write(content)
+f.close()
+root = ElementTree.Element("stats")
+tree = ElementTree.ElementTree(root)
+ElementTree.SubElement(root,"num").text=str(numpl)
+ElementTree.SubElement(root,"date").text=str(datetime.date.today())
+ElementTree.SubElement(root,"size").text=str(os.path.getsize("../planets2_withkepler.xml"))
+ElementTree.SubElement(root,"sizecompressed").text=str(os.path.getsize("../planets2_withkepler.xml.gz"))
+ElementTree.SubElement(root,"iads").text="1"
+random.seed()
+hash = random.getrandbits(128)
+hash = "%016x" % hash
+ElementTree.SubElement(root,"hash").text=hash
+indent(root)
+tree.write("../stats2_withkepler.xml")
+
+
+

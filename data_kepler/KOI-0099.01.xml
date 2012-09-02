@@ -1,0 +1,22 @@
+<planet>
+	<id>KOI-99 a</id>
+	<name>KOI-99 a</name>
+	<name>KIC8505215</name>
+	<properties>
+		<orbit>
+			<period>580</period>
+			<semimajoraxis>99</semimajoraxis>
+		</orbit>
+	</properties>
+	<star>
+		<temperature>4992</temperature>
+		<radius>0.70</radius>
+		<rightascension>19 41 44</rightascension>
+		<declination>+44 31 52</declination>
+		<distance>219.617520581</distance>
+		<magV>12.96</magV>
+	</star>
+	<multiplicity>1</multiplicity>
+	<list>Kepler Objects of Interest</list>
+	<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
+</planet>
