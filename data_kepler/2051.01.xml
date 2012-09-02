@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2051.01</id>
+	<stellarid>KOI 2051</stellarid>
+	<properties>
+		<radius>0.2569866</radius>
+		<mass>0.0266213739185</mass>
+		<orbit>
+			<period>25.7631311</period>
+			<semimajoraxis>0.174</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>7265298</kic>
+		<temperature>5929</temperature>
+		<mass>-1</mass>
+		<radius>1.03</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 03 11</rightascension>
+		<declination>+42 48 42</declination>
+		<distance>1214.00343679</distance>
+		<mag>15.087</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

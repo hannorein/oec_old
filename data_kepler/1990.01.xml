@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1990.01</id>
+	<stellarid>KOI 1990</stellarid>
+	<properties>
+		<radius>0.2059538</radius>
+		<mass>0.0168725485698</mass>
+		<orbit>
+			<period>24.7572437</period>
+			<semimajoraxis>0.168</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>11614617</kic>
+		<temperature>5865</temperature>
+		<mass>-1</mass>
+		<radius>0.92</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 35 31</rightascension>
+		<declination>+49 40 59</declination>
+		<distance>806.015977937</distance>
+		<mag>14.49</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

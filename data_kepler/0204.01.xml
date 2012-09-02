@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0204.01</id>
+	<stellarid>KOI 0204</stellarid>
+	<properties>
+		<radius>0.6643377</radius>
+		<mass>0.188337157147</mass>
+		<orbit>
+			<period>3.2467320</period>
+			<semimajoraxis>0.040</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9305831</kic>
+		<temperature>5287</temperature>
+		<mass>-1</mass>
+		<radius>0.89</radius>
+		<metallicity>0</metallicity>
+		<rightascension>20 00 24</rightascension>
+		<declination>+45 45 43</declination>
+		<distance>690.921040321</distance>
+		<mag>14.678</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

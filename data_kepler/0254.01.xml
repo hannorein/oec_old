@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0254.01</id>
+	<stellarid>KOI 0254</stellarid>
+	<properties>
+		<radius>0.9277034</radius>
+		<mass>0.374694850914</mass>
+		<orbit>
+			<period>2.4552405</period>
+			<semimajoraxis>0.030</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>5794240</kic>
+		<temperature>3948</temperature>
+		<mass>-1</mass>
+		<radius>0.55</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 31 29</rightascension>
+		<declination>+41 03 51</declination>
+		<distance>433.447765375</distance>
+		<mag>15.979</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

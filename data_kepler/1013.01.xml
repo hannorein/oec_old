@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1013.01</id>
+	<stellarid>KOI 1013</stellarid>
+	<properties>
+		<radius>0.2023086</radius>
+		<mass>0.0162631410899</mass>
+		<orbit>
+			<period>0.5187486</period>
+			<semimajoraxis>0.012</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>6047498</kic>
+		<temperature>5359</temperature>
+		<mass>-1</mass>
+		<radius>0.70</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 33 32</rightascension>
+		<declination>+41 20 59</declination>
+		<distance>760.125574948</distance>
+		<mag>15.348</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

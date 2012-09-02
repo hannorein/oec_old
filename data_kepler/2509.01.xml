@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2509.01</id>
+	<stellarid>KOI 2509</stellarid>
+	<properties>
+		<radius>0.0920413</radius>
+		<mass>0.00321084493605</mass>
+		<orbit>
+			<period>4.5514327</period>
+			<semimajoraxis>0.050</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9880190</kic>
+		<temperature>5107</temperature>
+		<mass>-1</mass>
+		<radius>0.75</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 05 56</rightascension>
+		<declination>+46 45 09</declination>
+		<distance>640.343152726</distance>
+		<mag>15.035</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

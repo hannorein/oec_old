@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1835.01</id>
+	<stellarid>KOI 1835</stellarid>
+	<properties>
+		<radius>0.2834143</radius>
+		<mass>0.0325689459727</mass>
+		<orbit>
+			<period>4.5803385</period>
+			<semimajoraxis>0.054</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9471268</kic>
+		<temperature>5004</temperature>
+		<mass>-1</mass>
+		<radius>1.66</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 37 18</rightascension>
+		<declination>+46 00 08</declination>
+		<distance>733.436435409</distance>
+		<mag>13.693</mag>
+	</star>
+	<multiplicity>3</multiplicity>
+</planet>

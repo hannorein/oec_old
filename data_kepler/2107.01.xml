@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2107.01</id>
+	<stellarid>KOI 2107</stellarid>
+	<properties>
+		<radius>0.1831713</radius>
+		<mass>0.0132526027668</mass>
+		<orbit>
+			<period>81.3169750</period>
+			<semimajoraxis>0.349</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9225395</kic>
+		<temperature>5370</temperature>
+		<mass>-1</mass>
+		<radius>0.75</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 38 16</rightascension>
+		<declination>+45 40 16</declination>
+		<distance>733.212103733</distance>
+		<mag>15.111</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

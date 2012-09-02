@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2002.01</id>
+	<stellarid>KOI 2002</stellarid>
+	<properties>
+		<radius>0.1303159</radius>
+		<mass>0.00657218136294</mass>
+		<orbit>
+			<period>14.3751712</period>
+			<semimajoraxis>0.118</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10024701</kic>
+		<temperature>5783</temperature>
+		<mass>-1</mass>
+		<radius>0.96</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 47 01</rightascension>
+		<declination>+46 59 53</declination>
+		<distance>469.674961518</distance>
+		<mag>13.286</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

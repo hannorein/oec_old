@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2628.01</id>
+	<stellarid>KOI 2628</stellarid>
+	<properties>
+		<radius>0.0975091</radius>
+		<mass>0.00361616205188</mass>
+		<orbit>
+			<period>1.6818730</period>
+			<semimajoraxis>0.027</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10070468</kic>
+		<temperature>5947</temperature>
+		<mass>-1</mass>
+		<radius>0.98</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 19 49</rightascension>
+		<declination>+47 01 13</declination>
+		<distance>1023.86275152</distance>
+		<mag>14.812</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

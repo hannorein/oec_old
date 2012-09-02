@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2029.01</id>
+	<stellarid>KOI 2029</stellarid>
+	<properties>
+		<radius>0.1212029</radius>
+		<mass>0.00566045943909</mass>
+		<orbit>
+			<period>16.3328720</period>
+			<semimajoraxis>0.116</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9489524</kic>
+		<temperature>5072</temperature>
+		<mass>-1</mass>
+		<radius>0.70</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 59 35</rightascension>
+		<declination>+46 03 07</declination>
+		<distance>226.399946857</distance>
+		<mag>12.957</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

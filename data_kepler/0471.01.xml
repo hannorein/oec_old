@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0471.01</id>
+	<stellarid>KOI 0471</stellarid>
+	<properties>
+		<radius>0.2086877</radius>
+		<mass>0.0173371775159</mass>
+		<orbit>
+			<period>21.3473498</period>
+			<semimajoraxis>0.149</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10019643</kic>
+		<temperature>5548</temperature>
+		<mass>-1</mass>
+		<radius>0.85</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 40 00</rightascension>
+		<declination>+46 59 14</declination>
+		<distance>643.741668523</distance>
+		<mag>14.415</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

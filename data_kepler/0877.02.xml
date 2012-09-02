@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0877.02</id>
+	<stellarid>KOI 0877</stellarid>
+	<properties>
+		<radius>0.2159781</radius>
+		<mass>0.018607965626</mass>
+		<orbit>
+			<period>12.0399699</period>
+			<semimajoraxis>0.089</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>7287995</kic>
+		<temperature>4500</temperature>
+		<mass>-1</mass>
+		<radius>0.59</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 34 32</rightascension>
+		<declination>+42 49 29</declination>
+		<distance>388.236917384</distance>
+		<mag>15.019</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

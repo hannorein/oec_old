@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2538.01</id>
+	<stellarid>KOI 2538</stellarid>
+	<properties>
+		<radius>0.2506075</radius>
+		<mass>0.0252779966313</mass>
+		<orbit>
+			<period>39.8310133</period>
+			<semimajoraxis>0.200</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>1849702</kic>
+		<temperature>4960</temperature>
+		<mass>-1</mass>
+		<radius>0.60</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 05 08</rightascension>
+		<declination>+37 23 13</declination>
+		<distance>317.785731926</distance>
+		<mag>14.125</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

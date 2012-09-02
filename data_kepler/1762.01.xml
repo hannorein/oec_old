@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1762.01</id>
+	<stellarid>KOI 1762</stellarid>
+	<properties>
+		<radius>0.1840826</radius>
+		<mass>0.0133887836368</mass>
+		<orbit>
+			<period>0.8706970</period>
+			<semimajoraxis>0.017</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>5387843</kic>
+		<temperature>5726</temperature>
+		<mass>-1</mass>
+		<radius>0.85</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 52 32</rightascension>
+		<declination>+40 31 49</declination>
+		<distance>896.068898841</distance>
+		<mag>14.996</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1359.01</id>
+	<stellarid>KOI 1359</stellarid>
+	<properties>
+		<radius>0.2806804</radius>
+		<mass>0.0319250641302</mass>
+		<orbit>
+			<period>37.1006382</period>
+			<semimajoraxis>0.203</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>6946199</kic>
+		<temperature>5720</temperature>
+		<mass>-1</mass>
+		<radius>0.81</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 24 04</rightascension>
+		<declination>+42 27 44</declination>
+		<distance>948.630027033</distance>
+		<mag>15.229</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

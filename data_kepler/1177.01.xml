@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1177.01</id>
+	<stellarid>KOI 1177</stellarid>
+	<properties>
+		<radius>1.0033413</radius>
+		<mass>0.440351195184</mass>
+		<orbit>
+			<period>3.3055735</period>
+			<semimajoraxis>0.040</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>3547091</kic>
+		<temperature>5360</temperature>
+		<mass>-1</mass>
+		<radius>0.66</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 28 18</rightascension>
+		<declination>+38 37 53</declination>
+		<distance>782.155864153</distance>
+		<mag>15.537</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

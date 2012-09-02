@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2130.01</id>
+	<stellarid>KOI 2130</stellarid>
+	<properties>
+		<radius>0.1512758</radius>
+		<mass>0.00893593423142</mass>
+		<orbit>
+			<period>16.8548102</period>
+			<semimajoraxis>0.106</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>2161536</kic>
+		<temperature>4013</temperature>
+		<mass>-1</mass>
+		<radius>0.54</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 26 54</rightascension>
+		<declination>+37 31 44</declination>
+		<distance>379.797297477</distance>
+		<mag>15.661</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

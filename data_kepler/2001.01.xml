@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2001.01</id>
+	<stellarid>KOI 2001</stellarid>
+	<properties>
+		<radius>0.2178007</radius>
+		<mass>0.0189328929053</mass>
+		<orbit>
+			<period>8.2773790</period>
+			<semimajoraxis>0.079</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>6061773</kic>
+		<temperature>4948</temperature>
+		<mass>-1</mass>
+		<radius>1.79</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 48 05</rightascension>
+		<declination>+41 22 37</declination>
+		<distance>592.559825441</distance>
+		<mag>13.115</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

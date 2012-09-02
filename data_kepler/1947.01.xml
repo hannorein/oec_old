@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1947.01</id>
+	<stellarid>KOI 1947</stellarid>
+	<properties>
+		<radius>0.1376063</radius>
+		<mass>0.0073520730539</mass>
+		<orbit>
+			<period>6.4229574</period>
+			<semimajoraxis>0.068</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>12253474</kic>
+		<temperature>5842</temperature>
+		<mass>-1</mass>
+		<radius>1.02</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 14 32</rightascension>
+		<declination>+50 54 44</declination>
+		<distance>328.657137113</distance>
+		<mag>12.335</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

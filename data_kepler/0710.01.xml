@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0710.01</id>
+	<stellarid>KOI 0710</stellarid>
+	<properties>
+		<radius>0.1931956</radius>
+		<mass>0.0147900341186</mass>
+		<orbit>
+			<period>5.3749187</period>
+			<semimajoraxis>0.066</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9590976</kic>
+		<temperature>6653</temperature>
+		<mass>-1</mass>
+		<radius>1.35</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 32 09</rightascension>
+		<declination>+46 16 39</declination>
+		<distance>877.381769375</distance>
+		<mag>13.294</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

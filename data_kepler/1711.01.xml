@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1711.01</id>
+	<stellarid>KOI 1711</stellarid>
+	<properties>
+		<radius>0.2469623</radius>
+		<mass>0.0245264132528</mass>
+		<orbit>
+			<period>55.6745441</period>
+			<semimajoraxis>0.269</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>7955580</kic>
+		<temperature>4934</temperature>
+		<mass>-1</mass>
+		<radius>0.87</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 21 09</rightascension>
+		<declination>+43 45 19</declination>
+		<distance>701.677149528</distance>
+		<mag>15.061</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

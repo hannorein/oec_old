@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2071.01</id>
+	<stellarid>KOI 2071</stellarid>
+	<properties>
+		<radius>0.191373</radius>
+		<mass>0.0145040420267</mass>
+		<orbit>
+			<period>3.8568735</period>
+			<semimajoraxis>0.048</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>6035124</kic>
+		<temperature>5273</temperature>
+		<mass>-1</mass>
+		<radius>1.63</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 17 46</rightascension>
+		<declination>+41 19 03</declination>
+		<distance>819.450902501</distance>
+		<mag>13.746</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

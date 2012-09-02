@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1240.01</id>
+	<stellarid>KOI 1240</stellarid>
+	<properties>
+		<radius>0.1239368</radius>
+		<mass>0.00592662506734</mass>
+		<orbit>
+			<period>2.1395638</period>
+			<semimajoraxis>0.032</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>6690082</kic>
+		<temperature>5543</temperature>
+		<mass>-1</mass>
+		<radius>0.83</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 25 33</rightascension>
+		<declination>+42 10 50</declination>
+		<distance>642.373535198</distance>
+		<mag>14.466</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

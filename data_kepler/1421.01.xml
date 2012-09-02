@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1421.01</id>
+	<stellarid>KOI 1421</stellarid>
+	<properties>
+		<radius>0.902187</radius>
+		<mass>0.353773911356</mass>
+		<orbit>
+			<period>485</period>
+			<semimajoraxis>99</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>11342550</kic>
+		<temperature>5658</temperature>
+		<mass>-1</mass>
+		<radius>1.02</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 10 36</rightascension>
+		<declination>+49 09 21</declination>
+		<distance>1210.44719626</distance>
+		<mag>15.305</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

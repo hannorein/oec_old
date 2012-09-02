@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0921.01</id>
+	<stellarid>KOI 0921</stellarid>
+	<properties>
+		<radius>0.2424058</radius>
+		<mass>0.0236033406235</mass>
+		<orbit>
+			<period>10.2819251</period>
+			<semimajoraxis>0.088</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>8689373</kic>
+		<temperature>5046</temperature>
+		<mass>-1</mass>
+		<radius>0.75</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 27 22</rightascension>
+		<declination>+44 51 29</declination>
+		<distance>785.914943461</distance>
+		<mag>15.532</mag>
+	</star>
+	<multiplicity>3</multiplicity>
+</planet>

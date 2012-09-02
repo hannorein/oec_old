@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1307.01</id>
+	<stellarid>KOI 1307</stellarid>
+	<properties>
+		<radius>0.2761239</radius>
+		<mass>0.0308666229636</mass>
+		<orbit>
+			<period>44.8519901</period>
+			<semimajoraxis>0.239</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10973814</kic>
+		<temperature>5559</temperature>
+		<mass>-1</mass>
+		<radius>0.98</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 23 42</rightascension>
+		<declination>+48 26 36</declination>
+		<distance>879.506826292</distance>
+		<mag>14.775</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1884.01</id>
+	<stellarid>KOI 1884</stellarid>
+	<properties>
+		<radius>0.3699878</radius>
+		<mass>0.0564002373341</mass>
+		<orbit>
+			<period>23.1200357</period>
+			<semimajoraxis>0.144</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>4851530</kic>
+		<temperature>5077</temperature>
+		<mass>-1</mass>
+		<radius>0.75</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 43 36</rightascension>
+		<declination>+39 55 06</declination>
+		<distance>770.362938376</distance>
+		<mag>15.462</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

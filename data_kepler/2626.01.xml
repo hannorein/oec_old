@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2626.01</id>
+	<stellarid>KOI 2626</stellarid>
+	<properties>
+		<radius>0.1330498</radius>
+		<mass>0.00685936929829</mass>
+		<orbit>
+			<period>38.0982405</period>
+			<semimajoraxis>0.182</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>11768142</kic>
+		<temperature>3735</temperature>
+		<mass>-1</mass>
+		<radius>0.53</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 37 27</rightascension>
+		<declination>+49 54 54</declination>
+		<distance>365.659509802</distance>
+		<mag>15.931</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

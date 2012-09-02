@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2625.01</id>
+	<stellarid>KOI 2625</stellarid>
+	<properties>
+		<radius>0.1467193</radius>
+		<mass>0.00839032158778</mass>
+		<orbit>
+			<period>3.8136681</period>
+			<semimajoraxis>0.046</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9153570</kic>
+		<temperature>5376</temperature>
+		<mass>-1</mass>
+		<radius>0.79</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 25 35</rightascension>
+		<declination>+45 35 18</declination>
+		<distance>1108.06542095</distance>
+		<mag>15.89</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2229.01</id>
+	<stellarid>KOI 2229</stellarid>
+	<properties>
+		<radius>0.2533414</radius>
+		<mass>0.025849347322</mass>
+		<orbit>
+			<period>14.8321633</period>
+			<semimajoraxis>0.115</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>4473226</kic>
+		<temperature>5571</temperature>
+		<mass>-1</mass>
+		<radius>0.91</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 35 56</rightascension>
+		<declination>+39 34 22</declination>
+		<distance>1259.87512139</distance>
+		<mag>15.707</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

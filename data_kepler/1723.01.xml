@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1723.01</id>
+	<stellarid>KOI 1723</stellarid>
+	<properties>
+		<radius>0.2989064</radius>
+		<mass>0.0363427193538</mass>
+		<orbit>
+			<period>59.6221659</period>
+			<semimajoraxis>0.300</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10213902</kic>
+		<temperature>5891</temperature>
+		<mass>-1</mass>
+		<radius>0.92</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 36 57</rightascension>
+		<declination>+47 16 33</declination>
+		<distance>1304.92533691</distance>
+		<mag>15.517</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

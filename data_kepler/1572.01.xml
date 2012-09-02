@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1572.01</id>
+	<stellarid>KOI 1572</stellarid>
+	<properties>
+		<radius>0.2342041</radius>
+		<mass>0.0219876865117</mass>
+		<orbit>
+			<period>9.8031365</period>
+			<semimajoraxis>0.090</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10004519</kic>
+		<temperature>5920</temperature>
+		<mass>-1</mass>
+		<radius>0.90</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 14 56</rightascension>
+		<declination>+46 56 21</declination>
+		<distance>1243.67159037</distance>
+		<mag>15.439</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

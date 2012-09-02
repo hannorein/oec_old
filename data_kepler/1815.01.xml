@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1815.01</id>
+	<stellarid>KOI 1815</stellarid>
+	<properties>
+		<radius>0.4811664</radius>
+		<mass>0.096904329909</mass>
+		<orbit>
+			<period>3.1268651</period>
+			<semimajoraxis>0.041</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9872283</kic>
+		<temperature>4680</temperature>
+		<mass>-1</mass>
+		<radius>1.95</radius>
+		<metallicity>0</metallicity>
+		<rightascension>18 45 49</rightascension>
+		<declination>+46 44 47</declination>
+		<distance>822.898192365</distance>
+		<mag>13.884</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

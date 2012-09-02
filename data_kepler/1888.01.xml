@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1888.01</id>
+	<stellarid>KOI 1888</stellarid>
+	<properties>
+		<radius>0.3927703</radius>
+		<mass>0.0637882193351</mass>
+		<orbit>
+			<period>120.0189723</period>
+			<semimajoraxis>0.520</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10063802</kic>
+		<temperature>6530</temperature>
+		<mass>-1</mass>
+		<radius>1.42</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 06 44</rightascension>
+		<declination>+47 05 53</declination>
+		<distance>873.643998251</distance>
+		<mag>13.256</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2000.01</id>
+	<stellarid>KOI 2000</stellarid>
+	<properties>
+		<radius>0.1995747</radius>
+		<mass>0.0158136520569</mass>
+		<orbit>
+			<period>26.4107304</period>
+			<semimajoraxis>0.160</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>8802693</kic>
+		<temperature>5247</temperature>
+		<mass>-1</mass>
+		<radius>0.68</radius>
+		<metallicity>0</metallicity>
+		<rightascension>18 56 43</rightascension>
+		<declination>+45 04 26</declination>
+		<distance>792.411613554</distance>
+		<mag>15.593</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

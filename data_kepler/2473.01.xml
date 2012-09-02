@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2473.01</id>
+	<stellarid>KOI 2473</stellarid>
+	<properties>
+		<radius>0.1321385</radius>
+		<mass>0.00676293770332</mass>
+		<orbit>
+			<period>3.2439345</period>
+			<semimajoraxis>0.040</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>8753896</kic>
+		<temperature>5174</temperature>
+		<mass>-1</mass>
+		<radius>0.77</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 27 50</rightascension>
+		<declination>+44 54 00</declination>
+		<distance>946.593166054</distance>
+		<mag>15.77</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

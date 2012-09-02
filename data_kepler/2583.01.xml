@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2583.01</id>
+	<stellarid>KOI 2583</stellarid>
+	<properties>
+		<radius>0.0656136</radius>
+		<mass>0.00159890346983</mass>
+		<orbit>
+			<period>3.0328016</period>
+			<semimajoraxis>0.039</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10387742</kic>
+		<temperature>5525</temperature>
+		<mass>-1</mass>
+		<radius>0.87</radius>
+		<metallicity>0</metallicity>
+		<rightascension>18 53 42</rightascension>
+		<declination>+47 35 33</declination>
+		<distance>286.288305579</distance>
+		<mag>12.623</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

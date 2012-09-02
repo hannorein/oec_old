@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1517.01</id>
+	<stellarid>KOI 1517</stellarid>
+	<properties>
+		<radius>0.2670109</radius>
+		<mass>0.0288047824988</mass>
+		<orbit>
+			<period>40.0684142</period>
+			<semimajoraxis>0.220</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>7456001</kic>
+		<temperature>5815</temperature>
+		<mass>-1</mass>
+		<radius>0.95</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 39 49</rightascension>
+		<declination>+43 00 51</declination>
+		<distance>894.216819277</distance>
+		<mag>14.683</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

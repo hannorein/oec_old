@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1975.01</id>
+	<stellarid>KOI 1975</stellarid>
+	<properties>
+		<radius>0.2086877</radius>
+		<mass>0.0173371775159</mass>
+		<orbit>
+			<period>7.5603439</period>
+			<semimajoraxis>0.075</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>8543100</kic>
+		<temperature>5608</temperature>
+		<mass>-1</mass>
+		<radius>0.88</radius>
+		<metallicity>0</metallicity>
+		<rightascension>18 55 22</rightascension>
+		<declination>+44 36 32</declination>
+		<distance>1403.84278042</distance>
+		<mag>15.986</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

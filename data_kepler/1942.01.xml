@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1942.01</id>
+	<stellarid>KOI 1942</stellarid>
+	<properties>
+		<radius>0.2606318</radius>
+		<mass>0.0274050961796</mass>
+		<orbit>
+			<period>10.8498132</period>
+			<semimajoraxis>0.090</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>2832589</kic>
+		<temperature>5081</temperature>
+		<mass>-1</mass>
+		<radius>0.73</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 04 01</rightascension>
+		<declination>+38 00 34</declination>
+		<distance>732.893788204</distance>
+		<mag>15.409</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

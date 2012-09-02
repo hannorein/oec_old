@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1985.01</id>
+	<stellarid>KOI 1985</stellarid>
+	<properties>
+		<radius>0.1667679</radius>
+		<mass>0.0109236190759</mass>
+		<orbit>
+			<period>5.7562391</period>
+			<semimajoraxis>0.058</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>8142942</kic>
+		<temperature>4814</temperature>
+		<mass>-1</mass>
+		<radius>0.79</radius>
+		<metallicity>0</metallicity>
+		<rightascension>18 43 42</rightascension>
+		<declination>+44 05 16</declination>
+		<distance>325.2812678</distance>
+		<mag>13.708</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

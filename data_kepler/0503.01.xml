@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0503.01</id>
+	<stellarid>KOI 0503</stellarid>
+	<properties>
+		<radius>0.1777035</radius>
+		<mass>0.0124505518647</mass>
+		<orbit>
+			<period>8.2224801</period>
+			<semimajoraxis>0.065</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>5340644</kic>
+		<temperature>4110</temperature>
+		<mass>-1</mass>
+		<radius>0.51</radius>
+		<metallicity>0</metallicity>
+		<rightascension>18 53 59</rightascension>
+		<declination>+40 33 10</declination>
+		<distance>277.506787964</distance>
+		<mag>15.0</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

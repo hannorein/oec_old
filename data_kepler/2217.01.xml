@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2217.01</id>
+	<stellarid>KOI 2217</stellarid>
+	<properties>
+		<radius>0.1931956</radius>
+		<mass>0.0147900341186</mass>
+		<orbit>
+			<period>37.8022325</period>
+			<semimajoraxis>0.213</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9580992</kic>
+		<temperature>5164</temperature>
+		<mass>-1</mass>
+		<radius>0.81</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 14 34</rightascension>
+		<declination>+46 12 56</declination>
+		<distance>759.761490299</distance>
+		<mag>15.191</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

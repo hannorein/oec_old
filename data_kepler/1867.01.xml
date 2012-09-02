@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1867.01</id>
+	<stellarid>KOI 1867</stellarid>
+	<properties>
+		<radius>0.1102673</radius>
+		<mass>0.00465859724156</mass>
+		<orbit>
+			<period>2.5495588</period>
+			<semimajoraxis>0.030</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>8167996</kic>
+		<temperature>3892</temperature>
+		<mass>-1</mass>
+		<radius>0.53</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 30 34</rightascension>
+		<declination>+44 05 15</declination>
+		<distance>260.760210891</distance>
+		<mag>15.018</mag>
+	</star>
+	<multiplicity>3</multiplicity>
+</planet>

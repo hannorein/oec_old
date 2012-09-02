@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2060.01</id>
+	<stellarid>KOI 2060</stellarid>
+	<properties>
+		<radius>0.1749696</radius>
+		<mass>0.0120591815499</mass>
+		<orbit>
+			<period>2.8001313</period>
+			<semimajoraxis>0.034</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9279354</kic>
+		<temperature>4625</temperature>
+		<mass>-1</mass>
+		<radius>0.64</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 24 53</rightascension>
+		<declination>+45 46 41</declination>
+		<distance>490.030643462</distance>
+		<mag>15.229</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

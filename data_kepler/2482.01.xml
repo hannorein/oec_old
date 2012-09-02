@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2482.01</id>
+	<stellarid>KOI 2482</stellarid>
+	<properties>
+		<radius>0.1804374</radius>
+		<mass>0.0128483569711</mass>
+		<orbit>
+			<period>45.0887140</period>
+			<semimajoraxis>0.245</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>11403389</kic>
+		<temperature>5550</temperature>
+		<mass>-1</mass>
+		<radius>0.87</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 28 27</rightascension>
+		<declination>+49 15 23</declination>
+		<distance>853.738781046</distance>
+		<mag>14.976</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

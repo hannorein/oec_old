@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0923.01</id>
+	<stellarid>KOI 0923</stellarid>
+	<properties>
+		<radius>0.27339</radius>
+		<mass>0.0302403690587</mass>
+		<orbit>
+			<period>5.7434909</period>
+			<semimajoraxis>0.062</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>8883593</kic>
+		<temperature>5669</temperature>
+		<mass>-1</mass>
+		<radius>0.85</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 24 22</rightascension>
+		<declination>+45 06 55</declination>
+		<distance>1129.93023691</distance>
+		<mag>15.543</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

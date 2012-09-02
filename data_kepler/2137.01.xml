@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2137.01</id>
+	<stellarid>KOI 2137</stellarid>
+	<properties>
+		<radius>0.1631227</radius>
+		<mass>0.0104374533197</mass>
+		<orbit>
+			<period>14.9744097</period>
+			<semimajoraxis>0.113</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9364609</kic>
+		<temperature>5280</temperature>
+		<mass>-1</mass>
+		<radius>0.95</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 56 56</rightascension>
+		<declination>+45 50 04</declination>
+		<distance>479.083530321</distance>
+		<mag>13.747</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

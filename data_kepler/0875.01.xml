@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0875.01</id>
+	<stellarid>KOI 0875</stellarid>
+	<properties>
+		<radius>0.209599</radius>
+		<mass>0.0174934973898</mass>
+		<orbit>
+			<period>4.2209590</period>
+			<semimajoraxis>0.041</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>7135852</kic>
+		<temperature>4198</temperature>
+		<mass>-1</mass>
+		<radius>0.47</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 46 46</rightascension>
+		<declination>+42 37 33</declination>
+		<distance>366.946303608</distance>
+		<mag>15.692</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

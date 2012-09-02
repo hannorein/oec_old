@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2057.01</id>
+	<stellarid>KOI 2057</stellarid>
+	<properties>
+		<radius>0.100243</radius>
+		<mass>0.00382812608763</mass>
+		<orbit>
+			<period>5.9456782</period>
+			<semimajoraxis>0.052</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9573685</kic>
+		<temperature>3929</temperature>
+		<mass>-1</mass>
+		<radius>0.52</radius>
+		<metallicity>0</metallicity>
+		<rightascension>18 57 54</rightascension>
+		<declination>+46 15 09</declination>
+		<distance>261.690039092</distance>
+		<mag>15.026</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

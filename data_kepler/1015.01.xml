@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1015.01</id>
+	<stellarid>KOI 1015</stellarid>
+	<properties>
+		<radius>0.2405832</radius>
+		<mass>0.0232392116723</mass>
+		<orbit>
+			<period>9.4287999</period>
+			<semimajoraxis>0.092</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>8158127</kic>
+		<temperature>6243</temperature>
+		<mass>-1</mass>
+		<radius>1.09</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 16 23</rightascension>
+		<declination>+44 00 15</declination>
+		<distance>1087.0085463</distance>
+		<mag>14.5</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

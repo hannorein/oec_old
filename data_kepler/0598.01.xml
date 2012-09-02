@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0598.01</id>
+	<stellarid>KOI 0598</stellarid>
+	<properties>
+		<radius>0.2305589</radius>
+		<mass>0.0212885252</mass>
+		<orbit>
+			<period>8.3077831</period>
+			<semimajoraxis>0.076</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10656823</kic>
+		<temperature>5171</temperature>
+		<mass>-1</mass>
+		<radius>0.75</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 12 29</rightascension>
+		<declination>+47 58 00</declination>
+		<distance>592.693452699</distance>
+		<mag>14.813</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

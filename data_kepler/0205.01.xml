@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0205.01</id>
+	<stellarid>KOI 0205</stellarid>
+	<properties>
+		<radius>0.6798298</radius>
+		<mass>0.197496446977</mass>
+		<orbit>
+			<period>11.7201189</period>
+			<semimajoraxis>0.092</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>7046804</kic>
+		<temperature>5060</temperature>
+		<mass>-1</mass>
+		<radius>0.75</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 41 59</rightascension>
+		<declination>+42 32 16</declination>
+		<distance>495.429756794</distance>
+		<mag>14.518</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

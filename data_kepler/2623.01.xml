@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2623.01</id>
+	<stellarid>KOI 2623</stellarid>
+	<properties>
+		<radius>0.0838396</radius>
+		<mass>0.00264923343009</mass>
+		<orbit>
+			<period>5.5766107</period>
+			<semimajoraxis>0.065</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10916600</kic>
+		<temperature>6288</temperature>
+		<mass>-1</mass>
+		<radius>1.15</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 20 06</rightascension>
+		<declination>+48 20 09</declination>
+		<distance>695.572970442</distance>
+		<mag>13.383</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

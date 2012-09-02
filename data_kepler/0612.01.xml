@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0612.01</id>
+	<stellarid>KOI 0612</stellarid>
+	<properties>
+		<radius>0.4392466</radius>
+		<mass>0.0803145445913</mass>
+		<orbit>
+			<period>20.7401028</period>
+			<semimajoraxis>0.146</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>6587002</kic>
+		<temperature>5105</temperature>
+		<mass>-1</mass>
+		<radius>1.57</radius>
+		<metallicity>0</metallicity>
+		<rightascension>18 59 52</rightascension>
+		<declination>+42 04 45</declination>
+		<distance>893.945280836</distance>
+		<mag>14.157</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

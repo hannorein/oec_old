@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0721.01</id>
+	<stellarid>KOI 0721</stellarid>
+	<properties>
+		<radius>0.2515188</radius>
+		<mass>0.0254677167717</mass>
+		<orbit>
+			<period>13.7244624</period>
+			<semimajoraxis>0.117</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9964801</kic>
+		<temperature>5812</temperature>
+		<mass>-1</mass>
+		<radius>1.56</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 48 16</rightascension>
+		<declination>+46 50 03</declination>
+		<distance>909.485125053</distance>
+		<mag>13.645</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

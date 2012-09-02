@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2530.01</id>
+	<stellarid>KOI 2530</stellarid>
+	<properties>
+		<radius>0.1448967</radius>
+		<mass>0.00817702599604</mass>
+		<orbit>
+			<period>37.3307676</period>
+			<semimajoraxis>0.220</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9011825</kic>
+		<temperature>5850</temperature>
+		<mass>-1</mass>
+		<radius>1.08</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 11 13</rightascension>
+		<declination>+45 20 25</declination>
+		<distance>627.993687745</distance>
+		<mag>13.611</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

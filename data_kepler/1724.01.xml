@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1724.01</id>
+	<stellarid>KOI 1724</stellarid>
+	<properties>
+		<radius>0.2907047</radius>
+		<mass>0.0343183271084</mass>
+		<orbit>
+			<period>17.4245925</period>
+			<semimajoraxis>0.128</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10214162</kic>
+		<temperature>5753</temperature>
+		<mass>-1</mass>
+		<radius>0.95</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 37 18</rightascension>
+		<declination>+47 13 03</declination>
+		<distance>1335.77141088</distance>
+		<mag>15.601</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

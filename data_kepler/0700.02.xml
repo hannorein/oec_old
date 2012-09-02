@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0700.02</id>
+	<stellarid>KOI 0700</stellarid>
+	<properties>
+		<radius>0.1175577</radius>
+		<mass>0.00531535292218</mass>
+		<orbit>
+			<period>9.3606322</period>
+			<semimajoraxis>0.080</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>8962094</kic>
+		<temperature>5601</temperature>
+		<mass>-1</mass>
+		<radius>0.84</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 39 53</rightascension>
+		<declination>+45 12 49</declination>
+		<distance>441.397858926</distance>
+		<mag>13.58</mag>
+	</star>
+	<multiplicity>3</multiplicity>
+</planet>

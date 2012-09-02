@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2300.01</id>
+	<stellarid>KOI 2300</stellarid>
+	<properties>
+		<radius>0.1166464</radius>
+		<mass>0.0052308207736</mass>
+		<orbit>
+			<period>2.6850580</period>
+			<semimajoraxis>0.035</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10583761</kic>
+		<temperature>5096</temperature>
+		<mass>-1</mass>
+		<radius>0.84</radius>
+		<metallicity>0</metallicity>
+		<rightascension>18 56 23</rightascension>
+		<declination>+47 48 38</declination>
+		<distance>459.365013998</distance>
+		<mag>14.077</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

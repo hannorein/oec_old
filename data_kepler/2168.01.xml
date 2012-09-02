@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2168.01</id>
+	<stellarid>KOI 2168</stellarid>
+	<properties>
+		<radius>0.1175577</radius>
+		<mass>0.00531535292218</mass>
+		<orbit>
+			<period>3.2818945</period>
+			<semimajoraxis>0.044</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>11308499</kic>
+		<temperature>5926</temperature>
+		<mass>-1</mass>
+		<radius>0.95</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 47 24</rightascension>
+		<declination>+49 05 03</declination>
+		<distance>999.232820694</distance>
+		<mag>14.842</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

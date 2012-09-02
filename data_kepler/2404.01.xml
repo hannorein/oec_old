@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2404.01</id>
+	<stellarid>KOI 2404</stellarid>
+	<properties>
+		<radius>0.136695</radius>
+		<mass>0.00725212524829</mass>
+		<orbit>
+			<period>2.1007672</period>
+			<semimajoraxis>0.031</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>6364215</kic>
+		<temperature>5572</temperature>
+		<mass>-1</mass>
+		<radius>0.88</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 27 30</rightascension>
+		<declination>+41 46 10</declination>
+		<distance>1190.48705799</distance>
+		<mag>15.656</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

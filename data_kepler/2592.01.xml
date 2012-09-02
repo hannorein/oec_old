@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2592.01</id>
+	<stellarid>KOI 2592</stellarid>
+	<properties>
+		<radius>0.1995747</radius>
+		<mass>0.0158136520569</mass>
+		<orbit>
+			<period>175.6085476</period>
+			<semimajoraxis>0.619</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>6765135</kic>
+		<temperature>5953</temperature>
+		<mass>-1</mass>
+		<radius>0.96</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 11 00</rightascension>
+		<declination>+42 14 41</declination>
+		<distance>1123.47338625</distance>
+		<mag>15.054</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0635.01</id>
+	<stellarid>KOI 0635</stellarid>
+	<properties>
+		<radius>0.2487849</radius>
+		<mass>0.0249007458254</mass>
+		<orbit>
+			<period>16.7197865</period>
+			<semimajoraxis>0.135</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>5020319</kic>
+		<temperature>6129</temperature>
+		<mass>-1</mass>
+		<radius>1.13</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 37 29</rightascension>
+		<declination>+40 11 40</declination>
+		<distance>552.939323695</distance>
+		<mag>13.034</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

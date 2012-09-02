@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0433.01</id>
+	<stellarid>KOI 0433</stellarid>
+	<properties>
+		<radius>0.510328</radius>
+		<mass>0.109391767113</mass>
+		<orbit>
+			<period>4.0304645</period>
+			<semimajoraxis>0.048</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10937029</kic>
+		<temperature>5237</temperature>
+		<mass>-1</mass>
+		<radius>1.01</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 54 12</rightascension>
+		<declination>+48 19 56</declination>
+		<distance>861.601234207</distance>
+		<mag>14.924</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

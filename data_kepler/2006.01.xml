@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2006.01</id>
+	<stellarid>KOI 2006</stellarid>
+	<properties>
+		<radius>0.0774605</radius>
+		<mass>0.00225071388055</mass>
+		<orbit>
+			<period>3.2734589</period>
+			<semimajoraxis>0.035</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10525027</kic>
+		<temperature>3875</temperature>
+		<mass>-1</mass>
+		<radius>0.50</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 09 23</rightascension>
+		<declination>+47 46 22</declination>
+		<distance>168.862497723</distance>
+		<mag>14.22</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

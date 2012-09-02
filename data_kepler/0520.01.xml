@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0520.01</id>
+	<stellarid>KOI 0520</stellarid>
+	<properties>
+		<radius>0.2342041</radius>
+		<mass>0.0219876865117</mass>
+		<orbit>
+			<period>12.7600820</period>
+			<semimajoraxis>0.100</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>8037145</kic>
+		<temperature>5048</temperature>
+		<mass>-1</mass>
+		<radius>0.85</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 38 40</rightascension>
+		<declination>+43 51 11</declination>
+		<distance>567.123193649</distance>
+		<mag>14.55</mag>
+	</star>
+	<multiplicity>3</multiplicity>
+</planet>

@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0339.02</id>
+	<stellarid>KOI 0339</stellarid>
+	<properties>
+		<radius>0.1512758</radius>
+		<mass>0.00893593423142</mass>
+		<orbit>
+			<period>12.8340605</period>
+			<semimajoraxis>0.105</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10587105</kic>
+		<temperature>6013</temperature>
+		<mass>-1</mass>
+		<radius>0.87</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 03 33</rightascension>
+		<declination>+47 52 49</declination>
+		<distance>573.220153543</distance>
+		<mag>13.763</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

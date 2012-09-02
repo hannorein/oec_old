@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0211.01</id>
+	<stellarid>KOI 0211</stellarid>
+	<properties>
+		<radius>0.902187</radius>
+		<mass>0.353773911356</mass>
+		<orbit>
+			<period>372.1083574</period>
+			<semimajoraxis>1.056</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10656508</kic>
+		<temperature>6072</temperature>
+		<mass>-1</mass>
+		<radius>1.13</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 11 52</rightascension>
+		<declination>+47 58 19</declination>
+		<distance>1335.24745869</distance>
+		<mag>14.989</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1115.01</id>
+	<stellarid>KOI 1115</stellarid>
+	<properties>
+		<radius>0.191373</radius>
+		<mass>0.0145040420267</mass>
+		<orbit>
+			<period>12.9917827</period>
+			<semimajoraxis>0.105</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>3116412</kic>
+		<temperature>5487</temperature>
+		<mass>-1</mass>
+		<radius>1.21</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 25 41</rightascension>
+		<declination>+38 12 59</declination>
+		<distance>731.602332659</distance>
+		<mag>13.974</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

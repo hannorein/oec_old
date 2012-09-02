@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1407.01</id>
+	<stellarid>KOI 1407</stellarid>
+	<properties>
+		<radius>0.0692588</radius>
+		<mass>0.0017872829091</mass>
+		<orbit>
+			<period>1.3866179</period>
+			<semimajoraxis>0.024</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9007866</kic>
+		<temperature>5487</temperature>
+		<mass>-1</mass>
+		<radius>0.82</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 03 57</rightascension>
+		<declination>+45 22 40</declination>
+		<distance>1125.90970747</distance>
+		<mag>15.755</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

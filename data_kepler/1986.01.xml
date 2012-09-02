@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1986.01</id>
+	<stellarid>KOI 1986</stellarid>
+	<properties>
+		<radius>0.6698055</radius>
+		<mass>0.191544294768</mass>
+		<orbit>
+			<period>148.4566698</period>
+			<semimajoraxis>0.542</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>8257205</kic>
+		<temperature>5115</temperature>
+		<mass>-1</mass>
+		<radius>1.64</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 55 53</rightascension>
+		<declination>+44 07 56</declination>
+		<distance>1283.3789596</distance>
+		<mag>14.839</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

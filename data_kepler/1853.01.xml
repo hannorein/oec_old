@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1853.01</id>
+	<stellarid>KOI 1853</stellarid>
+	<properties>
+		<radius>0.1795261</radius>
+		<mass>0.0127150399264</mass>
+		<orbit>
+			<period>60.0855588</period>
+			<semimajoraxis>0.304</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>8804397</kic>
+		<temperature>5988</temperature>
+		<mass>-1</mass>
+		<radius>0.95</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 00 24</rightascension>
+		<declination>+45 00 29</declination>
+		<distance>532.484510977</distance>
+		<mag>13.43</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

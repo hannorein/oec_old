@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2521.01</id>
+	<stellarid>KOI 2521</stellarid>
+	<properties>
+		<radius>0.200486</radius>
+		<mass>0.0159627614981</mass>
+		<orbit>
+			<period>28.4752036</period>
+			<semimajoraxis>0.169</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>7183745</kic>
+		<temperature>5085</temperature>
+		<mass>-1</mass>
+		<radius>0.71</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 03 28</rightascension>
+		<declination>+42 43 41</declination>
+		<distance>878.739308482</distance>
+		<mag>15.86</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

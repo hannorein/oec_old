@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0928.01</id>
+	<stellarid>KOI 0928</stellarid>
+	<properties>
+		<radius>0.2332928</radius>
+		<mass>0.0218118062303</mass>
+		<orbit>
+			<period>2.4941545</period>
+			<semimajoraxis>0.035</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9140402</kic>
+		<temperature>5565</temperature>
+		<mass>-1</mass>
+		<radius>0.85</radius>
+		<metallicity>0</metallicity>
+		<rightascension>18 59 02</rightascension>
+		<declination>+45 35 56</declination>
+		<distance>951.851182713</distance>
+		<mag>15.251</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1837.01</id>
+	<stellarid>KOI 1837</stellarid>
+	<properties>
+		<radius>0.2433171</radius>
+		<mass>0.0237864976504</mass>
+		<orbit>
+			<period>34.1732519</period>
+			<semimajoraxis>0.195</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10657406</kic>
+		<temperature>5174</temperature>
+		<mass>-1</mass>
+		<radius>0.91</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 13 29</rightascension>
+		<declination>+47 56 00</declination>
+		<distance>437.838585307</distance>
+		<mag>13.733</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

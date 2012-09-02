@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1306.01</id>
+	<stellarid>KOI 1306</stellarid>
+	<properties>
+		<radius>0.1139125</radius>
+		<mass>0.00498140588096</mass>
+		<orbit>
+			<period>1.7963576</period>
+			<semimajoraxis>0.028</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10858691</kic>
+		<temperature>5714</temperature>
+		<mass>-1</mass>
+		<radius>0.88</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 22 42</rightascension>
+		<declination>+48 17 39</declination>
+		<distance>1212.78253751</distance>
+		<mag>15.587</mag>
+	</star>
+	<multiplicity>3</multiplicity>
+</planet>

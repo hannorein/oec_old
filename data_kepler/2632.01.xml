@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2632.01</id>
+	<stellarid>KOI 2632</stellarid>
+	<properties>
+		<radius>0.100243</radius>
+		<mass>0.00382812608763</mass>
+		<orbit>
+			<period>7.1282551</period>
+			<semimajoraxis>0.077</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>11337566</kic>
+		<temperature>6206</temperature>
+		<mass>-1</mass>
+		<radius>1.42</radius>
+		<metallicity>0</metallicity>
+		<rightascension>18 57 41</rightascension>
+		<declination>+49 06 22</declination>
+		<distance>334.450367649</distance>
+		<mag>11.392</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

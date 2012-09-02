@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1913.01</id>
+	<stellarid>KOI 1913</stellarid>
+	<properties>
+		<radius>0.127582</radius>
+		<mass>0.0062913095736</mass>
+		<orbit>
+			<period>5.5085758</period>
+			<semimajoraxis>0.060</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9704384</kic>
+		<temperature>5416</temperature>
+		<mass>-1</mass>
+		<radius>1.00</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 17 11</rightascension>
+		<declination>+46 27 28</declination>
+		<distance>435.288408388</distance>
+		<mag>13.317</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

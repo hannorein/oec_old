@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1920.01</id>
+	<stellarid>KOI 1920</stellarid>
+	<properties>
+		<radius>0.1877278</radius>
+		<mass>0.0139406741567</mass>
+		<orbit>
+			<period>16.5711175</period>
+			<semimajoraxis>0.120</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>8218379</kic>
+		<temperature>5303</temperature>
+		<mass>-1</mass>
+		<radius>0.75</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 00 29</rightascension>
+		<declination>+44 06 38</declination>
+		<distance>575.604669526</distance>
+		<mag>14.64</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>
