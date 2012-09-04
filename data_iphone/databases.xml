@@ -1,0 +1,42 @@
+<databases>
+	<database>
+		<name>confirmed</name>
+		<description>Confirmed exoplanets</description>
+		<num>814</num>
+		<date>2012-09-04</date>
+		<size>869785</size>
+		<sizecompressed>76613</sizecompressed>
+		<iads>1</iads>
+		<hash>9c40cedc57c03220b136918679c6ecc8</hash>
+	</database>
+	<database>
+		<name>solarsystem</name>
+		<description>Planets in our own Solar System</description>
+		<num>9</num>
+		<date>2012-09-04</date>
+		<size>8106</size>
+		<sizecompressed>1319</sizecompressed>
+		<iads>1</iads>
+		<hash>f09e8bd10ee0f15e6b204f2d5f2f0aa8</hash>
+	</database>
+	<database>
+		<name>controversial</name>
+		<description>Controversial or retracted planets</description>
+		<num>1</num>
+		<date>2012-09-04</date>
+		<size>1640</size>
+		<sizecompressed>781</sizecompressed>
+		<iads>1</iads>
+		<hash>24f0657d1f0b795659f9000108cd2a43</hash>
+	</database>
+	<database>
+		<name>kepler</name>
+		<description>Kepler Objects of Interest (unconfirmed)</description>
+		<num>2321</num>
+		<date>2012-09-04</date>
+		<size>1741955</size>
+		<sizecompressed>138159</sizecompressed>
+		<iads>1</iads>
+		<hash>4e9f4e20cf5da03165a23d3e045fd382</hash>
+	</database>
+</databases>

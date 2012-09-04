@@ -1,6 +1,6 @@
 #!/usr/bin/python
 from xml.etree import ElementTree
-import os, glob, string, csv, datetime, random
+import os, glob, string, csv, datetime, random,md5
 import gzip
 
 # Human readable XML output
@@ -58,101 +58,50 @@ tree.write("../stats.xml")
 #########################################
 ####NEW DATABASE FORMAT##################
 #########################################
-root = ElementTree.Element("planets")
-tree = ElementTree.ElementTree(root)
 
-numpl = 0
-## import data
-for filename in glob.glob("../../data/*.xml"):
-	numpl +=1
-	planet = open(filename, 'rt')
-	root.append(ElementTree.parse(planet).getroot())
-	
-## import data
-for filename in glob.glob("../../data_solarsystem/*.xml"):
-	planet = open(filename, 'rt')
-	root.append(ElementTree.parse(planet).getroot())
+def database(name,description,inputdirectories):
+	numpl = 0
+	root = ElementTree.Element("planets")
+	## import data
+	for inputdirectory in inputdirectories:
+		for filename in glob.glob("../../"+inputdirectory+"/*.xml"):
+			numpl +=1
+			planet = open(filename, 'rt')
+			root.append(ElementTree.parse(planet).getroot())
+		
+	# wrap it in an ElementTree instance, and save as XML
+	root.attrib["name"]=name
+	root.attrib["planets"]="%d"%numpl
+	root.attrib["date"]=str(datetime.date.today())
+	indent(root)
+	ElementTree.ElementTree(root).write("../"+name+".xml")
+	f = open("../"+name+".xml", 'rt') 
+	content = f.read()
+	f.close()
+	f = gzip.open('../'+name+'.xml.gz', 'wb')
+	f.write(content)
+	f.close()
+	root = ElementTree.Element("database")
+	ElementTree.SubElement(root,"name").text		= name
+	ElementTree.SubElement(root,"description").text		= description
+	ElementTree.SubElement(root,"num").text			= str(numpl)
+	ElementTree.SubElement(root,"date").text		= str(datetime.date.today())
+	ElementTree.SubElement(root,"size").text		= str(os.path.getsize("../"+name+".xml"))
+	ElementTree.SubElement(root,"sizecompressed").text	= str(os.path.getsize("../"+name+".xml.gz"))
+	ElementTree.SubElement(root,"iads").text		= "1"
+	ElementTree.SubElement(root,"hash").text 		= md5.md5(content).hexdigest()
+	return root
 
-## import data
-for filename in glob.glob("../../data_controversial/*.xml"):
-	planet = open(filename, 'rt')
-	root.append(ElementTree.parse(planet).getroot())
+databases = []
+databases.append(database("confirmed",		"Confirmed exoplanets", 			["data"]))
+databases.append(database("solarsystem",	"Planets in our own Solar System",		["data_solarsystem"]))
+databases.append(database("controversial",	"Controversial or retracted planets",		["data_controversial"]))
+databases.append(database("kepler",		"Kepler Objects of Interest (unconfirmed)",	["data_kepler"]))
 
-
-# wrap it in an ElementTree instance, and save as XML
+root = ElementTree.Element("databases")
+for db in databases:
+	root.append(db)
 indent(root)
-tree.write("../planets2.xml")
-f = open("../planets2.xml", 'rt') 
-content = f.read()
-f.close()
-f = gzip.open('../planets2.xml.gz', 'wb')
-f.write(content)
-f.close()
-root = ElementTree.Element("stats")
-tree = ElementTree.ElementTree(root)
-ElementTree.SubElement(root,"num").text=str(numpl)
-ElementTree.SubElement(root,"date").text=str(datetime.date.today())
-ElementTree.SubElement(root,"size").text=str(os.path.getsize("../planets2.xml"))
-ElementTree.SubElement(root,"sizecompressed").text=str(os.path.getsize("../planets2.xml.gz"))
-ElementTree.SubElement(root,"iads").text="1"
-random.seed()
-hash = random.getrandbits(128)
-hash = "%016x" % hash
-ElementTree.SubElement(root,"hash").text=hash
-indent(root)
-tree.write("../stats2.xml")
-
-
-#########################################
-####NEW DATABASE FORMAT WITH KEPLER######
-#########################################
-root = ElementTree.Element("planets")
-tree = ElementTree.ElementTree(root)
-
-numpl = 0
-## import data
-for filename in glob.glob("../../data/*.xml"):
-	numpl +=1
-	planet = open(filename, 'rt')
-	root.append(ElementTree.parse(planet).getroot())
-	
-## import data
-for filename in glob.glob("../../data_solarsystem/*.xml"):
-	planet = open(filename, 'rt')
-	root.append(ElementTree.parse(planet).getroot())
-
-## import data
-for filename in glob.glob("../../data_controversial/*.xml"):
-	planet = open(filename, 'rt')
-	root.append(ElementTree.parse(planet).getroot())
-## import data
-for filename in glob.glob("../../data_kepler/*.xml"):
-	planet = open(filename, 'rt')
-	root.append(ElementTree.parse(planet).getroot())
-
-
-# wrap it in an ElementTree instance, and save as XML
-indent(root)
-tree.write("../planets2_withkepler.xml")
-f = open("../planets2_withkepler.xml", 'rt') 
-content = f.read()
-f.close()
-f = gzip.open('../planets2_withkepler.xml.gz', 'wb')
-f.write(content)
-f.close()
-root = ElementTree.Element("stats")
-tree = ElementTree.ElementTree(root)
-ElementTree.SubElement(root,"num").text=str(numpl)
-ElementTree.SubElement(root,"date").text=str(datetime.date.today())
-ElementTree.SubElement(root,"size").text=str(os.path.getsize("../planets2_withkepler.xml"))
-ElementTree.SubElement(root,"sizecompressed").text=str(os.path.getsize("../planets2_withkepler.xml.gz"))
-ElementTree.SubElement(root,"iads").text="1"
-random.seed()
-hash = random.getrandbits(128)
-hash = "%016x" % hash
-ElementTree.SubElement(root,"hash").text=hash
-indent(root)
-tree.write("../stats2_withkepler.xml")
-
+ElementTree.ElementTree(root).write("../databases.xml")
 
 
