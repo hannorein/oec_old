@@ -88,15 +88,12 @@ def database(name,description,inputdirectories):
 	ElementTree.SubElement(root,"date").text		= str(datetime.date.today())
 	ElementTree.SubElement(root,"size").text		= str(os.path.getsize("../"+name+".xml"))
 	ElementTree.SubElement(root,"sizecompressed").text	= str(os.path.getsize("../"+name+".xml.gz"))
-	ElementTree.SubElement(root,"iads").text		= "1"
 	ElementTree.SubElement(root,"hash").text 		= md5.md5(content).hexdigest()
 	return root
 
 databases = []
-databases.append(database("confirmed",		"Confirmed exoplanets", 			["data"]))
-databases.append(database("solarsystem",	"Planets in our own Solar System",		["data_solarsystem"]))
-databases.append(database("controversial",	"Controversial or retracted planets",		["data_controversial"]))
-databases.append(database("kepler",		"Kepler Objects of Interest (unconfirmed)",	["data_kepler"]))
+databases.append(database("data",	"Confirmed, controversial and retracted exoplanets", 	["data","data_solarsystem","data_controversial"]))
+databases.append(database("datakepler",	"Kepler Objects of Interest (unconfirmed)",		["data_kepler"]))
 
 root = ElementTree.Element("databases")
 for db in databases:
