@@ -59,6 +59,21 @@ tree.write("../stats.xml")
 ####NEW DATABASE FORMAT##################
 #########################################
 
+def traverse(node):  #remove empty elements
+	children = node.getchildren()
+	deleted = 0
+	for c in children:
+		text = c.text
+		if text == None:
+			print "#############"
+			print c #.text
+			node.remove(c)
+			deleted = 1
+			break
+		traverse(c)
+	if deleted==1:
+		traverse(node)
+
 def database(name,description,inputdirectories):
 	numpl = 0
 	root = ElementTree.Element("planets")
@@ -67,7 +82,9 @@ def database(name,description,inputdirectories):
 		for filename in glob.glob("../../"+inputdirectory+"/*.xml"):
 			numpl +=1
 			planet = open(filename, 'rt')
-			root.append(ElementTree.parse(planet).getroot())
+			planettree = ElementTree.parse(planet).getroot()
+			traverse(planettree)
+			root.append(planettree)
 		
 	# wrap it in an ElementTree instance, and save as XML
 	root.attrib["name"]=name
