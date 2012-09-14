@@ -65,8 +65,8 @@ def traverse(node):  #remove empty elements
 	for c in children:
 		text = c.text
 		if text == None:
-			print "#############"
-			print c #.text
+			#print "#############"
+			#print c #.text
 			node.remove(c)
 			deleted = 1
 			break
