@@ -1,4 +1,4 @@
-<planets date="2012-09-14" name="data" planets="827">
+<planets date="2012-09-17" name="data" planets="831">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -1148,6 +1148,39 @@
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>12/03/19</lastupdate>
 		<description>This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope.</description>
+		<new>0</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>BD+20 274 b</id_exoplaneteu>
+		<name>BD+20 274 b</name>
+		<name>2MASS J01434087+2100191 b</name>
+		<name>TYC 1211-603-1 b</name>
+		<name>GSC 1211-603 b</name>
+		<name>SAO 74893 b</name>
+		<id>BD+20 274 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>4.2</mass>
+			<orbit>
+				<period>578.2</period>
+				<semimajoraxis>1.3</semimajoraxis>
+				<eccentricity>0.21</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K5 III</spectraltype>
+			<mass>0.8</mass>
+			<radius>17.3</radius>
+			<metallicity>-0.46</metallicity>
+			<rightascension>01 43 40</rightascension>
+			<declination>+21 00 19</declination>
+			<magV>9.36</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/09/13</lastupdate>
+		<description>This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope. Most likely, there is a nother low-mass stellar companion in the system.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
 	</planet>
@@ -11689,6 +11722,39 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 219415 b</id_exoplaneteu>
+		<name>HD 219415 b</name>
+		<name>GSC 4006-62 b</name>
+		<name>SAO 35261 b</name>
+		<name>2MASS J23145382+5643491 b</name>
+		<name>TYC 4006-629-1 b</name>
+		<id>HD 219415 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.0</mass>
+			<orbit>
+				<period>2093.3</period>
+				<semimajoraxis>3.2</semimajoraxis>
+				<eccentricity>0.40</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0 III</spectraltype>
+			<mass>1.0</mass>
+			<radius>2.9</radius>
+			<metallicity>-0.46</metallicity>
+			<rightascension>01 43 40</rightascension>
+			<declination>+21 00 19</declination>
+			<magV>8.94</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/09/13</lastupdate>
+		<description>This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope. The planet is in a nearly 6 year orbit.</description>
+		<new>0</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 219828 b</id_exoplaneteu>
 		<name>HD 219828 b</name>
 		<id>HD 219828 b</id>
@@ -20688,6 +20754,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-872 b</id_exoplaneteu>
 		<name>KOI-872 b</name>
+		<name>Kepler-46 b</name>
+		<name>KIC 7109675 c</name>
 		<id>KOI-872 b</id>
 		<discoverymethod>timing</discoverymethod>
 		<properties>
@@ -20720,6 +20788,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-872 c</id_exoplaneteu>
 		<name>KOI-872 c</name>
+		<name>Kepler-46 c</name>
+		<name>KIC 7109675 c</name>
 		<id>KOI-872 c</id>
 		<discoverymethod>timing</discoverymethod>
 		<properties>
@@ -25030,7 +25100,7 @@ Image credit: NASA/JPL-Caltech
 			<HZouter2>1.5</HZouter2>
 		</star>
 		<multiplicity>9</multiplicity>
-		<lastupdate>12/08/31</lastupdate>
+		<lastupdate>12/01/01</lastupdate>
 		<description>Earth is the only known planet able to sustain life.</description>
 		<list>Solar System</list>
 	</planet>
@@ -25062,7 +25132,7 @@ Image credit: NASA/JPL-Caltech
 			<HZouter2>1.5</HZouter2>
 		</star>
 		<multiplicity>9</multiplicity>
-		<lastupdate>12/08/31</lastupdate>
+		<lastupdate>12/01/01</lastupdate>
 		<description>Jupiter is two and a half times the mass of all the other planets in the Solar System.</description>
 		<list>Solar System</list>
 	</planet>
@@ -25094,7 +25164,7 @@ Image credit: NASA/JPL-Caltech
 			<HZouter2>1.5</HZouter2>
 		</star>
 		<multiplicity>9</multiplicity>
-		<lastupdate>12/08/31</lastupdate>
+		<lastupdate>12/01/01</lastupdate>
 		<description>Mars is named after the Roman god of war and often called the red planet.</description>
 		<list>Solar System</list>
 	</planet>
@@ -25126,7 +25196,7 @@ Image credit: NASA/JPL-Caltech
 			<HZouter2>1.5</HZouter2>
 		</star>
 		<multiplicity>9</multiplicity>
-		<lastupdate>12/08/31</lastupdate>
+		<lastupdate>12/01/01</lastupdate>
 		<description>Mercury is the innermost planet in the Solar System.</description>
 		<list>Solar System</list>
 	</planet>
@@ -25159,7 +25229,7 @@ Image credit: NASA/JPL-Caltech
 		</star>
 		<multiplicity>9</multiplicity>
 		<discoveryyear>1846</discoveryyear>
-		<lastupdate>12/08/31</lastupdate>
+		<lastupdate>12/01/01</lastupdate>
 		<description>Neptune is the fourth largest planet in the Solar System.</description>
 		<list>Solar System</list>
 	</planet>
@@ -25192,7 +25262,7 @@ Image credit: NASA/JPL-Caltech
 		</star>
 		<multiplicity>9</multiplicity>
 		<discoveryyear>1930</discoveryyear>
-		<lastupdate>12/08/31</lastupdate>
+		<lastupdate>12/01/01</lastupdate>
 		<description>Pluto is officially categorized as a minor planet by the International Astronomical Union.</description>
 		<list>Solar System</list>
 	</planet>
@@ -25224,7 +25294,7 @@ Image credit: NASA/JPL-Caltech
 			<HZouter2>1.5</HZouter2>
 		</star>
 		<multiplicity>9</multiplicity>
-		<lastupdate>12/08/31</lastupdate>
+		<lastupdate>12/01/01</lastupdate>
 		<description>Saturn is best known for its extensive ring system.</description>
 		<list>Solar System</list>
 	</planet>
@@ -25257,7 +25327,7 @@ Image credit: NASA/JPL-Caltech
 		</star>
 		<multiplicity>9</multiplicity>
 		<discoveryyear>1781</discoveryyear>
-		<lastupdate>12/08/31</lastupdate>
+		<lastupdate>12/01/01</lastupdate>
 		<description>Uranus is visible with the naked eye but has never been recognized as a planet by ancient observers.</description>
 		<list>Solar System</list>
 	</planet>
@@ -25289,7 +25359,7 @@ Image credit: NASA/JPL-Caltech
 			<HZouter2>1.5</HZouter2>
 		</star>
 		<multiplicity>9</multiplicity>
-		<lastupdate>12/08/31</lastupdate>
+		<lastupdate>12/01/01</lastupdate>
 		<description>Venus is the second planet from the Sun.</description>
 		<list>Solar System</list>
 	</planet>
@@ -25332,6 +25402,73 @@ Image credit: NASA/JPL-Caltech
 		<lastupdate>12/09/01</lastupdate>
 		<description>Formalhaut is one of the brightest stars in the night sky and located in the constellation Piscis Austrinus. It is a young star with a debris disk. In 2008 astronomers reported the discovery of a planet orbiting the star within the debris disk. Two images from the Hubble space telescope showed motion consistent with a Keplerian orbit. The discovery was not confirmed in subsequent images. The planet is therefore listed as controversial. </description>
 		<list>Controversial</list>
-		<list>Retracted</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Gl 581 f</id_exoplaneteu>
+		<name>Gliese 581 f</name>
+		<name>GJ 581 f</name>
+		<name>Gj 581 f</name>
+		<name>Gl 581 f</name>
+		<id>Gliese 581 f</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.0220199</mass>
+			<orbit>
+				<period>433</period>
+				<semimajoraxis>0.758</semimajoraxis>
+				<eccentricity>0</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M2.5V</spectraltype>
+			<mass>0.31</mass>
+			<radius>0.3</radius>
+			<metallicity>-0.135</metallicity>
+			<rightascension>15 19 26</rightascension>
+			<declination>-07 43 20</declination>
+			<angulardistance>0.004509</angulardistance>
+			<distance>6.21</distance>
+			<magV>10.55</magV>
+		</star>
+		<multiplicity>6</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>12/09/17</lastupdate>
+		<description>Gliese 581 f is an unconfirmed planet. Its discovery was announced in 2010 by the Lick-Carnegie Exoplanet Survey. However an analysis by the European HARPS team concluded that the system is unlikely to contain a planet with the quoted characteristic. </description>
+		<new>0</new>
+		<list>Controversial</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Gl 581 g</id_exoplaneteu>
+		<name>Gliese 581 g</name>
+		<name>GJ 581 g</name>
+		<name>Gj 581 g</name>
+		<name>Gl 581 g</name>
+		<id>Gliese 581 g</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.0097516</mass>
+			<orbit>
+				<period>36.5</period>
+				<semimajoraxis>0.146</semimajoraxis>
+				<eccentricity>0</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M2.5V</spectraltype>
+			<mass>0.31</mass>
+			<radius>0.3</radius>
+			<metallicity>-0.135</metallicity>
+			<rightascension>15 19 26</rightascension>
+			<declination>-07 43 20</declination>
+			<angulardistance>0.004509</angulardistance>
+			<distance>6.21</distance>
+			<magV>10.55</magV>
+		</star>
+		<multiplicity>6</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>12/09/17</lastupdate>
+		<description>Gliese 581 g is an unconfirmed planet. Its discovery was announced in 2010 by the Lick-Carnegie Exoplanet Survey. However an analysis by the European HARPS team concluded that the system is unlikely to contain a planet with the quoted characteristic. The planet attracted a lot of attention because of its location near the middle of the habitable zone.</description>
+		<new>0</new>
+		<list>Controversial</list>
 	</planet>
 </planets>
