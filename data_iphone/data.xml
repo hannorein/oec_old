@@ -1,4 +1,4 @@
-<planets date="2012-10-08" name="data" planets="832">
+<planets date="2012-10-15" name="data" planets="833">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -21998,6 +21998,34 @@ Image credit: NASA/JPL-Caltech
 		<discoveryyear>2007</discoveryyear>
 		<lastupdate>11/12/14</lastupdate>
 		<new>0</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id>PH 1 b</id>
+		<name>KIC 4862625 (AB) b</name>
+		<name>Planet Hunters 1 b </name>
+		<name>PH 1 b </name>
+		<id_exoplaneteu>PH 1 b</id_exoplaneteu>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.5631852</radius>
+			<orbit>
+				<period>138.506</period>
+				<semimajoraxis>0.634</semimajoraxis>
+				<eccentricity>0.0539</eccentricity>
+				<inclination>90.022</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.77</mass>
+			<rightascension>19 52 51</rightascension>
+			<declination>+39 57 18</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/10/15</lastupdate>
+		<description>PH 1 b is a circumbinary planet. It is orbiting a double star (only one star is currently shown in the app, update to fix this is coming soon). There is a second pair of stars at approx. 1000 AU. Citizen scientists discovered this planet by looking at many light curves using the online tool at planethunters.org.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
