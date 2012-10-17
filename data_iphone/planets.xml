@@ -32414,28 +32414,30 @@ Image credit: NASA/JPL-Caltech
 	<planet>
 		<id_exoplaneteu>WASP-64 b</id_exoplaneteu>
 		<name>WASP-64 b</name>
+		<name>1SWASPJ064427.63-325130.4</name>
 		<id>WASP-64 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>1.2</mass>
-			<radius>0.7</radius>
+			<mass>1.271</mass>
+			<radius>1.271</radius>
 			<orbit>
-				<period>1.6</period>
-				<semimajoraxis />
-				<eccentricity />
-				<inclination />
+				<period>1.57329</period>
+				<semimajoraxis>0.02648</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>86.57</inclination>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
-			<mass />
-			<radius />
-			<metallicity />
-			<rightascension />
-			<declination />
+			<spectraltype>G7</spectraltype>
+			<mass>0.98</mass>
+			<radius>1.03</radius>
+			<metallicity>-0.08</metallicity>
+			<rightascension>06 44 28</rightascension>
+			<declination>-32 51 30</declination>
 			<angulardistance />
 			<distance />
-			<magV />
+			<magV>12.29</magV>
+			<temperature>5550</temperature>
 			<magI />
 			<magH />
 			<magJ />
@@ -32443,8 +32445,8 @@ Image credit: NASA/JPL-Caltech
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/09/13</lastupdate>
-		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+		<lastupdate>12/10/17</lastupdate>
+		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team. </description>
 		<new>0</new>
 		<image />
 		<imagedescription />
@@ -32722,6 +32724,47 @@ Image credit: NASA/JPL-Caltech
 		<lastupdate>11/09/13</lastupdate>
 		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
 		<new>0</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-72 b</id_exoplaneteu>
+		<name>WASP-72 b</name>
+		<name>1SWASPJ024409.60-301008.5 b</name>
+		<id>WASP-72 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.410</mass>
+			<radius>1.01</radius>
+			<orbit>
+				<period>2.21672</period>
+				<semimajoraxis>0.03655</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>86.8</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F7</spectraltype>
+			<mass>1.23</mass>
+			<radius>1.37</radius>
+			<metallicity>-0.06</metallicity>
+			<rightascension>02 44 09</rightascension>
+			<declination>-30 10 08</declination>
+			<angulardistance />
+			<distance>250</distance>
+			<magV>10.88</magV>
+			<temperature>6250</temperature>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/10/17</lastupdate>
+		<description>Despite its extreme irradiation, this planet has a size consistant with that of Jupiter. That makes it a possible outlier among the Hot Jupiters of similar masses, suggesting a significant enrichment in heavy elements.</description>
+		<new>2</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
