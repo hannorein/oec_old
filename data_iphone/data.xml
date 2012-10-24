@@ -1,4 +1,4 @@
-<planets date="2012-10-17" name="data" planets="837">
+<planets date="2012-10-24" name="data" planets="838">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -21222,6 +21222,29 @@ Image credit: NASA/JPL-Caltech
 		<lastupdate>12/01/23</lastupdate>
 		<new>0</new>
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>MOA-2010-BLG-311 b</id_exoplaneteu>
+		<name>MOA-2010-BLG-311 b</name>
+		<id>MOA-2010-BLG-311 b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.208</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<rightascension>18 08 50</rightascension>
+			<declination>-25 57 04</declination>
+			<distance>6000</distance>
+			<temperature>5460</temperature>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/10/24</lastupdate>
+		<description>This object was observed in a gravitational mirolensing event. A good mass estimate could not be obtained although the object is most likely of planetary nature. Unfortunately microlensing events are not repeatable and the planet is therefore marked as controversial.</description>
+		<new>1</new>
+		<list>Controversial</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>MOA-bin-1 b</id_exoplaneteu>
