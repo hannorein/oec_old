@@ -109,7 +109,7 @@ def database(name,description,inputdirectories):
 	return root
 
 databases = []
-databases.append(database("data",	"Confirmed, controversial and retracted exoplanets", 	["data","data_solarsystem","data_controversial"]))
+databases.append(database("data",	"Confirmed, controversial and retracted exoplanets", 	["data"]))
 databases.append(database("datakepler",	"Kepler Objects of Interest (unconfirmed)",		["data_kepler"]))
 
 root = ElementTree.Element("databases")
