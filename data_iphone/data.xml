@@ -1,4 +1,4 @@
-<planets date="2012-10-24" name="data" planets="838">
+<planets date="2012-10-26" name="data" planets="840">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -13982,6 +13982,68 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<discoveryyear>2008</discoveryyear>
 		<lastupdate>09/01/13</lastupdate>
 		<new>0</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 4732 b</id_exoplaneteu>
+		<name>HD 4732 b</name>
+		<name>HR 228 b</name>
+		<name>HIP 3834 b</name>
+		<id>HD 4732 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>2.37</mass>
+			<orbit>
+				<period>360.2</period>
+				<semimajoraxis>1.19</semimajoraxis>
+				<eccentricity>0.13</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0 IV</spectraltype>
+			<mass>1.74</mass>
+			<radius>5.4</radius>
+			<metallicity>0.01</metallicity>
+			<distance>56.5</distance>
+			<magV>2.04</magV>
+			<temperature>4959</temperature>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/10/26</lastupdate>
+		<description>The two planets in this double planetary system are orbiting an evolvedintermediate-mass star. The observations were made at the Okayama Astrophysical Observatory and the Anglo-Australian Observatory.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 4732 c</id_exoplaneteu>
+		<name>HD 4732 c</name>
+		<name>HR 228 c</name>
+		<name>HIP 3834 c</name>
+		<id>HD 4732 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>2.37</mass>
+			<orbit>
+				<period>2732</period>
+				<semimajoraxis>4.60</semimajoraxis>
+				<eccentricity>0.23</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0 IV</spectraltype>
+			<mass>1.74</mass>
+			<radius>5.4</radius>
+			<metallicity>0.01</metallicity>
+			<distance>56.5</distance>
+			<magV>2.04</magV>
+			<temperature>4959</temperature>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/10/26</lastupdate>
+		<description>The two planets in this double planetary system are orbiting an evolvedintermediate-mass star. The observations were made at the Okayama Astrophysical Observatory and the Anglo-Australian Observatory.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
