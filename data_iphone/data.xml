@@ -1,4 +1,4 @@
-<planets date="2012-10-29" name="data" planets="840">
+<planets date="2012-11-07" name="data" planets="841">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -14023,7 +14023,7 @@ ESO/L. Calcada </imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/10/26</lastupdate>
 		<description>The planets in this double planetary system are orbiting an evolved intermediate-mass star. The observations were made at the Okayama Astrophysical Observatory and the Anglo-Australian Observatory.</description>
-		<new>1</new>
+		<new>0</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -14056,7 +14056,7 @@ ESO/L. Calcada </imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/10/26</lastupdate>
 		<description>The planets in this double planetary system are orbiting an evolved intermediate-mass star. The observations were made at the Okayama Astrophysical Observatory and the Anglo-Australian Observatory.</description>
-		<new>1</new>
+		<new>0</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -17410,6 +17410,43 @@ ESO/L. Calcada </imagedescription>
 		<lastupdate>12/06/11</lastupdate>
 		<description>This planet is a typical Hot Jupiter. It is the first planet discovered by the Kilodegree Extremely Little Telescope-North (KELT-North) survey. KELT-2A is the third brightest star with a transiting planet identified by ground-based transit surveys, and the ninth brightest star overall with a transiting planet. The planet might have been put on its orbit by the binary companion KELT-2B via the so-called eccentric Kozai mechanism.</description>
 		<new>0</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KELT-3 b</id_exoplaneteu>
+		<name>KELT-3 b</name>
+		<id>KELT-3 b</id>
+		<name>BD+30 1138 b</name>
+		<name>TYC 2996-683-1 b</name>
+		<name>2MASS J09543439+4023170 b</name>
+		<name>GSC 02996-00683 b</name>
+		<name>SAO 43097 b</name>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.462</mass>
+			<radius>1.358</radius>
+			<orbit>
+				<period>2.703390</period>
+				<semimajoraxis>0.04126</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>84.14</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.282</mass>
+			<radius>1.482</radius>
+			<metallicity>0.047</metallicity>
+			<rightascension>09 46 48</rightascension>
+			<declination>+31 44 37</declination>
+			<distance>178</distance>
+			<magV>9.8</magV>
+			<temperature>6304</temperature>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/11/07</lastupdate>
+		<description>KELT-3 b is a moderately inflated transiting hot Jupiter. It is orbiting a late F-type start which is among the 20 brightest known transiting planet host stars. It was discovered by the Kilodegree Extremely Little Telescope-North (KELT-North) survey. </description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
