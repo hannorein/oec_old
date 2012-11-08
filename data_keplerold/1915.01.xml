@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1915.01</id>
+	<stellarid>KOI 1915</stellarid>
+	<properties>
+		<radius>0.1348724</radius>
+		<mass>0.00705434078632</mass>
+		<orbit>
+			<period>6.5623280</period>
+			<semimajoraxis>0.069</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9101496</kic>
+		<temperature>5744</temperature>
+		<mass>-1</mass>
+		<radius>0.89</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 44 15</rightascension>
+		<declination>+45 25 43</declination>
+		<distance>595.715170405</distance>
+		<mag>13.996</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

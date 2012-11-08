@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0102.01</id>
+	<stellarid>KOI 0102</stellarid>
+	<properties>
+		<radius>0.337181</radius>
+		<mass>0.0465814339839</mass>
+		<orbit>
+			<period>1.7351363</period>
+			<semimajoraxis>0.029</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>8456679</kic>
+		<temperature>5838</temperature>
+		<mass>-1</mass>
+		<radius>1.08</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 58 49</rightascension>
+		<declination>+44 26 08</declination>
+		<distance>386.519783497</distance>
+		<mag>12.566</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1890.01</id>
+	<stellarid>KOI 1890</stellarid>
+	<properties>
+		<radius>0.1357837</radius>
+		<mass>0.00715288125324</mass>
+		<orbit>
+			<period>4.3364907</period>
+			<semimajoraxis>0.055</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>7449136</kic>
+		<temperature>6045</temperature>
+		<mass>-1</mass>
+		<radius>1.32</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 32 19</rightascension>
+		<declination>+43 04 25</declination>
+		<distance>340.554271889</distance>
+		<mag>11.704</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

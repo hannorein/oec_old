@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1518.01</id>
+	<stellarid>KOI 1518</stellarid>
+	<properties>
+		<radius>0.1767922</radius>
+		<mass>0.0123193804099</mass>
+		<orbit>
+			<period>27.5065487</period>
+			<semimajoraxis>0.176</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>7549209</kic>
+		<temperature>5563</temperature>
+		<mass>-1</mass>
+		<radius>0.85</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 49 12</rightascension>
+		<declination>+43 08 30</declination>
+		<distance>937.252993968</distance>
+		<mag>15.219</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

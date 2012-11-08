@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2260.01</id>
+	<stellarid>KOI 2260</stellarid>
+	<properties>
+		<radius>0.0801944</radius>
+		<mass>0.00241741719539</mass>
+		<orbit>
+			<period>6.1179816</period>
+			<semimajoraxis>0.068</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>11811193</kic>
+		<temperature>6228</temperature>
+		<mass>-1</mass>
+		<radius>1.02</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 20 56</rightascension>
+		<declination>+50 01 48</declination>
+		<distance>345.873405772</distance>
+		<mag>12.168</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

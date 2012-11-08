@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2005.01</id>
+	<stellarid>KOI 2005</stellarid>
+	<properties>
+		<radius>0.1294046</radius>
+		<mass>0.00647785603243</mass>
+		<orbit>
+			<period>6.9210291</period>
+			<semimajoraxis>0.058</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>6665512</kic>
+		<temperature>4360</temperature>
+		<mass>-1</mass>
+		<radius>0.52</radius>
+		<metallicity>0</metallicity>
+		<rightascension>18 47 35</rightascension>
+		<declination>+42 09 56</declination>
+		<distance>294.710841833</distance>
+		<mag>14.832</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

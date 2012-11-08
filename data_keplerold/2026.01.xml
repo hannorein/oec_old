@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2026.01</id>
+	<stellarid>KOI 2026</stellarid>
+	<properties>
+		<radius>0.1622114</radius>
+		<mass>0.0103176907592</mass>
+		<orbit>
+			<period>2.7580062</period>
+			<semimajoraxis>0.040</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>11923284</kic>
+		<temperature>6176</temperature>
+		<mass>-1</mass>
+		<radius>1.19</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 44 55</rightascension>
+		<declination>+50 16 30</declination>
+		<distance>657.024140624</distance>
+		<mag>13.263</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

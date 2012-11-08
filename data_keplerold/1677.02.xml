@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1677.02</id>
+	<stellarid>KOI 1677</stellarid>
+	<properties>
+		<radius>0.0647023</radius>
+		<mass>0.00155349371552</mass>
+		<orbit>
+			<period>8.5117009</period>
+			<semimajoraxis>0.077</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>5526717</kic>
+		<temperature>5513</temperature>
+		<mass>-1</mass>
+		<radius>0.75</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 18 43</rightascension>
+		<declination>+40 42 01</declination>
+		<distance>526.813674194</distance>
+		<mag>14.279</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2146.01</id>
+	<stellarid>KOI 2146</stellarid>
+	<properties>
+		<radius>0.1476306</radius>
+		<mass>0.00849802945967</mass>
+		<orbit>
+			<period>2.9490167</period>
+			<semimajoraxis>0.037</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>6774537</kic>
+		<temperature>4825</temperature>
+		<mass>-1</mass>
+		<radius>0.77</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 23 39</rightascension>
+		<declination>+42 17 11</declination>
+		<distance>673.139617066</distance>
+		<mag>15.333</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

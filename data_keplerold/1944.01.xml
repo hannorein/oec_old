@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1944.01</id>
+	<stellarid>KOI 1944</stellarid>
+	<properties>
+		<radius>0.5677399</radius>
+		<mass>0.136258209709</mass>
+		<orbit>
+			<period>12.1841178</period>
+			<semimajoraxis>0.115</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>2438513</kic>
+		<temperature>6265</temperature>
+		<mass>-1</mass>
+		<radius>2.04</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 21 18</rightascension>
+		<declination>+37 43 23</declination>
+		<distance>1613.95755406</distance>
+		<mag>13.982</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

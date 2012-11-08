@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2149.01</id>
+	<stellarid>KOI 2149</stellarid>
+	<properties>
+		<radius>0.145808</radius>
+		<mass>0.0082833205213</mass>
+		<orbit>
+			<period>13.1512682</period>
+			<semimajoraxis>0.116</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10617017</kic>
+		<temperature>6089</temperature>
+		<mass>-1</mass>
+		<radius>1.50</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 51 08</rightascension>
+		<declination>+47 53 10</declination>
+		<distance>464.946516248</distance>
+		<mag>12.071</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2053.02</id>
+	<stellarid>KOI 2053</stellarid>
+	<properties>
+		<radius>0.127582</radius>
+		<mass>0.0062913095736</mass>
+		<orbit>
+			<period>4.6126606</period>
+			<semimajoraxis>0.054</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>2307415</kic>
+		<temperature>6080</temperature>
+		<mass>-1</mass>
+		<radius>1.15</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 29 41</rightascension>
+		<declination>+37 40 58</declination>
+		<distance>543.156260585</distance>
+		<mag>12.992</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

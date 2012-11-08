@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2135.01</id>
+	<stellarid>KOI 2135</stellarid>
+	<properties>
+		<radius>0.2068651</radius>
+		<mass>0.0170267032959</mass>
+		<orbit>
+			<period>55.1877128</period>
+			<semimajoraxis>0.290</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9904006</kic>
+		<temperature>6062</temperature>
+		<mass>-1</mass>
+		<radius>1.14</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 47 12</rightascension>
+		<declination>+46 44 28</declination>
+		<distance>699.44972895</distance>
+		<mag>13.573</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

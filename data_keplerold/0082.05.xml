@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0082.05</id>
+	<stellarid>KOI 0082</stellarid>
+	<properties>
+		<radius>0.0473876</radius>
+		<mass>0.000817869834185</mass>
+		<orbit>
+			<period>5.2870294</period>
+			<semimajoraxis>0.055</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10187017</kic>
+		<temperature>4908</temperature>
+		<mass>-1</mass>
+		<radius>0.74</radius>
+		<metallicity>0</metallicity>
+		<rightascension>18 45 55</rightascension>
+		<declination>+47 12 28</declination>
+		<distance>114.145979361</distance>
+		<mag>11.492</mag>
+	</star>
+	<multiplicity>5</multiplicity>
+</planet>

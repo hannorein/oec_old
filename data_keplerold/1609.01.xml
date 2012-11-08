@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1609.01</id>
+	<stellarid>KOI 1609</stellarid>
+	<properties>
+		<radius>0.2132442</radius>
+		<mass>0.0181259997058</mass>
+		<orbit>
+			<period>41.6983135</period>
+			<semimajoraxis>0.240</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>5009743</kic>
+		<temperature>6063</temperature>
+		<mass>-1</mass>
+		<radius>1.04</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 25 37</rightascension>
+		<declination>+40 07 31</declination>
+		<distance>761.426989241</distance>
+		<mag>13.956</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

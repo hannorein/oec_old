@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0899.03</id>
+	<stellarid>KOI 0899</stellarid>
+	<properties>
+		<radius>0.1467193</radius>
+		<mass>0.00839032158778</mass>
+		<orbit>
+			<period>15.3682903</period>
+			<semimajoraxis>0.098</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>7907423</kic>
+		<temperature>3653</temperature>
+		<mass>-1</mass>
+		<radius>0.52</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 47 56</rightascension>
+		<declination>+43 39 30</declination>
+		<distance>248.955931989</distance>
+		<mag>15.234</mag>
+	</star>
+	<multiplicity>3</multiplicity>
+</planet>

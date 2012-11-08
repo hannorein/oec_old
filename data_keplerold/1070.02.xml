@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1070.02</id>
+	<stellarid>KOI 1070</stellarid>
+	<properties>
+		<radius>0.373633</radius>
+		<mass>0.0575508903962</mass>
+		<orbit>
+			<period>107.7142509</period>
+			<semimajoraxis>0.443</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>8240904</kic>
+		<temperature>5634</temperature>
+		<mass>-1</mass>
+		<radius>1.01</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 37 56</rightascension>
+		<declination>+44 10 00</declination>
+		<distance>1355.11093526</distance>
+		<mag>15.59</mag>
+	</star>
+	<multiplicity>3</multiplicity>
+</planet>

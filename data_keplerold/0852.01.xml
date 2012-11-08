@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0852.01</id>
+	<stellarid>KOI 0852</stellarid>
+	<properties>
+		<radius>0.2086877</radius>
+		<mass>0.0173371775159</mass>
+		<orbit>
+			<period>3.7618485</period>
+			<semimajoraxis>0.046</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>6422070</kic>
+		<temperature>5448</temperature>
+		<mass>-1</mass>
+		<radius>0.98</radius>
+		<metallicity>0</metallicity>
+		<rightascension>18 53 15</rightascension>
+		<declination>+41 50 13</declination>
+		<distance>1054.6784307</distance>
+		<mag>15.257</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

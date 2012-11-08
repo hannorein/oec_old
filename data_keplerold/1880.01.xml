@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1880.01</id>
+	<stellarid>KOI 1880</stellarid>
+	<properties>
+		<radius>0.1357837</radius>
+		<mass>0.00715288125324</mass>
+		<orbit>
+			<period>1.1511671</period>
+			<semimajoraxis>0.018</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10332883</kic>
+		<temperature>3898</temperature>
+		<mass>-1</mass>
+		<radius>0.53</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 16 17</rightascension>
+		<declination>+47 24 25</declination>
+		<distance>200.437662782</distance>
+		<mag>14.44</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

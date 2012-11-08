@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2636.01</id>
+	<stellarid>KOI 2636</stellarid>
+	<properties>
+		<radius>0.0583232</radius>
+		<mass>0.00125443467068</mass>
+		<orbit>
+			<period>3.8814555</period>
+			<semimajoraxis>0.049</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>6198182</kic>
+		<temperature>5900</temperature>
+		<mass>-1</mass>
+		<radius>1.04</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 18 44</rightascension>
+		<declination>+41 35 20</declination>
+		<distance>339.435415726</distance>
+		<mag>12.32</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

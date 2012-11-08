@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1103.01</id>
+	<stellarid>KOI 1103</stellarid>
+	<properties>
+		<radius>0.6324422</radius>
+		<mass>0.170183641209</mass>
+		<orbit>
+			<period>90.1386395</period>
+			<semimajoraxis>0.421</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>2860866</kic>
+		<temperature>6288</temperature>
+		<mass>-1</mass>
+		<radius>1.18</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 32 53</rightascension>
+		<declination>+38 02 00</declination>
+		<distance>1475.45804309</distance>
+		<mag>14.96</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

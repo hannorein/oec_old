@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0117.04</id>
+	<stellarid>KOI 0117</stellarid>
+	<properties>
+		<radius>0.0975091</radius>
+		<mass>0.00361616205188</mass>
+		<orbit>
+			<period>7.9579164</period>
+			<semimajoraxis>0.083</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10875245</kic>
+		<temperature>5949</temperature>
+		<mass>-1</mass>
+		<radius>1.18</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 48 06</rightascension>
+		<declination>+48 12 30</declination>
+		<distance>422.853311431</distance>
+		<mag>12.487</mag>
+	</star>
+	<multiplicity>4</multiplicity>
+</planet>

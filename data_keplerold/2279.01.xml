@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2279.01</id>
+	<stellarid>KOI 2279</stellarid>
+	<properties>
+		<radius>0.1339611</radius>
+		<mass>0.00695650356334</mass>
+		<orbit>
+			<period>27.0155925</period>
+			<semimajoraxis>0.169</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>3661886</kic>
+		<temperature>5926</temperature>
+		<mass>-1</mass>
+		<radius>0.88</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 41 41</rightascension>
+		<declination>+38 44 08</declination>
+		<distance>588.878579686</distance>
+		<mag>13.86</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

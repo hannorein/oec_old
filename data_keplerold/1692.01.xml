@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1692.01</id>
+	<stellarid>KOI 1692</stellarid>
+	<properties>
+		<radius>0.2414945</radius>
+		<mass>0.023420912019</mass>
+		<orbit>
+			<period>5.9603997</period>
+			<semimajoraxis>0.065</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>6616218</kic>
+		<temperature>5501</temperature>
+		<mass>-1</mass>
+		<radius>0.95</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 38 41</rightascension>
+		<declination>+42 04 32</declination>
+		<distance>300.626102204</distance>
+		<mag>12.557</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

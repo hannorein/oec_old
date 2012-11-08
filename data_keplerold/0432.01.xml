@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0432.01</id>
+	<stellarid>KOI 0432</stellarid>
+	<properties>
+		<radius>0.318955</radius>
+		<mass>0.0415429634678</mass>
+		<orbit>
+			<period>5.2634076</period>
+			<semimajoraxis>0.060</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10858832</kic>
+		<temperature>5830</temperature>
+		<mass>-1</mass>
+		<radius>1.00</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 22 59</rightascension>
+		<declination>+48 14 31</declination>
+		<distance>785.519372936</distance>
+		<mag>14.279</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

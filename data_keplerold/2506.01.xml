@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2506.01</id>
+	<stellarid>KOI 2506</stellarid>
+	<properties>
+		<radius>0.1622114</radius>
+		<mass>0.0103176907592</mass>
+		<orbit>
+			<period>17.3584785</period>
+			<semimajoraxis>0.130</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>6767840</kic>
+		<temperature>5884</temperature>
+		<mass>-1</mass>
+		<radius>1.02</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 15 05</rightascension>
+		<declination>+42 12 47</declination>
+		<distance>1235.84865905</distance>
+		<mag>15.18</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2039.01</id>
+	<stellarid>KOI 2039</stellarid>
+	<properties>
+		<radius>0.1467193</radius>
+		<mass>0.00839032158778</mass>
+		<orbit>
+			<period>5.4259628</period>
+			<semimajoraxis>0.058</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>8804845</kic>
+		<temperature>5429</temperature>
+		<mass>-1</mass>
+		<radius>0.77</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 01 32</rightascension>
+		<declination>+45 02 56</declination>
+		<distance>530.823571013</distance>
+		<mag>14.305</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

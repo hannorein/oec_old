@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1361.01</id>
+	<stellarid>KOI 1361</stellarid>
+	<properties>
+		<radius>0.1977521</radius>
+		<mass>0.0155175928997</mass>
+		<orbit>
+			<period>59.8776856</period>
+			<semimajoraxis>0.242</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>6960913</kic>
+		<temperature>4050</temperature>
+		<mass>-1</mass>
+		<radius>0.51</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 41 13</rightascension>
+		<declination>+42 28 31</declination>
+		<distance>268.843792565</distance>
+		<mag>14.995</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

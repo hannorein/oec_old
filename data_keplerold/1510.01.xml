@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1510.01</id>
+	<stellarid>KOI 1510</stellarid>
+	<properties>
+		<radius>0.136695</radius>
+		<mass>0.00725212524829</mass>
+		<orbit>
+			<period>0.8399500</period>
+			<semimajoraxis>0.016</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>11870545</kic>
+		<temperature>4772</temperature>
+		<mass>-1</mass>
+		<radius>0.67</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 40 20</rightascension>
+		<declination>+50 06 52</declination>
+		<distance>753.868268415</distance>
+		<mag>15.929</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

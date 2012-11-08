@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0577.01</id>
+	<stellarid>KOI 0577</stellarid>
+	<properties>
+		<radius>0.2214459</radius>
+		<mass>0.0195914340227</mass>
+		<orbit>
+			<period>39.6786573</period>
+			<semimajoraxis>0.212</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>8558011</kic>
+		<temperature>5043</temperature>
+		<mass>-1</mass>
+		<radius>0.84</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 24 13</rightascension>
+		<declination>+44 37 56</declination>
+		<distance>523.211177294</distance>
+		<mag>14.405</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

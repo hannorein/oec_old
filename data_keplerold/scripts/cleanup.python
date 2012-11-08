@@ -1,0 +1,85 @@
+#!/usr/bin/python
+from xml.etree import ElementTree
+import os, glob, string, csv, datetime, random
+import gzip
+
+# Human readable XML output
+def indent(elem, level=0):
+    i = "\n" + level*"\t"
+    if len(elem):
+        if not elem.text or not elem.text.strip():
+            elem.text = i + "\t"
+        if not elem.tail or not elem.tail.strip():
+            elem.tail = i
+        for elem in elem:
+            indent(elem, level+1)
+        if not elem.tail or not elem.tail.strip():
+            elem.tail = i
+    else:
+        if level and (not elem.tail or not elem.tail.strip()):
+            elem.tail = i
+
+## import exoplanet.eu data
+for filename in glob.glob("../*.xml"):
+	oldfile = open(filename, 'rt')
+	root = ElementTree.parse(oldfile).getroot()
+	root.remove(root.find("stellarid"))
+	
+	elementid = root.find("id")
+	koi = int(elementid.text[4:8])
+	koi2 = int(elementid.text[10:12])
+
+
+	newroot = ElementTree.Element("planet")
+
+	element = ElementTree.Element("id")
+	element.text= ("KOI-%d " %(koi))+chr(ord('a')-1+koi2)
+	newroot.append(element)
+	
+	element = ElementTree.Element("name")
+	element.text= ("KOI-%d " %(koi))+chr(ord('a')-1+koi2)
+	newroot.append(element)
+	
+
+	kic = int(root.find("star").find("kic").text)
+	element = ElementTree.Element("name")
+	element.text="KIC%d"%kic
+	newroot.append(element)
+
+	
+	properties = ElementTree.Element("properties")
+	newroot.append(properties)
+	ElementTree.SubElement(properties,"radius").text=root.find("properties").find("radius").text
+	ElementTree.SubElement(properties,"mass").text=root.find("properties").find("mass").text
+	
+	orbit = ElementTree.Element("orbit")
+	properties.append(orbit)
+	ElementTree.SubElement(orbit,"period").text=root.find("properties").find("orbit").find("period").text
+	ElementTree.SubElement(orbit,"semimajoraxis").text=root.find("properties").find("orbit").find("semimajoraxis").text
+	
+	star = ElementTree.Element("star")
+	newroot.append(star)
+	ElementTree.SubElement(star,"temperature").text=root.find("star").find("temperature").text
+	ElementTree.SubElement(star,"radius").text=root.find("star").find("radius").text
+	ElementTree.SubElement(star,"rightascension").text=root.find("star").find("rightascension").text
+	ElementTree.SubElement(star,"declination").text=root.find("star").find("declination").text
+	ElementTree.SubElement(star,"distance").text=root.find("star").find("distance").text
+	ElementTree.SubElement(star,"magV").text=root.find("star").find("mag").text
+	
+	element =root.find("multiplicity")
+	newroot.append(element)
+	
+	element = ElementTree.Element("list")
+	element.text="Kepler Objects of Interest"
+	newroot.append(element)
+	
+	element = ElementTree.Element("description")
+	element.text="This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet."
+	newroot.append(element)
+	
+	indent(newroot)
+	tree = ElementTree.ElementTree(newroot) 
+	tree.write("../../data_kepler/KOI-%04d.%02d.xml"%(koi,koi2))
+	
+
+

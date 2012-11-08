@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2218.01</id>
+	<stellarid>KOI 2218</stellarid>
+	<properties>
+		<radius>0.1230255</radius>
+		<mass>0.00583720391991</mass>
+		<orbit>
+			<period>5.5353010</period>
+			<semimajoraxis>0.058</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>12058204</kic>
+		<temperature>5539</temperature>
+		<mass>-1</mass>
+		<radius>0.80</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 17 33</rightascension>
+		<declination>+50 35 49</declination>
+		<distance>632.080668489</distance>
+		<mag>14.514</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

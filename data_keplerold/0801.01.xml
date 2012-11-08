@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0801.01</id>
+	<stellarid>KOI 0801</stellarid>
+	<properties>
+		<radius>0.8183474</radius>
+		<mass>0.289378696393</mass>
+		<orbit>
+			<period>1.6255234</period>
+			<semimajoraxis>0.027</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>3351888</kic>
+		<temperature>5472</temperature>
+		<mass>-1</mass>
+		<radius>1.02</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 35 29</rightascension>
+		<declination>+38 25 22</declination>
+		<distance>984.265221936</distance>
+		<mag>15.001</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

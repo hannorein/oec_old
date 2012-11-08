@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1872.01</id>
+	<stellarid>KOI 1872</stellarid>
+	<properties>
+		<radius>0.5950789</radius>
+		<mass>0.150119965444</mass>
+		<orbit>
+			<period>30.5230943</period>
+			<semimajoraxis>0.181</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9883311</kic>
+		<temperature>5314</temperature>
+		<mass>-1</mass>
+		<radius>0.75</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 13 15</rightascension>
+		<declination>+46 46 17</declination>
+		<distance>1004.90302684</distance>
+		<mag>15.841</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

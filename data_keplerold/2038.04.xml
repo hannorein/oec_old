@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2038.04</id>
+	<stellarid>KOI 2038</stellarid>
+	<properties>
+		<radius>0.145808</radius>
+		<mass>0.0082833205213</mass>
+		<orbit>
+			<period>25.2176722</period>
+			<semimajoraxis>0.165</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>8950568</kic>
+		<temperature>5497</temperature>
+		<mass>-1</mass>
+		<radius>0.83</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 23 53</rightascension>
+		<declination>+45 17 25</declination>
+		<distance>729.708419291</distance>
+		<mag>14.779</mag>
+	</star>
+	<multiplicity>4</multiplicity>
+</planet>

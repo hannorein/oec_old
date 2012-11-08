@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1111.01</id>
+	<stellarid>KOI 1111</stellarid>
+	<properties>
+		<radius>0.145808</radius>
+		<mass>0.0082833205213</mass>
+		<orbit>
+			<period>10.2655079</period>
+			<semimajoraxis>0.090</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>3120276</kic>
+		<temperature>5473</temperature>
+		<mass>-1</mass>
+		<radius>0.81</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 29 06</rightascension>
+		<declination>+38 17 04</declination>
+		<distance>861.699232201</distance>
+		<mag>15.212</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

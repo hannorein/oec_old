@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2212.01</id>
+	<stellarid>KOI 2212</stellarid>
+	<properties>
+		<radius>0.1467193</radius>
+		<mass>0.00839032158778</mass>
+		<orbit>
+			<period>17.1462360</period>
+			<semimajoraxis>0.123</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10203349</kic>
+		<temperature>5710</temperature>
+		<mass>-1</mass>
+		<radius>0.80</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 20 10</rightascension>
+		<declination>+47 15 28</declination>
+		<distance>817.677399921</distance>
+		<mag>14.941</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1301.02</id>
+	<stellarid>KOI 1301</stellarid>
+	<properties>
+		<radius>0.200486</radius>
+		<mass>0.0159627614981</mass>
+		<orbit>
+			<period>37.5139113</period>
+			<semimajoraxis>0.209</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10538176</kic>
+		<temperature>5414</temperature>
+		<mass>-1</mass>
+		<radius>0.77</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 32 35</rightascension>
+		<declination>+47 43 46</declination>
+		<distance>1062.5442339</distance>
+		<mag>15.824</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

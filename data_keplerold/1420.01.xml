@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1420.01</id>
+	<stellarid>KOI 1420</stellarid>
+	<properties>
+		<radius>0.3772782</radius>
+		<mass>0.0587135047259</mass>
+		<orbit>
+			<period>13.3515854</period>
+			<semimajoraxis>0.099</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>11026304</kic>
+		<temperature>4682</temperature>
+		<mass>-1</mass>
+		<radius>0.71</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 20 27</rightascension>
+		<declination>+48 34 40</declination>
+		<distance>733.062423409</distance>
+		<mag>15.825</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

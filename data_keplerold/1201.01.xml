@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1201.01</id>
+	<stellarid>KOI 1201</stellarid>
+	<properties>
+		<radius>0.1130012</radius>
+		<mass>0.00489966033298</mass>
+		<orbit>
+			<period>2.7575668</period>
+			<semimajoraxis>0.032</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>4061149</kic>
+		<temperature>3852</temperature>
+		<mass>-1</mass>
+		<radius>0.53</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 30 18</rightascension>
+		<declination>+39 07 15</declination>
+		<distance>333.478790225</distance>
+		<mag>15.597</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

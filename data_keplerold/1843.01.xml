@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1843.01</id>
+	<stellarid>KOI 1843</stellarid>
+	<properties>
+		<radius>0.1230255</radius>
+		<mass>0.00583720391991</mass>
+		<orbit>
+			<period>4.1945252</period>
+			<semimajoraxis>0.041</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>5080636</kic>
+		<temperature>3673</temperature>
+		<mass>-1</mass>
+		<radius>0.52</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 00 03</rightascension>
+		<declination>+40 13 14</declination>
+		<distance>171.737442502</distance>
+		<mag>14.404</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1940.02</id>
+	<stellarid>KOI 1940</stellarid>
+	<properties>
+		<radius>0.0555893</radius>
+		<mass>0.00113630982679</mass>
+		<orbit>
+			<period>6.7367973</period>
+			<semimajoraxis>0.057</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10005788</kic>
+		<temperature>4218</temperature>
+		<mass>-1</mass>
+		<radius>0.52</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 17 24</rightascension>
+		<declination>+46 58 25</declination>
+		<distance>356.480916122</distance>
+		<mag>15.389</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0835.02</id>
+	<stellarid>KOI 0835</stellarid>
+	<properties>
+		<radius>0.2068651</radius>
+		<mass>0.0170267032959</mass>
+		<orbit>
+			<period>56.2279402</period>
+			<semimajoraxis>0.260</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>5456651</kic>
+		<temperature>4817</temperature>
+		<mass>-1</mass>
+		<radius>0.66</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 36 48</rightascension>
+		<declination>+40 39 48</declination>
+		<distance>542.896471465</distance>
+		<mag>15.208</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

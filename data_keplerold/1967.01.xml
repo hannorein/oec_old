@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1967.01</id>
+	<stellarid>KOI 1967</stellarid>
+	<properties>
+		<radius>0.1303159</radius>
+		<mass>0.00657218136294</mass>
+		<orbit>
+			<period>4.4177486</period>
+			<semimajoraxis>0.047</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>6205897</kic>
+		<temperature>4759</temperature>
+		<mass>-1</mass>
+		<radius>0.69</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 28 31</rightascension>
+		<declination>+41 32 51</declination>
+		<distance>366.353454592</distance>
+		<mag>14.31</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

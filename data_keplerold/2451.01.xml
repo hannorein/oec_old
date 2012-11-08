@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2451.01</id>
+	<stellarid>KOI 2451</stellarid>
+	<properties>
+		<radius>0.1840826</radius>
+		<mass>0.0133887836368</mass>
+		<orbit>
+			<period>13.3752216</period>
+			<semimajoraxis>0.106</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>6500206</kic>
+		<temperature>5208</temperature>
+		<mass>-1</mass>
+		<radius>0.95</radius>
+		<metallicity>0</metallicity>
+		<rightascension>18 52 42</rightascension>
+		<declination>+41 59 23</declination>
+		<distance>735.673897739</distance>
+		<mag>14.738</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

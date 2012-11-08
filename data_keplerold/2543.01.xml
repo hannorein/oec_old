@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2543.01</id>
+	<stellarid>KOI 2543</stellarid>
+	<properties>
+		<radius>0.1029769</radius>
+		<mass>0.00404630761115</mass>
+		<orbit>
+			<period>1.3019930</period>
+			<semimajoraxis>0.020</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>12469800</kic>
+		<temperature>4870</temperature>
+		<mass>-1</mass>
+		<radius>0.62</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 43 38</rightascension>
+		<declination>+51 20 52</declination>
+		<distance>556.761764755</distance>
+		<mag>15.351</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

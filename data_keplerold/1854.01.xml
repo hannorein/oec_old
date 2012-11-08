@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1854.01</id>
+	<stellarid>KOI 1854</stellarid>
+	<properties>
+		<radius>0.2907047</radius>
+		<mass>0.0343183271084</mass>
+		<orbit>
+			<period>43.0325216</period>
+			<semimajoraxis>0.236</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9662811</kic>
+		<temperature>5435</temperature>
+		<mass>-1</mass>
+		<radius>1.35</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 47 50</rightascension>
+		<declination>+46 23 38</declination>
+		<distance>653.962215025</distance>
+		<mag>13.534</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

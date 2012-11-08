@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1732.01</id>
+	<stellarid>KOI 1732</stellarid>
+	<properties>
+		<radius>0.2451397</radius>
+		<mass>0.0241549976265</mass>
+		<orbit>
+			<period>43.3168785</period>
+			<semimajoraxis>0.224</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>6869184</kic>
+		<temperature>5403</temperature>
+		<mass>-1</mass>
+		<radius>0.70</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 34 24</rightascension>
+		<declination>+42 22 47</declination>
+		<distance>924.246396303</distance>
+		<mag>15.737</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

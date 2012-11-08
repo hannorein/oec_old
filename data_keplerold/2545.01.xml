@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2545.01</id>
+	<stellarid>KOI 2545</stellarid>
+	<properties>
+		<radius>0.0710814</radius>
+		<mass>0.00188552451738</mass>
+		<orbit>
+			<period>6.9815756</period>
+			<semimajoraxis>0.074</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9696358</kic>
+		<temperature>6011</temperature>
+		<mass>-1</mass>
+		<radius>1.25</radius>
+		<metallicity>0</metallicity>
+		<rightascension>18 58 22</rightascension>
+		<declination>+46 26 59</declination>
+		<distance>326.004248433</distance>
+		<mag>11.752</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1024.01</id>
+	<stellarid>KOI 1024</stellarid>
+	<properties>
+		<radius>0.1558323</radius>
+		<mass>0.00949924939244</mass>
+		<orbit>
+			<period>5.7477186</period>
+			<semimajoraxis>0.052</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>2715135</kic>
+		<temperature>4162</temperature>
+		<mass>-1</mass>
+		<radius>0.55</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 27 36</rightascension>
+		<declination>+37 54 08</declination>
+		<distance>243.324943979</distance>
+		<mag>14.496</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

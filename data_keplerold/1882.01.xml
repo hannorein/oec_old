@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1882.01</id>
+	<stellarid>KOI 1882</stellarid>
+	<properties>
+		<radius>0.136695</radius>
+		<mass>0.00725212524829</mass>
+		<orbit>
+			<period>3.7705674</period>
+			<semimajoraxis>0.046</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>6205228</kic>
+		<temperature>5814</temperature>
+		<mass>-1</mass>
+		<radius>0.80</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 27 39</rightascension>
+		<declination>+41 32 00</declination>
+		<distance>747.583715558</distance>
+		<mag>14.668</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2078.01</id>
+	<stellarid>KOI 2078</stellarid>
+	<properties>
+		<radius>0.1631227</radius>
+		<mass>0.0104374533197</mass>
+		<orbit>
+			<period>18.7842921</period>
+			<semimajoraxis>0.117</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9351316</kic>
+		<temperature>4193</temperature>
+		<mass>-1</mass>
+		<radius>0.57</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 41 00</rightascension>
+		<declination>+45 50 34</declination>
+		<distance>417.969287909</distance>
+		<mag>15.561</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

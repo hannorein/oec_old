@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0442.01</id>
+	<stellarid>KOI 0442</stellarid>
+	<properties>
+		<radius>0.209599</radius>
+		<mass>0.0174934973898</mass>
+		<orbit>
+			<period>13.5403686</period>
+			<semimajoraxis>0.111</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>3745690</kic>
+		<temperature>5750</temperature>
+		<mass>-1</mass>
+		<radius>0.90</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 24 23</rightascension>
+		<declination>+38 52 32</declination>
+		<distance>605.338072611</distance>
+		<mag>14.002</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

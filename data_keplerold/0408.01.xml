@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0408.01</id>
+	<stellarid>KOI 0408</stellarid>
+	<properties>
+		<radius>0.3390036</radius>
+		<mass>0.0471016106849</mass>
+		<orbit>
+			<period>7.3819839</period>
+			<semimajoraxis>0.072</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>5351250</kic>
+		<temperature>5631</temperature>
+		<mass>-1</mass>
+		<radius>0.87</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 12 56</rightascension>
+		<declination>+40 31 15</declination>
+		<distance>882.490620303</distance>
+		<mag>14.985</mag>
+	</star>
+	<multiplicity>3</multiplicity>
+</planet>

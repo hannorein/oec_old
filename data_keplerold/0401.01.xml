@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0401.01</id>
+	<stellarid>KOI 0401</stellarid>
+	<properties>
+		<radius>0.5987241</radius>
+		<mass>0.152020432453</mass>
+		<orbit>
+			<period>29.1988993</period>
+			<semimajoraxis>0.184</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>3217264</kic>
+		<temperature>5264</temperature>
+		<mass>-1</mass>
+		<radius>1.47</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 03 24</rightascension>
+		<declination>+38 23 02</declination>
+		<distance>828.264193298</distance>
+		<mag>14.001</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

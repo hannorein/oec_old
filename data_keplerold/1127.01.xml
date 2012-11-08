@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1127.01</id>
+	<stellarid>KOI 1127</stellarid>
+	<properties>
+		<radius>0.2424058</radius>
+		<mass>0.0236033406235</mass>
+		<orbit>
+			<period>5.3266791</period>
+			<semimajoraxis>0.059</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>6359320</kic>
+		<temperature>5602</temperature>
+		<mass>-1</mass>
+		<radius>0.89</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 20 51</rightascension>
+		<declination>+41 46 33</declination>
+		<distance>1305.25692623</distance>
+		<mag>15.808</mag>
+	</star>
+	<multiplicity>3</multiplicity>
+</planet>

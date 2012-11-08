@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2101.01</id>
+	<stellarid>KOI 2101</stellarid>
+	<properties>
+		<radius>0.1011543</radius>
+		<mass>0.00390016192877</mass>
+		<orbit>
+			<period>2.8922188</period>
+			<semimajoraxis>0.033</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9411412</kic>
+		<temperature>4136</temperature>
+		<mass>-1</mass>
+		<radius>0.53</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 38 50</rightascension>
+		<declination>+45 58 10</declination>
+		<distance>301.339956045</distance>
+		<mag>15.068</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

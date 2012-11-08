@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2624.01</id>
+	<stellarid>KOI 2624</stellarid>
+	<properties>
+		<radius>0.2606318</radius>
+		<mass>0.0274050961796</mass>
+		<orbit>
+			<period>115.6878505</period>
+			<semimajoraxis>0.460</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>8429314</kic>
+		<temperature>5779</temperature>
+		<mass>-1</mass>
+		<radius>0.86</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 25 04</rightascension>
+		<declination>+44 29 17</declination>
+		<distance>1002.35977736</distance>
+		<mag>15.174</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

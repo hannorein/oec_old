@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1997.01</id>
+	<stellarid>KOI 1997</stellarid>
+	<properties>
+		<radius>0.2032199</radius>
+		<mass>0.0164144116316</mass>
+		<orbit>
+			<period>38.5051922</period>
+			<semimajoraxis>0.210</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10384798</kic>
+		<temperature>5701</temperature>
+		<mass>-1</mass>
+		<radius>0.83</radius>
+		<metallicity>0</metallicity>
+		<rightascension>18 46 39</rightascension>
+		<declination>+47 34 06</declination>
+		<distance>784.15147769</distance>
+		<mag>14.777</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

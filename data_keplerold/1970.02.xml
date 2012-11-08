@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1970.02</id>
+	<stellarid>KOI 1970</stellarid>
+	<properties>
+		<radius>0.2715674</radius>
+		<mass>0.0298265351914</mass>
+		<orbit>
+			<period>125.5962798</period>
+			<semimajoraxis>0.474</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9650808</kic>
+		<temperature>5525</temperature>
+		<mass>-1</mass>
+		<radius>0.93</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 29 59</rightascension>
+		<declination>+46 19 27</declination>
+		<distance>1088.34679852</distance>
+		<mag>15.378</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0988.02</id>
+	<stellarid>KOI 0988</stellarid>
+	<properties>
+		<radius>0.1977521</radius>
+		<mass>0.0155175928997</mass>
+		<orbit>
+			<period>24.5707795</period>
+			<semimajoraxis>0.158</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>2302548</kic>
+		<temperature>5218</temperature>
+		<mass>-1</mass>
+		<radius>0.80</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 25 27</rightascension>
+		<declination>+37 36 33</declination>
+		<distance>361.84112694</distance>
+		<mag>13.562</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

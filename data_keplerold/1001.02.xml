@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1001.02</id>
+	<stellarid>KOI 1001</stellarid>
+	<properties>
+		<radius>0.337181</radius>
+		<mass>0.0465814339839</mass>
+		<orbit>
+			<period>140.0914000</period>
+			<semimajoraxis>0.579</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>1871056</kic>
+		<temperature>5956</temperature>
+		<mass>-1</mass>
+		<radius>2.40</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 28 10</rightascension>
+		<declination>+37 22 34</declination>
+		<distance>1111.06741434</distance>
+		<mag>13.038</mag>
+	</star>
+	<multiplicity>2</multiplicity>
+</planet>

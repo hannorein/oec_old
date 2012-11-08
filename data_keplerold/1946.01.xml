@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1946.01</id>
+	<stellarid>KOI 1946</stellarid>
+	<properties>
+		<radius>0.2023086</radius>
+		<mass>0.0162631410899</mass>
+		<orbit>
+			<period>8.2947691</period>
+			<semimajoraxis>0.078</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10844890</kic>
+		<temperature>5540</temperature>
+		<mass>-1</mass>
+		<radius>0.93</radius>
+		<metallicity>0</metallicity>
+		<rightascension>18 53 22</rightascension>
+		<declination>+48 13 26</declination>
+		<distance>719.983044246</distance>
+		<mag>14.469</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

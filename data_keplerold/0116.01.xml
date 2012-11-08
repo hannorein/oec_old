@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0116.01</id>
+	<stellarid>KOI 0116</stellarid>
+	<properties>
+		<radius>0.2351154</radius>
+		<mass>0.0221642937126</mass>
+		<orbit>
+			<period>13.5707271</period>
+			<semimajoraxis>0.111</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>8395660</kic>
+		<temperature>5865</temperature>
+		<mass>-1</mass>
+		<radius>1.04</radius>
+		<metallicity>0</metallicity>
+		<rightascension>20 03 27</rightascension>
+		<declination>+44 20 15</declination>
+		<distance>434.499381939</distance>
+		<mag>12.882</mag>
+	</star>
+	<multiplicity>3</multiplicity>
+</planet>

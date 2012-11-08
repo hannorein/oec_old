@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1601.01</id>
+	<stellarid>KOI 1601</stellarid>
+	<properties>
+		<radius>0.1385176</radius>
+		<mass>0.0074527249507</mass>
+		<orbit>
+			<period>10.3511265</period>
+			<semimajoraxis>0.090</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>5438757</kic>
+		<temperature>5502</temperature>
+		<mass>-1</mass>
+		<radius>0.82</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 15 05</rightascension>
+		<declination>+40 39 51</declination>
+		<distance>683.39974955</distance>
+		<mag>14.659</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

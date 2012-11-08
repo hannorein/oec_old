@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2387.01</id>
+	<stellarid>KOI 2387</stellarid>
+	<properties>
+		<radius>0.1439854</radius>
+		<mass>0.00807143774627</mass>
+		<orbit>
+			<period>2.0323238</period>
+			<semimajoraxis>0.032</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>12254378</kic>
+		<temperature>5877</temperature>
+		<mass>-1</mass>
+		<radius>0.95</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 16 44</rightascension>
+		<declination>+50 56 15</declination>
+		<distance>1212.42470593</distance>
+		<mag>15.298</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

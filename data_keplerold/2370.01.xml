@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2370.01</id>
+	<stellarid>KOI 2370</stellarid>
+	<properties>
+		<radius>0.5176184</radius>
+		<mass>0.112635391758</mass>
+		<orbit>
+			<period>78.7275508</period>
+			<semimajoraxis>0.396</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>5385304</kic>
+		<temperature>6521</temperature>
+		<mass>-1</mass>
+		<radius>1.53</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 50 13</rightascension>
+		<declination>+40 32 28</declination>
+		<distance>835.486856281</distance>
+		<mag>13.003</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

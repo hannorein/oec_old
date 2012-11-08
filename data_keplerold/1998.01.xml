@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1998.01</id>
+	<stellarid>KOI 1998</stellarid>
+	<properties>
+		<radius>0.2670109</radius>
+		<mass>0.0288047824988</mass>
+		<orbit>
+			<period>6.7739575</period>
+			<semimajoraxis>0.072</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9834040</kic>
+		<temperature>6001</temperature>
+		<mass>-1</mass>
+		<radius>1.00</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 32 34</rightascension>
+		<declination>+46 39 58</declination>
+		<distance>1374.25410954</distance>
+		<mag>15.368</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

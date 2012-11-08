@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2378.01</id>
+	<stellarid>KOI 2378</stellarid>
+	<properties>
+		<radius>0.1357837</radius>
+		<mass>0.00715288125324</mass>
+		<orbit>
+			<period>4.7670289</period>
+			<semimajoraxis>0.052</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10813132</kic>
+		<temperature>5430</temperature>
+		<mass>-1</mass>
+		<radius>0.92</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 49 51</rightascension>
+		<declination>+48 10 53</declination>
+		<distance>672.368373806</distance>
+		<mag>14.431</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

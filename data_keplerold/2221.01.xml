@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 2221.01</id>
+	<stellarid>KOI 2221</stellarid>
+	<properties>
+		<radius>0.1977521</radius>
+		<mass>0.0155175928997</mass>
+		<orbit>
+			<period>10.6287895</period>
+			<semimajoraxis>0.095</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>6287313</kic>
+		<temperature>5808</temperature>
+		<mass>-1</mass>
+		<radius>1.02</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 30 11</rightascension>
+		<declination>+41 38 34</declination>
+		<distance>1333.13207603</distance>
+		<mag>15.401</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

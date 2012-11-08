@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 1938.01</id>
+	<stellarid>KOI 1938</stellarid>
+	<properties>
+		<radius>0.191373</radius>
+		<mass>0.0145040420267</mass>
+		<orbit>
+			<period>96.9149167</period>
+			<semimajoraxis>0.374</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>9651234</kic>
+		<temperature>5071</temperature>
+		<mass>-1</mass>
+		<radius>0.66</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 30 41</rightascension>
+		<declination>+46 22 38</declination>
+		<distance>349.90564377</distance>
+		<mag>14.031</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>

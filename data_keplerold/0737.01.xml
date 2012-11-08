@@ -1,0 +1,26 @@
+<planet>
+	<id>KOI 0737.01</id>
+	<stellarid>KOI 0737</stellarid>
+	<properties>
+		<radius>0.4611178</radius>
+		<mass>0.0887702344791</mass>
+		<orbit>
+			<period>14.4983597</period>
+			<semimajoraxis>0.105</semimajoraxis>
+			<eccentricity>-1</eccentricity>
+			<inclination>-1</inclination>
+		</orbit>
+	</properties>
+	<star>
+		<kic>10345478</kic>
+		<temperature>5117</temperature>
+		<mass>-1</mass>
+		<radius>0.71</radius>
+		<metallicity>0</metallicity>
+		<rightascension>19 36 29</rightascension>
+		<declination>+47 24 31</declination>
+		<distance>820.557413343</distance>
+		<mag>15.684</mag>
+	</star>
+	<multiplicity>1</multiplicity>
+</planet>
