@@ -28,6 +28,7 @@ tree = ElementTree.ElementTree(root)
 numpl = 0
 ## import data
 for filename in glob.glob("../../data/*.xml"):
+	print filename
 	numpl +=1
 	planet = open(filename, 'rt')
 	root.append(ElementTree.parse(planet).getroot())
