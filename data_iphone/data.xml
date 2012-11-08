@@ -1,4 +1,4 @@
-<planets date="2012-11-07" name="data" planets="841">
+<planets date="2012-11-08" name="data" planets="844">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -13338,11 +13338,11 @@ ESO/L. Calcada </imagedescription>
 		<id>HD 40307 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.0132</mass>
+			<mass>0.01258</mass>
 			<orbit>
-				<period>4.3115</period>
-				<semimajoraxis>0.047</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
+				<period>4.3123</period>
+				<semimajoraxis>0.0468</semimajoraxis>
+				<eccentricity>0.2</eccentricity>
 			</orbit>
 		</properties>
 		<star>
@@ -13358,11 +13358,13 @@ ESO/L. Calcada </imagedescription>
 			<magJ>5.41</magJ>
 			<magK>4.79</magK>
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>6</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>08/10/14</lastupdate>
+		<lastupdate>12/11/08</lastupdate>
+		<description>The HD 40307 system hosts at least 5 planets, most likely 6. The first three planets were discovered in 2008, the other ones were reported in 2012. </description>
 		<new>0</new>
 		<list>Confirmed planets</list>
+		<list>Controversial</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 40307 c</id_exoplaneteu>
@@ -13370,11 +13372,11 @@ ESO/L. Calcada </imagedescription>
 		<id>HD 40307 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.0216</mass>
+			<mass>0.020761624</mass>
 			<orbit>
-				<period>9.62</period>
-				<semimajoraxis>0.081</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
+				<period>9.6184</period>
+				<semimajoraxis>0.0799</semimajoraxis>
+				<eccentricity>0.06</eccentricity>
 			</orbit>
 		</properties>
 		<star>
@@ -13383,16 +13385,17 @@ ESO/L. Calcada </imagedescription>
 			<metallicity>-0.31</metallicity>
 			<rightascension>05 54 04</rightascension>
 			<declination>-60 01 24</declination>
-			<angulardistance>0.006328</angulardistance>
+			<angulardistance>0.003672</angulardistance>
 			<distance>12.8</distance>
 			<magV>7.17</magV>
 			<magH>4.97</magH>
 			<magJ>5.41</magJ>
 			<magK>4.79</magK>
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>6</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>08/10/14</lastupdate>
+		<lastupdate>12/11/08</lastupdate>
+		<description>The HD 40307 system hosts at least 5 planets, most likely 6. The first three planets were discovered in 2008, the other ones were reported in 2012. </description>
 		<new>0</new>
 		<list>Confirmed planets</list>
 	</planet>
@@ -13402,11 +13405,11 @@ ESO/L. Calcada </imagedescription>
 		<id>HD 40307 d</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.0288</mass>
+			<mass>0.029884156</mass>
 			<orbit>
-				<period>20.46</period>
-				<semimajoraxis>0.134</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
+				<period>20.432</period>
+				<semimajoraxis>0.1321</semimajoraxis>
+				<eccentricity>0.07</eccentricity>
 			</orbit>
 		</properties>
 		<star>
@@ -13415,18 +13418,119 @@ ESO/L. Calcada </imagedescription>
 			<metallicity>-0.31</metallicity>
 			<rightascension>05 54 04</rightascension>
 			<declination>-60 01 24</declination>
-			<angulardistance>0.010469</angulardistance>
+			<angulardistance>0.003672</angulardistance>
 			<distance>12.8</distance>
 			<magV>7.17</magV>
 			<magH>4.97</magH>
 			<magJ>5.41</magJ>
 			<magK>4.79</magK>
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>6</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>08/10/14</lastupdate>
+		<lastupdate>12/11/08</lastupdate>
+		<description>The HD 40307 system hosts at least 5 planets, most likely 6. The first three planets were discovered in 2008, the other ones were reported in 2012. </description>
 		<new>0</new>
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 40307 e</id_exoplaneteu>
+		<name>HD 40307 e</name>
+		<id>HD 40307 e</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.0110099</mass>
+			<orbit>
+				<period>34.62</period>
+				<semimajoraxis>0.1886</semimajoraxis>
+				<eccentricity>0.15</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K2.5V</spectraltype>
+			<mass>0.77</mass>
+			<metallicity>-0.31</metallicity>
+			<rightascension>05 54 04</rightascension>
+			<declination>-60 01 24</declination>
+			<angulardistance>0.003672</angulardistance>
+			<distance>12.8</distance>
+			<magV>7.17</magV>
+			<magH>4.97</magH>
+			<magJ>5.41</magJ>
+			<magK>4.79</magK>
+		</star>
+		<multiplicity>6</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/11/08</lastupdate>
+		<description>The HD 40307 system hosts at least 5 planets, most likely 6. The first three planets were discovered in 2008, the other ones were reported in 2012. </description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 40307 f</id_exoplaneteu>
+		<name>HD 40307 f</name>
+		<id>HD 40307 f</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.01635764</mass>
+			<orbit>
+				<period>51.76</period>
+				<semimajoraxis>0.247</semimajoraxis>
+				<eccentricity>0.02</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K2.5V</spectraltype>
+			<mass>0.77</mass>
+			<metallicity>-0.31</metallicity>
+			<rightascension>05 54 04</rightascension>
+			<declination>-60 01 24</declination>
+			<angulardistance>0.003672</angulardistance>
+			<distance>12.8</distance>
+			<magV>7.17</magV>
+			<magH>4.97</magH>
+			<magJ>5.41</magJ>
+			<magK>4.79</magK>
+		</star>
+		<multiplicity>6</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/11/08</lastupdate>
+		<description>The HD 40307 system hosts at least 5 planets, most likely 6. The first three planets were discovered in 2008, the other ones were reported in 2012. </description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 40307 g</id_exoplaneteu>
+		<name>HD 40307 g</name>
+		<id>HD 40307 g</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.02233447</mass>
+			<orbit>
+				<period>197.8</period>
+				<semimajoraxis>0.60</semimajoraxis>
+				<eccentricity>0.29</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K2.5V</spectraltype>
+			<mass>0.77</mass>
+			<metallicity>-0.31</metallicity>
+			<rightascension>05 54 04</rightascension>
+			<declination>-60 01 24</declination>
+			<angulardistance>0.003672</angulardistance>
+			<distance>12.8</distance>
+			<magV>7.17</magV>
+			<magH>4.97</magH>
+			<magJ>5.41</magJ>
+			<magK>4.79</magK>
+		</star>
+		<multiplicity>6</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/11/08</lastupdate>
+		<description>The HD 40307 system hosts at least 5 planets. A signal of a sixth planet has also been reported but should be taken with a grain of salt as it might correlate with chromospheric emission from the star. If the signal is a geuine signal of planetary origin, then this super-Earth might be habitable as it could support liquid water on its surface.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+		<list>Cotroversial planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 40979 b</id_exoplaneteu>
