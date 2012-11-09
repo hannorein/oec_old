@@ -1,0 +1,122 @@
+#!/usr/bin/python
+from xml.etree import ElementTree
+import os, glob, string, csv, datetime, random,md5
+import gzip
+
+# Human readable XML output
+def indent(elem, level=0):
+    i = "\n" + level*"\t"
+    if len(elem):
+        if not elem.text or not elem.text.strip():
+            elem.text = i + "\t"
+        if not elem.tail or not elem.tail.strip():
+            elem.tail = i
+        for elem in elem:
+            indent(elem, level+1)
+        if not elem.tail or not elem.tail.strip():
+            elem.tail = i
+    else:
+        if level and (not elem.tail or not elem.tail.strip()):
+            elem.tail = i
+
+#########################################
+####OLD DATABASE FORMAT##################
+#########################################
+root = ElementTree.Element("planets")
+tree = ElementTree.ElementTree(root)
+
+numpl = 0
+## import data
+for filename in glob.glob("../../data/*.xml"):
+	print filename
+	numpl +=1
+	planet = open(filename, 'rt')
+	root.append(ElementTree.parse(planet).getroot())
+	
+# wrap it in an ElementTree instance, and save as XML
+indent(root)
+tree.write("../planets.xml")
+f = open("../planets.xml", 'rt') 
+content = f.read()
+f.close()
+f = gzip.open('../planets.xml.gz', 'wb')
+f.write(content)
+f.close()
+root = ElementTree.Element("stats")
+tree = ElementTree.ElementTree(root)
+ElementTree.SubElement(root,"num").text=str(numpl)
+ElementTree.SubElement(root,"date").text=str(datetime.date.today())
+ElementTree.SubElement(root,"size").text=str(os.path.getsize("../planets.xml"))
+ElementTree.SubElement(root,"sizecompressed").text=str(os.path.getsize("../planets.xml.gz"))
+ElementTree.SubElement(root,"iads").text="1"
+random.seed()
+hash = random.getrandbits(128)
+hash = "%016x" % hash
+ElementTree.SubElement(root,"hash").text=hash
+indent(root)
+tree.write("../stats.xml")
+
+#########################################
+####NEW DATABASE FORMAT##################
+#########################################
+
+def traverse(node):  #remove empty elements
+	children = node.getchildren()
+	deleted = 0
+	for c in children:
+		text = c.text
+		if text == None:
+			#print "#############"
+			#print c #.text
+			node.remove(c)
+			deleted = 1
+			break
+		traverse(c)
+	if deleted==1:
+		traverse(node)
+
+def database(name,description,inputdirectories):
+	numpl = 0
+	root = ElementTree.Element("planets")
+	## import data
+	for inputdirectory in inputdirectories:
+		for filename in glob.glob("../../"+inputdirectory+"/*.xml"):
+			numpl +=1
+			planet = open(filename, 'rt')
+			planettree = ElementTree.parse(planet).getroot()
+			traverse(planettree)
+			root.append(planettree)
+		
+	# wrap it in an ElementTree instance, and save as XML
+	root.attrib["name"]=name
+	root.attrib["planets"]="%d"%numpl
+	root.attrib["date"]=str(datetime.date.today())
+	indent(root)
+	ElementTree.ElementTree(root).write("../"+name+".xml")
+	f = open("../"+name+".xml", 'rt') 
+	content = f.read()
+	f.close()
+	f = gzip.open('../'+name+'.xml.gz', 'wb')
+	f.write(content)
+	f.close()
+	root = ElementTree.Element("database")
+	ElementTree.SubElement(root,"name").text		= name
+	ElementTree.SubElement(root,"description").text		= description
+	ElementTree.SubElement(root,"num").text			= str(numpl)
+	ElementTree.SubElement(root,"date").text		= str(datetime.date.today())
+	ElementTree.SubElement(root,"size").text		= str(os.path.getsize("../"+name+".xml"))
+	ElementTree.SubElement(root,"sizecompressed").text	= str(os.path.getsize("../"+name+".xml.gz"))
+	ElementTree.SubElement(root,"hash").text 		= md5.md5(content).hexdigest()
+	return root
+
+databases = []
+databases.append(database("data",	"Confirmed, controversial and retracted exoplanets", 	["data"]))
+databases.append(database("datakepler",	"Kepler Objects of Interest (unconfirmed)",		["data_kepler"]))
+
+root = ElementTree.Element("databases")
+for db in databases:
+	root.append(db)
+indent(root)
+ElementTree.ElementTree(root).write("../databases.xml")
+
+
