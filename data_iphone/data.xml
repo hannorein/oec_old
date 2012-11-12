@@ -1,4 +1,4 @@
-<planets date="2012-11-12" name="data" planets="848">
+<planets date="2012-11-12" name="data" planets="856">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -10872,6 +10872,36 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 208527 b</id_exoplaneteu>
+		<name>HD 208527 b</name>
+		<id>HD 208527 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>9.9</mass>
+			<orbit>
+				<period>875.5</period>
+				<semimajoraxis>2.1</semimajoraxis>
+				<eccentricity>0.08</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K5 V</spectraltype>
+			<mass>1.6</mass>
+			<radius>51.1</radius>
+			<metallicity>-0.09</metallicity>
+			<temperature>3950</temperature>
+			<rightascension>21 56 24</rightascension>
+			<declination>+21 14 23</declination>
+			<distance>320.2</distance>
+			<magV>6.4</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/11/11</lastupdate>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 20868 b</id_exoplaneteu>
 		<name>HD 20868 b</name>
 		<id>HD 20868 b</id>
@@ -11565,6 +11595,36 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<discoveryyear>2007</discoveryyear>
 		<lastupdate>10/12/21</lastupdate>
 		<new>0</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 220074 b</id_exoplaneteu>
+		<name>HD 220074 b</name>
+		<id>HD 220074 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>11.1</mass>
+			<orbit>
+				<period>672.1</period>
+				<semimajoraxis>1.6</semimajoraxis>
+				<eccentricity>0.14</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K1 V</spectraltype>
+			<mass>1.2</mass>
+			<radius>49.7</radius>
+			<metallicity>-0.25</metallicity>
+			<temperature>5080</temperature>
+			<rightascension>23 20 14</rightascension>
+			<declination>+61 58 12</declination>
+			<distance>290.2</distance>
+			<magV>6.4</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/11/12</lastupdate>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -20556,6 +20616,114 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KOI-94 b</id_exoplaneteu>
+		<name>KOI-94 b</name>
+		<name>KOI-94.04</name>
+		<id>KOI-94 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.167496</radius>
+			<orbit>
+				<period>3.7432</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.25</mass>
+			<radius>1.61</radius>
+			<metallicity>-0.01</metallicity>
+			<temperature>6116</temperature>
+			<rightascension>19 49 20</rightascension>
+			<declination>+41 53 28</declination>
+			<distance>426.2</distance>
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/11/12</lastupdate>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-94 c</id_exoplaneteu>
+		<name>KOI-94 c</name>
+		<name>KOI-94.02</name>
+		<id>KOI-94 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.407761</radius>
+			<orbit>
+				<period>10.423707</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.25</mass>
+			<radius>1.61</radius>
+			<metallicity>-0.01</metallicity>
+			<temperature>6116</temperature>
+			<rightascension>19 49 20</rightascension>
+			<declination>+41 53 28</declination>
+			<distance>426.2</distance>
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/11/12</lastupdate>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-94 d</id_exoplaneteu>
+		<name>KOI-94 d</name>
+		<name>KOI-94.01</name>
+		<id>KOI-94 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>1.098905</radius>
+			<orbit>
+				<period>22.343</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.25</mass>
+			<radius>1.61</radius>
+			<metallicity>-0.01</metallicity>
+			<temperature>6116</temperature>
+			<rightascension>19 49 20</rightascension>
+			<declination>+41 53 28</declination>
+			<distance>426.2</distance>
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/11/12</lastupdate>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-94 e</id_exoplaneteu>
+		<name>KOI-94 e</name>
+		<name>KOI-94.03</name>
+		<id>KOI-94 e</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.6504316</radius>
+			<orbit>
+				<period>54.31993</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.25</mass>
+			<radius>1.61</radius>
+			<metallicity>-0.01</metallicity>
+			<temperature>6116</temperature>
+			<rightascension>19 49 20</rightascension>
+			<declination>+41 53 28</declination>
+			<distance>426.2</distance>
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/11/12</lastupdate>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>KOI-961 b</id_exoplaneteu>
 		<name>KOI-961 b</name>
 		<name>KOI-961.01</name>
@@ -21252,6 +21420,56 @@ Image credit: NASA/JPL-Caltech
 		<discoveryyear>2009</discoveryyear>
 		<lastupdate>10/10/13</lastupdate>
 		<new>0</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>NSVS 14256825 c</id_exoplaneteu>
+		<name>NSVS 14256825 c</name>
+		<id>NSVS 14256825 c</id>
+		<discoverymethod>timing</discoverymethod>
+		<properties>
+			<mass>2.8</mass>
+			<orbit>
+				<period>1276</period>
+				<semimajoraxis>1.9</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.419</mass>
+			<radius>0.190</radius>
+			<rightascension>20 20 00</rightascension>
+			<declination>+04 37 56</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/11/12</lastupdate>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>NSVS 14256825 d</id_exoplaneteu>
+		<name>NSVS 14256825 d</name>
+		<id>NSVS 14256825 d</id>
+		<discoverymethod>timing</discoverymethod>
+		<properties>
+			<mass>8</mass>
+			<orbit>
+				<period>2506</period>
+				<semimajoraxis>2.9</semimajoraxis>
+				<eccentricity>0.52</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.419</mass>
+			<radius>0.190</radius>
+			<rightascension>20 20 00</rightascension>
+			<declination>+04 37 56</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/11/12</lastupdate>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
