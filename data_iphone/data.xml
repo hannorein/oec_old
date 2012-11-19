@@ -1,4 +1,4 @@
-<planets date="2012-11-18" name="data" planets="858">
+<planets date="2012-11-19" name="data" planets="860">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -1433,7 +1433,7 @@
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/11/14</lastupdate>
 		<description>This planet is an orphan planet, that means it is not orbiting any star. Some people therefore believe it should not be called planet. The object is assosiacted wth the AB Doradus moving groups which allows astronomers to determine its age an therefore its mass.</description>
-		<new>1</new>
+		<new>0</new>
 		<image>eso1245a</image>
 		<imagedescription>Artist's impression of the free-floating planet CFBDSIR J214947.2-040308.9 
 		
@@ -17136,6 +17136,39 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<list>Solar System</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>Kappa Andromedae b</id_exoplaneteu>
+		<name>Kappa And b</name>
+		<id>Kappa Andromedae b</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>12.8</mass>
+			<orbit>
+				<semimajoraxis>61</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>B9IV</spectraltype>
+			<mass>2.4</mass>
+			<radius>2.31</radius>
+			<metallicity>-0.36</metallicity>
+			<temperature>11361</temperature>
+			<rightascension>23 40 25</rightascension>
+			<declination>+44 20 02</declination>
+			<distance>51.6</distance>
+			<magV>4.1</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/11/19</lastupdate>
+		<description>Kappa Andromedae b is an extrasolar planet or possibly low-mass brown dwarf. Astronomers have directly imaged it using the Subaru telescope on Hawaii. An object is called a planet when it is not able to fuse hydrogen in its core. Kappa Andromedae b is very close to the theoretical limit of 13 Jupiter masses.</description>
+		<new>1</new>
+		<image>KappaAndromedae</image>
+		<imagedescription>Image of the Kappa Andromedae and the planet or brown dwarf Kappa Andromedae. 
+			
+Credit: J. Carson et al 2012.</imagedescription>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>kappa CrB b</id_exoplaneteu>
 		<name>kappa CrB b</name>
 		<id>kappa CrB b</id>
@@ -21121,6 +21154,32 @@ Image credit: NASA/JPL-Caltech
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>MOA-2010-BLG-073L b</id_exoplaneteu>
+		<name>MOA-2010-BLG-073L b</name>
+		<name>2MASS J18101138-2631226  b</name>
+		<id>MOA-2010-BLG-073L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>11</mass>
+			<orbit>
+				<semimajoraxis>1.21</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M</spectraltype>
+			<mass>0.16</mass>
+			<rightascension>18 10 11</rightascension>
+			<declination>-26 31 22</declination>
+			<distance>2800</distance>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/11/19</lastupdate>
+		<description>The planet MOA-2010-BLG-073L b was discovered by the Microlensing Observations in Astrophysics (MOA) survey. In a microlensing event like this, the light from a source star is bent and magnified by a foreground star and a planet. In this case the source star was previously known to be photometrically variable.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>MOA-2010-BLG-477L b</id_exoplaneteu>
 		<name>MOA-2010-BLG-477L b</name>
 		<name>MOA 2010-BLG-477L b</name>
@@ -25007,9 +25066,9 @@ Image credit: NASA/JPL-Caltech
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/11/114</lastupdate>
+		<lastupdate>12/11/14</lastupdate>
 		<description>WASP-71 b is a highly-irradiated planet which transits an  evolved F8-type star every 2.9 days. The planet is larger than Jupiter but less dense.</description>
-		<new>1</new>
+		<new>0</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
