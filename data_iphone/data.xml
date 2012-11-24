@@ -1,4 +1,4 @@
-<planets date="2012-11-23" name="data" planets="860">
+<planets date="2012-11-24" name="data" planets="860">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -4235,11 +4235,11 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>HAT-P-27</id_exoplaneteu>
-		<name>HAT-P-27</name>
+		<id_exoplaneteu>HAT-P-27 b</id_exoplaneteu>
+		<name>HAT-P-27 b</name>
 		<name>WASP-40 b</name>
 		<name>2MASS J14510418+0556505</name>
-		<id>HAT-P-27</id>
+		<id>HAT-P-27 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.66</mass>
@@ -4261,9 +4261,9 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 			<declination>+05 56 50</declination>
 			<magV>12.21</magV>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/01/25</lastupdate>
+		<lastupdate>12/11/24</lastupdate>
 		<new>0</new>
 		<list>Confirmed planets</list>
 	</planet>
@@ -4366,12 +4366,13 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>HAT-P-30</id_exoplaneteu>
-		<name>HAT-P-30</name>
+		<id_exoplaneteu>HAT-P-30 b</id_exoplaneteu>
+		<name>HAT-P-30 b</name>
 		<name>WASP-51 b</name>
 		<name>WASP-51</name>
+		<name>GSC 0208-00722 b</name>
 		<name>2MASS J08154797+0550121</name>
-		<id>HAT-P-30</id>
+		<id>HAT-P-30 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.711</mass>
@@ -4384,18 +4385,20 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G8</spectraltype>
-			<mass>0.945</mass>
+			<spectraltype>F</spectraltype>
+			<mass>1.24</mass>
 			<radius>0.898</radius>
-			<metallicity>0.29</metallicity>
-			<distance>204</distance>
-			<rightascension>14 51 04</rightascension>
-			<declination>+05 56 50</declination>
-			<magV>12.21</magV>
+			<metallicity>0.13</metallicity>
+			<distance>192</distance>
+			<temperature>6304</temperature>
+			<rightascension>08 15 48</rightascension>
+			<declination>+05 50 12</declination>
+			<magV>10.42</magV>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>12/04/08</lastupdate>
+		<lastupdate>12/11/24</lastupdate>
+		<description>This exoplanet is transiting the dwarf star GSC 0208-00722. The sky projection og the planet's orbit normal and the star's spin axis is 73.5 degrees. </description>
 		<new>0</new>
 		<list>Confirmed planets</list>
 	</planet>
